@@ -1,0 +1,94 @@
+
+init-config:
+  country-name: malaysia
+  bank-name : Public Bank
+  line-start: 15
+  y_padding: 15
+  y_delta: 2
+  format-id: public_bank_my
+
+img-processing:
+  align-template: "template_file/maybank_temp.jpg"
+  document-type: ~
+
+# parsing variables
+summary-config:
+  keys: ['account-number','account-type','bank-address','bank-name','document-type','number-of-pages','statement-date']
+  bank-name-find: ['PUBLIC','Public Islamic Bank', 'Public Bank', 'TEGASAN / HIGHLIGHTS', 'PENYATA AKAUN / STATEMENT OF ACCOUNT','RINGKASAN / SUMMARY']
+  bank-add-find: ['BRANCH']
+  address-start-line: 0
+  no-of-addr-lines: 3
+  account-list: ['RM Plus Current Account', 'RM Savings Account-i']
+  account-type-label: 
+    label: ['Account Type']
+    index: -1
+    extra-line: 0
+  account-number-label: 
+    label: ['Account Number']
+    index: -1
+    extra-line: 0
+  account-holder-name-label: 
+    label: ['PENYATA AKAUN / STATEMENT OF ACCOUNT']
+    index: 0
+    extra-line: 0
+  account-holder-addr-label: 
+    label: ['Nombor Akaun / Account Number']
+    index: 0
+    extra-line: 1
+  page-keyword: PAGE
+  state-dt-keyword: 'Statement Date'
+  no-of-date-words: 3
+
+cropped-summary-areas:
+  crop-bank-addr-area: 
+    field-name: bank-address
+    coordinates: [50,500,1000,1800]
+    index: [0,3]
+  crop-account-number-area: 
+    field-name: account-number
+    coordinates: [350,950,1000,null]
+    label: 'Account Number' 
+  crop-account-date-area: 
+    field-name: statement-date
+    coordinates: [350,950,1000,null]
+    label: 'Statement Date'
+  crop-account-type-area: 
+    field-name: account-type
+    coordinates: [350,950,1000,null]
+    label: 'Account Type'
+
+cropped-areas: 12
+
+transaction-config:
+  txn-key-word: ['Balance From Last Statement','Balance B/F', 'Balance C/F', 'Closing Balance In This Statement','Closing Balance tn This Statement','Jumiah Kredit','Jumiah Debit','Jumlah Kredit','Jumlah Debit','Jumtah Kredit','Jumtah Debit','Jumlah Kredil','Jumlah Debil']
+  txn-remove-date: ['Balance B/F', 'Balance C/F', 'Balance From Last Statement', 'Closing Balance In This Statement']
+  txn-remove: ['Baki Penutup']
+  start-of-month-keyword: ['Jumiah Debit','Jumlah Debit','Jumtah Debit','Jumlah Debil']
+  end-of-month-keyword: ['Closing Balance In This Statement','Closing Balance tn This Statement']
+  stop-at: ['Balance C/F', 'Closing Balance In This Statement','Closing Balance tn This Statement']
+  date-regex-list: ['\d\d/\d\d/\d\d[a-zA-Z]+','\d\d/\d\d']
+  last-column-headings: ['DATE', 'TRANSACTION', 'DEBIT', 'CREDIT', 'BALANCE']
+  page-last-transaction-index: -2
+  page-first-transaction-index: 1
+  columns-in-between-date-descriptions: 0
+  statement-date-format: 'DD MMM YYYY'
+  transaction-date-format: 'DD/MM'
+  number-regex-list: ['([0-9sS$oO§]{1,3}(,[0-9sS$oO§]{3})*(\.|\,)[0-9sS$oO§]{2})']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: ['Jumiah Kredit','Jumiah Debit','Jumlah Kredit','Jumlah Debit','Jumtah Kredit','Jumtah Debit','Jumlah Debil']
+  balance-in-separate-table: False
+  balance-fields: {}
+  transaction-summary-key-info: [{
+    keyword: ['Jumiah Kredit','Jumlah Kredit','Jumtah Kredit','Jumlah Kredil'],
+    key: 'total-credit'
+  }, {
+    keyword: ['Jumiah Debit','Jumlah Debit','Jumtah Debit','Jumlah Debil'],
+    key: 'total-debit'
+  }, {
+    keyword: ['Balance From Last Statement'],
+    key: 'start-balance'
+  }, {
+    keyword: ['Closing Balance In This Statement','Closing Balance tn This Statement'],
+    key: 'close-balance'
+  }]

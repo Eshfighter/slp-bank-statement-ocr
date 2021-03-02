@@ -1,0 +1,18 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Jumlah Kredit'],,,77760.0,False,False
+1,,['Balance From Last Statement'],,,601003.01,True,False
+2,03/06,['DEP-LOC CHEQ 301430 AT TDY'],700.0,Credit,600303.01,True,False
+3,05/06,['DEP-LOC CHEQ 019828 AT TDY'],980.0,Credit,599323.01,True,False
+4,10/06,['TRADE FINANCE CREDIT 259150 B262'],70000.0,Credit,529323.01,True,False
+5,12/06,"['RMT DR', 'NEWLIKE MACHINE SOLUTIONS SDN BHD N/A', 'PYMT TO SUPPLIER RHBBMYKL VIA RENTAS']",70000.0,Debit,599323.01,True,False
+6,12/06,['RMT CHRG DR'],5.0,Debit,599328.01,True,False
+7,29/06,"['DEP-ECP 234630', 'IMEPS20200629100002180112325 RHB', 'NEWLIKE MACHINE SOLUTIONS SDN BHD RHB']",3500.0,Credit,595828.01,True,False
+8,,['Balance C/F'],,,595828.01,True,False
+9,,['Balance B/F'],,,595828.01,True,False
+10,29/06,['DEP-HSE CHEQ 474509 AT TDY'],2000.0,Credit,593828.01,True,False
+11,30/06,['DEP-CASH CDT 2901 004354'],580.0,Credit,593248.01,True,False
+12,30/06,[],10.0,Debit,593258.01,True,False
+13,30/06,"['GST DR', 'MNDB SRS 009 946 SERVICE CHARGE GST :', '00000000000001000 SERVICE CHARGE']",0.0,,593258.01,True,False
+14,30/06,['OD INT DR'],3039.03,Debit,596297.04,True,False
+15,30/06,"['COMT FEE DR', 'MNDB OSS 009 264 COMT FEE BR']",7.72,Debit,596304.76,True,False
+16,,['Closing Balance In This Statement'],,,596304.76,True,False

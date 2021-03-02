@@ -1,0 +1,144 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,02/02,"['ODS Sweep Trf CR', '2403014542', '2403014542', 'SWPBCK: LMS', 'SWEEPBACK CR MEMO']",14479.54,Credit,95723.14,False,False
+1,02/02,"['ODS Sweep Trf CR', '2403014542', '2403014542', 'POSINT: LMS RBK CR INT', 'TRF CR MEMO']",0.23,Credit,95723.37,False,False
+2,02/02,"['ODS Sweep Trf DR', '2403014542', '2403014542', 'SWPSEC: LMS SWEEP', 'TRANSFER DR MEMO']",14479.54,Debit,81243.83,False,False
+3,02/02,"['ODS Sweep Trf CR', '2403014542', '2403014542', 'SWPBCK: LMS', 'SWEEPBACK CR MEMO']",14479.54,Credit,95723.37,False,False
+4,01/02,"['DuitNow/Instant Trf', '00004670', 'OCT 2019', 'MBB CYK AUTOMOTIVE', 'PARTS SDN', 'MBB CYK AUTOMOTIVE', 'PARTS SDN OCT 2019']",760.0,Credit,96483.37,False,False
+5,01/02,"['DuitNow/Instant Trf', 'OCT AC', 'PBB FL SOON YI AUTO', 'PARTS', 'PBB FL SOON YI AUTO', 'PARTS']",10103.0,Credit,106586.37,False,False
+6,01/02,"['Fund Trf EB', ""PYM-JAN'2020"", ""PYM-JAN'2020"", 'POWERLITE']",416.0,Debit,106170.37,False,False
+7,02/02,"['ODS Sweep Trf DR', '2403014542', '2403014542', 'SWPSEC: LMS SWEEP', 'TRANSFER DEBIT']",24926.77,Debit,81243.6,False,False
+8,03/02,"['ODS Sweep Trf CR', '2403014542', '2403014542', 'SWPBCK: LMS', 'SWEEPBACK CR MEMO']",24926.77,Credit,106170.37,False,False
+9,03/02,"['IBG Debit', 'SALARY', 'TAN SIEW NGO', 'POWERLITE']",1250.0,Debit,104920.37,False,False
+10,03/02,"['IBG Debit', 'PETTY CASH', '3 COMPANY USED', 'POWERLITE']",3000.0,Debit,101920.37,False,False
+11,03/02,"['IBG Debit', 'WORKER SALARY', 'WORKER SALARY', 'POWERLITE']",4500.0,Debit,97420.37,False,False
+12,03/02,"['IBG Debit', 'SUPPLIER', ""PYM-OCT'2019"", 'POWERLITE']",35765.0,Debit,61655.37,False,False
+13,03/02,"['IBG Debit', 'SALARY', ""SAL-JAN'2020"", 'POWERLITE']",588.46,Debit,61066.91,False,False
+14,03/02,"['IBG CR', 'PV 2002-014 LAP 10/1', 'BIMB TETUAN LEEDS', 'AUTO PARTS']",6200.0,Credit,67266.91,False,False
+15,03/02,"['DuitNow/Instant Trf', 'INSTANT TRANSFER', 'Powerlite', 'CIMB AUTOPART', 'MACHINERY JERTEH']",3800.0,Credit,71066.91,False,False
+16,03/02,"['Cheque Deposit', 'PBB 430485']",3875.0,Credit,74941.91,False,False
+17,03/02,"['Cheque Deposit', 'PBB 232782']",4740.0,Credit,79681.91,False,False
+18,03/02,"['Cheque Deposit', 'MBB 484650']",3220.0,Credit,82901.91,False,False
+19,03/02,"['Cheque Deposit', 'HLBB 012628']",1373.0,Credit,84274.91,False,False
+20,03/02,"['IBG CR', 'Interbank GIRO', 'OCBC LEXUN AUTO', 'PARTS']",960.0,Credit,85234.91,False,False
+21,03/02,"['IBG CR', 'INV OCT 1910-3398', 'PAYMENT OCT 19', 'RHB CBNS CORPORATION', 'SDN BHD']",2830.0,Credit,88064.91,False,False
+22,03/02,"['ODS Sweep Trf DR', '2403014542', '2403014542', 'SWPSEC: LMS SWEEP', 'TRANSFER DEBIT']",24856.91,Debit,63208.0,False,False
+23,04/02,"['ODS Sweep Trf CR', '2403014542', '2403014542', 'SWPBCK: LMS', 'SWEEPBACK CR MEMO']",24856.91,Credit,88064.91,False,False
+24,04/02,"['IBG Debit', 'SALARY', ""SAL-JAN'2020"", 'POWERLITE']",7328.35,Debit,80736.56,False,False
+25,04/02,"['IBG Debit', 'SUPPLIER']",1023.0,Debit,79713.56,False,False
+26,04/02,"['IBG Debit', 'SUPPLIER', ""PYM-DEC'2020"", 'POWERLITE']",5030.0,Debit,74683.56,False,False
+27,04/02,"['IBG Debit', 'SUPPLIER', ""PYM-DEC'2020"", 'POWERLITE']",900.0,Debit,73783.56,False,False
+28,04/02,"['IBG Debit', 'SUPPLIER', ""PYM-DEC'2020"", 'POWERLITE']",150.0,Debit,73633.56,False,False
+29,04/02,"['IBG Debit', 'PURCHASES', ""PYM-DEC'2020"", 'POWERLITE']",1350.0,Debit,72283.56,False,False
+30,04/02,"['IBG Debit', 'PURCHASES', ""PYM-OCT'2019"", 'POWERLITE']",206.0,Debit,72077.56,False,False
+31,04/02,"['IBG Debit', 'PURCHASES', ""PYM-OCT'2019"", 'POWERLITE']",170.0,Debit,71907.56,False,False
+32,04/02,"['IBG Debit', 'VINWAY AUTO', ""PYM-OCT'2019"", 'POWERLITE']",670.0,Debit,71237.56,False,False
+33,04/02,"['IBG Debit', 'V GLOBAL', ""PYM-OCT'2019"", 'POWERLITE']",255.0,Debit,70982.56,False,False
+34,04/02,"['IBG Debit', 'UILFU AUTO', ""PYM-OCT'2019"", 'POWERLITE']",1957.0,Debit,69025.56,False,False
+35,04/02,"['IBG Debit', 'TNE AUTO', ""PYM-OCT'2019"", 'POWERLITE']",6901.0,Debit,62124.56,False,False
+36,04/02,"['IBG Debit', 'KHA ENT', ""PYM-OCT'2019"", 'POWERLITE']",32.0,Debit,62092.56,False,False
+37,04/02,"['IBG Debit', 'TENSO', ""PYM-OCT'2019"", 'POWERLITE']",8990.0,Debit,53102.56,False,False
+38,04/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",620.0,Debit,52482.56,False,False
+39,04/02,"['Fund Trf EB', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",4780.0,Debit,47702.56,False,False
+40,04/02,"['IBG Debit', 'SUPPLIER', ""PYM-OCT'2019"", 'POWERLITE']",310.0,Debit,47392.56,False,False
+41,04/02,"['IBG Debit', 'LMS AUTO', ""PYM-OCT'2019"", 'POWERLITE']",1212.0,Debit,46180.56,False,False
+42,04/02,"['IBG Debit', ""PYM-OCT'2019""]",1591.2,Debit,44589.36,False,False
+43,04/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",5503.0,Debit,39086.36,False,False
+44,04/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",2465.0,Debit,36621.36,False,False
+45,04/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",1815.0,Debit,34806.36,False,False
+46,04/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",12620.0,Debit,22186.36,False,False
+47,04/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",1370.0,Debit,20816.36,False,False
+48,04/02,"['IBG Debit', 'SUPPLIER', ""PYM-OCT'2019"", 'POWERLITE']",1360.0,Debit,19456.36,False,False
+49,04/02,"['IBG Debit', ""PYM-SEPT'2019"", ""PYM-SEPT'2019"", 'POWERLITE']",424.0,Debit,19032.36,False,False
+50,04/02,"['Returned Cheque', 'PBB 430485']",3875.0,Debit,15157.36,False,False
+51,05/02,"['DuitNow/Instant Trf', '00071203', 'SEP19 A/C', 'MBB MAX TRANS AUTO', 'SDN BHD', 'MBB MAX TRANS AUTO', 'SDN BHD SEP19 A/C']",1100.0,Credit,16257.36,False,False
+52,05/02,"['Cheque Deposit', 'PBB 094345']",1000.0,Credit,17257.36,False,False
+53,05/02,"['IBG CR', 'CS-00134', 'HLBB SUPER ONE AUTO', 'PARTS SDN. BHD.']",130.0,Credit,17387.36,False,False
+54,06/02,"['IBG Debit', 'OVERTIME', ""OT-JAN'2020"", 'POWERLITE']",608.0,Debit,16779.36,False,False
+55,06/02,"['IBG Debit', 'CLAIM', ""CLAIM-JAN'2020"", 'POWERLITE']",1625.95,Debit,15153.41,False,False
+56,06/02,"['DuitNow/Instant Trf', 'INSTANT TRANSFER', 'sept 2019', 'CIMB YEE LABOK', 'MACHANG TRADING']",2990.0,Credit,18143.41,False,False
+57,06/02,"['IBG CR', ""PAYMENT - SEP'19 INV"", 'HLBB SUCCESS AUTO', 'PARTS SUPPLY']",4963.0,Credit,23106.41,False,False
+58,07/02,"['FPX Debit', '0220200021196460C111', 'KUMPULAN WANG', 'SIMPAN', 'GEB']",8796.0,Debit,14310.41,False,False
+59,07/02,"['FPX Debit', 'CP2002006526', 'LEMBAGA HASIL DALAM', 'GEB']",3884.75,Debit,10425.66,False,False
+60,07/02,"['FPX Debit', '20200206161222_59023', 'PERTUBUHAN', 'KESELAMAT', 'GEB']",262.0,Debit,10163.66,False,False
+61,07/02,"['FPX Debit', '20200206161654_24127', 'PERTUBUHAN', 'KESELAMAT', 'GEB']",46.6,Debit,10117.06,False,False
+62,07/02,"['IBG Debit', 'PURCHASE', ""PYM-SEP'2019"", 'POWERLITE']",2262.0,Debit,7855.06,False,False
+63,07/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",130.0,Debit,7725.06,False,False
+64,07/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",291.0,Debit,7434.06,False,False
+65,07/02,"['IBG Debit', ""PYM-OCT'2019"", ""PYM-OCT'2019"", 'POWERLITE']",1009.0,Debit,6425.06,False,False
+66,07/02,['Chq Wdl 0678355'],500.0,Debit,5925.06,False,False
+67,07/02,"['Chq Processing Fee', 'Total 1 Cheque(s)']",0.5,Debit,5924.56,False,False
+68,08/02,"['DuitNow/Instant Trf', 'IN OCT 19', 'MBB SWEE LEE AUTO', 'PARTS SUPPL', 'MBB SWEE LEE AUTO', 'PARTS SUPPL']",575.0,Credit,6499.56,False,False
+69,10/02,"['Cheque Deposit', 'PBB 007427']",2812.0,Credit,9311.56,False,False
+70,10/02,"['Cheque Deposit', 'MBB 563093']",5630.0,Credit,14941.56,False,False
+71,11/02,"['Cheque Deposit', 'HLBB 009708']",455.0,Credit,15396.56,False,False
+72,11/02,"['DuitNow/Instant Trf', 'nov 19', 'PBB TEO AUTO SPARE', 'SDN BHD', 'PBB TEO AUTO SPARE', 'SDN BHD']",1225.0,Credit,16621.56,False,False
+73,12/02,"['Cheque Deposit', 'PBB 154786']",1750.0,Credit,18371.56,False,False
+74,12/02,"['IBG CR', 'CS-00136 & 137', 'SL GLOBAL', 'PBB SL GLOBAL AUTO', 'PARTS']",1050.0,Credit,19421.56,False,False
+75,13/02,"['Cheque Deposit', 'OCBC 001754']",570.0,Credit,19991.56,False,False
+76,14/02,"['DuitNow/Instant Trf', 'INSTANT TRANSFER', 'spare part', 'CIMB ANTZ MOTOR', 'SPORT']",160.0,Credit,20151.56,False,False
+77,14/02,"['1,340.00', 'RHB 001226']",1340.0,Credit,21491.56,False,False
+78,14/02,"['Cheque Deposit', 'RHB 001199']",1405.0,Credit,22896.56,False,False
+79,16/02,"['DuitNow/Instant Trf', '8910', 'MBB CTF AUTO PARTS', 'ENTERPRISE', 'MBB CTF AUTO PARTS', 'ENTERPRISE']",4385.0,Credit,27281.56,False,False
+80,17/02,"['IBG CR', 'Payment -11', 'Payment -11', 'CIMB QUECK AUTO', 'SPARE PARTS']",220.0,Credit,27501.56,False,False
+81,17/02,"['IBG Debit', 'CASH PURCHASES', 'WIRA STRG RACK', 'POWERLITE']",900.0,Debit,26601.56,False,False
+82,17/02,"['Cheque Deposit', 'PBB 448763']",3875.0,Credit,30476.56,False,False
+83,17/02,"['Cheque Deposit', 'HLBB 007360']",2988.0,Credit,33464.56,False,False
+84,17/02,"['Cheque Deposit', 'PBB 056426']",4503.0,Credit,37967.56,False,False
+85,17/02,"['Cheque Deposit', 'MBB 780535']",11623.0,Credit,49590.56,False,False
+86,17/02,"['Cheque Deposit', 'RHB 995619']",1725.0,Credit,51315.56,False,False
+87,17/02,"['Cheque Deposit', 'CIMB 816840']",1100.0,Credit,52415.56,False,False
+88,18/02,"['DuitNow/Instant Trf', 'IN SEPT 19', 'MBB SWEE LEE AUTO', 'PARTS SUPPL', 'MBB SWEE LEE AUTO', 'PARTS SUPPL']",1611.0,Credit,54026.56,False,False
+89,18/02,"['ODS Sweep Trf DR', '2403014542', '2403014542', 'SWPSEC: LMS SWEEP', 'TRANSFER DEBIT']",4026.56,Debit,50000.0,False,False
+90,19/02,"['ODS Sweep Trf CR', '2403014542', '2403014542', 'SWPBCK: LMS', 'SWEEPBACK CR MEMO']",4026.56,Credit,54026.56,False,False
+91,19/02,"['IBG CR', '1911-3142-051119', 'payment nov 19', 'HLBB ALAT-ALAT GANTI', 'KENDERAAN LIAN']",1000.0,Credit,55026.56,False,False
+92,19/02,"['Cheque Deposit', 'RHB 001683']",1264.0,Credit,56290.56,False,False
+93,19/02,"['IBG Debit', 'SUPPLIER', ""PYM-OCT'2019"", 'POWERLITE']",37739.0,Debit,18551.56,False,False
+94,19/02,"['IBG Debit', 'PETTY CASH', 'PETTY CASH', 'POWERLITE']",1000.0,Debit,17551.56,False,False
+95,19/02,"['IBG Debit', 'MAXIS', 'MAXIS-BILL', 'POWERLITE']",597.85,Debit,16953.71,False,False
+96,20/02,"['IBG Debit', 'RENTAL', ""RENTAL-FEB'2020"", 'POWERLITE']",2835.0,Debit,14118.71,False,False
+97,20/02,"['IBG Debit', 'REFUND', 'REFUND', 'POWERLITE']",2000.0,Debit,12118.71,False,False
+98,20/02,"['DuitNow/Instant Trf', 'heng meng kk', 'dec 2019 jan 2020', 'PBB HENG MENG KK', 'PARTS TRADI', 'PBB HENG MENG KK', 'PARTS TRADI dec 2019 jan', '2020']",5201.0,Credit,17319.71,False,False
+99,20/02,"['DuitNow/Instant Trf', '00332952', 'JULY RM380 NOV RM220', 'MBB KIM WA AUTO', 'PARTS', 'MBB KIM WA AUTO', 'PARTS JULY RM380 NOV', 'RM220']",600.0,Credit,17919.71,False,False
+100,20/02,"['Cheque Deposit', 'MBB 511455']",410.0,Credit,18329.71,False,False
+101,20/02,"['DuitNow/Instant Trf', 'Kelisa Gear Box', 'PBB HOW MENG KEAN', 'PBB HOW MENG KEAN']",450.0,Credit,18779.71,False,False
+102,21/02,"['IBG CR', 'KIA DELL SEP', 'KIA DELL SEP', 'RHB KIA DELL TRADING', 'SDN BHD']",2875.0,Credit,21654.71,False,False
+103,21/02,"['IBG CR', 'OCT NOV 2019', 'PRIVATE TRANSACTION', 'MBB SOON CHEN AUTO', 'PARTS TRAD']",3921.0,Credit,25575.71,False,False
+104,21/02,"['Cheque', 'PBB 054618']",2645.0,Credit,28220.71,False,False
+105,21/02,"['Cheque Deposit', 'PBB 086259']",4174.5,Credit,32395.21,False,False
+106,21/02,"['Cheque Deposit', 'PBB 139253']",1810.0,Credit,34205.21,False,False
+107,22/02,"['Fund Trf EB', 'ABD-POWERLITE DEC19', 'ABD-POWERLITE DEC19', 'ABADI123']",1000.0,Credit,35205.21,False,False
+108,23/02,"['DuitNow/Instant Trf', 'PAY NOV 2019', 'MBB MKR ONE', 'ENTERPRISE', 'MBB MKR ONE', 'ENTERPRISE']",1582.0,Credit,36787.21,False,False
+109,24/02,"['IBG Debit', 'CLAIM', ""CLAIM-FEB'2020"", 'POWERLITE']",2629.05,Debit,34158.16,False,False
+110,24/02,"['IBG Debit', 'PURCHASES', ""PYM-OCT'2019"", 'POWERLITE']",2522.3,Debit,31635.86,False,False
+111,24/02,"['IBG Debit', 'PURCHASES', 'PURCHASES', 'POWERLITE']",1615.0,Debit,30020.86,False,False
+112,24/02,"['IBG CR', 'OCT A/C', '20200222E0002237', 'PBB IK AUTO PARTS', 'SUPPLY']",7460.0,Credit,37480.86,False,False
+113,24/02,"['DuitNow/Instant Trf', 'T6 fan clutch', 'auto part', 'RHB TIU CHONG KION', 'RHB TIU CHONG', 'KION auto part']",180.0,Credit,37660.86,False,False
+114,24/02,"['Cheque Deposit', 'PBB 078811']",610.0,Credit,38270.86,False,False
+115,24/02,"['IBG CR', 'SUN AUTO KMN', 'DEC 2019 ACC PAYMENT', 'PBB OH HOCK SUN']",1800.0,Credit,40070.86,False,False
+116,24/02,"['Cheque Deposit', 'OCBC 011320']",600.0,Credit,40670.86,False,False
+117,24/02,"['Cheque Deposit', 'PBB 007437']",1850.0,Credit,42520.86,False,False
+118,24/02,"['Cheque Deposit', 'BMMB 000920']",761.0,Credit,43281.86,False,False
+119,25/02,"['IBG Debit', 'SYC-CLAIM', 'PETTY CASH', 'POWERLITE']",1500.0,Debit,41781.86,False,False
+120,25/02,"['IBG CR', 'PAYMENT NOV 19', 'ALAT-ALAT GANTI PAKA', 'CREDITOR PURCHASE']",155.0,Credit,41936.86,False,False
+121,25/02,"['DuitNow/Instant Trf', 'IN JUN 19', 'IN JUN 19', 'MBB SWEE LEE AUTO', 'PARTS SUPPL', 'MBB SWEE LEE AUTO', 'PARTS SUPPL IN JUN 19']",5238.0,Credit,47174.86,False,False
+122,25/02,"['Cheque Deposit', 'PBB 069688']",8356.0,Credit,55530.86,False,False
+123,25/02,"['Cheque Deposit', 'RHB 006320']",350.0,Credit,55880.86,False,False
+124,26/02,"['ODS Sweep Trf DR', '2403014542', '2403014542', 'SWPSEC: LMS SWEEP', 'TRANSFER DEBIT']",5880.86,Debit,50000.0,False,False
+125,27/02,"['ODS Sweep Trf CR', '2403014542', '2403014542', 'SWPBCK: LMS', 'SWEEPBACK CR MEMO']",5880.86,Credit,55880.86,False,False
+126,27/02,"['Cheque Deposit', 'PBB 120472']",4526.0,Credit,60406.86,False,False
+127,27/02,"['Cheque Deposit', 'RHB 008940']",1930.0,Credit,62336.86,False,False
+128,27/02,"['Cheque Deposit', 'PBB 198205']",960.0,Credit,63296.86,False,False
+129,27/02,"['IBG CR', 'CS-00145', 'SL GLOBAL', 'PBB SL GLOBAL AUTO', 'PARTS']",525.0,Credit,63821.86,False,False
+130,27/02,"['ODS Sweep Trf DR', '2403014542', '2403014542', 'SWPSEC: LMS SWEEP', 'TRANSFER DEBIT']",6405.86,Debit,57416.0,False,False
+131,28/02,"['ODS Sweep Trf CR', '2403014542', '2403014542', 'SWPBCK: LMS', 'SWEEPBACK CR MEMO']",6405.86,Credit,63821.86,False,False
+132,28/02,"['IBG Debit', 'WORKER SAL', 'WORKER SALARY', 'POWERLITE']",4500.0,Debit,59321.86,False,False
+133,28/02,"['IBG CR', 'AJAPSB NOV', 'AJIL JAYA AUTO PARTS', 'POL NOV']",1530.0,Credit,60851.86,False,False
+134,28/02,"['IBG CR', 'Interbank GIRO', 'OCT NOV 2019', 'OCBC ENG TAT AUTO', 'SUPPLY']",2025.0,Credit,62876.86,False,False
+135,28/02,"['IBG CR', 'SHMJ NOV ACC BAL', 'RHB SOON HOE MAJU', 'JAYA AUTO PARTS SDN', 'BH']",895.0,Credit,63771.86,False,False
+136,28/02,"['IBG CR', 'nov 19', 'BEBK022891295581', 'PBB P H CHIAM AUTO', 'SUPPLY SDN BHD']",4060.0,Credit,67831.86,False,False
+137,28/02,"['Cheque Deposit', 'OCBC 004204']",240.0,Credit,68071.86,False,False
+138,28/02,"['Cheque Deposit', 'PBB 056436']",2185.0,Credit,70256.86,False,False
+139,28/02,"['Cheque Deposit', 'PBB 231970']",7387.0,Credit,77643.86,False,False
+140,28/02,"['ODS Sweep Trf DR', '2403014542', '2403014542', 'SWPSEC: LMS SWEEP', 'TRANSFER DEBIT']",17831.86,Debit,59812.0,False,False
+141,,['Deposits'],,,272657.77,False,False
+142,,['Withdrawals'],,,294089.37,False,False

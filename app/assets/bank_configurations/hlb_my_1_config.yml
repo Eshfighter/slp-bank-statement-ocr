@@ -1,0 +1,69 @@
+
+init-config:
+  country-name: malaysia
+  bank-name : HLB
+  format-id: hlb_my_1
+  new-pipeline: True
+  vertical-strategy: "lines"
+  horizontal-strategy: "text"
+
+# parsing variables
+summary-config:
+  summary-page-index: 0
+  keys: ['account-number', 'account-type', 'bank-name', 'document-type', 'number-of-pages', 'statement-date']
+  bank-name-find: ['HLB']
+  account-list: ['CURRENT ACCOUNT']
+  separate-summary-lines: True
+  requires-space-separation: True
+  account-name-start: 'Page No'
+  account-name-line-start-index: 1
+  account-name-line-end-index: 1
+  account-address-line-start-index: 2
+  account-address-stop: ['Branch']
+  state-dt-keyword: ' Statement Period'
+  no-of-date-words: 1
+  page-keyword: Page
+  account-no-keyword: 'A/C No'
+  account-no-regex: '\d\d\d\d\d\d\d\d\d\d\d'
+
+transaction-config:
+  txn-key-word: ['Balance from previous statement']
+  txn-remove-date: ['Balance from previous statement', 'Total Withdrawals', 'Total Deposits']
+  start-of-month-keyword: ['Balance from previous statement']
+  end-of-month-keyword: []
+  stop-at: ['Hong Leong Bank Berhad', 'Total Withdrawals']
+  txn-description-ignore-regex: ['\d\d\d\d\d\d\d\d\d\d\d_\d\s\d']
+  txn-description-include-additional-column: True
+  txn-columns: ['transaction-date', 'transaction-description', 'transaction-credit', 'transaction-debit', 'transaction-balance']
+  required-txn-columns: [0, 1, 2, 3, 4]
+  requires-balance-calculation: True
+  date-regex-list: ['\d\d-\d\d-\d\d\d\d']
+  last-column-headings: ['Tarikh', 'Deskripsi Transaksi', 'Simpanan', 'Pengeluaran', 'Baki']
+  page-last-transaction-index: -1
+  columns-in-between-date-descriptions: 0
+  statement-date-format: 'DD/MM/YY'
+  transaction-date-format: 'DD-MM-YYYY'
+  number-regex-list: ['([0-9sS$oO§]{1,3}(,[0-9sS$oO§]{3})*(\.|\,)[0-9sS$oO§]{2})']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: ['Total Withdrawals', 'Total Deposits', 'Closing Balance']
+  balance-in-separate-table: True
+  balance-fields: {
+    'key': ['Total Withdrawals', 'Date', 'Total Deposits', 'Closing Balance'],
+    'actual-key': ['Total Withdrawals', 'Total Deposits', 'Closing Balance'],
+    'actual-key-horizontal-split': [[0], [1,2]],
+    'row-after-key': 0,
+  }
+  transaction-summary-key-info: [{
+    keyword: ['Total Deposits'],
+    key: 'total-credit'
+  }, {
+    keyword: ['Total Withdrawals'],
+    key: 'total-debit'
+  }, {
+    keyword: ['Balance from previous statement'],
+    key: 'start-balance'
+  }, {
+    keyword: ['Closing Balance'],
+    key: 'close-balance'
+  }]

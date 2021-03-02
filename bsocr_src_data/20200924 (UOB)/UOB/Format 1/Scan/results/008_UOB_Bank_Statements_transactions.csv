@@ -1,0 +1,236 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,1076260.29,False,False
+1,02/12,"['Misc Debit', '6018734696-00000', 'Trf. Wd. Loans']",5159.56,Debit,1071100.73,False,False
+2,03/12,"['Misc DR-Debit Card', '30 NOV 5522 3659139', 'LHN PARKING ONLINE', 'SINGAPORE SG']",510.0,Debit,1070590.73,False,False
+3,03/12,"['Cheque Deposit', '0073872']",3900.0,,,False,True
+4,05/12,"['Inward Credit-FAST', 'IVPT Invoice Payment', 'MILLENIUM PARTNERS P', 'SG3P191205664204']",15000.0,,1132922.01,False,False
+5,05/12,"['Misc DR-Debit Card', '02 DEC 5522 2447345', 'O0000000TS5DL4S FLYSCOOT.COM']",244.5,,,False,True
+6,05/12,"['Cheque Withdrawal', '0073869']",128.4,,,False,False
+7,05/12,"['Cheque Withdrawal', '0073871']",2413.92,,1130135.19,False,False
+8,06/12,"['Cash 0073887', '0073883']",,,1119635.19,False,True
+9,09/12,"['Cheque Withdrawal', '0073885']",200.0,,,False,True
+10,09/12,"['Cheque Withdrawal', '0073886']",154.0,,1158703.49,False,False
+11,10/12,"['Cheque Withdrawal', '0073866']",840.0,Debit,1157863.49,False,False
+12,10/12,"['Cheque Withdrawal', '0073873']",310.42,,,False,True
+13,10/12,"['Cheque Withdrawal', '0073874']",831.18,,1156721.89,False,False
+14,10/12,"['Cheque Withdrawal', '0073875']",395.05,Debit,1156326.84,False,False
+15,10/12,"['Cheque Withdrawal', '0073877']",285.0,,,False,True
+16,10/12,"['Cheque Withdrawal', '0073882']",1525.49,,,False,False
+17,11/12,['Cheque Deposit'],535.0,,1155051.35,False,False
+18,11/12,"['Cheque Withdrawal', '0073878']",882.75,Debit,1154168.6,False,False
+19,11/12,"['Cheque Withdrawal', '0073884']",5589.34,,,False,True
+20,12/12,"['Misc DR-Debit Card', '09 DEC 5522 8222313', '00000000TS5DL4S FLYSCOOT.COM']",46.0,,,False,False
+21,12/12,['Cheque Deposit'],6480.72,,1155013.98,False,False
+22,12/12,['Cheque Deposit'],10963.22,,,False,True
+23,12/12,['Cheque Deposit'],1926.0,,1167903.2,False,False
+24,12/12,"['SERV CHARGE', '10R912123731C001', 'NONE', 'QITELE GROUP CO,LTD']",58.37,Debit,1167844.83,False,False
+25,12/12,"['FUNDS TRF - TT', '10R912123731C01', 'NONE', 'QITELE GROUP CO,LTD']",30699.97,Debit,1137144.86,False,False
+26,12/12,"['Cheque Withdrawal', '0073876']",7612.67,,,False,True
+27,12/12,"['Cheque Withdrawal', '0073880']",166.0,,,False,False
+28,16/12,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BIZ']",212.0,,,False,False
+29,16/12,['Cheque Deposit'],37450.0,,1161604.19,False,False
+30,17/12,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BFWL']",6047.81,Debit,1155556.38,False,False
+31,17/12,"['Cheque Withdrawal', '0073881']",2782.0,Debit,1152774.38,False,False
+32,18/12,"['Cheque Withdrawal', '0073888']",1260.0,,,False,True
+33,19/12,['Cheque Deposit'],12952.65,,,False,False
+34,19/12,"['Cheque Withdrawal', '0073890']",1425.8,,,False,False
+35,26/12,['Cheque Deposit'],10855.26,,,False,False
+36,30/12,"['Inward DR - GIRO', 'COLL 1950001660', 'JTC CORPORATION', 'SGGC191227180355']",,,,False,False
+37,30/12,"['Misc Debit', '6018734696-00000', 'Trf. Wd. Loans']",,,,False,False
+38,,['Total Withdrawals'],,,98836.61,False,False
+39,,['Total Deposits'],,,187212.33,False,False
+40,,['Total'],,,1165788.01,False,False
+41,,['BALANCE B/F'],,,,False,False
+42,02/01,"['Inward DR - GIRO', 'COLL OCASF1093C', 'ETHOZ CAPITAL LTD']",1152.0,,1164636.01,False,False
+43,02/01,"['Misc CR-Debit Card', '30 DEC 5522', 'UOB Cash Rebate']",2.4,Credit,1164638.41,False,False
+44,03/01,['Cheque Deposit'],2140.0,,,False,True
+45,03/01,"['Cheque Withdrawal', '0073891']",208.78,,1166569.63,False,False
+46,09/01,"['SERV CHARGE', '10R001092034C01', 'NONE', 'MIROAD RUBBER INDUSTRIES SDN BHD']",45.48,Debit,1166524.15,False,False
+47,09/01,"['FUNDS TRF - TT', '10R001092034C01', 'NONE', 'MIROAD RUBBER INDUSTRIES SDN BHD']",28385.76,Debit,1138138.39,False,False
+48,09/01,['Cash 0073911'],25000.0,,,False,True
+49,09/01,['Cheque Deposit'],1016.5,,1114154.89,False,False
+50,09/01,['Cheque Deposit'],1123.5,Credit,1115278.39,False,False
+51,09/01,"['Cheque Withdrawal', '0073905']",3900.0,,,False,True
+52,09/01,"['Cheque Withdrawal', '0073910']",4500.0,,,False,False
+53,10/01,"['Cheque Withdrawal', '0073896']",418.38,,1106460.01,False,False
+54,10/01,"['Cheque Withdrawal', '0073902']",143.0,Debit,1106317.01,False,False
+55,10/01,"['Cheque Withdrawal', '0073908']",24087.0,Debit,1082230.01,False,False
+56,13/01,['Cash 0073912'],3000.0,Debit,1079230.01,False,False
+57,13/01,['Cash 0073915'],34000.0,Debit,1045230.01,False,False
+58,13/01,"['Misc DR-Debit Card', '10 JAN 5522 3105555', 'AIR INDIA CHARTERS LTD MUMBAI', 'SG']",504.6,Debit,1044725.41,False,False
+59,13/01,['Cheque Deposit'],5309.88,Credit,1050035.29,False,False
+60,13/01,"['Cheque Withdrawal', '0073893']",291.79,Debit,1049743.5,False,False
+61,13/01,"['Cheque Withdrawal', '0073898']",1028.0,Debit,1048715.5,False,False
+62,13/01,"['Cheque Withdrawal', '0073907']",50.63,,,False,True
+63,14/01,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BIZ']",,,1041083.35,False,False
+64,14/01,"['Cheque Withdrawal', '0073897']",2264.44,,,False,True
+65,14/01,"['Cheque Withdrawal', '0073899']",3805.2,,1035013.71,False,False
+66,14/01,"['Cheque Withdrawal', '0073903']",1629.59,Debit,1033384.12,False,False
+67,14/01,"['Cheque Withdrawal', '0073906']",200.0,,,False,True
+68,14/01,"['Cheque Withdrawal', '0073909']",600.0,,1032584.12,False,False
+69,15/01,"['Cheque Deposit', '0073894']",52052.14,Credit,1084636.26,False,False
+70,15/01,"['Cheque Withdrawal', '0073914']",,,,False,True
+71,16/01,"['Cheque Deposit', '0073900']",60.0,,,False,False
+72,16/01,"['Cheque Withdrawal', '0073901']",393.0,,,False,False
+73,16/01,"['Cheque Withdrawal', '0073913']",350.0,,,False,False
+74,17/01,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BFWL']",,,1108538.28,False,False
+75,17/01,"['Cheque Deposit', 'OTHR Other', 'MILLENIUM PARTNERS P', 'SM3P200120559007']",15000.0,,,False,True
+76,20/01,"['Cheque Withdrawal', '0073917']",200.63,,,False,False
+77,21/01,['Cheque Deposit'],3598.51,,1174818.24,False,False
+78,21/01,['Cheque Deposit'],6760.58,,,False,True
+79,21/01,['Cheque Deposit'],7242.03,,1188820.85,False,False
+80,21/01,"['Cheque Withdrawal', '0073916']",348.0,,,False,True
+81,22/01,"['INWARD TRF - TT', '11R001225128C01', 'TFC17T1000386001', 'TSL BUILDERS PTE LTD']",17590.8,,1206063.65,False,False
+82,22/01,['Cheque Deposit'],14390.06,Credit,1220453.71,False,False
+83,22/01,['Cheque Deposit'],1683.11,Credit,1222136.82,False,False
+84,22/01,['Cheque Deposit'],46472.56,,,False,True
+85,22/01,"['Cheque Withdrawal', '0073895']",947.49,,1267661.89,False,False
+86,22/01,"['Cheque Withdrawal', '0073918']",489.76,Debit,1267172.13,False,False
+87,23/01,"['Cheque Withdrawal', '0073919']",5017.0,Debit,1262155.13,False,False
+88,24/01,"['Cheque Withdrawal', '0073921']",3000.0,Debit,1259155.13,False,False
+89,28/01,"['Inward DR - GIRO', 'COLL 1950001660', 'JTC CORPORATION', 'SGGC200124217530']",3466.58,Debit,1255688.55,False,False
+90,30/01,"['Misc Debit', '6018734696-00000', 'Trf. Wd. Loans']",5153.52,Debit,1250535.03,False,False
+91,31/01,['Cheque Deposit'],1070.0,Credit,1251605.03,False,False
+92,31/01,"['Cheque Withdrawal', '0073920']",625.95,Debit,1250979.08,False,False
+93,,['Total Withdrawals'],,,171773.72,False,False
+94,,['Total Deposits'],,,256964.79,False,False
+95,,['Total'],,,1250979.08,False,False
+96,,['BALANCE B/F'],,,1250980.59,False,False
+97,01/02,"['Misc DR-Debit Card', '30 JAN 5522 9781559', 'AIR INDIACHARTERS LTD MUMBAI', 'SG']",162.77,,,False,True
+98,03/02,"['Inward DR - GIRO', 'COLL OCASF1093C', 'ETHOZ CAPITAL LTD', 'Cc']",1152.0,,665.82,False,False
+99,03/02,"['Misc DR-Debit Card', '30 JAN 5522 2771427', 'LHN PARKING ONLINE', 'SINGAPORE SG']",255.0,,,False,True
+100,04/02,"['Cheque Withdrawal', '0073923']",3900.0,,1245510.82,False,False
+101,05/02,"['Cheque Withdrawal', '0073924']",200.0,,,False,True
+102,06/02,"['Inward DR - GIRO', 'TAXS 199901543H', 'IRAS', 'ITX']",,,,False,False
+103,10/02,"['Cheque Withdrawal', '0073925']",8000.0,,1227877.04,False,False
+104,13/02,"['Cheque Withdrawal', '0073922']",1391.0,Debit,1226486.04,False,False
+105,13/02,"['Cheque Withdrawal', '0073926']",363.8,Debit,1226122.24,False,False
+106,14/02,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BIZ']",,,,False,True
+107,17/02,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BFWL']",,,,False,False
+108,17/02,"['Cheque Withdrawal', '0073928']",10700.0,,,False,False
+109,18/02,"['Inward Credit-FAST', 'BEXP BizExpenses', 'MILLENIUM PARTNERS P', 'SG3P200218035041']",15000.0,,1220424.01,False,False
+110,19/02,"['Bill Payment', 'FT20020066796315', '199901543H - GST', '15632933683096']",31415.25,Debit,1189008.76,False,False
+111,20/02,"['Misc DR-Debit Card', '18 FEB 5522 5254071', 'MOM CC2020021801935', 'SINGAPORE SG']",35.0,,,False,True
+112,21/02,"['Cheque Withdrawal', '0073929']",3138.2,,,False,False
+113,25/02,['Cheque Deposit'],2086.5,,1187922.06,False,False
+114,26/02,"['Misc DR-Debit Card', '23 FEB 5522 9457616', 'LHN PARKING ONLINE', 'SINGAPORE SG']",255.0,,,False,True
+115,26/02,['Cheque Deposit'],14493.15,,1202160.21,False,False
+116,26/02,['Cheque Deposit'],2889.0,Credit,1205049.21,False,False
+117,26/02,"['Cheque Withdrawal', '0073930']",1439.0,,,False,True
+118,28/02,"['Inward DR - GIRO', 'COLL 1950001660', 'JTC CORPORATION', 'SGGC200227178512']",3466.58,,1200143.63,False,False
+119,,['Total Withdrawals'],,,85305.61,False,False
+120,,['Total Deposits'],,,34470.16,False,False
+121,,['Total'],,,1200143.63,False,False
+122,,['BALANCE B/F'],,,1198991.63,False,False
+123,02/03,"['Misc CR-Debit Card', '28 FEB 5522', 'UOB Cash Rebate']",2.03,Credit,1198993.66,False,False
+124,02/03,"['Misc Debit', '6018734696-00000', 'Trf. Wd. Loans']",,,,False,True
+125,02/03,"['Cheque Withdrawal', '0073931']",2000.0,,1191840.14,False,False
+126,03/03,"['Cheque Withdrawal', '0073936']",763.04,,,False,True
+127,03/03,"['Cheque Withdrawal', '0073945']",117.0,,,False,False
+128,03/03,"['Cheque Withdrawal', '0073949']",479.0,,1190481.1,False,False
+129,04/03,"['Cheque Withdrawal', '0073932']",3900.0,Debit,1186581.1,False,False
+130,04/03,"['Cheque Withdrawal', '0073935']",471.82,,,False,True
+131,04/03,"['Cheque Withdrawal', '0073940']",2413.92,,,False,False
+132,04/03,"['Cheque Withdrawal', '0073941']",3638.02,,,False,False
+133,05/03,"['Cheque Withdrawal', '0073934']",483.0,,,False,False
+134,05/03,"['Cheque Withdrawal', '0073939']",481.5,,,False,False
+135,05/03,"['Cheque Withdrawal', '0073942']",1263.38,,,False,False
+136,06/03,"['Cash 0073954', '0073937']",688.62,,,False,False
+137,06/03,"['Cheque Withdrawal', '0073947']",,,,False,False
+138,06/03,"['Cheque Withdrawal', '0073948']",870.01,,1164792.23,False,False
+139,09/03,"['Cheque Deposit', '0073933']",20000.0,Credit,1184792.23,False,False
+140,09/03,"['Cheque Withdrawal', '0073943']",2126.3,,,False,True
+141,09/03,"['Cheque Withdrawal', '0073944']",163.0,,,False,False
+142,10/03,"['Cheque Withdrawal', '0073938']",95.35,,,False,False
+143,11/03,['Cheque Deposit'],29960.0,,1211667.58,False,False
+144,11/03,"['Cheque Withdrawal', '0073951']",107.0,,,False,True
+145,12/03,"['Cheque Withdrawal', '0073953']",107.0,,,False,False
+146,12/03,"['Cheque Withdrawal', '0073955']",3000.0,,1208453.58,False,False
+147,16/03,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BIZ']",5952.0,Debit,1202501.58,False,False
+148,16/03,"['Cheque Withdrawal', '0073946']",334.38,Debit,1202167.2,False,False
+149,17/03,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BFWL']",4519.81,,,False,True
+150,19/03,"['Misc DR-Debit Card', '17 MAR 5522 2023322', 'AIR INDIACHARTERS LTD MUMBAI', 'SG']",161.8,,,False,False
+151,20/03,['Cheque Deposit'],535.0,,1198020.59,False,False
+152,20/03,['Cheque Deposit'],7490.0,Credit,1205510.59,False,False
+153,20/03,['Cheque Deposit'],5392.8,Credit,1210903.39,False,False
+154,24/03,"['Misc DR-Debit Card', '20 MAR 5522 3086502', 'LHN PARKING ONLINE', 'SINGAPORE SG']",255.0,Debit,1210648.39,False,False
+155,24/03,['Cheque Deposit'],20487.29,Credit,1231135.68,False,False
+156,25/03,['Cheque Deposit'],49402.85,Credit,1280538.53,False,False
+157,25/03,"['Misc DR-Debit Card', 'BDT 12537.09', '20 MAR 5522 8629357', 'Airlines, flyregent.co Dhaka', 'BD']",221.17,Debit,1280317.36,False,False
+158,26/03,['Cheque Deposit'],5531.9,,,False,True
+159,27/03,"['Cheque Withdrawal', '0073879']",4579.6,,1281269.66,False,False
+160,30/03,"['Inward DR - GIRO', 'COLL 1950001660', 'JTC CORPORATION', 'SGGC200327 180948']",3466.58,,,False,True
+161,30/03,"['Misc Debit', '6018734696-00000', 'Trf. Wd. Loans']",,,1272658.06,False,False
+162,30/03,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'SCIENCE CENTRE BOARD', 'SCB100022044832019']",25145.0,Credit,1297803.06,False,False
+163,30/03,"['Cheque Withdrawal', '0073958']",,,,False,True
+164,,['Total Withdrawals'],,,76787.44,False,False
+165,,['Total Deposits'],,,163946.87,False,False
+166,,['Total'],,,1287303.06,False,False
+167,,['BALANCE B/F'],,,1286151.06,False,False
+168,01/04,"['Misc CR-Debit Card', '30 MAR 5522', 'UOB Cash Rebate']",1.92,,,False,True
+169,02/04,"['Inward CR - GIRO', 'OTHR Other', 'THE ACCOUNTANT GENER', '5003450812']",3745.0,,,False,False
+170,06/04,"['Inward Credit-FAST', 'IVPT Invoice Payment', 'MILLENIUM PARTNERS P', 'SG3P200406320623']",10000.0,,1299897.98,False,False
+171,06/04,"['Cheque Withdrawal', '0073961']",717.55,Debit,1299180.43,False,False
+172,06/04,"['Cheque Withdrawal', '0073969']",130.0,Debit,1299050.43,False,False
+173,06/04,"['Cheque Withdrawal', '0073971']",1845.75,Debit,1297204.68,False,False
+174,06/04,"['Cheque Withdrawal', '0073976']",3900.0,Debit,1293304.68,False,False
+175,06/04,"['Cheque Withdrawal', '0073978']",500000.0,Debit,793304.68,False,False
+176,06/04,"['Cheque Withdrawal', '0073979']",6500.0,Debit,786804.68,False,False
+177,07/04,"['Cheque Withdrawal', '0073963']",350.0,Debit,786454.68,False,False
+178,07/04,"['Cheque Withdrawal', '0073975']",1859.13,Debit,784595.55,False,False
+179,08/04,"['Cheque Withdrawal', '0073964']",2501.64,Debit,782093.91,False,False
+180,08/04,"['Cheque Withdrawal', '0073967']",159.0,Debit,781934.91,False,False
+181,08/04,"['Cheque Withdrawal', '0073977']",328.0,Debit,781606.91,False,False
+182,13/04,"['Cheque Withdrawal', '0073959']",194.21,Debit,781412.7,False,False
+183,13/04,"['Cheque Withdrawal', '0073962']",321.0,Debit,781091.7,False,False
+184,13/04,"['Cheque Withdrawal', '0073968']",1251.9,Debit,779839.8,False,False
+185,13/04,"['Cheque Withdrawal', '0073972']",337.0,,,False,True
+186,14/04,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BIZ']",,,772553.3,False,False
+187,15/04,"['Inward CR - GIRO', 'OTHR Other', 'IRAS', 'Jobs Support Scheme']",10750.0,,,False,True
+188,20/04,"['Cheque Withdrawal', '0073973']",,,780545.3,False,False
+189,20/04,"['Cheque Withdrawal', '0073974']",1530.0,Debit,779015.3,False,False
+190,21/04,"['Inward CR - GIRO', 'OTHR Other', 'WESMECH ENGINEERING', '2020-004.005,006,007']",11887.1,Credit,790902.4,False,False
+191,27/04,"['Cheque Withdrawal', '0073960']",133.05,Debit,790769.35,False,False
+192,28/04,"['Inward DR - GIRO', 'COLL 1950001660', 'JTC CORPORATION', 'SGGC200427008685']",3466.58,Debit,787302.77,False,False
+193,30/04,"['Inward CR - GIRO', 'PAYNOW OTHR', 'IRAS', '114398034']",,,,False,True
+194,30/04,"['Misc Debit', '6018734696-00000', 'Trf. Wd. Loans']",,,787407.75,False,False
+195,,['Total Withdrawals'],,,541529.33,False,False
+196,,['Total Deposits'],,,41634.02,False,False
+197,,['Total'],,,787407.75,False,False
+198,,['BALANCE B/F'],,,787407.75,False,False
+199,04/05,"['Inward DR - GIRO', 'COLL OCASF1093C', 'ETHOZ CAPITAL LTD']",1152.0,Debit,786255.75,False,False
+200,04/05,"['Cheque Withdrawal', '0073966']",10701.07,Debit,775554.68,False,False
+201,06/05,"['Funds Trf - GIRO', 'GEBFT20050072322884', 'FT20050072322884']",1010.0,Debit,774544.68,False,False
+202,06/05,"['SVC Chg', 'GEBFT20050072322884', 'FT20050072322884']",0.2,Debit,774544.48,False,False
+203,06/05,"['Funds Trf - GIRO', 'GEBFT20050072324882', 'FT20050072324882']",780.0,Debit,773764.48,False,False
+204,06/05,"['SVC Chg', 'GEBFT20050072324882', 'FT20050072324882']",0.2,Debit,773764.28,False,False
+205,06/05,"['Funds Trf - FAST', 'GEBFT20050072325440', 'FT20050072325440', 'SALA April Salary']",1120.0,Debit,772644.28,False,False
+206,06/05,"['SVC Chg', 'GEBFT20050072325440', 'FT20050072325440', 'SALA April Salary']",0.5,Debit,772643.78,False,False
+207,06/05,"['Funds Trf - GIRO', 'GEBFT20050072326176', 'FT20050072326176']",935.0,Debit,771708.78,False,False
+208,06/05,"['SVC Chg', 'GEBFT20050072326176', 'FT20050072326176']",0.2,Debit,771708.58,False,False
+209,06/05,"['Funds Trf - FAST', 'GEBFT20050072326671', 'FT20050072326671', 'SALA April Salary']",598.0,Debit,771110.58,False,False
+210,06/05,"['SVC Chg', 'GEBFT20050072326671', 'FT20050072326671', 'SALA April Salary']",0.5,Debit,771110.08,False,False
+211,06/05,"['Funds Trf - FAST', 'GEBFT20050072327 123', 'FT20050072327123', 'SALA April Salary']",550.0,Debit,770560.08,False,False
+212,06/05,"['SVC Chg', 'GEBFT20050072327123', 'FT20050072327123', 'SALA April Salary']",0.5,Debit,770559.58,False,False
+213,08/05,"['Funds Trf - GIRO', 'GEBFT20050072378628', 'FT20050072378628']",200.0,,,False,True
+214,08/05,"['SVC Chg', 'GEBFT20050072378628', 'FT20050072378628']",0.2,,770733.88,False,False
+215,08/05,"['Cheque Withdrawal', '0073982']",123.0,Debit,770610.88,False,False
+216,08/05,"['Cheque Withdrawal', '0073986']",3900.0,Debit,766710.88,False,False
+217,08/05,"['Cheque Withdrawal', '0073987']",200.0,Debit,766510.88,False,False
+218,11/05,"['Cheque Withdrawal', '0073983']",5000.0,Debit,761510.88,False,False
+219,11/05,"['Cheque Withdrawal', '0073985']",,,753080.5,False,True
+220,12/05,"['Cheque Withdrawal', '0073981']",1301.35,Debit,751779.15,False,False
+221,12/05,"['Cheque Withdrawal', '0073984']",1857.52,Debit,749921.63,False,False
+222,14/05,"['Inward DR - GIRO', 'COLL 199901543H', 'CPF', 'BIZ']",,,744341.63,False,True
+223,14/05,"['Misc DR-Debit Card', '11 MAY 5522 2217652', 'PAYPAL *SG HOSTING', '4029357733 SG']",128.4,Debit,744213.23,False,False
+224,14/05,"['Cheque Deposit', '0073988']",,,743905.61,False,True
+225,27/05,"['Inward CR - GIRO', 'OTHR Other', 'IRAS', 'Jobs Support Scheme']",15650.0,Credit,759555.61,False,False
+226,28/05,"['Inward Credit-FAST', 'IVPT Invoice Payment', 'MILLENIUM PARTNERS P', 'SG3P200528844633']",10000.0,Credit,769555.61,False,False
+227,28/05,"['Inward DR - GIRO', 'COLL 1950001660', 'JTC CORPORATION', 'SGGC200527 145224']",394.4,Debit,769161.21,False,False
+228,28/05,"['Misc DR-Debit Card', '25 MAY 5522 9310037', 'CRIMSONLOGIC PTELTD', 'SINGAPORE SG']",40.5,Debit,769120.71,False,False
+229,29/05,"['Inward CR - GIRO', 'PAYNOW FWLV', 'IRAS', '114666184']",4500.0,Credit,773620.71,False,False
+230,29/05,['Cheque Deposit'],6601.9,Credit,780222.61,False,False
+231,29/05,['Cheque Deposit'],327.96,Credit,780550.57,False,False
+232,,['Total Withdrawals'],,,49621.42,False,False
+233,,['Total Deposits'],,,42764.24,False,False
+234,,['Total'],,,780550.57,False,False

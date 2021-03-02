@@ -1,0 +1,18 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Jumlah Debit / Total Debits'],,,90491.03,False,False
+1,,['Jumlah Kredit / Total Credits'],,,94590.0,False,False
+2,,['Balance From Last Statement'],,,605101.98,True,False
+3,04/05,['DEP-LOC CHEQ 985058 AT TJJ'],25850.0,Credit,579251.98,True,False
+4,06/05,"['GST DR 336558', 'CHQB SRS 265 865 CHEQUE PROCESS FEE', '06000000000000050 CHEQUE PROCESS FEE', '0000000500000001']",0.0,,579251.98,True,False
+5,06/05,['CHEQ 336568'],225.2,Debit,579477.18,True,False
+6,06/05,"['CHQ PROCESS FEE DR 336558', 'CHEQUE PROCESS FEE 1@RM0.50']",0.5,Debit,579477.68,True,False
+7,20/05,"['DEP-ECP 144551', 'IMEPS20200520100002186500681 RHB', 'NEWLIKE MACHINE SOLUTIONS SDN BHD RHB', 'XREF 123456789A FUND TRANSFER']",63500.0,Credit,515977.68,True,False
+8,,['Balance C/F'],,,515977.68,True,False
+9,,['Balance B/F'],,,515977.68,True,False
+10,20/05,['MISC DR'],86443.52,Debit,602421.2,True,False
+11,21/05,['TRADE FINANCE DEBIT 256602'],600.17,Credit,603021.37,False,False
+12,29/05,['DEP-LOC CHEQ 979133 AT TDY'],240.0,Debit,602781.37,True,False
+13,30/05,['DEP-CASH CDT 2907 026284'],5000.0,Credit,597781.37,True,False
+14,31/05,['OD INT DR'],3208.84,Debit,600990.21,True,False
+15,31/05,"['COMT FEE DR', 'MNDB OSS 009 264 COMT FEE DR']",12.8,Debit,601003.01,True,False
+16,,['Closing Balance In This Statement'],,,601003.01,True,False

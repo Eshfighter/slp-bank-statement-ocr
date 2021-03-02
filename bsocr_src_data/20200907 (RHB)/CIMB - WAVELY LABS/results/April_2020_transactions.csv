@@ -1,0 +1,56 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Opening Balance'],,,58228.39,False,False
+1,31/03,['CREDIT PROFIT/HIBAH'],3.98,Credit,118479.61,False,False
+2,31/03,"['TR IBG', 'ANNABELLE LEONG KAR', 'FB Account Rental']",96.77,Debit,118475.63,False,False
+3,31/03,"['OTHER TRANSFER FEE', 'FB Account Rental FB Account Rental']",0.1,Debit,118572.4,False,False
+4,31/03,"['TR IBG', 'TAN YONG KIM', 'FB Account Rental']",90.32,Debit,118572.5,False,False
+5,31/03,"['OTHER TRANSFER FEE', 'FB Account Rental FB Account Rental']",0.1,Debit,118662.82,False,False
+6,31/03,"['TR IBG', 'LIM PEI WEN', 'CN Freelance Writer']",180.0,Debit,118662.92,False,False
+7,31/03,"['OTHER TRANSFER FEE', 'CN Freelance Writer CN Freelance Writer']",0.1,Debit,118842.92,False,False
+8,31/03,"['TR IBG', 'FOONG QIAO-HUI', 'FB Account Rental']",103.23,Debit,118843.02,False,False
+9,31/03,"['OTHER TRANSFER FEE', 'FB Account Rental FB Account Rental']",0.1,Debit,118946.25,False,False
+10,31/03,"['TR IBG', 'LEE KE XIN', 'FB Account Rental']",103.23,Debit,118946.35,False,False
+11,31/03,"['OTHER TRANSFER FEE', 'FB Account Rental FB Account Rental']",0.1,Debit,119049.58,False,False
+12,31/03,"['TR IBG', 'SHAZA NURMELINA BINT', 'BM Freelance Writer']",220.0,Debit,119049.68,False,False
+13,31/03,"['OTHER TRANSFER FEE', 'BM Freelance Writer BM Freelance Writer']",0.1,Debit,119269.68,False,False
+14,31/03,"['TR IBG', 'CHIN YUEN KUAN', 'FB Account Rental']",103.23,Debit,119269.78,False,False
+15,31/03,"['OTHER TRANSFER FEE', 'FB Account Rental FB Account Rental']",0.1,Debit,119373.01,False,False
+16,30/03,"['TR FROM CA', 'The Golden Era', 'The Golden Era', 'THE GOLDEN ERA SDN.']",1000.0,Credit,119373.11,False,False
+17,27/03,"['IBG CREDIT', 'PY12366134', '261', 'PY12366134', 'NIUM SDN. BHD.']",67499.96,Credit,118373.11,False,False
+18,27/03,"['INSTANT TRANSFER', '00421320', 'DESIRE LIFESTYLE SDN']",2000.0,Credit,50873.15,False,False
+19,27/03,"['TR TO SAVINGS', 'CHEONG HUEI LING', 'PAYROLL PANDA YEARLY']",1340.69,Debit,48873.15,False,False
+20,20/03,['CHQ PROCESSING FEE'],0.5,Debit,50213.84,False,False
+21,20/03,['CLRG CHQ DR'],24000.0,Debit,50214.34,False,False
+22,20/03,"['INSTANT TRANSFER', '00360208', 'VANZO ASIA SDN. BHD.']",6360.0,Credit,74214.34,False,False
+23,17/03,"['IBG CREDIT', 'PY12288389', '784', 'PY12288389', 'NIUM SDN. BHD.']",67500.11,Credit,67854.34,False,False
+24,17/03,"['AUTOPAY CR', 'BIZ BOOSTER NB(JAN20)', 'BIZ BOOSTER NB(JAN20', 'CIMB BANK BERHAD - C']",39.49,Credit,354.23,False,False
+25,16/03,"['I-PAYMENT', 'FPXPAY TT DOTCOM SDN BHD 01', 'FPX0F1B7A12249270507']",358.39,Debit,314.74,False,False
+26,16/03,"['JOMPAY', '1030850273', '73GSI7RN8888', '73GSI7RN8888', '1030850273']",348.75,Debit,673.13,False,False
+27,13/03,"['I-PAYMENT', 'FPXPAY PERTUBUHAN KESELAMATAN', 'SOSIAL', '20200313111124_68337']",1587.7,Debit,1021.88,False,False
+28,13/03,"['I-PAYMENT', 'FPXPAY LEMBAGA HASIL DALAM', 'NEGERI MAL', 'PEDC20001516']",12808.55,Debit,2609.58,False,False
+29,13/03,"['I-PAYMENT', 'FPXPAY PERTUBUHAN KESELAMATAN', 'SOSIAL', '20200313111906_24942']",282.4,Debit,15418.13,False,False
+30,13/03,"['I-PAYMENT', 'FPXPAY KUMPULAN WANG SIMPANAN', 'PEKERJA', '0320200019310035C112']",35416.0,Debit,15700.53,False,False
+31,13/03,"['INSTANT TRANSFER', 'mbbto cimb', 'WAVELY LABS SDN. BHD']",15000.0,Credit,51116.53,False,False
+32,12/03,"['IBG CREDIT', 'PY12254669', '771', 'PY12254669', 'NIUM SDN. BHD.']",7059.49,Credit,36116.53,False,False
+33,10/03,"['TR FROM CA', 'MORANE GLOBAL', 'MORANE GLOBAL', 'MORANE GLOBAL SDN.']",10600.0,Credit,29057.04,False,False
+34,09/03,['CHQ PROCESSING FEE'],0.5,Debit,18457.04,False,False
+35,09/03,['CLRG CHQ DR'],1759.6,Debit,18457.54,False,False
+36,06/03,['2D LOCAL CHQ'],6000.0,Credit,20217.14,False,False
+37,06/03,"['TR IBG', 'ZAINUDIN BIN KARJAN', 'rental202003']",4000.0,Debit,14217.14,False,False
+38,06/03,"['OTHER TRANSFER FEE', 'rental202003 rental202003']",0.1,Debit,18217.14,False,False
+39,06/03,"['JOMPAY', '9928:09558446 736XG4UG']",396.0,Debit,18217.24,False,False
+40,06/03,"['TR IBG', 'JJ PROVIDER SDN BHD', 'rental202003']",4700.0,Debit,18613.24,False,False
+41,06/03,"['OTHER TRANSFER FEE', 'rental202003 rental202003']",0.1,Debit,23313.24,False,False
+42,06/03,"['TR IBG', 'PERBADANAN PENGURUSA', 'inv8902n03n9016n15']",993.85,Debit,23313.34,False,False
+43,06/03,"['OTHER TRANSFER FEE', 'inv8902n03n9016n15 c1009n08']",0.1,Debit,24307.19,False,False
+44,05/03,"['INSTANT TRANSFER', '00113861', 'DESIRE LIFESTYLE SDN']",2000.0,Credit,24307.29,False,False
+45,05/03,"['INSTANT TRANSFER', '00105925', 'EVERRO MANAGEMENT SD']",6360.0,Credit,22307.29,False,False
+46,04/03,"['TR IBG', 'dell global business', 'quote30956513']",640.0,Debit,15947.29,False,False
+47,04/03,"['OTHER TRANSFER FEE', 'quote30956513 quote30956513']",0.1,Debit,16587.29,False,False
+48,02/03,['CHQ PROCESSING FEE'],1.0,Debit,16587.39,False,False
+49,02/03,['CLRG CHQ DR'],24000.0,Debit,16588.39,False,False
+50,02/03,['CLRG CHQ DR'],24000.0,Debit,40588.39,False,False
+51,02/03,"['IBG CREDIT', '202002 00005', '359', '202002 00005', 'THE GOLDEN SPACE (M)']",6360.0,Credit,64588.39,False,False
+52,,['CLOSING BALANCE'],,,118479.61,False,False
+53,,['Total Withdrawal'],,,137531.81,False,False
+54,,['Total Deposits'],,,197783.03,False,False

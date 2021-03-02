@@ -1,0 +1,6 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BEGINNING BALANCE'],,,93526.83,False,False
+1,,['ENDING BALANCE'],,,119969.22,False,False
+2,,['LEDGER BALANCE'],,,119969.22,False,False
+3,,['TOTAL DEBIT'],,,792026.54,False,False
+4,,['TOTAL CREDIT'],,,818468.93,False,False

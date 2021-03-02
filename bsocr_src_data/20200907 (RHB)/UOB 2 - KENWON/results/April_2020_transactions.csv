@@ -1,0 +1,25 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,03/03,"['IBG CR', 'KENWON KARTON SB', 'IEBK030368943900', 'PBB KENWON KARTON', 'SDN BHD']",200000.0,Credit,61957.19,False,False
+1,04/03,"['DR', '345BA136704', 'Trade Bill Transfer', '345BA136704 345']",117000.0,Debit,55042.81,True,False
+2,04/03,"['DR', '345BA137512', 'Trade Bill Transfer', '345BA137512 345']",3744.47,Debit,58787.28,True,False
+3,05/03,"['DR', '345BA137545', 'Trade Bill Transfer', '345BA137545 345']",2884.24,Debit,61671.52,True,False
+4,05/03,"['CR', '345BA137545', 'Trade Bill Transfer', '345BA137545 345']",390000.0,Credit,328328.48,False,False
+5,05/03,"['Misc DR Loan', 'Trf. Wd. Loans', '3458047977-00000']",36191.95,Debit,292136.53,False,False
+6,06/03,"['DR', '345BA136892', 'Trade Bill Transfer', '345BA136892 345']",411000.0,Debit,118863.47,True,False
+7,06/03,"['IBG Debit', 'UIEI060301', 'IBG BULK PAYROLL/PMT']",171693.62,Debit,290557.09,True,False
+8,06/03,"['IBG Charge', 'UIEI060301', 'IBG BULK PAYROLL/PMT']",7.8,Debit,290564.89,True,False
+9,09/03,"['IBG CR', 'SALARY', 'SALARY', 'INVALID ID']",1493.8,Credit,289071.09,True,False
+10,09/03,"['DR', '345BA137567', 'Trade Bill Transfer', '345BA137567 345']",3121.85,Debit,292192.94,True,False
+11,09/03,"['CR', '345BA137567', 'Trade Bill Transfer', '345BA137567 345']",406000.0,Credit,113807.06,False,False
+12,09/03,"['DR', '345BA136201', 'Trade Bill Transfer', '345BA136201 345']",391000.0,Debit,277192.94,True,False
+13,18/03,"['DR', '345BA137720', 'Trade Bill Transfer', '345BA137720 345']",1536.01,Debit,278728.95,True,False
+14,18/03,"['CR', '345BA137720', 'Trade Bill Transfer', '345BA137720 345']",203000.0,Credit,75728.95,True,False
+15,20/03,"['DR', '345BA137057', 'Trade Bill Transfer', '345BA137057 345']",202000.0,Debit,277728.95,True,False
+16,26/03,"['DR', '345BA137819', 'Trade Bill Transfer', '345BA137819 345']",2787.99,Debit,280516.94,True,False
+17,26/03,"['CR', '345BA137819', 'Trade Bill Transfer', '345BA137819 345']",401000.0,Credit,120483.06,False,False
+18,27/03,"['DR', '345BA137826', 'Trade Bill Transfer', '345BA137826 345']",1673.78,Debit,118809.28,False,False
+19,31/03,"['IBG CR', 'KENWON KARTON SB', 'IEBK033193942069', 'PBB KENWON KARTON', 'SDN BHD']",200000.0,Credit,318809.28,False,False
+20,31/03,['OD Int Charge'],1156.71,Debit,317652.57,False,False
+21,31/03,['OD Commitment Fee Ch'],98.02,Debit,317554.55,False,False
+22,,['Deposits'],,,1801493.8,False,False
+23,,['Withdrawals'],,,1345896.44,False,False

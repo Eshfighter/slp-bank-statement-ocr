@@ -1,0 +1,757 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,6791.1,False,False
+1,01/11,"['Returned Cheque', 'OCBC 000340']",4173.0,Debit,2618.1,False,False
+2,01/11,"['Misc CR-Debit Card', '30 OCT 8858', 'UOB Cash Rebate']",3.55,Credit,2621.65,False,False
+3,01/11,"['Misc DR-Debit Card', '31 OCT 8858 0502574', 'C7537832 HDB SEASON PARKING', '53783']",90.0,Debit,2531.65,False,False
+4,01/11,"['Misc DR-Debit Card', '31 OCT 8858 0502582', 'C7537878 HDB SEASON PARKING', '53787']",120.0,Debit,2411.65,False,False
+5,01/11,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,1411.65,False,False
+6,01/11,"['Cheque Withdrawal', '0852371']",281.41,Debit,1130.24,False,False
+7,02/11,"['Cash Withdrawal-ATM', '5592212010168858']",500.0,Debit,630.24,False,False
+8,02/11,"['Misc DR-Debit Card', '31 OCT 8858 5161425', 'AXS PTE LTD', 'SINGAPORE SG']",200.0,Debit,430.24,False,False
+9,04/11,"['Funds Transfer', 'iBK-CHI KEONG']",4708.0,Credit,5138.24,False,False
+10,04/11,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1000.0,Debit,4138.24,False,False
+11,04/11,"['Cheque Withdrawal', '0852382']",1337.0,Debit,2801.24,False,False
+12,05/11,"['Funds Transfer', 'mBK-Transfer']",150.0,Credit,2951.24,False,False
+13,05/11,"['Cheque Withdrawal', '0852368']",119.59,Debit,2831.65,False,False
+14,05/11,"['Cheque Withdrawal', '0852381']",256.11,Debit,2575.54,False,False
+15,06/11,"['Inward CR - GIRO', 'OTHR Other', ""L'OPERA GROUP PTE. L"", '14747/19/CS']",877.4,Credit,3452.94,False,False
+16,06/11,['Cheque Deposit'],1610.35,Credit,5063.29,False,False
+17,06/11,['Cheque Deposit'],7501.2,Credit,12564.49,False,False
+18,06/11,"['Misc Debit', 'PMRCSHDEWT/1019', 'PMRSG31102019006071', 'OTC CASH DEPO/ WTH CHG']",25.0,Debit,12539.49,False,False
+19,06/11,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",500.0,Debit,12039.49,False,False
+20,07/11,"['Cash Withdrawal-ATM', '5592212010168858']",200.0,Debit,11839.49,False,False
+21,07/11,['Cash 0852395'],3300.0,Debit,8539.49,False,False
+22,07/11,['Cash 0852394'],5200.0,Debit,3339.49,False,False
+23,07/11,"['Inward CR - GIRO', 'OTHR Other', 'ONE15 MARINA CLUB', 'SGGP191024077086']",588.5,Credit,3927.99,False,False
+24,07/11,['Cheque Deposit'],481.5,Credit,4409.49,False,False
+25,07/11,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",20697.53,Credit,25107.02,False,False
+26,07/11,"['Cheque Withdrawal', '0852366']",492.39,Debit,24614.63,False,False
+27,08/11,"['Funds Transfer-IB', 'FT19110060042252', 'FT19110060042252']",15857.21,Debit,8757.42,False,False
+28,08/11,"['Funds Transfer', 'iBK-CHI KEONG']",19000.0,Credit,27757.42,False,False
+29,08/11,['Cash 0852401'],1600.0,Debit,26157.42,False,False
+30,08/11,['Cash 0852402'],8104.4,Debit,18053.02,False,False
+31,08/11,['Cash 0852400'],104.0,Debit,17949.02,False,False
+32,08/11,['Cash 0852399'],1600.0,Debit,16349.02,False,False
+33,08/11,['Cheque Deposit'],4173.0,Credit,20522.02,False,False
+34,08/11,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000011522019']",8183.14,Credit,28705.16,False,False
+35,08/11,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '19I10I650790']",1708.15,Debit,26997.01,False,False
+36,08/11,"['Cheque Withdrawal', '0852322']",41.89,Debit,26955.12,False,False
+37,08/11,"['Cheque Withdrawal', '0852331']",78.52,Debit,26876.6,False,False
+38,08/11,"['Cheque Withdrawal', '0852346']",67.44,Debit,26809.16,False,False
+39,08/11,"['Cheque Withdrawal', '0852383']",45.26,Debit,26763.9,False,False
+40,08/11,"['Cheque Withdrawal', '0852398']",2400.0,Debit,24363.9,False,False
+41,09/11,"['Cash Withdrawal-ATM', '5592212010168858']",1500.0,Debit,22863.9,False,False
+42,11/11,"['Cash Withdrawal-ATM', '5592212010168858']",500.0,Debit,22363.9,False,False
+43,11/11,['Cash 0852404'],5000.0,Debit,17363.9,False,False
+44,11/11,['Cash 0852403'],3890.0,Debit,13473.9,False,False
+45,11/11,"['Inward CR - GIRO', 'OTHR Other', 'ESSENSIA PTE. LTD.', 'FOR GAS SUPPLY']",2942.5,Credit,16416.4,False,False
+46,11/11,"['Misc DR-Debit Card', '07 NOV 8858 9668233', 'NHG PHARMACY-AMK', 'SINGAPORE SG']",92.4,Debit,16324.0,False,False
+47,11/11,"['Cheque Withdrawal', '0852361']",180.0,Debit,16144.0,False,False
+48,11/11,"['Cheque Withdrawal', '0852373']",432.0,Debit,15712.0,False,False
+49,11/11,"['Cheque Withdrawal', '0852386']",1825.0,Debit,13887.0,False,False
+50,11/11,"['Cheque Withdrawal', '0852393']",6000.0,Debit,7887.0,False,False
+51,11/11,"['Cheque Withdrawal', '0852397']",1200.0,Debit,6687.0,False,False
+52,12/11,"['Funds Transfer-IB', 'FT19110060204483', 'FT19110060204483']",4300.0,Debit,2387.0,False,False
+53,12/11,"['Misc DR-Debit Card', '09 NOV 8858 0461114', '00000000D1R46L FLYSCOOT.COM']",58.0,Debit,2329.0,False,False
+54,12/11,"['Cash Withdrawal-ATM', '5592212010168858']",1250.0,Debit,1079.0,False,False
+55,12/11,['Cheque Deposit'],192.6,Credit,1271.6,False,False
+56,13/11,"['Misc DR-Debit Card', '09 NOV 8858 0066779', 'WU PING LANG RESTAURAN SINGAPORE', '198SG']",42.0,Debit,1229.6,False,False
+57,13/11,"['Misc DR-Debit Card', '11 NOV 8858 5600071', 'OG - ALBERT', 'SINGAPORE SG']",465.4,Debit,764.2,False,False
+58,13/11,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",19785.72,Credit,20549.92,False,False
+59,13/11,"['Cheque Withdrawal', '0852388']",106.57,Debit,20443.35,False,False
+60,14/11,"['Funds Transfer-IB', 'FT19110060336824', 'FT19110060336824']",12201.53,Debit,8241.82,False,False
+61,14/11,"['Funds Transfer', 'iBK-CHI KEONG']",9467.51,Credit,17709.33,False,False
+62,14/11,['Cash 0852408'],7500.0,Debit,10209.33,False,False
+63,14/11,"['Misc DR-Debit Card', '11 NOV 8858 4800052', 'THAI VILLAGE RESTAURAN SINGAPORE SG']",190.65,Debit,10018.68,False,False
+64,14/11,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000011862019']",52411.17,Credit,62429.85,False,False
+65,15/11,"['Funds Transfer-IB', 'FT19110060413666', 'FT19110060413666']",48367.24,Debit,14062.61,False,False
+66,15/11,"['Funds Transfer', 'iBK']",9100.0,Credit,23162.61,False,False
+67,15/11,"['Inward CR - GIRO', 'OTHR Other', 'PENTA-OCEAN CONSTRUC', 'Penta-Ocean Construction Co. Ltd.']",1070.0,Credit,24232.61,False,False
+68,15/11,"['Cash Withdrawal-ATM', '5592212010168858']",300.0,Debit,23932.61,False,False
+69,15/11,"['Funds Transfer', 'mBK-Transfer']",300.0,Credit,24232.61,False,False
+70,15/11,"['Funds Transfer', 'mBK-Transfer']",1000.0,Credit,25232.61,False,False
+71,15/11,"['Cheque Withdrawal', '0852405']",9069.5,Debit,16163.11,False,False
+72,16/11,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1000.0,Debit,15163.11,False,False
+73,16/11,"['Misc DR-Debit Card', '13 NOV 8858 0052320', 'SINGJOINT PTE LTD', 'SINGAPORE 208SG']",78.0,Debit,15085.11,False,False
+74,18/11,"['Funds Transfer', 'iBK']",5169.0,Credit,20254.11,False,False
+75,18/11,"['Funds Transfer', 'iBK']",411.0,Credit,20665.11,False,False
+76,18/11,['Cash Deposit-CDM'],7500.0,Credit,28165.11,False,False
+77,18/11,"['Inward DR - GIRO', 'COLL 076258-', 'CPF', 'BFWL']",6239.61,Debit,21925.5,False,False
+78,18/11,"['Funds Transfer', 'mBK-Transfer']",400.0,Credit,22325.5,False,False
+79,18/11,"['Cheque Withdrawal', '0852358']",7982.2,Debit,14343.3,False,False
+80,18/11,"['Cheque Withdrawal', '0852364']",1381.48,Debit,12961.82,False,False
+81,18/11,"['Cheque Withdrawal', '0852387']",596.0,Debit,12365.82,False,False
+82,18/11,"['Cheque Withdrawal', '0852390']",4000.63,Debit,8365.19,False,False
+83,18/11,"['Cheque Withdrawal', '0852407']",3955.2,Debit,4409.99,False,False
+84,18/11,"['Cheque Withdrawal', '0852409']",262.15,Debit,4147.84,False,False
+85,18/11,"['Cheque Withdrawal', '0852410']",120.0,Debit,4027.84,False,False
+86,18/11,"['Cheque Withdrawal', '0852411']",450.0,Debit,3577.84,False,False
+87,18/11,"['Cheque Withdrawal', '0852412']",181.0,Debit,3396.84,False,False
+88,19/11,"['Cash Withdrawal-SATM', 'OCBC151806', '5592212010168858']",650.0,Debit,2746.84,False,False
+89,19/11,['Cash Deposit-CDM'],650.0,Credit,3396.84,False,False
+90,19/11,"['Misc DR-Debit Card', '18 NOV 8858 0274438', '000410-014115-010319 NATIONAL HEART CTR']",177.62,Debit,3219.22,False,False
+91,19/11,['Cheque Deposit'],6286.99,Credit,9506.21,False,False
+92,19/11,['Cheque Deposit'],428.0,Credit,9934.21,False,False
+93,19/11,"['Cheque Withdrawal', '0852363']",216.12,Debit,9718.09,False,False
+94,19/11,"['Cheque Withdrawal', '0852406']",2937.36,Debit,6780.73,False,False
+95,20/11,"['Funds Transfer', 'iBK-CHIKEONG']",16282.16,Credit,23062.89,False,False
+96,20/11,['Cash 0852422'],1600.0,Debit,21462.89,False,False
+97,20/11,['Cash 0852416'],8389.95,Debit,13072.94,False,False
+98,20/11,"['Inward CR - GIRO', 'OTHR Other', 'ESSENSIA PTE. LTD.', 'FOR GAS SUPPLY']",2942.5,Credit,16015.44,False,False
+99,20/11,"['Inward CR - GIRO', 'OTHR Other', 'FOOD JUNCTION MANAGE', 'SGGP191111006401']",989.75,Credit,17005.19,False,False
+100,20/11,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000012182019']",5864.67,Credit,22869.86,False,False
+101,20/11,"['Cheque Withdrawal', '0852359']",11681.19,Debit,11188.67,False,False
+102,20/11,"['Cheque Withdrawal', '0852392']",38.8,Debit,11149.87,False,False
+103,21/11,"['Cash Withdrawal-ATM', '5592212010168858']",400.0,Debit,10749.87,False,False
+104,21/11,"['Funds Transfer-IB', 'FT19110060791257', 'FT19110060791257']",5580.0,Debit,5169.87,False,False
+105,21/11,"['Cheque Withdrawal', '0852417']",1200.0,Debit,3969.87,False,False
+106,21/11,"['Cheque Withdrawal', '0852420']",1600.0,Debit,2369.87,False,False
+107,21/11,"['Cheque Withdrawal', '0852421']",253.21,Debit,2116.66,False,False
+108,22/11,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",4627.42,Credit,6744.08,False,False
+109,22/11,"['Cheque Withdrawal', '0852414']",1473.17,Debit,5270.91,False,False
+110,22/11,"['Cheque Withdrawal', '0852415']",501.0,Debit,4769.91,False,False
+111,22/11,"['Cheque Withdrawal', '0852423']",138.0,Debit,4631.91,False,False
+112,23/11,['Cash 0852396'],1250.0,Debit,3381.91,False,False
+113,23/11,['Cash 0852418'],1250.0,Debit,2131.91,False,False
+114,25/11,['Cheque Deposit'],2503.8,Credit,4635.71,False,False
+115,25/11,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '19I11I656520']",1689.27,Debit,2946.44,False,False
+116,26/11,"['Cash Withdrawal-ATM', '5592212010168858']",300.0,Debit,2646.44,False,False
+117,26/11,"['Returned Cheque', 'OCBC 000358']",2503.8,Debit,142.64,False,False
+118,26/11,"['NETS Debit-Consumer', 'CHOO CHIAN13084000', '5592212010168858']",42.27,Debit,100.37,False,False
+119,26/11,"['Funds Transfer', 'mBK-Transfer']",300.0,Credit,400.37,False,False
+120,26/11,['Cheque Deposit'],6805.2,Credit,7205.57,False,False
+121,26/11,"['Funds Transfer', 'mBK-Transfer']",200.0,Credit,7405.57,False,False
+122,26/11,"['Cheque Withdrawal', '0852389']",535.52,Debit,6870.05,False,False
+123,28/11,['Cash 0852452'],6500.0,Debit,370.05,False,False
+124,28/11,"['Inward DR - GIRO', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC191127196010']",2728.5,Debit,2358.45,True,False
+125,28/11,"['Inward DR - GIRO Cor', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC191127196010']",2728.5,Credit,370.05,False,False
+126,28/11,"['Service Charge', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC191127196010']",10.0,Debit,360.05,False,False
+127,28/11,"['Funds Transfer', 'mBK-Transfer']",2800.0,Credit,3160.05,False,False
+128,29/11,"['Inward Credit-FAST', 'OTHR Other', 'TAN CHUNG ANN HAGEN', 'Transfer']",1070.0,Credit,4230.05,False,False
+129,29/11,['Cash 0852454'],800.0,Debit,3430.05,False,False
+130,30/11,"['Misc DR-Debit Card', '29 NOV 8858 0628879', 'C7744882 HDB SEASON PARKING', '74488']",120.0,Debit,3310.05,False,False
+131,30/11,"['Misc DR-Debit Card', '29 NOV 8858 0628895', 'C7744902 HDB SEASON PARKING', '74490']",90.0,Debit,3220.05,False,False
+132,30/11,['Cheque Charges'],16.5,Debit,3203.55,False,False
+133,,['Total Withdrawals'],,,235790.21,False,False
+134,,['Total Deposits'],,,232202.66,False,False
+135,,['Total'],,,3203.55,False,False
+136,,['BALANCE B/F'],,,3203.55,False,False
+137,02/12,"['Funds Transfer', 'iBK']",7300.0,Credit,10503.55,False,False
+138,02/12,"['Funds Transfer', 'iBK']",3600.0,Credit,14103.55,False,False
+139,02/12,"['Funds Transfer-IB', 'FT19110061478604', 'FT19110061478604']",7300.0,Debit,6803.55,False,False
+140,02/12,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,5803.55,False,False
+141,02/12,"['Funds Transfer-IB', 'FT19120061497016', 'FT19120061497016']",3600.0,Debit,2203.55,False,False
+142,02/12,"['Misc CR-Debit Card', '29 NOV 8858', 'UOB Cash Rebate']",3.38,Credit,2206.93,False,False
+143,02/12,"['Cheque Withdrawal', '0852453']",80.0,Debit,2126.93,False,False
+144,03/12,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",300.0,Debit,1826.93,False,False
+145,03/12,"['Cash Withdrawal-ATM', '5592212010168858']",1500.0,Debit,326.93,False,False
+146,03/12,"['Misc DR-Debit Card', '29 NOV 8858 0088522', 'SINGJOINT PTE LTD', 'SINGAPORE 208SG']",78.0,Debit,248.93,False,False
+147,03/12,['Cheque Deposit'],4280.0,Credit,4528.93,False,False
+148,04/12,['Cheque Deposit'],9005.1,Credit,13534.03,False,False
+149,04/12,"['Funds Transfer', 'mBK-Transfer']",250.0,Credit,13784.03,False,False
+150,04/12,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",21751.28,Credit,35535.31,False,False
+151,04/12,"['Cheque Withdrawal', '0852432']",2889.0,Debit,32646.31,False,False
+152,04/12,"['Cheque Withdrawal', '0852447']",150.0,Debit,32496.31,False,False
+153,04/12,"['Cheque Withdrawal', '0852450']",432.0,Debit,32064.31,False,False
+154,05/12,"['Funds Transfer-IB', 'FT19120061801624', 'FT19120061801624']",19000.0,Debit,13064.31,False,False
+155,05/12,"['Funds Transfer', 'iBK-CHI KEONG']",17076.71,Credit,30141.02,False,False
+156,05/12,['Cash 0852458'],1600.0,Debit,28541.02,False,False
+157,05/12,['Cash 0852457'],8308.2,Debit,20232.82,False,False
+158,05/12,"['Funds Transfer-ATM', '5592212010168858', 'TO 3441020897']",250.0,Debit,19982.82,False,False
+159,05/12,"['Misc DR-Debit Card', '02 DEC 8858 7569685', 'WAH KUNGFU', 'SINGAPORE SG']",74.2,Debit,19908.62,False,False
+160,05/12,"['Cash Withdrawal-ATM', '5592212010168858']",1500.0,Debit,18408.62,False,False
+161,05/12,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,17408.62,False,False
+162,05/12,"['Cheque Withdrawal', '0852424']",101.0,Debit,17307.62,False,False
+163,05/12,"['Cheque Withdrawal', '0852451']",203.0,Debit,17104.62,False,False
+164,05/12,"['Cheque Withdrawal', '0852455']",249.0,Debit,16855.62,False,False
+165,05/12,"['Cheque Withdrawal', '0852459']",1600.0,Debit,15255.62,False,False
+166,05/12,"['Cheque Withdrawal', '0852460']",139.0,Debit,15116.62,False,False
+167,05/12,"['Cheque Withdrawal', '0852461']",2400.0,Debit,12716.62,False,False
+168,05/12,"['Cheque Withdrawal', '0852464']",1200.0,Debit,11516.62,False,False
+169,06/12,['Cash 0852466'],7300.0,Debit,4216.62,False,False
+170,06/12,['Cash Deposit-CDM'],1500.0,Credit,5716.62,False,False
+171,06/12,['Cash 0852463'],1250.0,Debit,4466.62,False,False
+172,06/12,"['Misc Debit', 'PMRCSHDEWT/1119', 'PMRSG30112019006248', 'OTC CASH DEPO/ WTH CHG']",10.0,Debit,4456.62,False,False
+173,06/12,"['Cheque Withdrawal', '0852439']",1344.46,Debit,3112.16,False,False
+174,06/12,"['Cheque Withdrawal', '0852441']",265.31,Debit,2846.85,False,False
+175,06/12,"['Cheque Withdrawal', '0852446']",123.0,Debit,2723.85,False,False
+176,06/12,"['Cheque Withdrawal', '0852465']",294.25,Debit,2429.6,False,False
+177,07/12,['Cash 0852467'],500.0,Debit,1929.6,False,False
+178,07/12,"['Misc DR-Debit Card', '05 DEC 8858 1590283', 'M1 LTD MOTO', 'SINGAPORE SG']",200.0,Debit,1729.6,False,False
+179,09/12,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,729.6,False,False
+180,09/12,"['Funds Transfer', 'iBK-hi keong']",4100.0,Credit,4829.6,False,False
+181,09/12,"['Inward DR - GIRO', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC191206107111']",2747.83,Debit,2081.77,False,False
+182,09/12,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000013042019']",44876.87,Credit,46958.64,False,False
+183,10/12,"['Funds Transfer-IB', 'FT19120062084385', 'FT19120062084385']",10900.0,Debit,36058.64,False,False
+184,10/12,"['Funds Transfer-IB', 'FT19120062084633', 'FT19120062084633']",16367.51,Debit,19691.13,False,False
+185,10/12,"['Funds Transfer', 'iBK-HIAP GST']",6672.11,Credit,26363.24,False,False
+186,10/12,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '19I11I663778']",2109.57,Debit,24253.67,False,False
+187,10/12,"['Cheque Withdrawal', '0852436']",1692.28,Debit,22561.39,False,False
+188,10/12,"['Cash Withdrawal-ATM', '5592212010168858']",700.0,Debit,21861.39,False,False
+189,11/12,['Cash 0852470'],2800.0,Debit,19061.39,False,False
+190,11/12,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",27503.24,Credit,46564.63,False,False
+191,12/12,['Cash 0852476'],500.0,Debit,46064.63,False,False
+192,12/12,['Cash 0852473'],3000.0,Debit,43064.63,False,False
+193,12/12,"['Cheque Withdrawal', '0852430']",1594.09,Debit,41470.54,False,False
+194,12/12,"['Cheque Withdrawal', '0852433']",3360.44,Debit,38110.1,False,False
+195,12/12,"['Cheque Withdrawal', '0852444']",90.0,Debit,38020.1,False,False
+196,12/12,"['Cheque Withdrawal', '0852448']",459.03,Debit,37561.07,False,False
+197,12/12,"['Cheque Withdrawal', '0852456']",90.0,Debit,37471.07,False,False
+198,12/12,"['Cheque Withdrawal', '0852468']",11672.11,Debit,25798.96,False,False
+199,13/12,['Cash 0852478'],500.0,Debit,25298.96,False,False
+200,13/12,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000013402019']",22111.12,Credit,47410.08,False,False
+201,13/12,"['Cheque Withdrawal', '0852429']",493.75,Debit,46916.33,False,False
+202,13/12,"['Cheque Withdrawal', '0852442']",534.25,Debit,46382.08,False,False
+203,13/12,"['Cheque Withdrawal', '0852445']",802.5,Debit,45579.58,False,False
+204,13/12,"['Cheque Withdrawal', '0852471']",3955.2,Debit,41624.38,False,False
+205,13/12,"['Cheque Withdrawal', '0852475']",130.0,Debit,41494.38,False,False
+206,14/12,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,40494.38,False,False
+207,16/12,"['Funds Transfer-ATM', '5592212010168858', 'TO 3441020897']",1000.0,Debit,39494.38,False,False
+208,16/12,"['Funds Transfer-IB', 'FT19120062469996', 'FT19120062469996']",22373.39,Debit,17120.99,False,False
+209,16/12,"['Funds Transfer', 'iBK']",12700.0,Credit,29820.99,False,False
+210,16/12,"['Funds Transfer-IB', 'FT19120062478416', 'FT19120062478416']",570.0,Debit,29250.99,False,False
+211,16/12,"['Misc DR-Debit Card', '12 DEC 8858 0054354', 'SINGJOINT PTE LTD', 'SINGAPORE 208SG']",78.0,Debit,29172.99,False,False
+212,16/12,"['Cheque Withdrawal', '0852431']",984.4,Debit,28188.59,False,False
+213,16/12,"['Cheque Withdrawal', '0852440']",2792.81,Debit,25395.78,False,False
+214,16/12,"['Cheque Withdrawal', '0852469']",321.0,Debit,25074.78,False,False
+215,17/12,"['Cash Withdrawal-ATM', '5592212010168858']",600.0,Debit,24474.78,False,False
+216,17/12,"['Funds Transfer', 'iBK-CHI KEONG']",7265.74,Credit,31740.52,False,False
+217,17/12,"['Inward DR - GIRO', 'COLL 076258-', 'CPF', 'BFWL']",6210.0,Debit,25530.52,False,False
+218,17/12,['Cheque Deposit'],3146.69,Credit,28677.21,False,False
+219,17/12,"['Cheque Withdrawal', '0852437']",192.6,Debit,28484.61,False,False
+220,17/12,"['Cheque Withdrawal', '0852474']",355.0,Debit,28129.61,False,False
+221,17/12,"['Cheque Withdrawal', '0852480']",9070.5,Debit,19059.11,False,False
+222,18/12,['Cash 0852483'],2332.64,Debit,16726.47,False,False
+223,18/12,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",200.0,Debit,16526.47,False,False
+224,18/12,"['Cheque Withdrawal', '0852479']",80.0,Debit,16446.47,False,False
+225,19/12,['Cheque Deposit'],428.0,Credit,16874.47,False,False
+226,19/12,"['Cheque Withdrawal', '0852449']",214.0,Debit,16660.47,False,False
+227,19/12,"['Cheque Withdrawal', '0852477']",577.8,Debit,16082.67,False,False
+228,19/12,"['Cheque Withdrawal', '0852482']",1026.13,Debit,15056.54,False,False
+229,20/12,"['Cash Withdrawal-ATM', '5592212010168858']",500.0,Debit,14556.54,False,False
+230,20/12,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",27930.38,Credit,42486.92,False,False
+231,20/12,"['Cheque Withdrawal', '0852425']",12690.2,Debit,29796.72,False,False
+232,21/12,['Cash 0852490'],1600.0,Debit,28196.72,False,False
+233,21/12,['Cash 0852491'],1750.0,Debit,26446.72,False,False
+234,21/12,['Cash 0852484'],198.94,Debit,26247.78,False,False
+235,21/12,['Cash 0852485'],102.18,Debit,26145.6,False,False
+236,23/12,"['Cash Withdrawal-ATM', '5592212010168858']",300.0,Debit,25845.6,False,False
+237,23/12,"['Funds Transfer-IB', 'FT19120062918284', 'FT19120062918284']",22825.92,Debit,3019.68,False,False
+238,23/12,"['Funds Transfer', 'mBK-Transfer']",10300.0,Credit,13319.68,False,False
+239,23/12,['Cash 0852495'],1600.0,Debit,11719.68,False,False
+240,23/12,['Cash 0852496'],630.8,Debit,11088.88,False,False
+241,23/12,['Cash 0852494'],6792.45,Debit,4296.43,False,False
+242,23/12,"['Cheque Withdrawal', '0852486']",1200.0,Debit,3096.43,False,False
+243,24/12,"['Misc DR-Debit Card', '20 DEC 8858 0094011', 'SINGJOINT PTE LTD', 'SINGAPORE 208SG']",78.0,Debit,3018.43,False,False
+244,24/12,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,2018.43,False,False
+245,26/12,"['Funds Transfer', 'mBK-Transfer']",1600.0,Credit,3618.43,False,False
+246,26/12,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,2618.43,False,False
+247,26/12,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000014042019']",63065.37,Credit,65683.8,False,False
+248,26/12,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '19I12I668250']",1662.8,Debit,64021.0,False,False
+249,27/12,"['Funds Transfer-IB', 'FT19120063231058', 'FT19120063231058']",63430.98,Debit,590.02,False,False
+250,27/12,"['Funds Transfer', 'iBK-CHI KEONG']",2778.0,Credit,3368.02,False,False
+251,28/12,['Cash 0852493'],1250.0,Debit,2118.02,False,False
+252,28/12,"['Misc DR-Debit Card', '25 DEC 8858 1791847', ""GRANNY'S SECRET RESTAU SINGAPORE SG""]",101.2,Debit,2016.82,False,False
+253,30/12,"['Cash Withdrawal-ATM', '5592212010168858']",500.0,Debit,1516.82,False,False
+254,30/12,"['Funds Transfer', 'iBK']",14756.0,Credit,16272.82,False,False
+255,30/12,"['Funds Transfer-IB', 'FT19120063420897', 'FT19120063420897']",7300.0,Debit,8972.82,False,False
+256,30/12,"['Funds Transfer-IB', 'FT19120063421038', 'FT19120063421038']",3600.0,Debit,5372.82,False,False
+257,30/12,"['Inward DR - GIRO', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC191227181426']",2728.5,Debit,2644.32,False,False
+258,30/12,"['Funds Transfer', 'mBK-Transfer']",4000.0,Credit,6644.32,False,False
+259,30/12,['Cheque Deposit'],9172.04,Credit,15816.36,False,False
+260,30/12,['Cheque Deposit'],6381.12,Credit,22197.48,False,False
+261,30/12,"['Funds Transfer', 'mBK-Transfer']",500.0,Credit,22697.48,False,False
+262,30/12,"['Cheque Withdrawal', '0852435']",267.5,Debit,22429.98,False,False
+263,30/12,"['Cheque Withdrawal', '0852488']",501.0,Debit,21928.98,False,False
+264,30/12,"['Cheque Withdrawal', '0852489']",432.0,Debit,21496.98,False,False
+265,31/12,"['Funds Transfer', 'mBK-Transfer']",14000.0,Credit,35496.98,False,False
+266,31/12,"['Cheque Withdrawal', '0852497']",80.0,Debit,35416.98,False,False
+267,31/12,"['Cheque Withdrawal', '0852498']",165.6,Debit,35251.38,False,False
+268,31/12,['Cheque Charges'],24.0,Debit,35227.38,False,False
+269,,['Total Withdrawals'],,,316029.32,False,False
+270,,['Total Deposits'],,,348053.15,False,False
+271,,['Total'],,,35227.38,False,False
+272,,['BALANCE B/F'],,,35227.38,False,False
+273,02/01,"['Cash Withdrawal-ATM', '5592212010168858']",500.0,Debit,34727.38,False,False
+274,02/01,"['Cash Withdrawal-SATM', 'OCBC094733', '5592212010168858']",500.0,Debit,34227.38,False,False
+275,02/01,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",4000.0,Debit,30227.38,False,False
+276,02/01,['Cash 0852517'],7800.0,Debit,22427.38,False,False
+277,02/01,"['Misc CR-Debit Card', '30 DEC 8858', 'UOB Cash Rebate']",1.81,Credit,22429.19,False,False
+278,02/01,"['Misc DR-Debit Card', '29 DEC 8858 0057729', 'SINGJOINT PTE LTD', 'SINGAPORE 208SG']",35.0,Debit,22394.19,False,False
+279,02/01,"['Misc DR-Debit Card', '31 DEC 8858 0573308', 'C7966918 HDB SEASON PARKING', '96691']",90.0,Debit,22304.19,False,False
+280,02/01,"['Misc DR-Debit Card', '31 DEC 8858 0573340', 'C7966968 HDB SEASON PARKING', '96696']",120.0,Debit,22184.19,False,False
+281,02/01,"['Cheque Withdrawal', '0852427']",12792.5,Debit,9391.69,False,False
+282,02/01,"['Cheque Withdrawal', '0852487']",1337.0,Debit,8054.69,False,False
+283,02/01,"['Cheque Withdrawal', '0852499']",162.73,Debit,7891.96,False,False
+284,02/01,"['Cheque Withdrawal', '0852501']",2356.3,Debit,5535.66,False,False
+285,02/01,"['Cheque Withdrawal', '0852505']",120.0,Debit,5415.66,False,False
+286,03/01,"['NETS Debit-Consumer', 'CHALLENGER16318900', '5592212010168858']",19.0,Debit,5396.66,False,False
+287,03/01,"['Misc DR-Debit Card', '31 DEC 8858 1495849', 'GETZPAY', 'SINGAPORE SG']",90.95,Debit,5305.71,False,False
+288,03/01,"['Funds Transfer', 'mBK-Transfer']",900.0,Credit,6205.71,False,False
+289,03/01,"['Cheque Withdrawal', '0852506']",535.0,Debit,5670.71,False,False
+290,03/01,"['Cheque Withdrawal', '0852519']",4500.0,Debit,1170.71,False,False
+291,03/01,"['Cheque Withdrawal', '0852521']",770.92,Debit,399.79,False,False
+292,06/01,"['Funds Transfer', 'mBK-Transfer']",200.0,Credit,599.79,False,False
+293,06/01,"['Misc DR-Debit Card', '03 JAN 8858 0230152', 'M1 LTD MOTO', 'SINGAPORE SG']",121.0,Debit,478.79,False,False
+294,07/01,"['Funds Transfer', 'iBK']",16618.43,Credit,17097.22,False,False
+295,07/01,['Cash 0852508'],1600.0,Debit,15497.22,False,False
+296,07/01,['Cash 0852509'],1600.0,Debit,13897.22,False,False
+297,07/01,['Cash 0852507'],2400.0,Debit,11497.22,False,False
+298,07/01,['Cash 0852513'],7916.4,Debit,3580.82,False,False
+299,07/01,"['Misc DR-Debit Card', '05 JAN 8858 2756426', '000528-8227 MBS RISE RESTAURANT', '8-']",288.13,Debit,3292.69,False,False
+300,07/01,['Cash 0852511'],1250.0,Debit,2042.69,False,False
+301,07/01,"['Misc Debit', 'PMRCSHDEWT/1219', 'PMRSG31122019006071', 'OTC CASH DEPO/ WTH CHG']",50.0,Debit,1992.69,False,False
+302,08/01,"['Cheque Withdrawal', '0852512']",1200.0,Debit,792.69,False,False
+303,08/01,"['Cheque Withdrawal', '0852515']",200.16,Debit,592.53,False,False
+304,09/01,['Cheque Deposit'],160.5,Credit,753.03,False,False
+305,09/01,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",12397.67,Credit,13150.7,False,False
+306,09/01,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000014572019']",60049.94,Credit,73200.64,False,False
+307,10/01,"['Funds Transfer-IB', 'FT20010064164803', 'FT20010064164803']",36962.17,Debit,36238.47,False,False
+308,10/01,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",2200.0,Debit,34038.47,False,False
+309,10/01,['Cash 0852537'],5000.0,Debit,29038.47,False,False
+310,10/01,['Cheque Deposit'],1177.0,Credit,30215.47,False,False
+311,10/01,['Cheque Deposit'],3433.44,Credit,33648.91,False,False
+312,10/01,"['Misc Debit', 'PMRACCASC/0120', 'PMRSG09012020063576', 'Annual Account Fee']",35.0,Debit,33613.91,False,False
+313,10/01,"['Cash Withdrawal-SATM', 'OCBC204002', '5592212010168858']",500.0,Debit,33113.91,False,False
+314,10/01,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '19I12I675148']",1801.99,Debit,31311.92,False,False
+315,10/01,"['Cheque Withdrawal', '0852533']",974.71,Debit,30337.21,False,False
+316,10/01,"['Cheque Withdrawal', '0852536']",8000.0,Debit,22337.21,False,False
+317,11/01,"['Misc DR-Debit Card', '08 JAN 8858 5900038', 'GNC @ AMK HUB', 'SINGAPORE SG']",298.12,Debit,22039.09,False,False
+318,13/01,"['Cash Withdrawal-SATM', 'OCBC151417', '5592212010168858']",200.0,Debit,21839.09,False,False
+319,13/01,['Cash 0852544'],5500.0,Debit,16339.09,False,False
+320,13/01,"['Cheque Withdrawal', '0852523']",501.0,Debit,15838.09,False,False
+321,13/01,"['Cheque Withdrawal', '0852538']",5000.0,Debit,10838.09,False,False
+322,13/01,"['Cheque Withdrawal', '0852542']",115.0,Debit,10723.09,False,False
+323,14/01,"['Cash Withdrawal-ATM', '5592212010168858']",1500.0,Debit,9223.09,False,False
+324,14/01,['Cash Deposit-CDM'],1500.0,Credit,10723.09,False,False
+325,14/01,"['Cheque Withdrawal', '0852504']",281.95,Debit,10441.14,False,False
+326,14/01,"['Cheque Withdrawal', '0852534']",840.0,Debit,9601.14,False,False
+327,14/01,"['Cheque Withdrawal', '0852540']",9073.5,Debit,527.64,False,False
+328,15/01,"['Misc DR-Debit Card', '12 JAN 8858 8700055', 'OG - ALBERT', 'SINGAPORE SG']",129.9,Debit,397.74,False,False
+329,15/01,"['Cheque Withdrawal', '0852503']",126.03,Debit,271.71,False,False
+330,15/01,"['Cheque Withdrawal', '0852543']",64.2,Debit,207.51,False,False
+331,16/01,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000015052019']",38893.32,Credit,39100.83,False,False
+332,17/01,['Cash 0852549'],1000.0,Debit,38100.83,False,False
+333,17/01,['Cash 0852547'],1150.0,Debit,36950.83,False,False
+334,17/01,"['Inward CR - GIRO', 'OTHR Other', 'Public Utilities Boa', '3700017780/19']",102.31,Credit,37053.14,False,False
+335,17/01,"['Inward DR - GIRO', 'COLL 076258-', 'CPF', 'BFWL']",6748.71,Debit,30304.43,False,False
+336,17/01,['Cash 0852557'],1250.0,Debit,29054.43,False,False
+337,17/01,"['Cheque Withdrawal', '0852535']",120.0,Debit,28934.43,False,False
+338,17/01,"['Cheque Withdrawal', '0852539']",4019.4,Debit,24915.03,False,False
+339,17/01,"['Cheque Withdrawal', '0852546']",1200.0,Debit,23715.03,False,False
+340,18/01,['Cash 0852558'],6611.1,Debit,17103.93,False,False
+341,20/01,['Cheque Deposit'],428.0,Credit,17531.93,False,False
+342,20/01,"['Misc DR-Debit Card', '17 JAN 8858 1102487', '000411-022507-016065 HAI DI LAO - PLAZA']",188.9,Debit,17343.03,False,False
+343,20/01,"['Cheque Withdrawal', '0852413']",29.31,Debit,17313.72,False,False
+344,20/01,"['Cheque Withdrawal', '0852492']",35.77,Debit,17277.95,False,False
+345,20/01,"['Cheque Withdrawal', '0852502']",476.97,Debit,16800.98,False,False
+346,20/01,"['Cheque Withdrawal', '0852514']",35.44,Debit,16765.54,False,False
+347,20/01,"['Cheque Withdrawal', '0852524']",432.0,Debit,16333.54,False,False
+348,20/01,"['Cheque Withdrawal', '0852527']",1582.43,Debit,14751.11,False,False
+349,20/01,"['Cheque Withdrawal', '0852529']",4672.05,Debit,10079.06,False,False
+350,20/01,"['Cheque Withdrawal', '0852545']",34.9,Debit,10044.16,False,False
+351,20/01,"['Cheque Withdrawal', '0852551']",946.0,Debit,9098.16,False,False
+352,21/01,"['Cheque Withdrawal', '0852528']",906.0,Debit,8192.16,False,False
+353,21/01,"['Cheque Withdrawal', '0852550']",353.1,Debit,7839.06,False,False
+354,22/01,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,6839.06,False,False
+355,22/01,"['Funds Transfer', 'mBK-Transfer']",6500.0,Credit,13339.06,False,False
+356,22/01,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,12339.06,False,False
+357,22/01,"['Misc DR-Debit Card', 'MYR 419.95', '20 JAN 8858 7820610', 'FIREFLY-SSL-ECTO', 'SUBANG', 'MY']",143.56,Debit,12195.5,False,False
+358,22/01,['Cheque Deposit'],3840.29,Credit,16035.79,False,False
+359,22/01,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",14299.68,Credit,30335.47,False,False
+360,22/01,"['Cheque Withdrawal', '0852526']",6601.9,Debit,23733.57,False,False
+361,22/01,"['Cheque Withdrawal', '0852531']",2461.0,Debit,21272.57,False,False
+362,23/01,"['Funds Transfer-IB', 'FT20010065192978', 'FT20010065192978']",6500.0,Debit,14772.57,False,False
+363,23/01,"['Funds Transfer-IB', 'FT20010065193376', 'FT20010065193376']",7300.0,Debit,7472.57,False,False
+364,23/01,"['Funds Transfer', 'iBK-CHIKEONG']",10000.0,Credit,17472.57,False,False
+365,23/01,"['Cash Withdrawal-ATM', '5592212010168858']",190.0,Debit,17282.57,False,False
+366,23/01,"['Cash Withdrawal-SATM', 'OCBC134958', '5592212010168858']",300.0,Debit,16982.57,False,False
+367,23/01,['Cash 0852566'],4800.0,Debit,12182.57,False,False
+368,23/01,['Cash 0852565'],2000.0,Debit,10182.57,False,False
+369,23/01,['Cash 0852561'],1600.0,Debit,8582.57,False,False
+370,23/01,['Cash 0852562'],1600.0,Debit,6982.57,False,False
+371,23/01,['Cash 0852563'],328.44,Debit,6654.13,False,False
+372,23/01,['Cash 0852559'],500.0,Debit,6154.13,False,False
+373,23/01,['Cash 0852564'],1500.0,Debit,4654.13,False,False
+374,23/01,"['Funds Transfer', 'mBK-Transfer']",200.0,Credit,4854.13,False,False
+375,23/01,"['Cheque Withdrawal', '0852522']",1337.0,Debit,3517.13,False,False
+376,23/01,"['Cheque Withdrawal', '0852553']",199.0,Debit,3318.13,False,False
+377,23/01,"['Cheque Withdrawal', '0852556']",1000.0,Debit,2318.13,False,False
+378,24/01,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",200.0,Debit,2118.13,False,False
+379,24/01,['Funds Transfer-ATM'],2000.0,Credit,4118.13,False,False
+380,24/01,"['Inward CR - GIRO', 'OTHR Other', 'Public Utilities Boa', '3700018478/19']",2357.12,Credit,6475.25,False,False
+381,24/01,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I01I680957']",1831.06,Debit,4644.19,False,False
+382,24/01,"['Cheque Withdrawal', '0852530']",2140.0,Debit,2504.19,False,False
+383,28/01,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,1504.19,False,False
+384,28/01,"['Inward DR - GIRO', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200124218576']",2728.5,Debit,1224.31,True,False
+385,28/01,"['Inward DR - GIRO Cor', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200124218576']",2728.5,Credit,1504.19,False,False
+386,28/01,"['Service Charge', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200124218576']",10.0,Debit,1494.19,False,False
+387,29/01,"['Misc DR-Debit Card', 'MYR 349.95', '25 JAN 8858 4361167', 'FIREFLY 3DSSL(E-COM) M SUBANG', 'MY']",119.74,Debit,1374.45,False,False
+388,29/01,"['Misc DR-Debit Card', '27 JAN 8858 6839472', 'PARADISE DYNASTY T3', 'SG', 'SG']",126.29,Debit,1248.16,False,False
+389,29/01,"['Cheque Withdrawal', '0852443']",163.74,Debit,1084.42,False,False
+390,30/01,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",500.0,Debit,584.42,False,False
+391,31/01,"['Funds Transfer', 'iBK-chi keong']",3600.0,Credit,4184.42,False,False
+392,31/01,"['Funds Transfer-IB', 'FT20010065649600', 'FT20010065649600']",3600.0,Debit,584.42,False,False
+393,31/01,['Cheque Charges'],22.5,Debit,561.92,False,False
+394,,['Total Withdrawals'],,,216053.47,False,False
+395,,['Total Deposits'],,,181388.01,False,False
+396,,['Total'],,,561.92,False,False
+397,,['BALANCE B/F'],,,561.92,False,False
+398,01/02,"['Misc CR-Debit Card', '30 JAN 8858', 'UOB Cash Rebate']",4.62,Credit,566.54,False,False
+399,01/02,"['Misc DR-Debit Card', '31 JAN 8858 0474187', 'C8163439 HDB SEASON PARKING', '16343']",120.0,Debit,446.54,False,False
+400,01/02,"['Misc DR-Debit Card', '31 JAN 8858 0474203', 'C8163473 HDB SEASON PARKING', '16347']",90.0,Debit,356.54,False,False
+401,03/02,"['Cash Withdrawal-SATM', 'OCBC091735', '5592212010168858']",140.0,Debit,216.54,False,False
+402,06/02,"['Funds Transfer', 'mBK-Transfer']",500.0,Credit,716.54,False,False
+403,06/02,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",500.0,Debit,216.54,False,False
+404,06/02,"['Funds Transfer', 'mBK-Transfer']",1500.0,Credit,1716.54,False,False
+405,06/02,"['Misc Debit', 'PMRCSHDEWT/0120', 'PMRSG31012020094823', 'OTC CASH DEPO/ WTH CHG']",40.0,Debit,1676.54,False,False
+406,06/02,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1450.0,Debit,226.54,False,False
+407,10/02,"['Funds Transfer', 'mBK-Transfer']",1250.0,Credit,1476.54,False,False
+408,10/02,"['Cash Withdrawal-ATM', '5592212010168858']",1250.0,Debit,226.54,False,False
+409,10/02,"['Inward DR - GIRO', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200207088909']",2747.83,Debit,2521.29,True,False
+410,10/02,"['Inward DR - GIRO Cor', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200207088909']",2747.83,Credit,226.54,False,False
+411,10/02,"['Service Charge', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200207088909']",10.0,Debit,216.54,False,False
+412,10/02,"['Misc DR-Debit Card', '06 FEB 8858 1681433', 'CHIN LEE RESTAURANT', 'SINGAPORE SG']",160.15,Debit,56.39,False,False
+413,10/02,['Cheque Deposit'],374.5,Credit,430.89,False,False
+414,10/02,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000016092019']",36948.17,Credit,37379.06,False,False
+415,10/02,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I01I685792']",1687.74,Debit,35691.32,False,False
+416,11/02,['Cash 0852567'],1600.0,Debit,34091.32,False,False
+417,11/02,['Cash 0852570'],6144.6,Debit,27946.72,False,False
+418,11/02,['Cash 0852575'],530.0,Debit,27416.72,False,False
+419,11/02,['Cash 0852569'],1250.0,Debit,26166.72,False,False
+420,11/02,['Cheque Deposit'],7082.29,Credit,33249.01,False,False
+421,12/02,['Cash 0852576'],6500.0,Debit,26749.01,False,False
+422,12/02,"['Cheque Withdrawal', '0852568']",1600.0,Debit,25149.01,False,False
+423,12/02,"['Cheque Withdrawal', '0852571']",2400.0,Debit,22749.01,False,False
+424,12/02,"['Cheque Withdrawal', '0852572']",98.5,Debit,22650.51,False,False
+425,13/02,"['Cheque Withdrawal', '0852525']",10262.21,Debit,12388.3,False,False
+426,13/02,"['Cheque Withdrawal', '0852573']",10000.0,Debit,2388.3,False,False
+427,14/02,"['Cash Withdrawal-SATM', 'OCBC101334', '5592212010168858']",1000.0,Debit,1388.3,False,False
+428,14/02,['Cash'],12000.0,Credit,13388.3,False,False
+429,15/02,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1500.0,Debit,11888.3,False,False
+430,17/02,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,10888.3,False,False
+431,17/02,['Cash'],10000.0,Credit,20888.3,False,False
+432,17/02,"['Inward DR - GIRO', 'COLL 076258-', 'CPF', 'BFWL']",6274.99,Debit,14613.31,False,False
+433,17/02,"['Cheque Withdrawal', '0852578']",9067.5,Debit,5545.81,False,False
+434,17/02,"['Cheque Withdrawal', '0852579']",3955.2,Debit,1590.61,False,False
+435,18/02,"['NETS Debit-Consumer', 'JUTECH ELE12589800', '5592212010168858']",192.6,Debit,1398.01,False,False
+436,18/02,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",500.0,Debit,898.01,False,False
+437,18/02,"['Misc DR-Debit Card', '15 FEB 8858 7862963', '524119782 Q0010', '1197']",69.55,Debit,828.46,False,False
+438,19/02,"['Misc CR-Debit Card', '17 FEB 8858 3764345', '524119782 Q0010', '1197']",69.55,Credit,898.01,False,False
+439,20/02,"['Cash Withdrawal-ATM', '5592212010168858']",160.0,Debit,738.01,False,False
+440,20/02,['Cheque Deposit'],374.5,Credit,1112.51,False,False
+441,20/02,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000016782019']",18523.84,Credit,19636.35,False,False
+442,20/02,"['Cheque Withdrawal', '0852555']",345.61,Debit,19290.74,False,False
+443,21/02,"['Cash Withdrawal-ATM', '5592212010168858']",200.0,Debit,19090.74,False,False
+444,21/02,"['Funds Trf - FAST', 'GEBFT20020066951138', 'FT20020066951138', 'OTHR other']",3000.0,Debit,16090.74,False,False
+445,21/02,"['SVC Chg', 'GEBFT20020066951138', 'FT20020066951138', 'OTHR other']",0.5,Debit,16090.24,False,False
+446,21/02,['Cash 0852595'],12000.0,Debit,4090.24,False,False
+447,21/02,['Cheque Deposit'],802.5,Credit,4892.74,False,False
+448,21/02,"['Cash Withdrawal-ATM', '5592212010168858']",300.0,Debit,4592.74,False,False
+449,22/02,['Cash 0852599'],1600.0,Debit,2992.74,False,False
+450,22/02,"['Cash Withdrawal-ATM', '5592212010168858']",300.0,Debit,2692.74,False,False
+451,24/02,"['Cash Withdrawal-ATM', '5592212010168858']",200.0,Debit,2492.74,False,False
+452,24/02,['Cash'],8000.0,Credit,10492.74,False,False
+453,24/02,['Cash 0852600'],6807.3,Debit,3685.44,False,False
+454,24/02,['Cash Deposit-CDM'],200.0,Credit,3885.44,False,False
+455,24/02,['Cash 0852601'],1250.0,Debit,2635.44,False,False
+456,24/02,"['Cheque Withdrawal', '0852598']",1600.0,Debit,1035.44,False,False
+457,25/02,"['Funds Trf - FAST', 'GEBFT20020067170752', 'FT20020067170752', 'OTHR NIL']",712.5,Debit,322.94,False,False
+458,25/02,"['SVC Chg', 'GEBFT20020067170752', 'FT20020067170752', 'OTHR NIL']",0.5,Debit,322.44,False,False
+459,25/02,"['O/W Trf Rev-Chg', 'GEBFT20020067170752', 'FT20020067170752', 'OTHR NIL']",712.5,Credit,1034.94,False,False
+460,25/02,"['Funds Trf - FAST', 'GEBFT20020067174504', 'FT20020067174504', 'OTHR OTHERS']",712.5,Debit,322.44,False,False
+461,25/02,"['SVC Chg', 'GEBFT20020067174504', 'FT20020067174504', 'OTHR OTHERS']",0.5,Debit,321.94,False,False
+462,25/02,"['Funds Transfer', 'mBK-Transfer']",1250.0,Credit,1571.94,False,False
+463,25/02,"['Misc DR-Debit Card', '22 FEB 8858 9141111', 'M1 LTD MOTO', 'SINGAPORE SG']",42.52,Debit,1529.42,False,False
+464,25/02,"['Misc DR-Debit Card', '22 FEB 8858 9140519', 'M1 LTD MOTO', 'SINGAPORE SG']",121.0,Debit,1408.42,False,False
+465,25/02,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I02I691612']",1273.38,Debit,135.04,False,False
+466,26/02,['Cash Deposit-CDM'],100.0,Credit,235.04,False,False
+467,26/02,['Cheque Deposit'],374.5,Credit,609.54,False,False
+468,26/02,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000017052019']",8689.9,Credit,9299.44,False,False
+469,27/02,"['Cash Withdrawal-ATM', '5592212010168858']",100.0,Debit,9199.44,False,False
+470,27/02,"['Inward CR - GIRO', 'OTHR Other', 'PENTA-OCEAN CONSTRUC', 'Penta-Ocean Construction Co. Ltd.']",1498.0,Credit,10697.44,False,False
+471,27/02,"['Cheque Withdrawal', '0852586']",672.6,Debit,10024.84,False,False
+472,28/02,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1250.0,Debit,8774.84,False,False
+473,28/02,"['Cash Withdrawal-ATM', '5592212010168858']",200.0,Debit,8574.84,False,False
+474,28/02,"['Funds Transfer', 'iBK']",11900.0,Credit,20474.84,False,False
+475,28/02,"['Funds Transfer-IB', 'FT20020067546362', 'FT20020067546362']",7300.0,Debit,13174.84,False,False
+476,28/02,"['Funds Transfer-IB', 'FT20020067546648', 'FT20020067546648']",3600.0,Debit,9574.84,False,False
+477,28/02,"['Funds Trf - FAST', 'GEBFT20020067546926', 'FT20020067546926', 'OTHR OTHERS']",284.0,Debit,9290.84,False,False
+478,28/02,"['SVC Chg', 'GEBFT20020067546926', 'FT20020067546926', 'OTHR OTHERS']",0.5,Debit,9290.34,False,False
+479,28/02,"['Inward DR - GIRO', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200227179546']",5476.33,Debit,3814.01,False,False
+480,28/02,"['Cheque Withdrawal', '0852580']",501.0,Debit,3313.01,False,False
+481,29/02,"['Misc DR-Debit Card', '28 FEB 8858 0491196', 'C8355184 HDB SEASON PARKING', '35518']",120.0,Debit,3193.01,False,False
+482,29/02,"['Misc DR-Debit Card', '28 FEB 8858 0491238', 'C8355221 HDB SEASON PARKING', '35522']",90.0,Debit,3103.01,False,False
+483,29/02,['Service Charge'],35.0,Debit,3068.01,False,False
+484,,['Total Withdrawals'],,,122396.61,False,False
+485,,['Total Deposits'],,,124902.7,False,False
+486,,['Total'],,,3068.01,False,False
+487,,['BALANCE B/F'],,,3068.01,False,False
+488,02/03,['Cash Deposit-CDM'],550.0,Credit,3618.01,False,False
+489,02/03,"['Misc CR-Debit Card', '28 FEB 8858', 'UOB Cash Rebate']",0.97,Credit,3618.98,False,False
+490,02/03,['Cheque Deposit'],13013.65,Credit,16632.63,False,False
+491,02/03,"['Cheque Withdrawal', '0852583']",2013.0,Debit,14619.63,False,False
+492,02/03,"['Cheque Withdrawal', '0852608']",1000.0,Debit,13619.63,False,False
+493,03/03,['Cash 0852596'],10000.0,Debit,3619.63,False,False
+494,03/03,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",300.0,Debit,3319.63,False,False
+495,03/03,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",2700.0,Debit,619.63,False,False
+496,03/03,"['Cheque Withdrawal', '0852587']",129.12,Debit,490.51,False,False
+497,03/03,"['Cheque Withdrawal', '0852588']",194.96,Debit,295.55,False,False
+498,03/03,"['Cheque Withdrawal', '0852591']",128.4,Debit,167.15,False,False
+499,04/03,"['Cheque Withdrawal', '0852605']",106.57,Debit,60.58,False,False
+500,05/03,"['Inward CR - GIRO', 'OTHR Other', 'MOM', 'SEC 199800147N-PTE-01 20021']",90.0,Credit,150.58,False,False
+501,05/03,"['Funds Transfer', 'mBK-Transfer']",2220.0,Credit,2370.58,False,False
+502,05/03,"['Cheque Withdrawal', '0852581']",432.0,Debit,1938.58,False,False
+503,06/03,"['Cash Withdrawal-ATM', '5592212010168858']",650.0,Debit,1288.58,False,False
+504,06/03,"['Funds Transfer', 'mBK-Transfer']",600.0,Credit,1888.58,False,False
+505,06/03,"['Cheque Withdrawal', '0852577']",512.02,Debit,1376.56,False,False
+506,06/03,"['Cheque Withdrawal', '0852582']",1337.0,Debit,39.56,False,False
+507,09/03,['Cheque Deposit'],160.5,Credit,200.06,False,False
+508,09/03,['Cheque Deposit'],1000.0,Credit,1200.06,False,False
+509,09/03,['Cheque Deposit'],160.5,Credit,1360.56,False,False
+510,09/03,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000017452019']",4780.97,Credit,6141.53,False,False
+511,10/03,"['Funds Transfer-ATM', '5592212010168858', 'TO 3441020897']",600.0,Debit,5541.53,False,False
+512,10/03,"['Cash Withdrawal-ATM', '5592212010168858']",200.0,Debit,5341.53,False,False
+513,10/03,"['Funds Trf - FAST', 'GEBFT20030068283617', 'FT20030068283617', 'OTHR OTHERS']",284.0,Debit,5057.53,False,False
+514,10/03,"['SVC Chg', 'GEBFT20030068283617', 'FT20030068283617', 'OTHR OTHERS']",0.5,Debit,5057.03,False,False
+515,10/03,"['Cash Withdrawal-ATM', '5592212010168858']",200.0,Debit,4857.03,False,False
+516,10/03,['Cash 0852611'],1250.0,Debit,3607.03,False,False
+517,10/03,['Cash'],10000.0,Credit,13607.03,False,False
+518,10/03,['Cash 0852613'],1600.0,Debit,12007.03,False,False
+519,10/03,['Cash 0852615'],427.4,Debit,11579.63,False,False
+520,10/03,['Cash 0852616'],1400.47,Debit,10179.16,False,False
+521,10/03,['Cash 0852612'],6488.8,Debit,3690.36,False,False
+522,10/03,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",2200.0,Debit,1490.36,False,False
+523,10/03,"['Funds Transfer', 'mBK-Transfer']",200.0,Credit,1690.36,False,False
+524,10/03,['Cheque Deposit'],1712.0,Credit,3402.36,False,False
+525,10/03,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I02I698169']",1731.37,Debit,1670.99,False,False
+526,10/03,"['Inward DR - GIRO Cor', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I02I698169']",1731.37,Credit,3402.36,False,False
+527,10/03,"['Service Charge', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I02I698169']",10.0,Debit,3392.36,False,False
+528,11/03,['Cheque Deposit'],374.5,Credit,3766.86,False,False
+529,11/03,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",26638.59,Credit,30405.45,False,False
+530,11/03,"['Cheque Withdrawal', '0852614']",1600.0,Debit,28805.45,False,False
+531,11/03,"['Cash Withdrawal-ATM', '5592212010168858']",1500.0,Debit,27305.45,False,False
+532,12/03,"['Cash Withdrawal-ATM', '5592212010168858']",500.0,Debit,26805.45,False,False
+533,12/03,['Cash 0852602'],8000.0,Debit,18805.45,False,False
+534,12/03,['Cash 0852618'],10000.0,Debit,8805.45,False,False
+535,12/03,"['Funds Transfer-IB', 'FT20030068440835', 'FT20030068440835']",5000.0,Debit,3805.45,False,False
+536,12/03,"['Funds Trf - FAST', 'GEBFT20030068440954', 'FT20030068440954', 'OTHR OTHERS']",374.5,Debit,3430.95,False,False
+537,12/03,"['SVC Chg', 'GEBFT20030068440954', 'FT20030068440954', 'OTHR OTHERS']",0.5,Debit,3430.45,False,False
+538,12/03,"['Cheque Withdrawal', '0852635']",2400.0,Debit,1030.45,False,False
+539,13/03,"['Cash Withdrawal-ATM', '5592212010168858']",300.0,Debit,730.45,False,False
+540,13/03,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000017732019']",27802.56,Credit,28533.01,False,False
+541,14/03,['Cash 0852640'],5000.0,Debit,23533.01,False,False
+542,14/03,['Cash 0852639'],7000.0,Debit,16533.01,False,False
+543,14/03,['Cash 0852638'],10000.0,Debit,6533.01,False,False
+544,16/03,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,5533.01,False,False
+545,16/03,['Cash'],5000.0,Credit,10533.01,False,False
+546,16/03,['Cash'],7000.0,Credit,17533.01,False,False
+547,16/03,"['Misc DR-Debit Card', '14 MAR 8858 0244034', '000583-028948-024417 WOK MASTER - CITY S']",66.6,Debit,17466.41,False,False
+548,16/03,['Cheque Deposit'],3338.4,Credit,20804.81,False,False
+549,16/03,"['Cheque Withdrawal', '0852610']",310.3,Debit,20494.51,False,False
+550,16/03,"['Cheque Withdrawal', '0852623']",727.07,Debit,19767.44,False,False
+551,16/03,"['Cheque Withdrawal', '0852632']",4019.4,Debit,15748.04,False,False
+552,17/03,"['Inward DR - GIRO', 'COLL 076258-', 'CPF', 'BFWL']",5922.95,Debit,9825.09,False,False
+553,17/03,['Cheque Deposit'],802.5,Credit,10627.59,False,False
+554,17/03,['Cheque Deposit'],10377.93,Credit,21005.52,False,False
+555,18/03,"['Funds Trf - FAST', 'GEBFT20030068774447', 'FT20030068774447', 'OTHR OTHERS']",712.5,Debit,20293.02,False,False
+556,18/03,"['SVC Chg', 'GEBFT20030068774447', 'FT20030068774447', 'OTHR OTHERS']",0.5,Debit,20292.52,False,False
+557,18/03,"['Funds Transfer-ATM', '5592212010168858', 'TO 3441020897']",5000.0,Debit,15292.52,False,False
+558,18/03,"['Funds Transfer', 'mBK-Transfer']",5000.0,Credit,20292.52,False,False
+559,18/03,"['Funds Transfer', 'mBK-Transfer']",4000.0,Credit,24292.52,False,False
+560,18/03,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I02I698169']",1731.37,Debit,22561.15,False,False
+561,18/03,"['Cheque Withdrawal', '0852604']",1962.49,Debit,20598.66,False,False
+562,18/03,"['Cheque Withdrawal', '0852621']",1120.0,Debit,19478.66,False,False
+563,18/03,"['Cheque Withdrawal', '0852636']",106.57,Debit,19372.09,False,False
+564,19/03,['Cash 0852646'],780.0,Debit,18592.09,False,False
+565,19/03,"['Misc DR-Debit Card', '16 MAR 8858 4500114', 'JTC CORPORATION', 'SINGAPORE SG']",399.0,Debit,18193.09,False,False
+566,19/03,"['Misc DR-Debit Card', '17 MAR 8858 2023421', 'AIR INDIA CHARTERS LTD MUMBAI', 'SG']",143.8,Debit,18049.29,False,False
+567,19/03,"['Funds Transfer', 'mBK-Transfer']",1500.0,Credit,19549.29,False,False
+568,19/03,['Cheque Deposit'],535.0,Credit,20084.29,False,False
+569,19/03,"['Cheque Withdrawal', '0852532']",2920.0,Debit,17164.29,False,False
+570,19/03,"['Cheque Withdrawal', '0852609']",235.4,Debit,16928.89,False,False
+571,19/03,"['Cheque Withdrawal', '0852630']",3043.4,Debit,13885.49,False,False
+572,19/03,"['Cheque Withdrawal', '0852637']",4360.25,Debit,9525.24,False,False
+573,19/03,"['Cheque Withdrawal', '0852645']",2942.5,Debit,6582.74,False,False
+574,20/03,"['Funds Trf - FAST', 'GEBFT20030068946552', 'FT20030068946552', 'OTHR OTHERS']",475.0,Debit,6107.74,False,False
+575,20/03,"['SVC Chg', 'GEBFT20030068946552', 'FT20030068946552', 'OTHR OTHERS']",0.5,Debit,6107.24,False,False
+576,20/03,"['Misc DR-Debit Card', '18 MAR 8858 4300075', 'ITACHO SUSHI @ CITY SQ SINGAPORE SG']",69.8,Debit,6037.44,False,False
+577,20/03,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",19318.98,Credit,25356.42,False,False
+578,20/03,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000018122019']",2008.39,Credit,27364.81,False,False
+579,21/03,"['Funds Transfer-IB', 'FT20030069013583', 'FT20030069013583']",5000.0,Debit,22364.81,False,False
+580,21/03,"['Funds Transfer-IB', 'FT20030069013647', 'FT20030069013647']",1500.0,Debit,20864.81,False,False
+581,21/03,"['Funds Transfer-IB', 'FT20030069013692', 'FT20030069013692']",4000.0,Debit,16864.81,False,False
+582,21/03,"['Funds Trf - FAST', 'GEBFT20030069015441', 'FT20030069015441', 'SALA OTHER']",1600.0,Debit,15264.81,False,False
+583,21/03,"['SVC Chg', 'GEBFT20030069015441', 'FT20030069015441', 'SALA OTHER']",0.5,Debit,15264.31,False,False
+584,23/03,"['Cash Withdrawal-SATM', 'OCBC164928', '5592212010168858']",200.0,Debit,15064.31,False,False
+585,23/03,"['Funds Trf - FAST', 'GEBFT20030069067873', 'FT20030069067873', 'OTHR OTHERS']",380.0,Debit,14684.31,False,False
+586,23/03,"['SVC Chg', 'GEBFT20030069067873', 'FT20030069067873', 'OTHR OTHERS']",0.5,Debit,14683.81,False,False
+587,23/03,"['Cash Withdrawal-SATM', 'OCBC133009', '5592212010168858']",200.0,Debit,14483.81,False,False
+588,23/03,['Cheque Deposit'],6696.76,Credit,21180.57,False,False
+589,23/03,['Cheque Deposit'],428.0,Credit,21608.57,False,False
+590,23/03,"['Cheque Withdrawal', '0852590']",262.04,Debit,21346.53,False,False
+591,23/03,"['Cheque Withdrawal', '0852592']",1712.0,Debit,19634.53,False,False
+592,23/03,"['Cheque Withdrawal', '0852617']",971.03,Debit,18663.5,False,False
+593,23/03,"['Cheque Withdrawal', '0852620']",150.0,Debit,18513.5,False,False
+594,23/03,"['Cheque Withdrawal', '0852626']",3386.93,Debit,15126.57,False,False
+595,23/03,"['Cheque Withdrawal', '0852633']",136.2,Debit,14990.37,False,False
+596,23/03,"['Cheque Withdrawal', '0852644']",3210.0,Debit,11780.37,False,False
+597,24/03,['Cash 0852651'],8000.0,Debit,3780.37,False,False
+598,24/03,['Cash 0852650'],1250.0,Debit,2530.37,False,False
+599,24/03,['Cheque Deposit'],2418.2,Credit,4948.57,False,False
+600,24/03,"['Cheque Withdrawal', '0852634']",64.2,Debit,4884.37,False,False
+601,25/03,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1500.0,Debit,3384.37,False,False
+602,25/03,"['Cash Withdrawal-ATM', '5592212010168858']",300.0,Debit,3084.37,False,False
+603,25/03,"['Funds Transfer', 'mBK-Transfer']",8000.0,Credit,11084.37,False,False
+604,25/03,"['Misc DR-Debit Card', '21 MAR 8858 8144833', 'WATAMI JAPANESE-CQ', 'SINGAPORE SG']",50.9,Debit,11033.47,False,False
+605,25/03,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I03I703977']",1642.27,Debit,9391.2,False,False
+606,25/03,"['Cheque Withdrawal', '0852625']",93.0,Debit,9298.2,False,False
+607,25/03,"['Cheque Withdrawal', '0852631']",9057.5,Debit,240.7,False,False
+608,26/03,"['Funds Trf - FAST', 'GEBFT20030069426584', 'FT20030069426584', 'OTHR OTHERS']",142.5,Debit,98.2,False,False
+609,26/03,"['SVC Chg', 'GEBFT20030069426584', 'FT20030069426584', 'OTHR OTHERS']",0.5,Debit,97.7,False,False
+610,26/03,"['Misc DR-Debit Card', '25 MAR 8858 0357767', '001872-103205-041770 SHELL SERANGOON GAR']",45.0,Debit,52.7,False,False
+611,26/03,"['Funds Transfer', 'mBK-Transfer']",2000.0,Credit,2052.7,False,False
+612,26/03,"['Cheque Withdrawal', '0852593']",180.0,Debit,1872.7,False,False
+613,27/03,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000018502019']",24724.06,Credit,26596.76,False,False
+614,28/03,['Cash 0852657'],1600.0,Debit,24996.76,False,False
+615,28/03,['Cash 0852656'],6123.5,Debit,18873.26,False,False
+616,28/03,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",2000.0,Debit,16873.26,False,False
+617,28/03,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1500.0,Debit,15373.26,False,False
+618,28/03,"['Misc DR-Debit Card', '27 MAR 8858 0206913', '000195-004204-003140 CENTRAL THAI - EAST']",67.91,Debit,15305.35,False,False
+619,30/03,"['Funds Transfer-IB', 'FT20030069616915', 'FT20030069616915']",3600.0,Debit,11705.35,False,False
+620,30/03,"['Inward DR - GIRO', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200327181945']",2728.5,Debit,8976.85,False,False
+621,30/03,['Cheque Deposit'],160.5,Credit,9137.35,False,False
+622,30/03,"['Cheque Withdrawal', '0852594']",53.98,Debit,9083.37,False,False
+623,30/03,"['Cheque Withdrawal', '0852643']",2662.0,Debit,6421.37,False,False
+624,30/03,"['Cheque Withdrawal', '0852654']",501.0,Debit,5920.37,False,False
+625,30/03,"['Cheque Withdrawal', '0852658']",260.0,Debit,5660.37,False,False
+626,30/03,"['Cheque Withdrawal', '0852660']",1000.0,Debit,4660.37,False,False
+627,30/03,"['Cheque Withdrawal', '0852663']",1600.0,Debit,3060.37,False,False
+628,31/03,"['Funds Transfer', 'mBK-Transfer']",160.5,Credit,3220.87,False,False
+629,31/03,"['Funds Trf - FAST', 'GEBFT20030069775475', 'FT20030069775475', 'OTHR OTHERS']",142.5,Debit,3078.37,False,False
+630,31/03,"['SVC Chg', 'GEBFT20030069775475', 'FT20030069775475', 'OTHR OTHERS']",0.5,Debit,3077.87,False,False
+631,31/03,"['Inward CR - GIRO', 'OTHR Other', 'CPF BOARD', 'CPFB GCL 076258- 629360272001']",1318.14,Credit,4396.01,False,False
+632,31/03,"['Inward CR - GIRO', 'OTHR Other', 'CPF BOARD', 'CPFB GCL 076258- 629360272001']",1318.14,Credit,5714.15,False,False
+633,31/03,"['Funds Transfer', 'mBK-Transfer']",400.0,Credit,6114.15,False,False
+634,31/03,['Cheque Deposit'],1786.9,Credit,7901.05,False,False
+635,31/03,"['Funds Transfer-IB', 'FT20030069801494', 'FT20030069801494']",2636.28,Debit,5264.77,False,False
+636,31/03,"['Cheque Withdrawal', '0852622']",429.85,Debit,4834.92,False,False
+637,31/03,"['Cheque Withdrawal', '0852624']",174.0,Debit,4660.92,False,False
+638,31/03,"['Cheque Withdrawal', '0852659']",924.0,Debit,3736.92,False,False
+639,31/03,"['Cheque Withdrawal', '0852662']",250.91,Debit,3486.01,False,False
+640,31/03,['Cheque Charges'],21.75,Debit,3464.26,False,False
+641,31/03,['Service Charge'],35.0,Debit,3429.26,False,False
+642,,['Total Withdrawals'],,,198966.76,False,False
+643,,['Total Deposits'],,,199328.01,False,False
+644,,['Total'],,,3429.26,False,False
+645,,['BALANCE B/F'],,,3429.26,False,False
+646,01/04,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",400.0,Debit,3029.26,False,False
+647,01/04,"['Misc CR-Debit Card', '30 MAR 8858', 'UOB Cash Rebate']",1.19,Credit,3030.45,False,False
+648,01/04,"['Misc DR-Debit Card', '31 MAR 8858 0223581', 'C8583646 HDB SEASON PARKING', '58364']",120.0,Debit,2910.45,False,False
+649,01/04,"['Misc DR-Debit Card', '31 MAR 8858 0223615', 'C8583709 HDB SEASON PARKING', '58370']",90.0,Debit,2820.45,False,False
+650,01/04,['Cheque Deposit'],2386.1,Credit,5206.55,False,False
+651,02/04,['Cheque Deposit'],8676.6,Credit,13883.15,False,False
+652,02/04,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",9500.36,Credit,23383.51,False,False
+653,03/04,"['Funds Transfer-IB', 'FT20040070019286', 'FT20040070019286']",3650.0,Debit,19733.51,False,False
+654,03/04,['Cash 0852667'],10500.0,Debit,9233.51,False,False
+655,03/04,"['Cheque Withdrawal', '0852652']",106.57,Debit,9126.94,False,False
+656,03/04,"['Cheque Withdrawal', '0852664']",500.0,Debit,8626.94,False,False
+657,03/04,"['Cheque Withdrawal', '0852665']",123.05,Debit,8503.89,False,False
+658,04/04,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",3000.0,Debit,5503.89,False,False
+659,04/04,"['Funds Transfer-ATM', '72955456', 'TO 9463407335']",2500.0,Debit,3003.89,False,False
+660,06/04,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1500.0,Debit,1503.89,False,False
+661,06/04,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,503.89,False,False
+662,06/04,['Cash'],1000.0,Credit,1503.89,False,False
+663,06/04,['Cash'],3000.0,Credit,4503.89,False,False
+664,06/04,"['Misc DR-Debit Card', '03 APR 8858 4446838', 'AXS PTE LTD', 'SINGAPORE SG']",144.32,Debit,4359.57,False,False
+665,06/04,"['Misc Debit', 'PMRCSHDEWT/0320', 'PMRSG31032020004671', 'OTC CASH DEPO/ WTH CHG']",10.0,Debit,4349.57,False,False
+666,06/04,"['Cheque Withdrawal', '0852666']",2400.0,Debit,1949.57,False,False
+667,07/04,"['Cash Withdrawal-ATM', '5592212010168858']",400.0,Debit,1549.57,False,False
+668,07/04,['Cheque Deposit'],192.6,Credit,1742.17,False,False
+669,08/04,"['Funds Trf - FAST', 'GEBFT20040070342898', 'FT20040070342898', 'OTHR OTHERS']",171.0,Debit,1571.17,False,False
+670,08/04,"['SVC Chg', 'GEBFT20040070342898', 'FT20040070342898', 'OTHR OTHERS']",0.5,Debit,1570.67,False,False
+671,08/04,"['Funds Transfer', 'iBK-chi keong']",4200.0,Credit,5770.67,False,False
+672,08/04,['Cash 0852693'],1600.0,Debit,4170.67,False,False
+673,08/04,['Cash 0852694'],1600.0,Debit,2570.67,False,False
+674,08/04,['Cash 0852691'],1250.0,Debit,1320.67,False,False
+675,08/04,"['Funds Transfer', 'mBK-Transfer']",400.0,Credit,1720.67,False,False
+676,08/04,['Cheque Deposit'],770.4,Credit,2491.07,False,False
+677,08/04,['Cheque Deposit'],524.3,Credit,3015.37,False,False
+678,08/04,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000000172020']",6174.33,Credit,9189.7,False,False
+679,08/04,"['Cheque Withdrawal', '0852653']",1337.0,Debit,7852.7,False,False
+680,09/04,"['Funds Transfer-IB', 'FT20040070421166', 'FT20040070421166']",4200.0,Debit,3652.7,False,False
+681,09/04,"['Funds Trf - FAST', 'GEBFT20040070433277', 'FT20040070433277', 'OTHR OTHERS']",684.0,Debit,2968.7,False,False
+682,09/04,"['SVC Chg', 'GEBFT20040070433277', 'FT20040070433277', 'OTHR OTHERS']",0.5,Debit,2968.2,False,False
+683,09/04,"['Funds Trf - FAST', 'GEBFT20040070433342', 'FT20040070433342', 'OTHR OTHERS']",465.0,Debit,2503.2,False,False
+684,09/04,"['SVC Chg', 'GEBFT20040070433342', 'FT20040070433342', 'OTHR OTHERS']",0.5,Debit,2502.7,False,False
+685,09/04,"['Cheque Withdrawal', '0852697']",420.0,Debit,2082.7,False,False
+686,11/04,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",500.0,Debit,1582.7,False,False
+687,13/04,"['Funds Transfer', 'mBK-Transfer']",1000.0,Credit,2582.7,False,False
+688,13/04,"['Misc DR-Debit Card', '09 APR 8858 9907594', 'CHIP SOON AUTO SUPPLY SINGAPORE SG']",432.28,Debit,2150.42,False,False
+689,13/04,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",13106.43,Credit,15256.85,False,False
+690,13/04,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I03I709052']",1726.84,Debit,13530.01,False,False
+691,14/04,"['Funds Transfer-IB', 'FT20040070634849', 'FT20040070634849']",1000.0,Debit,12530.01,False,False
+692,14/04,"['Funds Transfer-IB', 'FT20040070634978', 'FT20040070634978']",3650.0,Debit,8880.01,False,False
+693,14/04,"['Funds Transfer-IB', 'FT20040070635054', 'FT20040070635054']",7345.3,Debit,1534.71,False,False
+694,15/04,"['Funds Transfer-ATM', '5592212010168858', 'TO 3441020897']",1000.0,Debit,534.71,False,False
+695,15/04,"['Inward CR - GIRO', 'PAYNOW OTHR', 'IRAS', '114067551']",20125.0,Credit,20659.71,False,False
+696,15/04,['Cheque Deposit'],428.0,Credit,21087.71,False,False
+697,15/04,['Cheque Deposit'],1444.5,Credit,22532.21,False,False
+698,15/04,['Cheque Deposit'],428.0,Credit,22960.21,False,False
+699,15/04,['Cheque Deposit'],428.0,Credit,23388.21,False,False
+700,15/04,['Cheque Deposit'],428.0,Credit,23816.21,False,False
+701,15/04,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000000512020']",7439.92,Credit,31256.13,False,False
+702,16/04,"['Funds Trf - FAST', 'GEBFT20040070777293', 'FT20040070777293', 'RENT RENT']",4051.5,Debit,27204.63,False,False
+703,16/04,"['SVC Chg', 'GEBFT20040070777293', 'FT20040070777293', 'RENT RENT']",0.5,Debit,27204.13,False,False
+704,16/04,"['Funds Trf - FAST', 'GEBFT20040070778267', 'FT20040070778267', 'OTHR OTHERS']",1520.0,Debit,25684.13,False,False
+705,16/04,"['SVC Chg', 'GEBFT20040070778267', 'FT20040070778267', 'OTHR OTHERS']",0.5,Debit,25683.63,False,False
+706,16/04,"['Cash Withdrawal-ATM', '5592212010168858']",1000.0,Debit,24683.63,False,False
+707,16/04,"['Misc DR-Debit Card', '13 APR 8858 0540087', 'AIR ASIA (SG-ONLINE)', 'SINGAPORE SG']",173.0,Debit,24510.63,False,False
+708,16/04,"['Cheque Withdrawal', '0852700']",2700.0,Debit,21810.63,False,False
+709,17/04,['Cash 0852698'],5582.0,Debit,16228.63,False,False
+710,17/04,['Cash 0852701'],1600.0,Debit,14628.63,False,False
+711,17/04,['Cash 0852702'],1600.0,Debit,13028.63,False,False
+712,17/04,['Cash 0852699'],1250.0,Debit,11778.63,False,False
+713,17/04,"['Cheque Withdrawal', '0852689']",432.0,Debit,11346.63,False,False
+714,18/04,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",500.0,Debit,10846.63,False,False
+715,20/04,['Cash 0852704'],4500.0,Debit,6346.63,False,False
+716,20/04,['Cash 0852703'],4000.0,Debit,2346.63,False,False
+717,20/04,['Cheque Deposit'],535.0,Credit,2881.63,False,False
+718,21/04,"['Inward CR - GIRO', 'PAYNOW OTHR', 'IRAS', '114226449']",9750.0,Credit,12631.63,False,False
+719,21/04,"['Cheque Withdrawal', '0852674']",326.34,Debit,12305.29,False,False
+720,21/04,"['Cheque Withdrawal', '0852677']",90.0,Debit,12215.29,False,False
+721,21/04,"['Cheque Withdrawal', '0852678']",89.35,Debit,12125.94,False,False
+722,21/04,"['Cheque Withdrawal', '0852679']",103.92,Debit,12022.02,False,False
+723,22/04,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",1000.0,Debit,11022.02,False,False
+724,23/04,"['Funds Trf - FAST', 'GEBFT20040071298428', 'FT20040071298428', 'OTHR OTHERS']",470.0,Debit,10552.02,False,False
+725,23/04,"['SVC Chg', 'GEBFT20040071298428', 'FT20040071298428', 'OTHR OTHERS']",0.5,Debit,10551.52,False,False
+726,23/04,['Cheque Deposit'],15228.44,Credit,25779.96,False,False
+727,23/04,"['Cheque Withdrawal', '0852692']",87.34,Debit,25692.62,False,False
+728,24/04,"['Inward CR - GIRO', 'OTHR Other', 'FOOD JUNCTION MANAGE', 'SGGP200415040863']",267.5,Credit,25960.12,False,False
+729,24/04,"['Inward CR - GIRO', 'OTHR Other', 'CITY GAS PTE LTD', 'Payment']",13979.91,Credit,39940.03,False,False
+730,24/04,"['Inward DR - GIRO', 'COLL 199800147N', 'BEST PETROL AND DIES', '20I04I715728']",980.16,Debit,38959.87,False,False
+731,25/04,['Cash 0852707'],11900.0,Debit,27059.87,False,False
+732,25/04,['Cash'],4500.0,Credit,31559.87,False,False
+733,27/04,"['Cheque Withdrawal', '0852673']",180.0,Debit,31379.87,False,False
+734,27/04,"['Cheque Withdrawal', '0852695']",9057.5,Debit,22322.37,False,False
+735,28/04,"['Inward DR - GIRO', 'COLL 1950002976', 'JTC CORPORATION', 'SGGC200427009719']",2728.5,Debit,19593.87,False,False
+736,28/04,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'PowerGas Ltd', '38000001232020']",19363.36,Credit,38957.23,False,False
+737,29/04,"['PAYNOW-FAST', 'GEBFT20040071781468', 'FT20040071781468', 'SALA SALARY']",200.0,Debit,38757.23,False,False
+738,29/04,"['SVC Chg', 'GEBFT20040071781468', 'FT20040071781468', 'SALA SALARY']",0.5,Debit,38756.73,False,False
+739,29/04,"['PAYNOW-FAST', 'GEBFT20040071782099', 'FT20040071782099', 'SALA SALARY']",2200.0,Debit,36556.73,False,False
+740,29/04,"['SVC Chg', 'GEBFT20040071782099', 'FT20040071782099', 'SALA SALARY']",0.5,Debit,36556.23,False,False
+741,29/04,"['PAYNOW-FAST', 'GEBFT20040071782560', 'FT20040071782560', 'SALA SALARY']",1600.0,Debit,34956.23,False,False
+742,29/04,"['SVC Chg', 'GEBFT20040071782560', 'FT20040071782560', 'SALA SALARY']",0.5,Debit,34955.73,False,False
+743,29/04,"['Funds Transfer-IB', 'FT20040071783024', 'FT20040071783024']",3600.0,Debit,31355.73,False,False
+744,29/04,"['Funds Transfer-ATM', '5592212010168858', 'TO 9463407335']",500.0,Debit,30855.73,False,False
+745,29/04,"['Funds Trf - FAST', 'GEBFT20040071783422', 'FT20040071783422', 'OTHR OTHERS']",428.0,Debit,30427.73,False,False
+746,29/04,"['SVC Chg', 'GEBFT20040071783422', 'FT20040071783422', 'OTHR OTHERS']",0.5,Debit,30427.23,False,False
+747,29/04,"['PAYNOW-FAST', 'GEBFT20040071792987', 'FT20040071792987', 'SALA SALARY']",1600.0,Debit,28827.23,False,False
+748,29/04,"['SVC Chg', 'GEBFT20040071792987', 'FT20040071792987', 'SALA SALARY']",0.5,Debit,28826.73,False,False
+749,30/04,['Cash 0852708'],5200.0,Debit,23626.73,False,False
+750,30/04,"['Inward CR - GIRO', 'IVPT Invoice Payment', 'STARKER F&B PTE. LTD', 'INVOICE PAYMENT']",321.0,Credit,23947.73,False,False
+751,30/04,"['Cheque Withdrawal', '0852686']",432.0,Debit,23515.73,False,False
+752,30/04,"['Cheque Withdrawal', '0852687']",501.0,Debit,23014.73,False,False
+753,,['Total Withdrawals'],,,126013.47,False,False
+754,,['Total Deposits'],,,145598.94,False,False
+755,,['Total'],,,23014.73,False,False

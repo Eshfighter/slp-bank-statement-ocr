@@ -1,0 +1,266 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,35615.06,False,False
+1,01/10,"['Cheque Withdrawal', '0218200']",2000.0,Debit,33615.06,False,False
+2,01/10,"['Cheque Withdrawal', '0218204']",110.05,Debit,33505.01,False,False
+3,02/10,"['Inward DR - GIRO', 'COLL HSA03010', 'Health Sciences Auth', '1900421624']",300.0,Debit,33205.01,False,False
+4,02/10,"['Cheque Withdrawal', '0218192']",1198.94,Debit,32006.07,False,False
+5,03/10,"['Cheque Deposit', '0218198']",69.3,Credit,32075.37,False,False
+6,04/10,"['Cheque Withdrawal', '0218205']",1600.0,Credit,32450.64,False,True
+7,04/10,"['Bulk Cash', '163 B657033']",8614.3,Credit,41064.94,False,False
+8,05/10,"['Misc Debit', 'PMRBULKCASH/0919', 'PMRSG3009201 9012647', 'BULK CASH SERVICE']",50.0,Debit,41014.94,False,False
+9,07/10,"['Cash 0218206', '0218208']",2600.0,Debit,38414.94,False,False
+10,07/10,"['Cheque Withdrawal', '0218209']",205.44,Debit,37209.5,False,True
+11,08/10,"['Bulk Cash', '163 B657035']",7909.0,Credit,45118.5,False,False
+12,09/10,"['Inward CR - GIRO', 'OTHR Other', 'CARLSBERG SINGAPORE', '2001416560001']",4440.57,Credit,49559.07,False,False
+13,09/10,"['Cheque Withdrawal', '0218202']",916.64,Debit,48642.43,False,False
+14,09/10,"['Cheque Withdrawal', '0218207']",930.44,Debit,47711.99,False,False
+15,09/10,"['Bulk Cash', '163 B811610']",4354.4,Credit,52066.39,False,False
+16,14/10,"['Cheque Withdrawal', '0218201']",939.22,Debit,51127.17,False,False
+17,14/10,"['Cheque Withdrawal', '0218203']",688.08,Debit,50439.09,False,False
+18,14/10,"['Cheque Withdrawal', '0218212']",15000.0,Debit,35439.09,False,False
+19,14/10,"['Bulk Cash', '163 B811611']",5870.5,Credit,41309.59,False,False
+20,15/10,"['Cheque Withdrawal', '0218226']",2000.0,Debit,39309.59,False,False
+21,16/10,"['Inward DR ~- GIRO', 'COLL 533188566', 'CPF', 'BIZ']",1851.5,Debit,37458.09,False,False
+22,16/10,"['Bulk Cash', '163 B811613']",4302.5,Credit,41760.59,False,False
+23,17/10,"['Inward DR - GIRO', 'COLL 53318856C', 'CPF', 'BFWL']",1250.0,Debit,40510.59,False,False
+24,17/10,"['Cheque Withdrawal', '0218222']",857.42,Debit,39653.17,False,False
+25,21/10,"['Cheque Withdrawal', '0218214']",498.55,Debit,39154.62,False,False
+26,21/10,"['Cheque Withdrawal', '0218228']",91.0,Debit,39063.62,False,False
+27,21/10,"['Bulk Cash', '163 B811616']",5198.1,Credit,44261.72,False,False
+28,22/10,"['Cheque Withdrawal', '0218231']",2000.0,Debit,42261.72,False,False
+29,22/10,"['Cheque Withdrawal', '0218232']",2000.0,Debit,40261.72,False,False
+30,23/10,"['Inward DR - GIRO', 'COLL 53318856C', 'CPF', 'BIZ']",354.5,Debit,39907.22,False,False
+31,23/10,"['Cheque Withdrawal', '0218210']",267.5,Debit,39639.72,False,False
+32,23/10,"['Cheque Withdrawal', '0218211']",267.5,Debit,39372.22,False,False
+33,23/10,"['Cheque Withdrawal', '0218213']",612.09,Debit,38760.13,False,False
+34,23/10,"['Bulk Cash', '163 B811617']",6946.9,Credit,45707.03,False,False
+35,24/10,"['Cheque Withdrawal', '0218218']",821.92,Debit,44885.11,False,False
+36,,"['D & BEVERAGE', '0218229']",90.0,Debit,44795.11,False,False
+37,25/10,"['Cheque Withdrawal', '0218220']",545.7,Debit,44249.41,False,False
+38,25/10,"['Cheque Withdrawal!', '0218224']",1227.48,Debit,43021.93,False,False
+39,29/10,"['Cheque Withdrawal', '0218215']",160.5,Debit,42861.43,False,False
+40,29/10,"['Cheque Withdrawal', '0218217']",617.38,Debit,42244.05,False,False
+41,29/10,"['Cheque Withdrawal', '0218225']",563.67,Debit,41680.38,False,False
+42,29/10,"['Cheque Withdrawal', '0218227']",976.34,Debit,40704.04,False,False
+43,29/10,"['Bulk Cash', '163 B811618']",5044.1,Credit,45748.14,False,False
+44,30/10,"['Cheque Withdrawal', '0218216']",1405.98,Debit,44342.16,False,False
+45,30/10,"['Cheque Withdrawal', '0218236']",35.24,Debit,44306.92,False,False
+46,31/10,"['Cheque Withdrawal', '0218219']",346.25,Debit,43960.67,False,False
+47,31/10,['Cheque Charges'],3.0,Debit,43957.67,False,False
+48,,['Total Withdrawals'],,,47137.06,False,False
+49,,['Total Deposits'],,,55389.67,False,False
+50,,['Total'],,,43957.67,False,False
+51,,['BALANCE B/F'],,,43957.67,False,False
+52,04/11,"['Cheque Withdrawal', '0218238']",1600.0,Debit,42357.67,False,False
+53,05/11,['Cheque Deposit'],2166.0,Credit,44523.67,False,False
+54,06/11,['Cash 0218237'],2600.0,Debit,41923.67,False,False
+55,06/11,"['Misc Debit', 'PMRBULKCASH/1018', 'PMRSG31102019013049', 'BULK CASH SERVICE']",50.0,Debit,41873.67,False,False
+56,06/11,"['Cheque Withdrawal', '0218230']",1384.61,Debit,40489.06,False,False
+57,06/11,"['Cheque Withdrawal', '0218234']",1586.87,Debit,38902.19,False,False
+58,07/11,"['Bulk Cash', '163 B811622']",6114.0,Credit,45016.19,False,False
+59,08/11,"['Bulk Cash', '163 8811983']",6250.0,Credit,51266.19,False,False
+60,11/11,"['Cheque Withdrawal', '0218233']",407.07,Debit,50859.12,False,False
+61,11/11,"['Cheque Withdrawal', '0218235']",724.55,Debit,50134.57,False,False
+62,12/11,"['Cheque Withdrawal', '0218239']",2000.0,Debit,48134.57,False,False
+63,13/11,"['Inward CR - GIRO', 'OTHR Other', 'CARLSBERG SINGAPORE', '2001438960001']",540.96,Credit,48675.53,False,False
+64,13/11,"['Cheque Withdrawal', '0218240']",55.25,Debit,48620.28,False,False
+65,13/11,"['Cheque Withdrawal', '0218242']",91.0,Debit,48529.28,False,False
+66,13/11,"['Cheque Withdrawal', '0218243']",490.0,Debit,48039.28,False,False
+67,13/11,"['Bulk Cash', '163 B811982']",12926.5,Credit,60965.78,False,False
+68,14/11,"['Inward DR - GIRO', 'COLL 53318856C', 'GPF', 'BIZ']",2192.5,Debit,58766.28,False,True
+69,14/11,['Cheque Deposit'],150.24,Credit,58916.52,False,False
+70,18/11,"['inward DR - GIRO', 'COLL 53318856C', 'CPF', 'BFWL']",1250.0,Debit,57666.52,False,False
+71,19/11,"['Cheque Withdrawal', '0218257']",15000.0,Debit,42666.52,False,False
+72,19/11,"['Cheque Withdrawal', '0218258']",1032.94,Debit,41633.58,False,False
+73,20/11,"['Bulk Cash', '163 B811980']",7992.6,Credit,49626.18,False,False
+74,21/11,"['Cheque Withdrawal', '0218253']",799.22,Debit,48826.96,False,False
+75,22/11,"['Cheque Withdrawal', '0218251']",1091.4,Debit,47735.56,False,False
+76,25/11,"['Cheque Withdrawal', '0218255']",171.2,Debit,47564.36,False,False
+77,25/11,"['Cheque Withdrawal', '0218259']",699.62,Debit,46864.74,False,False
+78,25/11,"['Bulk Cash', '163 B811977']",7001.0,Credit,53865.74,False,False
+79,26/11,"['Cheque Withdrawal', '0218241']",337.87,Debit,53527.87,False,False
+80,26/11,"['Cheque Withdrawal', '0218260']",2000.0,Debit,51527.87,False,False
+81,26/11,"['Cheque Withdrawal', '0218261']",559.45,Debit,50968.42,False,False
+82,26/11,"['Cheque Withdrawal', '0218263']",575.03,Debit,50393.39,False,False
+83,27/11,"['Cheque Withdrawal', '0218244']",74.9,Debit,50318.49,False,False
+84,27/11,"['Bulk Cash', '163 B811976']",5877.9,Credit,56196.39,False,False
+85,29/11,"['Cheque Withdrawal', '0218246']",1238.51,Debit,54957.88,False,False
+86,29/11,"['Cheque Withdrawal', '0218247']",1476.6,Debit,53481.28,False,False
+87,29/11,"['Cheque Withdrawal', '0218248']",341.96,Debit,53139.32,False,False
+88,29/11,"['Cheque Withdrawal', '0218249']",572.77,Debit,52586.55,False,True
+89,29/11,"['Cheque Withdrawal', '0218250', 'Sess']",255.5,Debit,52311.05,False,True
+90,,['Total Withdrawals'],,,40665.82,False,False
+91,,['Total Deposits'],,,49019.2,False,False
+92,,['Total'],,,52311.05,False,False
+93,,['BALANCE B/F'],,,52311.05,False,False
+94,02/12,"['Cheque Withdrawal', '0218245']",210.0,Debit,52101.05,False,False
+95,02/12,"['Cheque Withdrawal', '0218262']",779.56,Debit,51321.49,False,False
+96,03/12,"['Cheque Withdrawal', '0218267']",1600.0,Debit,49721.49,False,False
+97,04/12,"['Bulk Cash', '163 B811974']",4236.9,Credit,53958.39,False,False
+98,06/12,['Cash 0218268'],2600.0,Debit,51358.39,False,False
+99,06/12,['Cheque Deposit'],2154.0,Credit,53512.39,False,False
+100,06/12,"['Misc Debit', 'PMRBULKCASH/1119', 'PMRSG30112019013608', 'BULK CASH SERVICE']",50.0,Debit,53462.39,False,False
+101,06/12,"['Bulk Cash', '163 B811971']",4419.6,Credit,57881.99,False,False
+102,09/12,"['Cheque Withdrawal', '0218265']",905.62,Debit,56976.37,False,False
+103,09/12,"['Cheque Withdrawal', '0218269']",15000.0,Debit,41976.37,False,False
+104,,"['Inward CR - GIRO', 'OTHR Other', 'CARLSBERG SINGAPORE', '2001463760001']",538.66,Credit,42515.03,False,False
+105,10/12,"['Cheque Withdrawal', '0218266']",2000.0,Debit,40515.03,False,False
+106,,"['Cheque Withdrawal', '0218264']",819.65,Debit,39695.38,False,False
+107,11/12,"['Cheque Withdrawal', '0218283']",136.96,Debit,39558.42,False,False
+108,11/12,"['Cheque Withdrawal', '0218284']",1000.0,Debit,38558.42,False,False
+109,12/12,"['Cheque Withdrawal', '0218256']",550.41,Debit,38008.01,False,False
+110,13/12,"['Cheque Withdrawal', '0218221']",5230.8,Debit,32777.21,False,False
+111,13/12,"['Bulk Cash', '163 B811970']",9300.3,Credit,42077.51,False,False
+112,16/12,"['Inward DR - GIRO', 'COLL 53318856G', 'CPF', 'BIZ']",2211.5,Debit,39866.01,False,False
+113,16/12,"['Cheque Withdrawal', '0218280']",545.7,Debit,39320.31,False,False
+114,17/12,"['Inward DR - GIRO', 'COLL 53318856C', 'cPF', 'BFWL']",2008.71,Debit,37311.6,False,False
+115,17/12,"['Cheque Withdrawal', '0218288']",2500.0,Debit,34811.6,False,False
+116,18/12,"['Cheque Withdrawal', '0218254']",90.0,Debit,34721.6,False,False
+117,18/12,"['Cheque Withdrawal', '0218272']",74.9,Debit,34646.7,False,False
+118,18/12,"['Cheque Withdrawal', '0218275']",1662.78,Debit,32983.92,False,False
+119,18/12,"['Cheque Withdrawal', '0218276']",331.49,Debit,32652.43,False,False
+120,,"['Cheque Withdrawal', '0218285']",90.0,Debit,32562.43,False,False
+121,19/12,"['Cheque Withdrawal', '0218273']",1167.89,Debit,31324.54,False,True
+122,18/12,"['Bulk Cash', '163 B811968']",7898.7,Credit,89091.24,False,True
+123,20/12,"['Cheque Withdrawal', '0218252']",5017.55,Debit,34073.6,False,True
+124,20/12,"['Cheque Withdrawal', '0218279']",354.95,Debit,33718.74,False,True
+125,20/12,"['Cheque Withdrawal', '0218281']",4444.58,Debit,29274.16,False,False
+126,23/12,"['Cheque Withdrawal', '0218270']",544.66,Debit,28729.5,False,False
+127,23/12,"['Cheque Withdrawal', '0218287']",612.09,Debit,28117.41,False,False
+128,23/12,"['Cheque Withdrawal', '0218291']",91.0,Debit,28026.41,False,False
+129,23/12,"['Bulk Cash', '163 B171126']",5154.3,Credit,33180.71,False,False
+130,26/12,['Cheque Deposit'],59.98,Credit,33240.69,False,False
+131,26/12,['Cheque Deposit'],78.25,Credit,33318.24,False,True
+132,26/12,"['Cheque Withdrawal', '0218293']",1000.0,Debit,32318.94,False,True
+133,27/12,"['Cheque Withdrawal', '0218271']",357.19,Debit,31961.75,False,False
+134,27/12,"['Cheque Withdrawal', '0218278']",674.74,Debit,31287.01,False,False
+135,27/12,"['Cheque Withdrawal', '0218286']",819.65,Debit,30467.36,False,False
+136,27/12,"['Bulk Cash', '163 B171128']",8327.7,Credit,38795.06,False,False
+137,30/12,"['Cheque Withdrawal', '0218282']",760.03,Debit,38035.03,False,False
+138,30/12,"['Cheque Withdrawal', '0218290']",512.63,Debit,37522.4,False,False
+139,31/12,"['Cheque Withdrawal', '0218289']",221.58,Debit,37300.82,False,False
+140,31/12,"['Cheque Withdrawal', '0218296']",2000.0,Debit,35300.82,False,False
+141,31/12,"['Cheque Charges', 'SSeS']",3.0,Debit,35297.82,False,False
+142,,['Total Withdrawals'],,,8979.62,False,False
+143,,['Total Deposits'],,,41966.39,False,False
+144,,['Total'],,,35297.82,False,False
+145,,['BALANCE B/F'],,,35297.82,False,False
+146,02/01,"['Cheque Withdrawal', '0218298']",15000.0,Debit,20297.82,False,False
+147,02/01,"['Cheque Withdrawal', '0218299']",1600.0,Debit,18697.82,False,False
+148,06/01,"['Bulk Cash', '163 B171130']",5715.1,Credit,24412.92,False,False
+149,07/01,['Cash 0218300'],2600.0,Debit,21812.92,False,False
+150,07/01,['Cheque Deposit'],2382.0,Credit,24194.92,False,False
+151,07/01,"['Misc Debit', 'PMRBULKCASH/1219', 'PMRSG31 122019013000', 'BULK CASH SERVICE']",50.0,Debit,24144.92,False,False
+152,07/01,"['Cheque Withdrawal', '0218274']",267.5,Debit,23877.42,False,False
+153,07/01,"['Cheque Withdrawal', '0218292']",267.0,Debit,23610.42,False,False
+154,08/01,"['Returned Cheque', '0218292']",267.0,Credit,23877.42,False,False
+155,08/01,"['Cheque Withdrawal', '0218295']",675.75,Debit,23201.67,False,False
+156,08/01,"['Bulk Cash', '163 B171133']",6627.7,Credit,29829.37,False,False
+157,10/01,"['Misc Debit', 'PMRACCASC/0120', 'PMRSG09012020078322', 'Annual Account Fee']",35.0,Debit,29794.37,False,False
+158,13/01,"['Cheque Withdrawal', '0218294']",655.45,Debit,29138.92,False,False
+159,13/01,"['Cheque Withdrawal', '0218297']",1078.6,Debit,28060.32,False,False
+160,14/01,"['Inward CR - GIRO', 'OTHR Other', 'CARLSBERG SINGAPORE', '2001492360001']",470.64,Credit,28530.96,False,False
+161,14/01,"['Inward DR - GIRO', 'COLL 53318856C', 'CPF', 'Biz']",2211.5,Debit,26319.46,False,False
+162,14/01,"['Cheque Withdrawal', '0218302']",2000.0,Debit,24319.46,False,False
+163,14/01,"['Cheque Withdrawal', '0218303']",332.36,Debit,23987.1,False,False
+164,16/01,['Cheque Deposit'],1968.5,Credit,25955.6,False,False
+165,16/01,"['Cheque Withdrawal', '0218307']",151.75,Debit,25803.85,False,False
+166,16/01,"['Cheque Withdrawal', '0218311']",1137.95,Debit,24665.9,False,False
+167,17/01,"['inward DR - GIRO', 'COLL 53318856C', 'CPF', 'BFWL']",2424.54,Debit,22241.36,False,False
+168,17/01,"['Cheque Withdrawal', '0218277']",318.0,Debit,21923.36,False,False
+169,17/01,"['Cheque Withdrawal', '0218305']",238.5,Debit,21684.86,False,False
+170,20/01,"['Cheque Withdrawal', '0218317']",91.0,Debit,21593.86,False,False
+171,21/01,"['Bulk Cash', '163 B811945']",9494.9,Credit,31088.76,False,False
+172,21/01,"['Cheque Withdrawal', '0218313']",2500.0,Debit,28588.76,False,False
+173,21/01,"['Bulk Cash', '163 B811847']",4657.5,Credit,33246.26,False,False
+174,22/01,"['Cheque Withdrawal', '0218304']",243.1,Debit,33003.16,False,False
+175,22/01,"['Cheque Withdrawal', '0218309']",1123.5,Debit,31879.66,False,False
+176,23/01,"['Cheque Withdrawal', '0218310']",1303.26,Debit,30576.4,False,False
+177,23/01,"['Cheque Withdrawal', '0218312']",5371.92,Debit,25204.48,False,False
+178,24/01,"['Bulk Cash', '163 B811948']",5957.4,Credit,31161.88,False,False
+179,31/01,"['Cheque Withdrawal', '0218308', 'EDS NaP SEP aaeEEe']",757.05,Debit,30404.83,False,False
+180,,['Total Withdrawals'],,,42433.73,False,False
+181,,['Total Deposits'],,,37540.74,False,False
+182,,['Total'],,,30404.83,False,False
+183,,['BALANCE B/F'],,,30404.83,False,False
+184,03/02,"['Cheque Withdrawal', '0218326']",1600.0,Debit,28804.83,False,False
+185,04/02,['Cheque Deposit'],1686.0,Credit,30490.83,False,False
+186,05/02,"['Bulk Cash', '163 B811949']",4296.1,Credit,34786.93,False,False
+187,06/02,['Cash 0218325'],2646.0,Debit,32140.93,False,False
+188,06/02,"['Misc Debit', 'PMRBULKCASH/0120', 'PMRSG31012020101712', 'BULK CASH SERVICE']",50.0,Debit,32090.93,False,False
+189,06/02,"['Cheque Withdrawal', '0218316']",154.08,Debit,31936.85,False,False
+190,06/02,"['Cheque Withdrawal', '0218322']",1000.0,Debit,30936.85,False,False
+191,07/02,"['Bulk Cash', '163 B811951']",4986.1,Credit,35922.95,False,False
+192,10/02,"['Inward CR - GIRO', 'OTHR Other', 'CARLSBERG SINGAPORE', '2001525660001']",579.6,Credit,36502.55,False,False
+193,10/02,"['Cheque Withdrawal', '0218306']",713.05,Debit,35789.5,False,False
+194,10/02,"['Cheque Withdrawal', '0218320']",443.15,Debit,35346.35,False,False
+195,10/02,"['Cheque Withdrawal', '0218324']",1404.92,Debit,33941.43,False,False
+196,11/02,"['Cheque Withdrawal', '0218319']",911.13,Debit,33030.3,False,False
+197,11/02,"['Cheque Withdrawal', '0218321']",786.54,Debit,32243.76,False,False
+198,11/02,"['Cheque Withdrawal', '0218323']",1365.3,Debit,30878.46,False,False
+199,11/02,"['Cheque Withdrawal', '0218327']",2000.0,Debit,28878.46,False,False
+200,13/02,"['Bulk Cash', '163 B811952']",10370.6,Credit,39249.06,False,False
+201,17/02,"['Inward DR - GIRO', 'COLL 533188566', 'CPF', 'BFWL']",2330.0,Debit,36919.06,False,False
+202,17/02,"['Inward DR - GIRO', 'COLL 53318856C', 'CPF', 'BIZ']",2211.5,Debit,34707.56,False,False
+203,17/02,['Cheque Deposit'],64.57,Credit,34772.13,False,False
+204,19/02,"['Bulk Cash', '163 B171114']",6839.5,Credit,41611.63,False,False
+205,20/02,"['Cheque Withdrawal', '0218318']",1097.62,Debit,40514.01,False,False
+206,20/02,"['Cheque Withdrawal', '0218346']",91.0,Debit,40423.01,False,False
+207,20/02,"['Cheque Withdrawal', '0218348']",348.19,Debit,40074.82,False,False
+208,20/02,"['Cheque Withdrawal', '0218349']",106.67,Debit,39968.15,False,False
+209,21/02,"['Cheque Withdrawal', '0218328']",15000.0,Debit,24968.15,False,False
+210,24/02,"['Cheque Withdrawal', '0218334']",592.25,Debit,24375.9,False,False
+211,24/02,"['Cheque Withdrawal', '0218335']",1000.0,Debit,23375.9,False,False
+212,24/02,"['Cheque Withdrawal', '0218336']",102.72,Debit,23273.18,False,False
+213,25/02,"['Cheque Withdrawal', '0218314']",74.9,Debit,23198.28,False,False
+214,25/02,"['Cheque Withdrawal', '0218315']",90.0,Debit,23108.28,False,False
+215,25/02,"['Cheque Withdrawal', '0218330']",1271.16,Debit,21837.12,False,False
+216,25/02,"['Cheque Withdrawal', '0218331']",471.65,Debit,21365.47,False,False
+217,25/02,"['Cheque Withdrawal', '0218341']",750.94,Debit,20614.53,False,False
+218,25/02,"['Cheque Withdrawal', '0218342']",90.0,Debit,20524.53,False,False
+219,25/02,"['Cheque Withdrawal', '0218345']",74.9,Debit,20449.63,False,False
+220,26/02,"['Cheque Withdrawal', '0218344']",1045.28,Debit,18404.35,False,True
+221,27/02,"['Cheque Withdrawal', '0218301']",267.5,Credit,19136.85,False,True
+222,27/02,"['Cheque Withdrawal', '0218329']",267.5,Debit,18869.35,False,False
+223,27/02,"['Cheque Withdrawal', '0218332']",136.96,Debit,18732.39,False,False
+224,27/02,"['Cheque Withdrawal', '0218337']",337.87,Debit,18394.52,False,False
+225,27/02,"['Cheque Withdrawal', '0218338']",473.49,Debit,17921.03,False,False
+226,27/02,"['Cheque Withdrawal', '0218347']",267.5,Debit,17653.53,False,False
+227,27/02,"['Cheque Withdrawal', '0218350']",84.0,Debit,17569.53,False,False
+228,27/02,"['Cheque Withdrawal', '0218352']",1600.0,Debit,15969.53,False,False
+229,28/02,"['Cheque Withdrawal', '0218333']",300.25,Debit,15669.28,False,False
+230,28/02,"['Bulk Cash', '163 B171116']",7140.4,Credit,22809.68,False,False
+231,29/02,['Cheque Charges'],4.5,Debit,22805.18,False,False
+232,,['Total Withdrawals'],,,43562.52,False,False
+233,,['Total Deposits'],,,35962.87,False,False
+234,,['Total'],,,22805.18,False,False
+235,,['BALANCE B/F'],,,22805.18,False,False
+236,02/03,"['Cheque Withdrawal', '0218339']",531.57,Debit,22273.61,False,False
+237,05/03,"['Inward CR - GIRO', 'OTHR Other', 'MOM', 'SEC 53318856C-PTE-01 20021']",4522.0,Credit,26795.61,False,False
+238,05/03,['Cheque Deposit'],1878.0,Credit,28673.61,False,False
+239,05/03,"['Bulk Cash', '163 B171119']",7987.2,Credit,36660.81,False,False
+240,06/03,"['Misc Debit', 'PMRBULKCASH/0220', 'PMRSG29022020012075', 'BULK CASH SERVICE']",50.0,Debit,36610.81,False,False
+241,06/03,"['Cheque Withdrawal', '0218340']",4563.33,Debit,32047.48,False,False
+242,07/03,['Cash 0218351'],2600.0,Debit,29447.48,False,False
+243,11/03,"['Inward CR - GIRO', 'OTHR Other', 'CARLSBERG SINGAPORE', '2001551460001']",463.68,Credit,29911.16,False,False
+244,16/03,"['Inward DR - GIRO', 'COLL 53318856C', 'GPF', 'BIZ']",1863.5,Debit,28047.66,False,False
+245,17/03,"['Inward DR - GIRO', 'COLL 53318856C', 'CPF', 'BFWL']",1927.3,Debit,26120.36,False,False
+246,17/03,['Cheque Deposit'],1933.3,Credit,28053.66,False,False
+247,17/03,['Cheque Deposit'],525.1,Credit,28578.76,False,False
+248,17/03,"['Cheque Withdrawal', '0218361']",119.84,Debit,28458.92,False,False
+249,17/03,"['Cheque Withdrawal', '0218362']",1000.0,Debit,27458.92,False,False
+250,19/03,"['Inward CR - GIRO', 'PAYNOW OTHR', 'IRAS', '113915490']",2714.8,Credit,30173.72,False,False
+251,19/03,"['Cheque Withdrawal', '0218356']",215.28,Debit,29958.44,False,False
+252,19/03,"['Cheque Withdrawal', '0218359']",257.01,Debit,29701.43,False,False
+253,19/03,"['Cheque Withdrawal', '0218360']",90.0,Debit,29611.43,False,False
+254,19/03,"['Cheque Withdrawal', '0218363']",74.9,Debit,29536.53,False,False
+255,18/03,"['Cheque Withdrawal', '0218365']",97.37,Debit,29439.16,False,False
+256,20/03,"['Cheque Withdrawal', '0218354']",853.86,Debit,28585.3,False,False
+257,20/03,"['Cheque Withdrawal', '0218364']",394.8,Debit,28180.5,False,True
+258,25/03,"['Cheque Withdrawal', '0218358']",2581.37,Debit,25809.13,False,True
+259,27/03,"['Cheque Withdrawal', '0218357']",57.75,Debit,25551.38,False,True
+260,27/03,"['Cheque Withdrawal', '0218366']",4231.37,Debit,21320.01,False,False
+261,30/03,"['Cheque Withdrawal', '0218367', 'eee']",21.91,Debit,21298.1,False,False
+262,,['Total Withdrawals'],,,21531.16,False,False
+263,,['Total Deposits'],,,20024.08,False,False
+264,,['Total'],,,21298.1,False,False

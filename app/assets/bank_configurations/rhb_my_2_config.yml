@@ -1,0 +1,75 @@
+
+init-config:
+  country-name: malaysia
+  bank-name : RHB
+  format-id: rhb_my_2
+  format-key-word: 'TRANSACTION STATEMENT'
+  new-pipeline: True
+  vertical-strategy: "explicit"
+  horizontal-strategy: "text"
+  new-pipeline-key-words: ['Date', 'Branch', 'Description', "Sender's", 'Reference', 'Reference', 'RefNum', 'Amount', 'Amount', 'Balance' ]
+
+# parsing variables
+summary-config:
+  summary-page-index: 0
+  keys: ['account-number', 'account-type', 'bank-name', 'document-type', 'number-of-pages', 'statement-date']
+  bank-name-find: ['RHB']
+  account-list: ['Reflex Cash Management']
+  separate-summary-lines: True
+  account-name-start: ''
+  account-name-line-start-index: 0
+  account-name-line-end-index: 0
+  account-address-line-start-index: 2
+  account-address-stop: ['Statement Period']
+  state-dt-keyword: ' To '
+  state-dt-from-start: True
+  no-of-date-words: 3
+  page-keyword: Page
+  account-no-regex: '\d\d\d\d\d\d\d\d\d\d\d\d\d\d'
+
+transaction-config:
+  txn-key-word: ['Beginning Balance', 'Ending Balance']
+  txn-remove-date: ['Beginning Balance', 'Ending Balance']
+  start-of-month-keyword: []
+  end-of-month-keyword: ['Total in Account Currency']
+  stop-at: ['www.rhbgroup.co', 'www.rhbgroup.com']
+  txn-columns: [
+      'transaction-date',
+      'transaction-branch',
+      'transaction-description-1',
+      'transaction-description-2',
+      'transaction-description-3',
+      'transaction-description-4',
+      'transaction-description-5',
+      'transaction-debit',
+      'transaction-credit',
+      'transaction-balance'
+  ]
+  required-txn-columns: [0, 2, 3, 4, 7, 8, 9]
+  date-regex-list: ['\d\d-\d\d-\d\d\d\d']
+  columns-in-between-date-descriptions: 1
+  statement-date-format: 'DD M YYYY'
+  transaction-date-format: 'DD-MM-YYYY'
+  number-regex-list: ['([0-9sS$oO§]{1,3}(,[0-9sS$oO§]{3})*(\.|\,)[0-9sS$oO§]{2})']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: ['Withdraws', 'Deposits']
+  balance-in-separate-table: True
+  balance-fields: {
+    'key': ['Beginning Balance', 'Withdraws', 'Deposits', 'Ending Balance'],
+    'actual-key': ['Withdraws', 'Deposits'],
+    'row-after-key': 0,
+  }
+  transaction-summary-key-info: [{
+    keyword: ['Deposits'],
+    key: 'total-credit'
+  }, {
+    keyword: ['Withdraws'],
+    key: 'total-debit'
+  }, {
+    keyword: ['Beginning Balance'],
+    key: 'start-balance'
+  }, {
+    keyword: ['Ending Balance'],
+    key: 'close-balance'
+  }]

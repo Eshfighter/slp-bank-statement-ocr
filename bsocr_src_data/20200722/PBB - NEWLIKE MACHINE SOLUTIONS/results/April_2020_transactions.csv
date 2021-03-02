@@ -1,0 +1,19 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Jumiah Debit / Tota! Debits'],,,16224.39,False,False
+1,,['Jumlah Kredit / Tota! Credits'],,,3400.0,False,False
+2,,['Balance From Last Statement'],,,592277.59,True,False
+3,16/04,"['GST DR 336555', 'CHQB SRS 265 865 CHEQUE PROCESS FEE', '00000000000000050 CHEQUE PROCESS FEE', '* 0000000500000001']",0.0,,592277.59,True,False
+4,16/04,['CHEQ 336555'],153.95,Debit,592431.54,True,False
+5,16/04,"['CHQ PROCESS FEE DR 336555', 'CHEQUE PROCESS FEE 1@RM0.50']",0.5,Debit,592432.04,True,False
+6,20/04,"['GST DR 336556', 'CHQB SRS 265 865 CHEQUE PROCESS FEE', '00000000000000050 CHEQUE PROCESS FEE']",0.0,,592432.04,True,False
+7,,['Balance C/F'],,,592432.04,True,False
+8,,['Balance B/F'],,,592432.04,True,False
+9,20/04,['CHEQ 336556'],263.0,Debit,592695.04,True,False
+10,20/04,"['CHQ PROCESS FEE DR 336556', 'CHEQUE PROCESS FEE 1@RM0.50']",0.5,Debit,592695.54,True,False
+11,20/04,['CHEQ 336557 336557'],12500.0,Debit,605195.54,True,False
+12,20/04,['CHQ PROCESS FEE DR 336557'],0.5,Debit,605196.04,True,False
+13,30/04,"['DEP-ECP 195049', 'IMEPS20200430100002182089951 RHB', 'NEWLIKE MACHINE SOLUTIONS SDN BHD RHB', 'XREF123456789A FUND TRANSFER']",3000.0,Credit,602196.04,True,False
+14,30/04,['DEP-CASH CDT 2906 029564'],400.0,Credit,601796.04,True,False
+15,30/04,['OD INT DR'],3296.97,Debit,605093.01,True,False
+16,30/04,"['COMT FEE DR', 'MNDB OSS 009 264 COMT FEE DR']",8.97,Debit,605101.98,True,False
+17,,['Closing Balance In This Statement'],,,605101.98,True,False

@@ -1,0 +1,192 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['_ OPENING BALANCE'],,,70255.59,False,False
+1,,['18/BIZCHANNELMTHLYFEE'],40.0,Debit,70215.59,False,False
+2,02/07,"['CAISA BONUS/INCENTIVE REWARD', 'acct', 'are']",40.0,Credit,70255.59,False,False
+3,02/07,"[': TR IBG', 'l4WHEEL', 'MWHEEL', 'i ___ €S AUTO ENTERPRISE', '. jo']",4030.0,Debit,66225.59,False,False
+4,02/07,"['iTR TO C/A', 'isalary event 13-30 MUNIYANDI A/L', ':SAMUG', '‘salary event 13-30', 'psalary event 13-30', 'fo']",49176.59,Debit,17049.0,False,False
+5,02/07,"[""'TR TO SAVINGS"", '[ANDY MUNIYANDI A/L SAMUG', 'ANDY', 'j ANDY', 'Trams', 'atte TH CAVINRS', 'siosonie']",4600.0,Debit,12449.0,False,False
+6,02/07,"['203/07/201 BTR TO SAVINGS', 'ANDY MUNIYAND} A/L SAMUG', 'TANDY', '(ANDY']",1000.0,Debit,11449.0,False,False
+7,04/07,"['}200171818571 169)', '9401122306', 'maxis', '7502', 'BROA', 'iMAXIS BROADBAND SDN', '{NO. WA008 1/18/1.6.201', 'ST SaaS', 'i eee', 'Se rm']",118740.46,Credit,130189.46,False,False
+8,04/07,"[';06/07/201 BTR TO C/A', '‘office expenses june SITI ROHAYAH', 'IBINTI', 'office expenses june', '____joofice expenses june', 'ese', 'cesermiel']",13883.33,Debit,116306.13,False,False
+9,06/07,"[':TR TO C/A', 'fs focal salary SITI ROHAYAH BINTI', 'US local salary', 'hocnornnlfS', 'focal salary', 'volition', 'ah,', '‘ae']",19853.85,Debit,96452.28,False,False
+10,06/07,"[';TR TO SAVINGS', '‘ANDY MUNIYANDI A/L SAMUG', '‘ANDY', 'NY ssc', 'en ti te']",3000.0,Debit,93452.28,False,False
+11,06/07,"['.TR TO C/A', 'Lmigrant fs MUNIYANDI AL SAMUG', 'umigrant fs', '__Anigrant ts']",20671.16,Debit,72781.12,False,False
+12,06/07,"['°TR TO C/A', 'itrlum TRIUMBAKAA SDN BHD', 'atrium', 'ium']",30000.0,Debit,42781.12,False,False
+13,06/07,"['TR TO SAVINGS', 'umigrant fs SIT', 'ROHAYAH BINT!', 'migrant fs', '___imlgrant ts', 'eee']",30000.0,Debit,12781.12,False,False
+14,09/07,"['TR TO SAVINGS', '[Andy MUNIYANDI AA. SAMUG', 'jAndy', 'Andy', 'es ee', 'je']",2000.0,Debit,10781.12,False,False
+15,09/07,"['‘TR TO SAVINGS', ""'Srl SRENJIVI AML RAJAND"", '‘Sri', 'Gn ta', 'Senet']",1000.0,Debit,9781.12,False,False
+16,11/07,"['IBG CREDIT', '19401129228', 'MAXIS', '5629', ""'BROA"", 'MAXIS BROADBAND SDN', 'BG TRANSACTION,']",22252.4,Credit,32033.52,False,False
+17,43/07,"[""'TR TO SAVINGS"", '‘ANDY MUNIYANDI A/L SAMUG', 'lANDY', '{_____ ANDY', 'rent apace']",10000.0,Debit,22033.52,False,False
+18,17/07,"['TR TO SAVINGS', 'LANDY MUNIYANDI A/L SAMUG', 'ANDY', 'PANDY', 'Bee', 'tbe']",5500.0,,,False,True
+19,,"['a2612246', '+Exp 1-15 julal MUNIYANDI A/L SAMUG', '[Exp 1-15 julai', 'EAS tel', 'ccc']",5666.7,,10866.82,False,False
+20,18/07,"['/IBG CREDIT', '(9401145783', 'MAXIS', '4161', 'BROA', ""'MAXIS BROADBAND SDN"", '__18@ TRANSACTION', 'ef a']",38507.88,Credit,49374.7,False,False
+21,18/07,['jteor2otecLRGCHQDR 20'],828.0,,,False,True
+22,,"[""18'CLRGCHQDR""]",12.08,,48500.7,False,False
+23,,['\\te/07i2018 CHQPROCESSINGFEE'],559.7,,,False,True
+24,23/07,"[""'TR IBG"", ':OCBC TRIUM', 'LOCBC TRIUM', 'L___TRIUMBAKAA SONBHD']",4780.0,,41809.7,False,False
+25,23/07,"[';TR TO SAVINGS', 'LANDY MUNIYANDI A/L SAMUG', '‘ANDY', 'ANDY']",6000.0,Debit,35809.7,False,False
+26,23/07,"['-FUNDS TR FROM SA', 'ipayment', 'iP yi', '[KOKA APLOGANATHA', 'ssp Acti aoa']",25000.0,Credit,60809.7,False,False
+27,23/07,['CASH CHQ DR'],9000.0,,,False,True
+28,23/07,['(231'],51.09,,81809.2,False,False
+29,23/07,['2wOT@NNSCLRG CHODR'],2.9,Debit,49809.2,False,True
+30,23/07,['‘CH PROCESSING FEE'],0.5,Debit,49808.7,False,False
+31,25/07,"['}IBG CREDIT', '(9401147691', 'MAXIS', '3070', 'BROA', '[MAXIS BROADBAND SDN']",2010.0,Credit,51818.7,False,False
+32,25/07,[],6.2,,,False,True
+33,25/07,['25072018\\HOUSECHQDR'],19280.27,,32598.43,False,False
+34,25/07,"[""2018'CHQ PROCESSING FEE"", 'son penne']",0.5,Debit,32537.93,False,True
+35,25/07,"['aie', 'wangsa', 'iWICKNESWAREN AL KALI', 'iasia', 'cet', 'socintneeavanamea basen', 'ae ee']",25000.0,Credit,57537.93,False,False
+36,25/07,['(2710712018 HOUSE CHA DR'],,,55461.93,False,True
+37,25/07,['2710712018 CHQ PROCESSING FEE'],0.5,Debit,55461.43,False,False
+38,25/07,"['‘S10T2018ICLRGCHQOR', 'SUO7DOIBICHAPROCESSINGFEE', 'YC O', 'i 8889083)']",8911500071.77,Debit,53891.43,False,True
+39,,['CLOSING BALANCE / BAK! PENUTUP'],,,53890.93,False,False
+40,03/08,"[""'TR TO SAVINGS"", 'ANDY MUNIYANDI A/L SAMUG', '""ANDY', 'fee', 'ANDY']",6000.0,Debit,48850.93,False,True
+41,04/08,"[""'TR TO SAVINGS"", 'tAndy MUNIYANDI A/L SAMUG', 'iAndy']",45850.93,Debit,45850.93,False,True
+42,06/08,"[':TR TO SAVINGS', '‘salary fs new local SITI ROHAYAH BINT! i', '\\salary fs new local', '___jsalaryenowiocd']",28930.75,Debit,16920.18,False,False
+43,06/08,"['IBG CREDIT', '(9401149767', 'MAXIS', '1068', '‘BROA', 'IMAXIS BROADBAND SDN', 'RANA CTION', 'eee ner nr erect', 'ficinenseeifies em', 'icencmergttg ——', '06/08/2018', 'AUTOPAY CR', '347135659545', '‘ooo', 'isa 76a', '__1CIMBBANKBERHAD-C', 'gos']",117216.23,Credit,134136.41,False,False
+44,06/08,"['josios2018 TR TO CIA', 'iSALARY 16-31 AUG SITIROHAYAH', ""'BINTI"", 'iSALARY 16-31 AUG', '___smarviestays']",102708.37,,,False,True
+45,06/08,"['/TR TO C/A', 'Undo FS SALARY MUNIYAND! AA.', 'iSAMUG', 'jindo FS SALARY', 'lindo FSSALARY']",42869.24,,59837.13,False,False
+46,06/08,"[""'TR TO C/A"", '\\PAYBACK TRIUMBAKAA SDN BHD', 'Pou', 'iPAYBACK', 'LL IPAYBACK', '__i___13.,']",49000.0,Debit,10837.13,False,False
+47,07/08,"[""'TR TO SAVINGS"", '‘office salary SIT} ROHAYAH BINT!', '‘office salary', 'loftice salary']",7488.06,Debit,3349.07,False,False
+48,07/08,"['TR TO SAVINGS', 'landy MUNIYANDI A/L SAMUG', 'landy', 'pany']",3000.0,Debit,349.07,False,False
+49,45/08,"['!IBG CREDIT', '19401172255', 'MAXIS', '2515', '‘BROA', 'iMAXIS BROADBAND SDN', '(INO. WaoTONIBR.7207']",49280.95,Credit,49630.02,False,False
+50,18/08,"[""'TR TO C/A"", '‘Jusp 08 MUNIYANDI Af, SAMUG', 'Asp 08', 'es 2', 'eum']",4643.0,Debit,44987.02,False,False
+51,15/08,"['33019688', '‘andy MUNIYANDI A/L SAMUG', 'andy', 'ony', 'A Nhe rer ereny errr peat']",4000.0,Debit,40987.02,False,False
+52,15/08,"['TR TO C/A', 'salary 1-16 aug MUNIYANDI Af. SAMUG', 'salary 1-15 aug', 'Bala 95 ug']",8941.53,Debit,32045.49,False,False
+53,15/08,"['/TR TO C/A', '‘payback TRIUMBAKAA SDN BHD', '‘payback', '(ee', 'eee']",20000.0,Debit,12045.49,False,False
+54,15/08,"['$1', 'randy MUNIYANDI A/L SAMUG', 'jandy', 'ipa', 'wince', 'mrsaccassh', 'corel']",2000.0,Debit,10045.49,False,False
+55,17/08,"['TR TO C/A', 'BALANCE SHORT MUNIYANDI A/L', 'isamus', '\\BALANCE SHORT', '__ jBALANCE SHORT', 'ees,', 'Sasice ners', 'wt.']",3860.0,Debit,6185.49,False,False
+56,17/08,"[',CLRGCH@DR']",800.0,Credit,2543854.9,False,True
+57,17/08,['(17'],91300.0,Debit,1.41,False,True
+58,17/08,['CHQ PROCESSING FEE'],1.0,Credit,4084.49,False,True
+59,23/08,"['IBG CREDIT', '19401174202', 'MAXIS', '1641', ':BROA', 'iMAXIS BROADBAND SDN', 'J/BG TRANSACTION', 'ee —_________ }—']",31338.08,Credit,35422.57,False,False
+60,27/08,"[':TR TO C/A', 'LANDY INS SUN LIFE MALAYSIA A', '‘ANDY INS']",3600.0,Debit,31822.57,False,False
+61,27/08,"[';TR IBG', ':OCBC', 'vocec', 'is', 'LTRIUMBAKAA SONBHD', 'veoeh', 'eee', 'foo']",4769.3,Debit,21072.57,False,True
+62,27/08,"[';TR TO SAVINGS', '‘sal MUNIYAND! A/L SAMUG', 'Pee', 'eee', 'anenneetnpenteetenenner', 'nt epee bieeeere—metntineneent']",6000.0,Debit,21072.57,False,True
+63,27/08,"['TR TO SAVINGS', '“EVENT JB MAGENTERAN AL RASAG', '‘EVENT JB']",7512.0,Debit,13560.57,False,False
+64,27/08,['/2D LOCALCHQ'],554.0,Credit,14114.57,False,False
+65,27/08,"['[eaomeaneyiR TO SAVINGS', 'LANDY SAL MUNIYANDI AA. SAMUG', '[ANDY SAL', 'i—— SAL', 'sere', 'ce me fener', 'Maecenas tel']",41000.0,Debit,10114.57,False,True
+66,28/08,['CLRG CHO DR'],,,17778844.57,False,True
+67,28/08,"[""200B2018'CLRGCHQDR""]",2000.0,,,False,True
+68,28/08,['¥ a SS rains 8th ete'],1.0,,6543.57,False,False
+69,,"[':TR TO SAVINGS', 'landy MUNIYANDI A/L SAMUG', 'jandy', 'Leeper Nc', 'eee']",3000.0,Debit,3543.57,False,False
+70,30/08,"[';TR TO SAVINGS', '[ANDY MUNIVANDI AL SAMUG', 'ANDY']",1000.0,Debit,2543.57,False,False
+71,,['CLOSING BALANCE / BAK/ PENUTUP'],,,2.54,False,False
+72,01/09,"[""'BIZCHANNEL MTHLY FEE""]",2803.57,Credit,2503.57,False,True
+73,03/09,"[""'TR TO SAVINGS"", '‘ANDY MUNIYANDI A/L SAMUG', '“ANDY', 'hie mf']",1000.0,Debit,1503.57,False,False
+74,05/09,"[':IBG CREDIT', '9401178063', 'MAXIS', '9368', 'BROA', '(MAXIS BROADBAND SDN', 'NO WAOT TTBS 20T', 'Nee nce', 'pps']",59294.53,Credit,60798.1,False,False
+75,06/09,"[',TR FROM SA', 'TRF TO 3RD PARTY', ""'06092018"", '_kowKmenowe']",50000.0,Credit,110798.1,False,False
+76,06/09,"[':TR TO C/A', 'tsalary 16-31 aug MUNIYANDI AA.', 'SAMUG', '{salary 16-31 aug', 'L___', 'ssalary 16-34 aug', 'see', 'iP ae', 'icc']",50000.0,Debit,60798.1,False,False
+77,06/09,"[""'TR TO C/A"", 'iSALARY 16-31 SITI ROHAYAH BINTI', '{SALARY 16-31', '___ SALARY 16-37 __', 'ec,', 'seas']",30000.0,Debit,30798.1,False,False
+78,06/09,"[';TR TO SAVINGS', 'Salary 16-31 aug SITI ROHAYAH BINT', '{salary 16-34 aug', '_.. Salary 16-31 aug', '1...', 'oe ntne', 'Freire']",30000.0,Debit,798.1,False,False
+79,06/09,"[';IBG CREDIT', '9401 182748', 'MAXIS', '3080', 'BROA', 'OY', ""'MAXIS BROADBAND SDN"", 'pacsanesne fee NOE', 'i gg', 'eee', 'gee eee Eee epee eres ei']",74857.61,Credit,7586.79,False,True
+80,07/09,"['TR TO SAVINGS', ':Salaty ika aug SYAMSUL BINISHAK', 'isalary ika aug', 'ee Le', 'a a']",2676.92,Credit,72976.87,False,True
+81,07/09,"['.TR TO SAVINGS', 'salary aug MUHLISUN', '‘salary aug', 'Bre UIO UN', 'sccm eeen ath', 'Bees ep bee']",2630.16,Debit,70340.41,False,True
+82,07/09,"['TR TO SAVINGS', 'lazrlil 2353 85 fauzi MUHAMMAD FAUZI', ""'BIN"", '‘fauzi 2353 85', 'tment']",4707.7,Debit,65632.71,False,False
+83,07/09,"['TR TO SAVINGS', '-salaty aug AZMI SIDIQ', 'isalary aug', 'Isataryaug']",2153.85,Debit,63478.86,False,False
+84,07/09,"[':TR TO SAVINGS', 'isalary fs MUHYIDIN', '‘salary fs', 'aegis']",2353.85,Debit,61125.01,False,False
+85,07/09,"[':TR TO SAVINGS', '‘balance salary 16-31 SITI ROHAYAH', '(BINT!', '‘balance salary 16-31', 'L_tbalance salary 16-34)']",29000.0,Debit,32125.01,False,False
+86,97/09,"['!TR TO SAVINGS', 'isalary promoter aug ALEX ARDIANSYAH', '‘salary promoter aug', 'LGR', 'prmsU tgs', 'ge a', 'ee rE']",2153.85,Debit,29971.16,False,False
+87,07/09,"[': TR TO CIA', '‘BALANCE SALARY 16-31 MUNIYANDI', 'LA/L SAMUG', '""BALANCE SALARY 16-31', 'BALANCE SALARY 16-31', '—t-', 'soe', 'espace', 'Bean']",17176.51,Debit,12.95,False,True
+88,07/09,"['TR TO SAVINGS', 'isalary fs YUSRON WAHYUDI', 'salary fs']",3153.85,Credit,964.0,False,True
+89,42/09,"['TR TO SAVINGS', 'ANDY MUNIYANDI Ad. SAMUG', '‘ANDY', 'RN errr', 'neces', 'eee', 'ieee', 'crepe eet']",8000.0,Credit,1640.8,False,True
+90,12/09,"[':IBG CREDIT', '(9401 183380', 'MAXIS', '2183', '‘BROA', '‘MAXIS BROADBAND SDN', '__IBG TRANSACTION,']",18036.0,Credit,19676.8,False,False
+91,43/09,"['TR TO C/A', 'HAMSNI PERUMAL 650 MUNIYANDI A/L', '_sAMUG', '_KWSP 4643 OFF 1300', 'STORE 800 ANDY 1000', '_ if', 'aed']",8393.0,Debit,11283.8,False,False
+92,15/09,"[':TR TO C/A', '“Andy MUNIYANDI A/L SAMUG', '‘Andy Fitri Andy', 'Andy', 'ie ee See Oe;']",4776.92,Debit,6506.88,False,False
+93,19/09,"[':TR TO C/A', '{SAL 1-5 SEPT MUNIYANDI AL SAMUG', 'SAL 1-5 SEPT', '4 \\_', '_ SSAL 1-5 SEPT', '_ i', '_ 3']",5816.0,Debit,690.88,False,False
+94,27/09,"['! -FUNDS TR FROM SA', '\\MUNIYANDI A/L. SAMUGA', 'fa .msurance and GST']",7300.0,Credit,7990.88,False,False
+95,27/09,['CHQ PROCESSING FEE'],1690.36,Debit,1690.38,False,True
+96,28/09,"[""(200151827171239'"", '19401202673', 'MAXIS', '2083', ""'BROA"", '‘MAXIS BROADBAND SDN', '(Ete 20', 'nrarcemnenivarsrtimsns ean', 'cunpsial bani', 'asses coed a']",15191.54,Credit,16881.92,False,False
+97,,['CLOSING BALANCE / BAK/ PENUTUP'],,,16881.92,False,False
+98,,['Total Withdrawal'],,,210341.41,False,False
+99,,['Total Deposit'],,,224679.76,False,False
+100,,"['pase', 'promo', 'Be:', 'FORWARD } Your Business', 'he i ""nee', 'eae', 'Gampalgn valid untii31 December 2018,', 'oor', 'alpharetta attra rea er', 'roe', 'ure.', 'TOL Sree case emer', 'Petes', 'ME Ska', 'Canibus.', 'Cuan', '[ee', 'OIMB BIZ423 - QUICK GUARANTEE/ QUICK GUARANTEES', 'Issue a bank guarantee', 'ee ae', '“ab', 'eet ee', 'gets', 'a iy', 'within one working day', 'Rene', 'Ly ys oa', 'FORWARD Jy Your Business', 'Bee', 'fo Jo ONE aac', 'cee 43', 'Naa', 'Rao', '209 TN', 'Soa', 'Nee', 'For more information, tog on to wwnw.ciinibhank.com.myfquickeguarantes', 'ees', 'Weilemtse.', '“Ny', 'or wen cimbislamié.commy/quick-quarantes-1', '‘Yemns and conditions apply.', '_eee']",,,30.0,False,False
+101,,['_ OPENING BALANCE'],,,16881.92,False,False
+102,,['[0tMozo1aiBIZCHANNELMTHLY FEE'],40.0,Debit,16841.92,False,False
+103,02/10,"['TR TO G/A', 'tramesh n sitl event MUNIYANDI A/L', 'SAMUG', 'lramesh n siti event', '{ramesh n siti event', 'ee']",9492.0,Debit,7349.92,False,False
+104,02/10,"['/TR TO SAVINGS', 'ANDY MUNIYANDI A/L SAMUG', '!ANDY', '____iANDY', 'enna', 'ics', 'Barren']",2000.0,Debit,5349.92,False,False
+105,02/10,['CLRG CHQ DR'],1570.0,Debit,3779.92,False,False
+106,02/10,['\\CHQ PROCESSING FEE'],40.8,Debit,3.78,False,True
+107,03/10,['HSE CH@ DEPOSIT'],10000.0,Credit,103779.42,False,True
+108,05/10,"['; TR TO C/A', 'SALARY 16-30 MUNIYAND! A/L SAMUG -', 'SALARY 16-30', 'ss SALARY 16-30', 'racctgieasmenit Lancy _ysscceces—pee L']",60309.14,Debit,43470.28,False,False
+109,07/10,"['TR TO C/A', 'PAYBACK LOAN 100K B', 'RAGHUNATHAN ALL B', '[PAYBACK LOAN 100K', ';PAYBACK LOAN 100K', 'Seen', 'eee ann ey nsmeaprentertmcrere', 'Pinernaeseenetiesfmiacce ats', 'Beste', '08MooIsHOUSECHQDR', 'ete', '20000', 'SSC« RR']",30000.0,Debit,13470.28,False,False
+110,08/10,"['CHQ PROCESSING FEE', 'sarent', 'sega', 'pene', 'sirens', 'rene', 'ee ae']",0.54,Debit,1269.78,False,True
+111,10/10,"[':IBG CREDIT', '19401213123', 'MAXIS.', 'e484', ""'BROA"", 'MAXIS BROADBAND SDN', 'L__. PUB 20181070-RSA', 'mitt']",207579.34,Credit,208849.12,False,False
+112,10/10,"['TR TO C/A', 'Salary fs sept MUNIYANDI A/L SAMUG', 'isalary fs sept', 'bale Se', 'vse', 'eanitrsine', 'nnd']",60000.0,Debit,148849.12,False,False
+113,10/10,"['/TR TO SAVINGS', 'salary fs sept SIT/ ROMAYAH BINTI', '\\salary fs sept', 'gents beers peerage']",66658.0,,,False,True
+114,10/10,"['/40', ""'salary fs sept SIT] ROHAYAH BINT!"", 'isalary fs sept', 'BARBIE FSBO', 'rr ial', 'urs Se', 'cana']",30000.0,,62191.12,False,False
+115,10/10,"['TR TO SAVINGS', '\\ANDY MUNIYANDI AJL SAMUG', '/ANDY', 'i anpy', 'sucsnaauafbere']",30000.0,Debit,32191.12,False,False
+116,10/10,"[""'TR TO C/A"", 'payback bayar sal fs TRIUMBAKAA SDN +', '\\BHD', '\\payback bayar sal fs', 'payback bayar sal fs', 'Awe']",7400.0,Debit,24791.12,False,False
+117,10/10,"[""'11"", 'andy MUNIYAND! A/L SAMUG', 'jandy', 'lll ice tascetataaneenininel eaemerne Hed iaican ecu san beeen', 'acre']",2000.0,Debit,22791.12,False,False
+118,41/10,"['TR TO SAVINGS', 'SAL DEBY FIRMANSYAH IRWAN SHAH', 'BIN MUSA', 'SAL DEBY FIRMANSYAH', 'SAL DEBY FIRMANSYAH']",3815.39,Debit,18975.73,False,False
+119,11/10,"['.TR TO SAVINGS', '‘salary joceline CHEW CHENG VOON', 'salary joceline', '!salaryJoceline __', 'L..', 'Beas', 'ee!']",1923.08,Debit,17052.65,False,False
+120,11/10,"['TR TO SAVINGS', 'SAL DIRGA DAN HILDA DIRGA SEPTIA', 'INUGRAH', '(SAL DIRGA DAN HILDA', '1 SAL DIRGADANHILDA', 'ecaemmcie-nd lmennvonns']",4203.84,Debit,12848.81,False,False
+121,11/10,"['“14', '“SALARY EVENT MUNIYANDI AAL', 'SAMuG', 'i(', 'SALARY EVENT', 'SALARY EVENT']",9350.0,Debit,3498.81,False,False
+122,15/10,"[""'TR TO SAVINGS"", 'ANDY MUNIYANDI A/L SAMUG', '‘ANDY', 'ANDY', 'ee fd', 'peneheepee']",1000.0,Debit,2498.81,False,False
+123,18/10,['CLRGGHQDR'],800.0,Debit,1698.81,False,False
+124,18/10,"['ASMOROIBCLRGCHODR', '15/10/2018', 'CHQ PROCESSING FEE', 'NOD', 'sorei']",800.0,,,False,True
+125,24/10,"[':1BG CREDIT', '9401232876', 'MAXIS', '8762', 'BROA', 'MAXIS BROADBAND SDN', 'NO. WA0137/18/20.9.20']",50849.03,,51246.84,False,False
+126,25/10,"['TR TO SAVINGS', '\\ANDY MUNIYANDI A/L SAMUG', 'ANDY']",15000.0,Debit,36246.84,False,False
+127,25/10,"[') TR IBG', 'LOAN TRIUM', '‘LOAN TRIUM', 'ITRIUMBAKAA SDNBHD', 'to']",4750.0,Debit,31496.84,False,False
+128,,"['25/t0/201 8iTR TO CIA', 'levent MUNIYANDI A/L SAMUG', '‘event', '____levent', 'sc ge', 'sncuscaronl let Mel er', 'axe', 'ee a']",6525.0,Debit,24971.84,False,False
+129,,"['25/10/201 BITR TO CIA', '‘kwsp MUNIYANDI AL SAMUG', 'ikwsp', 'Lvemicscccnep WER.']",4733.0,Debit,20238.84,False,False
+130,27/10,"['/TR TO SAVINGS', 'Andy MUNIYANDI AL SAMUG', 'Andy', 'vandy', 'ss', 'manronesniselficienowrarnnnhmme']",3000.0,Debit,17238.84,False,False
+131,29/10,"['TR TO SAVINGS', 'ANDY MUNIYANDI A/, SAMUG', 'ANDY', '!ANDY']",302.0,Debit,14238.44,False,True
+132,31/10,"['alTR TO C/A', '89 ramal denish sala MUNIYAND! A/L', 'SaMUG', 'sg ramal denish sala', '___ saremaldentsh safe', '+ ae,']",2345.25,Debit,1893.59,False,True
+133,31/10,"['TR TO SAVINGS', '\\/B EVENT MAGENTERAN AL RASAG', '\\JB EVENT', 'JB EVENT', '{dt', 'ore ttf', 'Ee ee']",4.55,Credit,4550.59,False,True
+134,31/10,"['/TR TO SAVINGS', ""'andy MUNIYANDI AA SAMUG"", 'jandy', 'sandy _', 'watt', 'mail', 'ea Becca']",2500.0,Debit,2050.59,False,False
+135,31/10,"[""'s1/1072018]CLRG CHa DR"", '31/10/2016', 'CHQ PROCESSING FEE', 'ssi', 'scene', 'ob cate', 'rch', 'Shiemamnnat', 'OOS']",977.17,Debit,480.59,False,True
+136,,['CLOSING BALANCE / BAKI PENUTUP'],,,480.09,False,False
+137,,['Total Withdrawal'],,,374830.2,False,False
+138,,['Total Deposit'],,,358428.37,False,False
+139,,['OPENING BALANCE'],,,480.09,False,False
+140,,['‘01M 1/2018 BIZCHANNEL MTHLYFEE'],40.0,Debit,440.09,False,False
+141,07/11,"[':1BG CREDIT', '9401241810', 'MAXIS', '7856', '‘BROA', 'MAXIS BROADBAND SDN', 'ee !BG TRANSACTION']",240022.47,Credit,240462.56,False,False
+142,07/11,"['TR TO C/A', 'ISALARY 16 UNT 31 NOVMUNIYANDI', '[ML SAMUG', 'ISALARY 16 UNT 31 NOV', 'ESALARY 16 UNT31NOV', 'ssh', 'meeerbieeeeel', 'Viernes,']",64662.2,Debit,175800.36,False,False
+143,07/11,"[': TR TO C/A', '‘salary 16-31 SITI ROHAYAH BINTI', 'isalary 16-31', '(oe 1', 'ee ee', 'ee ae']",60000.0,Debit,115800.36,False,False
+144,07/11,"[':TR TO SAVINGS', 'landy MUNIYANDI A/L SAMUG', '‘andy', 'BIRO', 'git Purcereean']",28000.0,Debit,87800.36,False,False
+145,07/11,"[':TR TO SAVINGS', '‘salary DIRGA SEPTIA NUGRAH', 'ssalary', 'RY yn apc', 'sgt sl semana', 'resale', 'eer']",12123.08,Debit,75677.28,False,False
+146,07/11,"['TR TO SAVINGS', 'isalaty 16-31 SITI ROHAYAH BINTI', 'jsalary 16-31', 'Isalary 16-34', 'po]']",60000.0,Debit,15677.28,False,False
+147,07/11,"[':TR TO SAVINGS', 'iwrapping truck MAGENTERAN AL', '2RASAG', '{wrapping truck', 'b____jwrapping truck', 'sasPia']",3000.0,Debit,12677.28,False,False
+148,07/11,"['TR TO C/A', ':VOUCHER KFG 99 MUNIYANDI AL', ""'SAMUG"", ':VOUGHER KFC 99', '!VOUCHER KFC 99', 'EU I', 'pamanelhbe']",10000.0,Debit,2677.28,False,False
+149,14/11,"['IBG CREDIT', '99401244363', 'MAXIS', '8827', 'BROA', ""'MAXIS BROADBAND SDN""]",23950.0,Credit,26627.28,False,False
+150,14/11,[],10.2,,,False,True
+151,14/11,"[':TR TO SAVINGS', 'Andy MUNFYANDI A/L SAMUG', '‘andy', 'PY gnc', 'es a: ee']",5500.0,,21127.28,False,False
+152,19/11,"['TR TO C/A', 'iSalary 1-15 MUNIYANDI AA. SAMUG', '(Salary salary 1-15', 'Salary 1-15 _', 'comics Earner pe']",9451.5,Debit,11675.78,False,False
+153,16/11,"['°TR TO SAVINGS', '‘ANDY MUNIYANDI A/L SAMUG', '[ANDY', 'ANDY', 'pen']",10000.0,Debit,1675.78,False,False
+154,22/11,"['18G CREDIT', '19401256693', 'MAXIS', '1903', 'iBROA', ""'MAXIS BROADBAND SDN"", 'IBG TRANSACTION,', 'ere', 'crates', 'cetera « rent']",49517.12,Credit,51192.9,False,False
+155,22/11,"['(221', '\\EVENT EXP MUNIYANDI A/L SAMUG', '‘EVENT EXP', 'too', 'cee', 'scree apenas', 'fips onalemommncec Bao', 'saad', 'ie Il']",17454.0,Debit,33738.9,False,False
+156,22/11,"['TR TO SAVINGS', 'sandy MUNIYANDI A/. SAMUG', 'sandy', 'Landy', 'nn pt', 'ee epee', 'cape a ci']",10000.0,Debit,23738.9,False,False
+157,23/11,"[""'TR TO C/A"", 'isHIPPING FEE RIFQ! MUNIYANDI AA.', 'SAMUG', 'iSHIPPING FEE RIFQI', 'SHIPPING FEE RIFQI', 'bs wt', 'eer', 'are', 'pay']",3532.98,Debit,20205.92,False,False
+158,28/11,"['TR TO C/A', '_FS REFUND E-PAY (M) SDN BHD', '“FS REFUND', 'FSREFUND', 'sche']",2318.0,Debit,17887.92,False,False
+159,29/11,"['TR IBG', 'LOAN TRIUM', ':LOAN TRIUM', '[TRIUMBAKAA SDN BHD', 'eee', 'A eel 0', 'ree', 'lemme', 'comet']",4750.0,Debit,13137.92,False,False
+160,29/11,"['TR TO SAVINGS', 'ANDY MUNIYANDI AA SAMUG', '“ANDY', 'SAN es', 'sari', 'mea', 'ie,', 'nw, Peers wv efeeernecteeremmmeraemned']",4500.0,Debit,8637.92,False,False
+161,29/11,['CLRG'],1570.0,Credit,97067.92,False,True
+162,29/11,['.CHQ PROCESSING FEE'],7067.42,,,False,True
+163,,['CLOSING BALANCE / BAKI PENUTUP'],,,7087.42,False,False
+164,,['OPENING BALANCE'],,,87.42,False,False
+165,,['(322018 BIZCHANNEL MTHLY FEE'],40.0,Debit,27.42,False,True
+166,05/12,"[':TR TO SAVINGS', 'iEvent exp MAGENTERAN AL RASAG', 'lEvent exp', '\\Event oxp', 'we fe', 'po']",6635.0,Credit,1892.42,False,True
+167,05/12,"['!IBG CREDIT', '(9401261483', 'MAXIS', '9547', '‘BROA', ""'MAXIS BROADBAND SDN""]",182118.6,Credit,183511.02,False,True
+168,05/12,['___NO.wao1'],11.2,,,False,True
+169,08/12,"[""'TR TO C/A"", '{salary 16-30 SIT! ROHAYAH BINTI', 'jsalary 16-30', 'Pace ON IO 8', 'ce a', 'cere', 'eee ae Pigg', 'ee wf eeaneee']",60166.37,,123344.65,False,False
+170,06/12,"[""'TR TO SAVINGS"", 'salary 16-30 SIT! ROHAYAH BINT!', '“salary 16-30', 'Salary 16-30', 'gfe', 'eee']",62823.47,Debit,60521.18,False,False
+171,06/12,"['TR TO C/A', '‘salary 16-30 MUNIYANDI AA. SAMUG', 'isalary 16-30', '1... Salary 18-30 __', 'ee,', 'scececmih', 'sash']",60000.0,Debit,521.18,False,False
+172,97/12,"[': \\BG CREDIT', '19401268973', 'Maxis', '1009', ""'BROA"", ':{MAXIS BROADBAND SDN']",31531.44,Credit,32052.62,False,False
+173,97/12,['¢_—_1NO.WA01'],5.1,,,False,True
+174,07/12,"[': TR TO SAVINGS', '‘abadullah ABAD ULLAH', 'tabadullah', 'jabadullah', 'rscerthorc mm', 'ccesaciaoae', 'se iis ener', 'Ppsecscuaien oh a', 'seri', 'earn']",2700.0,,29352.62,False,False
+175,,"['39182018', 'iSalary bangla MUNIYAND! A/L SAMUG', '{salary bangla', 'FOI OS', 'eee ett nip', 'Pomstsnnge snes acn oan', 'Apc afl']",15300.0,Debit,14052.62,False,False
+176,,"['107/12/201 BTR TO SAVINGS', 'OMID 3K ABD RAHMAN BIN HARU', 'HSALARY NOV', 'SSOHELSK', 'yal cect']",6000.0,Debit,8052.62,False,False
+177,07/12,"[':TR TO SAVINGS', 'tsalary nov MD SAIFUL ISLAM', '‘salary nov', '__salarynov', 'pou']",3.0,Debit,5052.62,False,True
+178,07/12,"[""'TR TO SAVINGS"", 'SALARY MOHAMMED IBRAHIM', 'MOKARRAM', 'cere']",4000.0,Debit,1052.62,False,False
+179,12/12,"['IBG CREDIT', '19401269533', 'MAXIS', '2114', '{BROA', '{MAXIS BROADBAND SDN', 'NO.WA0139/16/2.10.20']",31364.22,Credit,32416.84,False,False
+180,42/12,"[""'TR TO C/A"", '‘event exp MUNIYANDI A/L SAMUG', 'levent exp', 'L_eventexp']",,,19841.84,False,True
+181,12/12,"[':TR TO SAVINGS', 'ANDY MUNIYANDI AA SAMUG', 'LANDY']",6000.0,Debit,13841.84,False,False
+182,13/12,"[""'TR TO SAVINGS"", 'ANDY MUNIYANDI A/L SAMUG', '[ANDY']",10000.0,Debit,3841.84,False,False
+183,13/12,"['/TR TO SAVINGS', 'salary MUHAMMAD FAUZ! BIN', '‘salary', 'slay']",1923.08,Debit,1918.76,False,False
+184,19/12,"[':1BG CREDIT', '19401281100', 'MAXIS', '3571', '}BROA', '""MAXIS BROADBAND SDN', '___No.waorrerera.14.2', 'Bee']",6070.0,Credit,7988.76,False,False
+185,20/12,"['TR TO SAVINGS', '‘ANDY MUNIYANDI A/L SAMUG', '""ANDY', 'FANDY']",7900.0,Debit,88.76,False,False
+186,26/12,"['(BG CREDIT', '(9401283108', 'MAXIS', '8462}', '1BROA', 'bog', ""'MAXIS BROADBAND SDN"", 'io:', 'i____IBG TRANSACTION', ': a gee', 'pretences lege']",71464.93,Credit,71553.69,False,False
+187,26/12,"['TR TO SAVINGS', '‘Andy MUNIYANDI A/L SAMUG', '‘Andy', 'FOOT', 'ope ene pee', 'Freese', 'coop']",11.0,Debit,60553.69,False,True
+188,26/12,"['TR TOCIA', '‘Elf socso slyg mall MUNIYANDI A/L', ':SAMUG', 'iKwsp soeso selyg mal', '..{Epfseesoselygmal']",5847.0,Debit,54706.69,False,False
+189,28/12,"[':IBG CREDIT', '19401284210', 'MAXIS', '2988', 'lk', '\\MAXIS BROADBAND SDN', 'Nomnonenane2', 'Ll']",249271.69,Credit,303978.38,False,False
+190,,['CLOSING BALANCE / BAK! PENUTUP'],,,,False,False

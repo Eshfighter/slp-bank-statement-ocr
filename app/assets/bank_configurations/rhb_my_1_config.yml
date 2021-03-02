@@ -1,0 +1,61 @@
+
+init-config:
+  country-name: malaysia
+  bank-name : RHB
+  format-id: rhb_my_1
+  format-key-word: '**Statement Message**'
+
+# parsing variables
+summary-config:
+  summary-page-index: 0
+  keys: ['account-number', 'account-type', 'bank-name', 'document-type', 'number-of-pages', 'statement-date']
+  bank-name-find: ['RHB']
+  account-list: ['QARD CURRENT ACCOUNT-I']
+  separate-summary-lines: True
+  account-name-start: 'STATEMENT PERIOD'
+  account-name-line-start-index: 3
+  account-name-line-end-index: 3
+  account-address-line-start-index: 4
+  account-address-stop: ['**Statement Message**']
+  page-keyword: Page
+  state-dt-regex: '[a-zA-Z][a-zA-Z][a-zA-Z]\s\d\d,\s\d\d\d\d'
+  account-no-regex: '\d\d\d\d\d\d\d\d\d\d\d\d\d\d'
+
+transaction-config:
+  txn-key-word: ['B/F BALANCE', 'Beginning Balance', 'Ending Balance']
+  txn-remove-date: ['B/F BALANCE', 'Beginning Balance', 'Ending Balance']
+  txn-remove: ['Indicates break in cheque sequence']
+  start-of-month-keyword: ['B/F BALANCE']
+  end-of-month-keyword: []
+  stop-at: ['MEMBER OF PIDM.']
+  txn-description-include-additional-column: True
+  date-regex-list: ['[a-zA-Z][a-zA-Z][a-zA-Z]\s\d\d']
+  last-column-headings: ['Date', 'Description', 'Cheque/Serial No', 'Debit', 'Credit', 'Balance']
+  page-last-transaction-index: -1
+  page-first-transaction-index: 0
+  columns-in-between-date-descriptions: 0
+  statement-date-format: 'MMM DD, YYYY'
+  transaction-date-format: 'MMM DD'
+  number-regex-list: ['([0-9sS$oO§]{1,3}(,[0-9sS$oO§]{3})*(\.|\,)[0-9sS$oO§]{2})']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: ['Withdrawals', 'Deposits']
+  balance-in-separate-table: True
+  balance-fields: {
+    'key': ['Beginning Balance', 'Withdrawals', 'Deposits', 'Ending Balance'],
+    'actual-key': ['Withdrawals', 'Deposits'],
+    'row-after-key': 0,
+  }
+  transaction-summary-key-info: [{
+    keyword: ['Deposits'],
+    key: 'total-credit'
+  }, {
+    keyword: ['Withdrawals'],
+    key: 'total-debit'
+  }, {
+    keyword: ['Beginning Balance'],
+    key: 'start-balance'
+  }, {
+    keyword: ['Ending Balance'],
+    key: 'close-balance'
+  }]

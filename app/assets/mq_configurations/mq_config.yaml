@@ -1,0 +1,22 @@
+listen-configuration:
+  queue: test-listen
+  host: '192.168.0.1'
+  port: 5672
+  virtual_host: /
+  username: guest
+  password: guest
+  routing_key: TEST_LISTEN
+  exchange: OCR
+
+publish-configuration:
+  queue: test-publish
+  host: '192.168.0.1'
+  port: 5672
+  virtual_host: /
+  username: guest
+  password: guest
+  routing_key: TEST_PUBLISH
+  exchange: OCR
+
+ssl-configuration:
+  client_key_password: 'password'

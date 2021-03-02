@@ -1,0 +1,36 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE FROM PREVIOUS STATEMENT'],,,86668.64,True,False
+1,30/09,['Ot Oct'],6560.61,Debit,93229.25,True,False
+2,25/10,"['SMSDOME PTE. LTD.', 'TR FUND', 'IBFTSUPP.', 'DBSSSGSGXXX00']",6000.0,Credit,87229.25,True,False
+3,31/10,['DR INTEREST'],1013.61,Debit,88242.86,True,False
+4,,['Total Withdrawals'],,,6000.0,False,False
+5,,['Total Deposits'],,,7574.22,False,False
+6,,['CLOSING BALANCE'],,,88242.86,False,False
+7,,['BALANCE FROM PREVIOUS STATEMENT'],,,86240.52,True,False
+8,02/09,['LOAN REPAYMENT 30485878'],6460.61,Debit,92701.13,True,False
+9,23/09,"['SMSDOWE PTE. LTD.', 'TR FUND', 'IBFTSUPP.', 'DBSSSGSGXXx00']",7000.0,Credit,85701.13,True,False
+10,30/09,['DR INTEREST'],967.51,Debit,86668.64,True,False
+11,,['Total Withdrawals'],,,7000.0,False,False
+12,,['Total Deposits'],,,7428.12,False,False
+13,,['CLOSING BALANCE'],,,86668.64,True,False
+14,,['BALANCE FROM PREVIOUS STATEMENT'],,,85774.77,True,False
+15,01/08,['LOANREPAYMENT 30485878'],6460.61,Debit,92235.38,True,False
+16,27/08,"['SMSDOME PTE. LTD.', 'TR FUND', 'IBFTSUPP', 'DBSSSGSGXXx00']",7000.0,Credit,85235.38,True,False
+17,31/08,['DR INTEREST'],1005.14,Debit,86240.52,True,False
+18,,['Total Withdrawals'],,,7000.0,False,False
+19,,['Total Deposits'],,,7465.75,False,False
+20,,['CLOSING BALANCE'],,,86240.52,False,False
+21,,['BALANCE FROM PREVIOUS STATEMENT'],,,85309.17,True,False
+22,01/07,['LOAN REPAYMENT 30485878'],6460.61,Debit,91769.78,True,False
+23,29/07,"['SMSDOME PTE. LTD.', 'TR FUND', 'IBFTSUPP', 'DBSSSGSGXXX00']",7000.0,Credit,84769.78,True,False
+24,31/07,['DR INTEREST'],1004.99,Debit,85774.77,True,False
+25,,['Total Withdrawals'],,,7000.0,False,False
+26,,['Total Deposits'],,,7465.6,False,False
+27,,['CLOSING BALANCE'],,,85774.77,True,False
+28,,['BALANCE FROM PREVIOUS STATEMENT'],,,85681.44,True,False
+29,31/05,['O1Jun'],6460.61,Debit,92142.05,True,False
+30,25/06,"['SMSDOME PTE. LTD.', 'TR FUND', 'IBFTSUPP', 'DBSSSGSGXXX00']",7800.0,Credit,84342.05,True,False
+31,25/06,['29Jun'],967.12,Debit,85309.17,True,False
+32,,['Total Withdrawals'],,,7800.0,False,False
+33,,['Total Deposits'],,,7427.73,False,False
+34,,['CLOSING BALANCE'],,,85309.17,False,False

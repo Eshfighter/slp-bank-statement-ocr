@@ -1,0 +1,43 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,242417.17,False,False
+1,01/03,['CHEQUE'],18707.19,Debit,223709.98,False,False
+2,04/03,['CHEQUE'],2681.85,Debit,221028.13,False,False
+3,05/03,"['CHEQUE DEPOSIT', 'SCB (SG)']",417.3,Credit,221445.43,False,False
+4,07/03,"['CHEQUE DEPOSIT', 'UOB BANK']",267.5,Credit,221712.93,False,False
+5,07/03,"['CHEQUE DEPOSIT', 'OCBC']",379.85,Credit,222092.78,False,False
+6,07/03,"['CHEQUE DEPOSIT', 'DBS BANK']",401.25,Credit,222494.03,False,False
+7,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",160.5,Credit,222654.53,False,False
+8,08/03,"['CHEQUE DEPOSIT', 'OCBC']",749.0,Credit,223403.53,False,False
+9,08/03,"['CHEQUE DEPOSIT', 'CITIBANK, NA']",2140.0,Credit,225543.53,False,False
+10,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",214.0,Credit,225757.53,False,False
+11,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",214.0,Credit,225971.53,False,False
+12,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",214.0,Credit,226185.53,False,False
+13,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",214.0,Credit,226399.53,False,False
+14,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",417.3,Credit,226816.83,False,False
+15,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",214.0,Credit,227030.83,False,False
+16,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",588.5,Credit,227619.33,False,False
+17,08/03,"['CHEQUE DEPOSIT', 'DBS BANK']",321.0,Credit,227940.33,False,False
+18,08/03,['CHEQUE'],1200.0,Debit,226740.33,False,False
+19,08/03,['CHEQUE'],1200.0,Debit,225540.33,False,False
+20,08/03,['CHEQUE'],2026.2,Debit,223514.13,False,False
+21,08/03,['CHEQUE'],2500.0,Debit,221014.13,False,False
+22,08/03,['CHEQUE'],2500.0,Debit,218514.13,False,False
+23,08/03,['CHEQUE'],5064.32,Debit,213449.81,False,False
+24,12/03,['CHEQUE'],486.25,Debit,212963.56,False,False
+25,14/03,"['GIRO', 'COLL 201014545E', 'CPF', 'BIZ']",1698.0,Debit,211265.56,False,False
+26,14/03,"['PAYMENT/TRANSFER', 'UBIL', 'MILESI NICOLE KAYE', 'N Milesi']",192.6,Credit,211458.16,False,False
+27,15/03,"['CHEQUE DEPOSIT', 'OCBC']",749.0,Credit,212207.16,False,False
+28,18/03,"['GIRO', 'COLL 201014545E', 'CPF', 'BFWL']",1650.0,Debit,210557.16,False,False
+29,19/03,"['CHEQUE DEPOSIT', 'UOB BANK']",4280.0,Credit,214837.16,False,False
+30,19/03,"['CHEQUE DEPOSIT', 'DBS BANK']",22047.25,Credit,236884.41,False,False
+31,20/03,"['RETURN CHEQUE', 'OCBC']",6127.4,Debit,230757.01,False,False
+32,20/03,"['CREDIT ADVICE', 'irc#004304']",6127.4,Credit,236884.41,False,False
+33,26/03,"['CHEQUE DEPOSIT', 'UOB BANK']",85.6,Credit,236970.01,False,False
+34,26/03,"['CHEQUE DEPOSIT', 'UOB BANK']",192.6,Credit,237162.61,False,False
+35,27/03,"['IBG GIRO', 'OTHR', 'HOWCO METALS MANAGE', '4694,4695']",967.28,Credit,238129.89,False,False
+36,27/03,"['CHEQUE DEPOSIT', 'OCBC']",6127.4,Credit,244257.29,False,False
+37,28/03,['CHEQUE'],64.2,Debit,244193.09,False,False
+38,29/03,['CHEQUE'],438.7,Debit,243754.39,False,False
+39,,['BALANCE C/F'],,,243754.39,False,False
+40,,['Total Withdrawals'],,,46344.11,False,False
+41,,['Total Deposits'],,,47681.33,False,False

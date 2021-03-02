@@ -1,0 +1,18 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Jumlah Debit / Total Debits'],,,112673.3,False,False
+1,,['Jumiah Kredit / Total Creaits'],,,113050.0,False,False
+2,,['Balance From Last Statement'],,,609487.5,True,False
+3,31/01,['14102'],550.0,Credit,608937.5,True,False
+4,18/02,"['DEP-ECP: 154918', 'IMEPS20200218100002186351987 RHB', 'NEWLIKE MACHINE SOLUTIONS SDN BHD RHB', 'XREF123456789A FUND TRANSFER']",106000.0,Credit,502937.5,True,False
+5,18/02,['TRADE FINANCE DEBIT 074008'],100883.59,Debit,603821.09,True,False
+6,23/02,['AUTOMATED LOAN PYMT TO 2095707807'],5452.0,Debit,609273.09,True,False
+7,25/02,['TRADE FINANCE DEBIT 244606'],1609.33,Debit,610882.42,True,False
+8,26/02,"['TSFR FUND CR-ATM/EFT 177343', 'FONG CHEE BEN INSTANT TRANSFER', 'INSTANT TRANSFER']",1800.0,Credit,609082.42,True,False
+9,26/02,"['Balance C/i', '7 Exclusively {08 PB Debi Cardmembers’ ""gm', 'ame', 'fog', 'oy Sage', 'cae', 'Wee', 'Zam', 'oid', 'CONVENIENCE', 'CONTACTLESS', 'WORLDWIDE', 'SECURITY &', '+ Save time while you spend. FUNCTIONALITY* ACCEPTANCE', 'SAFETY TIPS', '5 sf aera', '+ Take control of your money. Tap & go for transactions', '+ Worldwide acceptance at', '7 Ghiip PIN enabled for improved', 'ahem', '«Co cashless!', 'below RM2S0 in Malaysia!', 'merchants and withdrawals at, 5. ator) io SMS transaction alert', 'any ATM network.', 'from the Bank and respond', 'Soa', '*Applicable o PB Lifestyle', '+ Enjoy full payment', 'immediately when necessary.', 'oR SECTE.', 'Debit Cards only', 'convenience', '+ Do not share your Card with anyone', 'po yi a SERENE 6 A', 'at overseas when you opt-in', 'and keep your PIN confidential at all', 'CONVENIENCE _', 'Gand-NotPresent (CNP) stany * Do set use‘Date of But’ or Mad', '— arvonncernes', 'PB ATM.', 'number aa your PIN at all times.', '+ Report any discrepancies in bank', 'For more information, visit www.pbebank.com,', 'statement,']",609082.42,,,True,True
+10,,['Balance B/F'],,,609082.42,True,False
+11,27/10,"['DEP-ECP 193864', 'IMEPS20200227 100002183373152 RHB', 'NEWLIKE MACHINE SOLUTIONS SDN BHD RHB', 'XREF123456789A FUND TRANSFER']",1000.0,Credit,608082.42,True,False
+12,27/10,['TRADE FINANCE DEBIT 245130'],1357.43,Debit,609439.85,True,False
+13,28/02,"['DEP-ECP 106977', 'IMEPS20200228100002183975243 RHB', 'NEWLIKE MACHINE SOLUTIONS SDN BHD RHB', 'XREF123456789A FUND TRANSFER']",3700.0,Credit,605739.85,True,False
+14,29/02,['OD INT DR'],3368.06,Debit,609107.91,True,False
+15,29/02,"['COMT FEE DR', 'MNDB OSS 009 264 COMT FEE DR']",2.89,Debit,609110.8,True,False
+16,,['Closing Balance In This Statement'],,,609110.8,True,False

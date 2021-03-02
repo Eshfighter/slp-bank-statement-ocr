@@ -1,0 +1,14 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,04/05,"['Fund Trf EB', 'KENWON KARTON SB', 'PART PAYMENT OF ACCT', 'KENWON']",200000.0,Debit,290868.99,True,False
+1,06/05,"['CR', 'KENWON KARTON SB', 'YIR005060417C01', 'RENTAS KENWON', 'KARTON SDN BHD']",200000.0,Credit,90868.99,True,False
+2,06/05,"['IBG Debit', 'UIEI060501', 'IBG BULK PAYROLL/PMT']",162685.73,Debit,253554.72,True,False
+3,06/05,"['IBG Charge', 'UIEI060501', 'IBG BULK PAYROLL/PMT']",7.9,Debit,253562.62,True,False
+4,06/05,"['Misc DR Loan', 'Trf. Wd. Loans', '3458047977-00000']",36187.0,Debit,289749.62,True,False
+5,20/05,"['IBG CR', 'KENWON KARTON SB', 'IEBK052081127614', 'PBB KENWON KARTON', 'SDN BHD']",100000.0,Credit,189749.62,True,False
+6,22/05,"['DR', '345BA138224', 'Trade Bill Transfer', '345BA138224 345']",2412.92,Debit,192162.54,True,False
+7,27/05,"['IBG CR', 'KENWON KARTON SB', 'IEBK052730833792', 'PBB KENWON KARTON', 'SDN BHD']",100000.0,Credit,92162.54,True,False
+8,29/05,"['IBG CR', 'KENWON KARTON SB', 'IEBK052955904631', 'PBB KENWON KARTON', 'SDN BHD']",200000.0,Credit,107837.46,False,False
+9,31/05,['OD Int Charge'],1293.96,Debit,106543.5,False,False
+10,31/05,['OD Commitment Fee Ch'],78.48,Debit,106465.02,False,False
+11,,['Deposits'],,,600000.0,False,False
+12,,['Withdrawals'],,,402665.99,False,False

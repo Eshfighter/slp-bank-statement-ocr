@@ -1,0 +1,341 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,34589.69,False,False
+1,02/03,"['Inward DR - GIRO', 'COLL 80000045', 'FPRM P/L - TRUST A/C', '0360009804NTUC20200225']",372.78,Debit,34216.91,False,False
+2,02/03,"['Inward DR - GIRO', 'COLL 80000045', 'FPRM P/L - TRUST A/C', '0360009805NTUC20200225']",911.22,Debit,33305.69,False,False
+3,02/03,"['Cheque Withdrawal', '0294083']",7511.4,Debit,25794.29,False,False
+4,02/03,"['Cheque Withdrawal', '0294093']",1125.47,Debit,24668.82,False,False
+5,02/03,"['Cheque Withdrawal', '0294094']",802.5,Debit,23866.32,False,False
+6,03/03,"['Bulk Cash', '128 9916891']",10000.0,Credit,33866.32,False,False
+7,04/03,"['Cheque Withdrawal', '0294106']",1498.0,Debit,32368.32,False,False
+8,04/03,"['Cheque Withdrawal', '0294114']",1358.92,Debit,31009.4,False,False
+9,05/03,"['Inward CR - GIRO', 'OTHR Other', 'MOM', 'SEC 201724048H-PTE-01 20021']",462.0,Credit,31471.4,False,False
+10,06/03,"['Inward DR - GIRO', 'COLL C3280406', 'SPH REIT DBST S/A (R', '11471']",59.43,Debit,31411.97,False,False
+11,06/03,"['Misc Debit', 'PMRBULKCASH/0220', 'PMRSG29022020013364', 'BULK CASH SERVICE']",50.0,Debit,31361.97,False,False
+12,06/03,"['Cheque Withdrawal', '0294105']",2889.0,Debit,28472.97,False,False
+13,06/03,"['Cheque Withdrawal', '0294107']",4494.0,Debit,23978.97,False,False
+14,06/03,"['Cheque Withdrawal', '0294113']",56.73,Debit,23922.24,False,False
+15,06/03,"['Bulk Cash', '128 9871420']",10000.0,Credit,33922.24,False,False
+16,09/03,"['Inward DR - GIRO', 'COLL iFRESH', 'CENTURY SQUARE HOLD!', 'LC/CSBRANCH/1908/0002']",3210.0,Debit,30712.24,False,False
+17,09/03,"['Inward DR - GIRO', 'RENT 200000149', 'DOLLAR LAND SINGAPOR', 'Mar20']",2140.0,Debit,28572.24,False,False
+18,09/03,"['Cheque Withdrawal', '0294108']",642.0,Debit,27930.24,False,False
+19,10/03,"['Cheque Withdrawal', '0294109']",535.0,Debit,27395.24,False,False
+20,10/03,"['Cheque Withdrawal', '0294111']",214.0,Debit,27181.24,False,False
+21,11/03,"['Cheque Withdrawal', '0294103']",3560.0,Debit,23621.24,False,False
+22,13/03,"['Cheque Withdrawal', '0294102']",400.0,Debit,23221.24,False,False
+23,13/03,"['Cheque Withdrawal', '0294104']",2942.5,Debit,20278.74,False,False
+24,13/03,"['Bulk Cash', '128 9916894']",15000.0,Credit,35278.74,False,False
+25,16/03,"['Inward DR - GIRO', 'COLL 201724048H', 'CPF', 'BIZ']",3246.0,Debit,32032.74,False,False
+26,16/03,"['Inward DR - GIRO', 'COLL 1299200000346', 'HTSG A/C CAPITAMALL', '2000044413']",2770.07,Debit,29262.67,False,False
+27,16/03,"['Inward DR - GIRO', 'COLL 1299300004446', 'HTSG A/C CAPITAMALL', '2000042987']",2066.24,Debit,27196.43,False,False
+28,17/03,"['Bulk Cash', '128 9916895']",10000.0,Credit,37196.43,False,False
+29,19/03,"['Cheque Withdrawal', '0294080']",1155.6,Debit,36040.83,False,False
+30,20/03,"['Cheque Withdrawal', '0294117']",1321.51,Debit,34719.32,False,False
+31,23/03,"['Inward DR - GIRO', 'COLL F2420186', 'HTSG A/C - FCT YEWTE', '9925']",34.75,Debit,34684.57,False,False
+32,23/03,"['Inward DR - GIRO', 'COLL C3280406', 'SPH REIT DBST S/A(R', '11623']",55.8,Debit,34628.77,False,False
+33,23/03,"['Cheque Withdrawal', '0294118']",2242.24,Debit,32386.53,False,False
+34,23/03,"['Cheque Withdrawal', '0294119']",178.0,Debit,32208.53,False,False
+35,23/03,"['Cheque Withdrawal', '0204120']",147.0,Debit,32061.53,False,False
+36,24/03,['Cheque Deposit'],637.5,Credit,32699.03,False,False
+37,24/03,"['Inward DR - GIRO', 'COLL 00008078', 'MCST NO 2197', '00008078']",120.23,Debit,32578.8,False,False
+38,24/03,"['Bulk Cash', '128 9916896']",10000.0,Credit,42578.8,False,False
+39,25/03,"['Cheque Withdrawal', '0294115']",1017.9,Debit,41560.9,False,False
+40,25/03,"['Cheque Withdrawal', '0294116']",771.75,Debit,40789.15,False,False
+41,26/03,"['Inward DR - GIRO', 'COLL T0000150', 'SINGAPORE CRUISE CEN', '10008868']",1326.8,Debit,39462.35,False,False
+42,26/03,"['Inward DR - GIRO', 'COLL T0000118', 'SINGAPORE CRUISE CEN', '10008825']",3852.0,Debit,35610.35,False,False
+43,27/03,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'AUTOBACS VENTURE SIN', 'AUTOBACS PAYMENT']",98.4,Credit,35708.75,False,False
+44,30/03,"['Inward CR - GIRO', 'OTHR Other', 'HTSG SUNTEC REIT', 'Suntec Refund Deposit B1-102']",10000.0,Credit,45708.75,False,False
+45,30/03,"['Cheque Withdrawal', '0294112']",5799.4,Debit,39909.35,False,False
+46,30/03,"['Cheque Withdrawal', '0294121']",2240.0,Debit,37669.35,False,False
+47,30/03,"['Cheque Withdrawal', '0294122']",1913.0,Debit,35756.35,False,False
+48,30/03,"['Cheque Withdrawal', '0294123']",3599.0,Debit,32157.35,False,False
+49,,['Total Withdrawals'],,,72863.16,False,False
+50,,['Total Deposits'],,,66197.9,False,False
+51,,['Total'],,,32157.35,False,False
+52,,['BALANCE B/F'],,,29867.52,False,False
+53,03/02,"['Inward DR - GIRO', 'COLL 80000045', 'FPRM P/L - TRUST A/G', '0360009604NTUG20200129']",1284.0,Debit,28583.52,False,False
+54,03/02,"['Cheque Withdrawal', '0294072']",2942.5,Debit,25641.02,False,False
+55,08/02,"['Cheque Withdrawal', '0294073']",2889.0,Debit,22752.02,False,False
+56,03/02,"['Cheque Withdrawal', '0294074']",3210.0,Debit,19542.02,False,False
+57,03/02,"['Bulk Cash', '128 0018043']",15000.0,Credit,34542.02,False,False
+58,04/02,"['Cheque Withdrawal', '0294071']",214.0,Debit,34328.02,False,False
+59,04/02,"['Cheque Withdrawal', '0294082']",4282.79,Debit,30045.23,False,False
+60,05/02,"['Cheque Withdrawal', '0294066']",182.0,Debit,29863.23,False,False
+61,05/02,"['Cheque Withdrawal', '0294076']",4494.0,Debit,25369.23,False,False
+62,05/02,"['Cheque Withdrawal', '0294078']",642.0,Debit,24727.23,False,False
+63,05/02,"['Cheque Withdrawal', '0294081']",214.0,Debit,24513.23,False,False
+64,05/02,"['Cheque Withdrawal', '0294084']",63.54,Debit,24449.69,False,False
+65,06/02,"['Misc Debit', 'PMRBULKCASH/0120', 'PMRSG31012020103185', 'BULK CASH SERVICE']",50.0,Debit,24399.69,False,False
+66,06/02,"['Cheque Withdrawal', '0294079']",535.0,Debit,23864.69,False,False
+67,07/02,"['Inward DR - GIRO', 'RENT 200000149', 'DOLLAR LAND SINGAPOR', 'Feb20']",2140.0,Debit,21724.69,False,False
+68,07/02,"['Cheque Withdrawal', '0294086']",450.0,Debit,21274.69,False,False
+69,07/02,"['Bulk Cash', '128 0018046']",10000.0,Credit,31274.69,False,False
+70,10/02,"['Cheque Withdrawal', '0294067']",40.0,Debit,31234.69,False,False
+71,10/02,"['Cheque Withdrawal', '0294087']",501.0,Debit,30733.69,False,False
+72,11/02,"['Cheque Withdrawal', '0294091']",1475.86,Debit,29257.83,False,False
+73,12/02,"['Cheque Withdrawal', '0294064']",554.4,Debit,28703.43,False,False
+74,12/02,"['Bulk Cash', '128 0018044']",10073.0,Credit,38776.43,False,False
+75,13/02,"['Cheque Withdrawal', '0294088']",130.0,Debit,38646.43,False,False
+76,13/02,"['Cheque Withdrawal', '0294089']",2000.0,Debit,36646.43,False,False
+77,13/02,"['Bulk Cash', '128 9919169']",14000.0,Credit,50646.43,False,False
+78,14/02,"['Inward DR - GIRO', 'COLL 201724048H', 'CPF', 'BIZ']",6886.0,Debit,43760.43,False,False
+79,14/02,"['Inward DR - GIRO', 'COLL 1299300004446', 'HTSG A/C CAPITAMALL', '2000040229']",8929.22,Debit,34831.21,False,False
+80,14/02,"['Inward DR - GIRO', 'COLL 1299200000346', 'HTSG A/C CAPITAMALL', '2000041015']",2772.86,Debit,32058.35,False,False
+81,14/02,"['Inward DR - GIRO', 'COLL 1296200000065', 'JTPL A/C-INFINITY MA', '2000004392']",17.07,Debit,32041.28,False,False
+82,18/02,"['Cheque Withdrawal', '0294009']",260.65,Debit,31780.63,False,False
+83,19/02,"['Cheque Withdrawal', '0294090']",953.65,Debit,30826.98,False,False
+84,19/02,"['Cheque Withdrawal', '0294092']",12.01,Debit,30814.97,False,False
+85,20/02,"['Bulk Cash', '128 9919168']",15000.0,Credit,45814.97,False,False
+86,21/02,"['Cheque Withdrawal', '0294028']",260.0,Debit,45554.97,False,False
+87,24/02,"['Inward DR - GIRO', 'COLL 00008078', 'MCST NO 2197', '00008078']",116.8,Debit,45438.17,False,False
+88,24/02,"['Cheque Withdrawal', '0294095']",664.14,Debit,44774.03,False,False
+89,25/02,"['Inward DR - GIRO', 'COLL T0000150', 'SINGAPORE CRUISE CEN', '10008748']",1326.8,Debit,43447.23,False,False
+90,25/02,"['Inward DR - GIRO', 'COLL T0000118', 'SINGAPORE CRUISE CEN', '10008701']",3852.0,Debit,39595.23,False,False
+91,26/02,"['Bulk Cash', '128 9916890']",9992.0,Credit,49587.23,False,False
+92,27/02,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'AUTOBACS VENTURE SIN', 'AUTOBACS PAYMENT']",126.6,Credit,49713.83,False,False
+93,27/02,"['Cheque Withdrawal', '0294096']",2240.0,Debit,47473.83,False,False
+94,27/02,"['Cheque Withdrawal', '0294097']",1913.0,Debit,45560.83,False,False
+95,27/02,"['Cheque Withdrawal', '0294098']",3599.0,Debit,41961.83,False,False
+96,27/02,"['Cheque Withdrawal', '0294100']",3000.0,Debit,38961.83,False,False
+97,27/02,"['Cheque Withdrawal', '0294101', 'a a', 'SS']",139.22,Debit,38822.61,False,False
+98,,['Total Withdrawals'],,,66328.87,False,False
+99,,['Total Deposits'],,,74191.6,False,False
+100,,['Total'],,,38822.61,False,False
+101,,['BALANCE B/F'],,,55092.45,False,False
+102,02/01,"['Cheque Withdrawal', '0294031']",2889.0,Debit,52203.45,False,False
+103,02/01,"['Cheque Withdrawal', '0294032']",3210.0,Debit,48993.45,False,False
+104,02/01,"['Cheque Withdrawal', '0294039']",4282.79,Debit,44710.66,False,False
+105,03/01,"['Inward DR - GIRO', 'COLL 80000045', 'FCPMS P/L - TRUST A/', '0360009375NTUC20191226']",1284.0,Debit,43426.66,False,False
+106,03/01,"['Cheque Withdrawal', '0294029']",214.0,Debit,43212.66,False,False
+107,03/01,"['Cheque Withdrawal', '0294033']",2140.0,Debit,41072.66,False,False
+108,03/01,"['Cheque Withdrawal', '0294034']",4494.0,Debit,36578.66,False,False
+109,06/01,"['Cheque Withdrawal', '0294022']",2506.0,Debit,34072.66,False,False
+110,06/01,"['Cheque Withdrawal', '0294023']",286.2,Debit,33786.46,False,False
+111,06/01,"['Cheque Withdrawal', '0294030']",2970.0,Debit,30816.46,False,False
+112,06/01,"['Cheque Withdrawal', '0294035']",642.0,Debit,30174.46,False,False
+113,06/01,"['Cheque Withdrawal', '0294036']",535.0,Debit,29639.46,False,False
+114,06/01,"['Cheque Withdrawal', '0294038']",214.0,Debit,29425.46,False,False
+115,07/01,['Cheque Deposit'],1000.0,Credit,30425.46,False,False
+116,07/01,"['Misc Debit', 'PMRBULKCASH/1219', 'PMRSG31122019014434', 'BULK CASH SERVICE']",50.0,Debit,30375.46,False,False
+117,08/01,"['Inward DR - GIRO', 'RENT 200000149', 'DOLLAR LAND SINGAPOR', 'Jan20']",2140.0,Debit,28235.46,False,False
+118,08/01,"['Cheque Withdrawal', '0294008']",7511.4,Debit,20724.06,False,False
+119,08/01,"['Bulk Cash', '128 9936104']",10002.0,Credit,30726.06,False,False
+120,09/01,"['Cheque Withdrawal', '0294010']",1155.6,Debit,29570.46,False,False
+121,10/01,"['Misc Debit', 'PMRACCASC/0120', 'PMRSG09012020074384', 'Annual Account Fee']",35.0,Debit,29535.46,False,False
+122,10/01,"['Bulk Cash', '128 9936105']",10002.0,Credit,39537.46,False,False
+123,14/01,"['Inward DR - GIRO', 'COLL 1299200000346', 'HTSG A/C CAPITAMALL.', '2000087903']",2772.16,Debit,36765.3,False,False
+124,14/01,"['Inward DR - GIRO', 'COLL 1299300004446', 'HTSG A/G CAPITAMALL', '2000036708']",4869.16,Debit,31896.14,False,False
+125,14/01,"['Inward DR - GIRO', 'COLL 201724048H', 'CPF', 'BIZ']",3212.0,Debit,28684.14,False,False
+126,14/01,"['Inward DR - GIRO', 'COLL 1296200000065', 'JTPL AVG-INFINITY MA', '2000004121']",2013.04,Debit,26671.1,False,False
+127,14/01,"['Cheque Withdrawal', '0294050']",270.0,Debit,26401.1,False,False
+128,14/01,"['Cheque Withdrawal', '0294051']",230.0,Debit,26171.1,False,False
+129,14/01,"['Bulk Cash', '128 9936106']",10000.0,Credit,36171.1,False,False
+130,15/01,"['Cheque Withdrawal', '0294047']",743.85,Debit,35427.25,False,False
+131,15/01,"['Bulk Cash', '128 9929800']",10000.0,Credit,45427.25,False,False
+132,16/01,"['Cheque Withdrawal', '0294054']",5720.0,Debit,39707.25,False,False
+133,16/01,"['Cheque Withdrawal', '0294055']",7513.0,Debit,32194.25,False,False
+134,16/01,"['Cheque Withdrawal', '0294058']",28.0,Debit,32166.25,False,False
+135,17/01,"['Funds Transfer', 'mBK-Transfer']",10000.0,Credit,42166.25,False,False
+136,20/01,"['Cheque Withdrawal', '0294052']",1258.8,Debit,40907.45,False,False
+137,21/01,"['Inward DR - GIRO', 'COLL C3280406', 'SPH REIT DBST S/A (R', '11320']",58.59,Debit,40848.86,False,False
+138,21/01,"['Cheque Withdrawal', '0294053']",1000.0,Debit,38554.5,False,True
+139,21/01,"['Cheque Withdrawal', '0294056']",3599.0,Debit,34955.5,False,False
+140,21/01,"['Cheque Withdrawal', '0294057']",1069.59,Debit,33885.91,False,False
+141,21/01,"['Bulk Cash', '128 9929807']",10000.0,Credit,43885.91,False,False
+142,22/01,"['Cheque Withdrawal', '0294043']",8907.37,Debit,34978.54,False,False
+143,22/01,"['Cheque Withdrawal', '0294070']",3000.0,Debit,31978.54,False,False
+144,23/01,"['Cheque Withdrawal', '0294040']",7511.4,Debit,24467.14,False,False
+145,23/01,"['Cheque Withdrawal', '0294046']",227.5,Debit,24239.64,False,False
+146,23/01,"['Cheque Withdrawal', '0294059']",2660.0,Debit,21579.64,False,False
+147,23/01,"['Cheque Withdrawal', '0294061']",609.9,Debit,20969.74,False,False
+148,23/01,"['Cheque Withdrawal', '0294065']",86.0,Debit,20883.74,False,False
+149,23/01,"['Cheque Withdrawal', '0294069']",1450.0,Debit,19433.74,False,False
+150,24/01,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'AUTOBACS VENTURE SIN', 'AUTOBACS PAYMENT']",96.0,Credit,19529.74,False,False
+151,24/01,"['Inward DR - GIRO', 'COLL 00008078', 'MCST NO 2197', '00008078']",105.87,Debit,19423.87,False,False
+152,24/01,"['Cheque Withdrawal', '0294045']",61.31,Debit,19362.56,False,False
+153,24/01,"['Bulk Cash', '128 0018041']",8000.0,Credit,27362.56,False,False
+154,28/01,"['Inward DR - GIRO', 'COLL T0000118', 'SINGAPORE CRUISE CEN', '10008581']",3852.0,Debit,23510.56,False,False
+155,28/01,"['Inward DR - GIRO', 'COLL T0000150', 'SINGAPORE GRUISE CEN', '10008629']",1326.8,Debit,22183.76,False,False
+156,28/01,"['Cheque Withdrawal', '0294063']",3033.0,Debit,18132.76,False,True
+157,30/01,"['Cheque Withdrawal', '0294062']",1011.28,Debit,17121.48,False,False
+158,30/01,"['Bulk Cash', '128 0018047']",13000.0,Credit,30121.48,False,False
+159,31/01,"['Inward CR - GIRO', 'OTHR Other', 'DOLLAR LAND § PTE LT', '1001340000014020']",2000.0,Credit,32121.48,False,False
+160,31/01,"['Cheque Withdrawal', '0294037']",1155.6,Debit,30965.88,False,False
+161,31/01,['Cheque Charges'],6.0,Debit,30959.88,False,False
+162,,['Total Withdrawals'],,,108232.57,False,False
+163,,['Total Deposits'],,,84100.0,False,False
+164,,['Total'],,,30959.88,False,False
+165,,['BALANCE B/F'],,,52369.76,False,False
+166,02/12,"['Inward DR - GIRO', 'COLL 80000045', 'FCPMS P/L - TRUST AV', '0360009 180NTUG20191126']",1284.0,Debit,51085.76,False,False
+167,02/12,"['Cheque Withdrawal', '0294011']",130.0,Debit,50955.76,False,False
+168,03/12,"['Cheque Withdrawal', '0293961']",7511.4,Debit,43444.36,False,False
+169,03/12,"['Cheque Withdrawal', '0293983']",197.95,Debit,43246.41,False,False
+170,03/12,"['Cheque Withdrawal', '0293991']",3033.0,Debit,40213.41,False,False
+171,03/12,"['Cheque Withdrawal', '0293995']",4282.79,Debit,35930.62,False,False
+172,03/12,"['Cheque Withdrawal', '0294000']",642.0,Debit,35288.62,False,False
+173,03/12,"['Cheque Withdrawal', '0294002']",214.0,Debit,35074.62,False,False
+174,03/12,"['Cheque Withdrawal', '0294003']",2140.0,Debit,32934.62,False,False
+175,03/12,"['Cheque Withdrawal', '0294004']",2889.0,Debit,30045.62,False,False
+176,03/12,"['Cheque Withdrawal', '0294005']",3210.0,Debit,26835.62,False,False
+177,04/12,"['Funds Transfer', 'mBK-Transfer']",20000.0,Credit,46835.62,False,False
+178,04/12,"['Cheque Withdrawal', '0293997']",214.0,Debit,46621.62,False,False
+179,04/12,"['Cheque Withdrawal', '0294006']",4494.0,Debit,42127.62,False,False
+180,04/12,"['Cheque Withdrawal', '0294012']",60.83,Debit,42066.79,False,False
+181,06/12,"['Inward DR - GIRO', 'RENT 200000149', 'DOLLAR LAND SINGAPOR', 'Deci9']",2140.0,Debit,39926.79,False,False
+182,06/12,"['Misc Debit', 'PMRBULKCASH/1119', 'PMRSG301 12019015326', 'BULK CASH SERVICE']",50.0,Debit,39876.79,False,False
+183,06/12,"['Cheque Withdrawal', '0293999']",2942.5,Debit,36934.29,False,False
+184,07/12,"['Bulk Cash', '128 9936113']",17000.0,Credit,53934.29,False,False
+185,09/12,"['Cheque Withdrawal', '0294007']",1155.6,Debit,52778.69,False,False
+186,09/12,"['Cheque Withdrawal', '0294014']",7.6,Debit,52771.09,False,False
+187,10/12,"['Cheque Withdrawal', '0294001']",535.0,Debit,52236.09,False,False
+188,10/12,"['Cheque Withdrawal', '0294013']",358.88,Debit,51877.21,False,False
+189,10/12,"['Cheque Withdrawal', '0294015']",634.5,Debit,51242.71,False,False
+190,10/12,"['Cheque Withdrawal', '0294017']",890.78,Debit,50351.93,False,False
+191,12/12,"['Cheque Withdrawal', '0293981']",2782.0,Debit,47569.93,False,False
+192,12/12,"['Cheque Withdrawal', '0294016']",203.3,Debit,47366.63,False,False
+193,13/12,"['Bulk Cash', '128 9936111']",10000.0,Credit,57366.63,False,False
+194,16/12,"['Inward DR - GIRO', 'COLL 201724048H', 'CPF', 'BIZ']",3212.0,Debit,54154.63,False,False
+195,16/12,"['Inward DR - GIRO', 'COLL 1299200000346', 'HTSG A/C CAPITAMALL', '2000035742']",2772.71,Debit,51381.92,False,False
+196,16/12,"['Inward DR - GIRO', 'COLL 1299300004446', 'HTSG A/C CAPITAMALL', '2000033780']",6902.65,Debit,44479.27,False,False
+197,16/12,"['Inward DR - GIRO', 'COLL 1286200000065', 'JTPL A/C-INFINITY MA.', '2000003830']",3652.36,Debit,40826.91,False,False
+198,16/12,"['Cheque Withdrawal', '0294018']",162.0,Debit,40664.91,False,False
+199,17/12,['Cheque Deposit'],2400.0,Credit,43064.91,False,False
+200,18/12,"['Cheque Withdrawal', '0294019']",979.73,Debit,42085.18,False,False
+201,18/12,"['Cheque Withdrawal', '0294024']",485.02,Debit,41600.16,False,False
+202,18/12,"['Bulk Cash', '128 9936110']",10000.0,Credit,51600.16,False,False
+203,23/12,"['Inward DR - GIRO', 'COLL 63280406', 'SPH REIT DBST S/A (R', '11170']",57.83,Debit,51542.33,False,False
+204,24/12,"['Bulk Cash', '128 9936109']",10000.0,Credit,61542.33,False,False
+205,26/12,"['Inward DR - GIRO', 'COLL T0000150', 'SINGAPORE GRUISE CEN', '10008486']",1326.8,Debit,60215.53,False,False
+206,26/12,"['Inward DR - GIRO', 'COLL T0000118', 'SINGAPORE CRUISE CEN', '10008441']",3852.0,Debit,56363.53,False,False
+207,26/12,"['Inward DR - GIRO', 'COLL 00008078', 'MCST NO 2197', '00008078']",111.33,Debit,56252.2,False,False
+208,27/12,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'AUTOBACS VENTURE SIN', 'AUTOBACS PAYMENT']",100.2,Credit,56352.4,False,False
+209,30/12,"['Cheque Withdrawal', '0294020']",400.0,Debit,55952.4,False,False
+210,30/12,"['Cheque Withdrawal', '0294025']",2240.0,Debit,53712.4,False,False
+211,30/12,"['Cheque Withdrawal', '0294026']",1839.0,Debit,51873.4,False,False
+212,30/12,"['Cheque Withdrawal', '0294027']",3599.0,Debit,48274.4,False,False
+213,,"['Cheque Withdrawal', '0294041']",3000.0,Debit,45274.4,False,False
+214,,"['Cheque Withdrawal', '0294042']",181.2,Debit,45093.2,False,False
+215,30/12,"['Bulk Cash', '128 9936108']",10000.0,Credit,55093.2,False,False
+216,31/12,['Cheque Charges'],0.75,Debit,55092.45,False,False
+217,,['Total Withdrawals'],,,76777.51,False,False
+218,,['Total Deposits'],,,79500.2,False,False
+219,,['Total'],,,55092.45,False,False
+220,,['BALANCE B/F'],,,52132.64,False,False
+221,01/11,"['Inward DR - GIRO', 'COLL 80000045', 'FCPMS P/L. - TRUST A/', '0360008945NTUC20191024']",1284.0,Debit,50848.64,False,False
+222,01/11,"['Cheque Withdrawal', '0293952']",233.0,Debit,50615.64,False,False
+223,01/11,"['Cheque Withdrawal', '0293959']",4282.79,Debit,46332.85,False,False
+224,01/11,"['Cheque Withdrawal', '0293973']",547.5,Debit,45785.35,False,False
+225,04/11,"['Inward DR - GIRO', 'COLL 80000109', 'HTSG A/C - FCT YEWTE', '0360047702YTP0120191025']",2254.49,Debit,43530.86,False,False
+226,04/11,"['Cheque Withdrawal', '0293953']",8250.0,Debit,35280.86,False,False
+227,04/11,"['Cheque Withdrawal', '0293957']",917.34,Debit,34363.52,False,False
+228,04/11,"['Cheque Withdrawal', '0293958']",214.0,Debit,34149.52,False,False
+229,04/11,"['Cheque Withdrawal', '0293960']",4494.0,Debit,29655.52,False,False
+230,05/11,"['Cheque Withdrawal', '0293965']",214.0,Debit,29441.52,False,False
+231,05/11,"['Cheque Withdrawal', '0293966']",2889.0,Debit,26552.52,False,False
+232,06/11,"['Misc Debit', 'PMRBULKCASH/1019', 'PMRSG31102019014352', 'BULK CASH SERVICE']",50.0,Debit,26502.52,False,False
+233,06/11,"['Cheque Withdrawal', '0293926']",7511.4,Debit,18991.12,False,False
+234,06/11,"['Cheque Withdrawal', '0293969']",2140.0,Debit,16851.12,False,False
+235,06/11,"['Cheque Withdrawal', '0293972']",3210.0,Debit,13641.12,False,False
+236,06/11,"['Cheque Withdrawal', '0293974']",18.8,Debit,13622.32,False,False
+237,07/11,"['Cheque Withdrawal', '0293968']",64.46,Debit,13557.86,False,False
+238,07/11,"['Cheque Withdrawal', '0293970']",535.0,Debit,13022.86,False,False
+239,07/11,"['Cheque Withdrawal', '0293971']",642.0,Debit,12380.86,False,False
+240,08/11,"['Bulk Cash', '128 9748124']",15004.0,Credit,27384.86,False,False
+241,12/11,"['Cheque Withdrawal', '0293941']",400.0,Debit,26984.86,False,False
+242,12/11,"['Bulk Cash', '128 9748126']",11002.0,Credit,37986.86,False,False
+243,13/11,"['Bulk Cash', '128 9748127']",8000.0,Credit,45986.86,False,False
+244,14/11,"['Inward DR - GIRO', 'COLL 1299300004446', 'HTSG A/C CAPITAMALL', '2000030469']",6855.48,Debit,39131.38,False,False
+245,14/11,"['Inward DR - GIRO', 'COLL 1299200000346', 'HTSG AVG CAPITAMALL', '2000031720']",2772.1,Debit,36359.28,False,False
+246,14/11,"['Inward DR - GIRO', 'COLL 201724048H', 'OPF', 'BIZ']",3212.0,Debit,33147.28,False,False
+247,14/11,"['Inward DR - GIRO', 'COLL 1296200000065', 'JTPL A/C-INFINITY MA', '2000003511']",3651.83,Debit,29495.45,False,False
+248,14/11,"['Cheque Withdrawal', '0293980']",2000.0,Debit,27495.45,False,False
+249,15/11,"['Cheque Withdrawal', '0293976']",2942.5,Debit,24552.95,False,False
+250,15/11,"['Cheque Withdrawal', '0293977']",220.0,Debit,24332.95,False,False
+251,15/11,"['Cheque Withdrawal', '0293982']",1117.17,Debit,23215.78,False,False
+252,18/11,"['Cheque Withdrawal', '0293985']",260.65,Debit,22955.13,False,False
+253,18/11,"['Cheque Withdrawal', '0293986']",720.0,Debit,22235.13,False,False
+254,18/11,"['Cheque Withdrawal', '0293987']",230.0,Debit,22005.13,False,False
+255,19/11,"['Returned Cheque', '0293985']",260.65,Credit,22265.78,False,False
+256,19/11,"['Cheque Withdrawal', '0293978']",500.0,Debit,21765.78,False,False
+257,19/11,"['Bulk Cash', '128 9748128']",9000.0,Credit,30765.78,False,False
+258,20/11,"['Cheque Withdrawal', '0293963']",1155.6,Debit,29610.18,False,False
+259,20/11,"['Cheque Withdrawal', '0293984']",412.0,Debit,29198.18,False,False
+260,21/11,"['Inward DR - GIRO', 'COLL C3280406', 'SPH REIT DBST S/A (R', '11023']",58.84,Debit,29139.34,False,False
+261,25/11,"['Inward DR - GIRO', 'COLL T0000150', 'SINGAPORE CRUISE CEN', '10008350']",1326.8,Debit,27812.54,False,False
+262,25/11,"['Inward DR - GIRO', 'COLL T0000118', 'SINGAPORE CRUISE CEN', '10008301']",3852.0,Debit,23960.54,False,False
+263,25/11,"['Inward DR - GIRO', 'COLL 00008078', 'MCST NO 2197', '00008078']",111.48,Debit,23849.06,False,False
+264,26/11,"['Cheque Withdrawal', '0293975']",600.0,Debit,23249.06,False,False
+265,27/11,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'AUTOBACS VENTURE SIN', 'AUTOBACS PAYMENT']",58.2,Credit,23307.26,False,False
+266,27/11,"['Cheque Withdrawal', '0293989']",2675.0,Debit,20632.26,False,False
+267,27/11,"['Cheque Withdrawal', '0293992']",2240.0,Debit,18392.26,False,False
+268,27/11,"['Cheque Withdrawal', '0293993']",1839.0,Debit,16553.26,False,False
+269,27/11,"['Cheque Withdrawal', '0293994']",3599.0,Debit,12954.26,False,False
+270,27/11,"['Bulk Cash', '128 9740498']",19998.0,Credit,32952.26,False,False
+271,28/11,"['Bulk Cash', '128 9748130']",20001.0,Credit,52953.26,False,False
+272,29/11,"['Cheque Withdrawal', '0293988']",582.0,Debit,52371.26,False,False
+273,30/11,"['Cheque Charges', 'TTT', 'SSeS']",1.5,Debit,52369.76,False,False
+274,,['Total Withdrawals'],,,83086.73,False,False
+275,,['Total Deposits'],,,83323.85,False,False
+276,,['Total'],,,52369.76,False,False
+277,,['BALANCE B/F'],,,41698.61,False,False
+278,01/10,"['Inward Credit-FAST', 'OTHR Other', 'SOH HAN LEONG WILLY/', 'Other']",10000.0,Credit,51698.61,False,False
+279,01/10,"['Cheque Withdrawal', '0293901']",2550.0,Debit,49148.61,False,False
+280,01/10,"['Cheque Withdrawal', '0293925']",4282.79,Debit,44865.82,False,False
+281,01/10,"['Cheque Withdrawal', '0293929']",188.85,Debit,44676.97,False,False
+282,02/10,"['Inward DR - GIRO', 'COLL 80000109', 'HTSG A/G - FCT YEWTE', '0360046390YTP0120190923']",2254.49,Debit,42422.48,False,False
+283,02/10,"['Inward DR - GIRO', 'COLL 80000045', 'FCPMS P/L - TRUST A/', '0360008744NTUC20190924']",1284.0,Debit,41138.48,False,False
+284,02/10,"['Cheque Withdrawal', '0293902']",642.0,Debit,40496.48,False,False
+285,02/10,"['Cheque Withdrawal', '0293912']",2981.0,Debit,37515.48,False,False
+286,03/10,"['Cheque Withdrawal', '0293927']",4494.0,Debit,33021.48,False,False
+287,03/10,"['Cheque Withdrawal', '0293928']",62.64,Debit,32958.84,False,False
+288,03/10,"['Cheque Withdrawal', '0293931']",642.0,Debit,32316.84,False,False
+289,04/10,"['Cheque Withdrawal', '02939024']",214.0,Debit,32102.84,False,False
+290,04/10,"['Cheque Withdrawal', '0293930']",2942.5,Debit,29160.34,False,False
+291,04/10,"['Cheque Withdrawal', '0293932']",535.0,Debit,28625.34,False,False
+292,05/10,"['Misc Debit', 'PMRBULKCASH/0919', 'PMRSG30092019013932', 'BULK CASH SERVICE']",50.0,Debit,28575.34,False,False
+293,07/10,"['Inward DR - GIRO', 'RENT 200000149', 'DOLLAR LAND SINGAPOR', ""Oct'19""]",2140.0,Debit,26435.34,False,False
+294,07/10,"['Bulk Cash', '128 9905532']",8000.0,Credit,34435.34,False,False
+295,08/10,"['Cheque Withdrawal', '0293923']",1535.0,Debit,32900.34,False,False
+296,08/10,"['Cheque Withdrawal', '0293933']",214.0,Debit,32686.34,False,False
+297,08/10,"['Cheque Withdrawal', '0293934']",2140.0,Debit,30546.34,False,False
+298,08/10,"['Cheque Withdrawal', '0293935']",3210.0,Debit,27336.34,False,False
+299,09/10,"['Cheque Withdrawal', '0293890']",7511.4,Debit,19824.94,False,False
+300,09/10,"['Bulk Cash', '128 9748113']",8000.0,Credit,27824.94,False,False
+301,10/10,"['Cheque Withdrawal', '0293938']",8.8,Debit,27816.14,False,False
+302,11/10,"['Cheque Withdrawal', '0293936']",2782.0,Debit,25034.14,False,False
+303,14/10,"['Inward DR - GIRO', 'COLL 1299200000346', 'HTSG A/C CAPITAMALL', '2000028259']",2774.02,Debit,22260.12,False,False
+304,14/10,"['Inward DR - GIRO', 'COLL 1299300004446', 'HTSG A/G CAPITAMALL', '2000027359']",6901.07,Debit,15359.05,False,False
+305,14/10,"['Inward DR - GIRO', 'COLL 1296200000065', 'JTPL AVG-INFINITY MA', '2000003212']",3653.67,Debit,11705.38,False,False
+306,14/10,"['Bulk Cash', '128 9905533']",10000.0,Credit,21705.38,False,False
+307,15/10,"['Cheque Withdrawal', '0293937']",333.0,Debit,21372.38,False,False
+308,16/10,"['Bulk Cash', '128 9905534']",10000.0,Credit,31372.38,False,False
+309,17/10,"['Cheque Withdrawal', '0293948']",383.14,Debit,30989.24,False,False
+310,18/10,"['Cheque Withdrawal', '0293945']",706.2,Debit,30283.04,False,False
+311,21/10,"['Inward DR - GIRO', 'COLL 63280406', 'SPH REIT DBST S/A (R', '10872']",58.63,Debit,30224.41,False,False
+312,21/10,"['Cheque Withdrawal', '0293939']",2942.5,Debit,27281.91,False,False
+313,21/10,"['Cheque Withdrawal', '0293940']",333.0,Debit,26948.91,False,False
+314,21/10,"['Cheque Withdrawal', '0293943']",3033.0,Debit,23915.91,False,False
+315,21/10,"['Cheque Withdrawal', '0293947']",607.95,Debit,23307.96,False,False
+316,21/10,"['Cheque Withdrawal', '0293949']",280.5,Debit,23027.46,False,False
+317,22/10,"['Cheque Withdrawal', '0293944']",1100.56,Debit,21926.9,False,False
+318,22/10,"['Bulk Cash', '128 9748114']",10000.0,Credit,31926.9,False,False
+319,23/10,"['Cheque Withdrawal', '0293951']",2965.0,Debit,28961.9,False,False
+320,24/10,"['Bulk Cash', '128 9748115']",9997.0,Credit,38958.9,False,False
+321,25/10,"['Inward DR - GIRO', 'COLL TO000150', 'SINGAPORE CRUISE CEN', '10008221']",1326.8,Debit,37632.1,False,False
+322,25/10,"['Inward DR - GIRO', 'COLL T0000118', 'SINGAPORE CRUISE CEN', '10008170']",3852.0,Debit,33780.1,False,False
+323,25/10,"['Inward DR - GIRO', 'COLL 00008078', 'MCST NO 2197', '00008078']",116.23,Debit,33663.87,False,False
+324,29/10,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'AUTOBACS VENTURE SIN', 'AUTOBACS PAYMENT']",181.2,Credit,33845.07,False,False
+325,29/10,"['Cheque Withdrawal', '0293950']",2782.0,Debit,31063.07,False,False
+326,29/10,"['Bulk Cash', '128 9748121']",10000.0,Credit,41063.07,False,False
+327,30/10,"['Cheque Withdrawal', '0293954']",3599.0,Debit,37464.07,False,False
+328,,"['Cheque Withdrawal', '0293955']",2240.0,Debit,35224.07,False,False
+329,30/10,"['Cheque Withdrawal', '0293956']",1839.0,Debit,33385.07,False,False
+330,30/10,"['Cheque Withdrawal', '0293962']",185.33,Debit,33199.74,False,False
+331,30/10,"['Bulk Cash', '128 9748122']",15000.0,Credit,48199.74,False,False
+332,31/10,"['Cheque Withdrawal', '0293903']",1155.6,Debit,47044.14,False,False
+333,31/10,"['Cheque Withdrawal', '0293942']",232.0,Debit,46812.14,False,False
+334,31/10,"['Cheque Withdrawal', '0293964']",2675.0,Debit,44137.14,False,False
+335,31/10,"['Bulk Cash', '128 9748123']",8000.0,Credit,52137.14,False,False
+336,31/10,['Cheque Charges'],4.5,Debit,52132.64,False,False
+337,,['Total Withdrawals'],,,88744.17,False,False
+338,,['Total Deposits'],,,99178.2,False,False
+339,,['Total'],,,52132.64,False,False

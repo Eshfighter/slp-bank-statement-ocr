@@ -1,0 +1,55 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,22603.9,False,False
+1,08/06,"['Funds Trf - GIRO', 'PM18062900310682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",568.0,Debit,22035.9,False,False
+2,08/06,"['SVC Chg', 'PM18062900310682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",1.0,Debit,22034.9,False,False
+3,28/06,['Cheque Deposit'],,,33034.9,False,True
+4,28/06,"['Misc Debit', '6018810066-00000', 'Trf. Wd. Loans']",,,27199.9,False,True
+5,28/06,"['Misc Debit', '6018809793-00000', 'Trf. Wd. Loans']",2441.3,Debit,24758.6,False,False
+6,,['Total Withdrawals'],,,8845.3,False,False
+7,,['Total Deposits'],,,11000.0,False,False
+8,,['Total'],,,24758.6,False,False
+9,,['BALANCE B/F'],,,20449.2,False,False
+10,08/05,"['Funds Trf - GIRO', 'PM18062900310682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",568.0,,,False,True
+11,08/05,"['SVC Chg', 'PM18062900310682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",1.0,,,False,False
+12,27/05,['Cheque Deposit'],11000.0,,30880.2,False,False
+13,28/05,"['Misc Debit', '6018810066-00000', 'Trf. Wd. Loans']",5835.0,Debit,25045.2,False,False
+14,28/05,"['Misc Debit', '6018809793-00000', 'Trf. Wd. Loans']",2441.3,Debit,22603.9,False,False
+15,,['Total Withdrawals'],,,8845.3,False,False
+16,,['Total Deposits'],,,11000.0,False,False
+17,,['Total'],,,22603.9,False,False
+18,,['BALANCE B/F'],,,18294.5,False,False
+19,08/04,"['Funds Trf - GIRO', 'PM18062900310682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",568.0,Debit,17726.5,False,False
+20,08/04,"['SVC Chg', 'PM18062900310682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",1.0,Debit,17725.5,False,False
+21,25/04,['Cheque Deposit'],,,28725.5,False,True
+22,29/04,"['Misc Debit', '6018810066-00000', 'Trf. Wd. Loans']",5835.0,Debit,22890.5,False,False
+23,29/04,"['Misc Debit', '6018809793-00000', 'Trf. Wd. Loans']",2441.3,Debit,20449.2,False,False
+24,,['Total Withdrawals'],,,8845.3,False,False
+25,,['Total Deposits'],,,11000.0,False,False
+26,,['Total'],,,20449.2,False,False
+27,,['BALANCE B/F'],,,16139.8,False,False
+28,08/03,"['Funds Trf - GIRO', 'PM18062900310682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",568.0,Debit,15571.8,False,False
+29,08/03,"['svc Chg', 'PM1806290031 0682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",1.0,Debit,15570.8,False,False
+30,25/03,['Cheque Deposit'],11000.0,Credit,26570.8,False,False
+31,28/03,"['Misc Debit', '6018810066-00000', 'Trf. Wd. Loans']",5835.0,Debit,20735.8,False,False
+32,28/03,"['Misc Debit', '6018809793-00000', 'Trf. Wd. Loans']",2441.3,Debit,18294.5,False,False
+33,,['Total Withdrawals'],,,8845.3,False,False
+34,,['Total Deposits'],,,11000.0,False,False
+35,,['Total'],,,18294.5,False,False
+36,,['BALANCE B/F'],,,13985.1,False,False
+37,08/02,"['Funds Trf - GIRO', 'PM18062900310682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",568.0,Debit,13417.1,False,False
+38,08/02,"['SVC Chg', 'PM1806290031 0682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",1.0,Debit,13416.1,False,False
+39,25/02,['Cheque Deposit'],11000.0,Credit,24416.1,False,False
+40,28/02,"['Misc Debit', '6018810066-00000', 'Trf. Wd. Loans']",5835.0,Debit,18581.1,False,False
+41,28/02,"['Misc Debit', '6018809793-00000', 'Trf. Wd. Loans']",2441.3,Debit,16139.8,False,False
+42,,['Total Withdrawals'],,,8845.3,False,False
+43,,['Total Deposits'],,,11000.0,False,False
+44,,['Total'],,,16139.8,False,False
+45,,['BALANCE B/F'],,,12830.4,False,False
+46,08/01,"['Funds Trf - GIRO', 'PM1806290031 0682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",568.0,Debit,12262.4,False,False
+47,08/01,"['SVC Chg', 'PM 1806290031 0682', 'DICKSON CAPITAL PTE', 'OTHR SJE6437P']",1.0,Debit,12261.4,False,False
+48,21/01,['Cheque Deposit'],10000.0,Credit,22261.4,False,False
+49,28/01,"['Misc Debit', '6018810066-00000', 'Trf. Wd. Loans']",5835.0,Debit,16426.4,False,False
+50,28/01,"['Misc Debit', '6018809793-00000', 'Trf. Wd. Loans']",2441.3,Debit,13985.1,False,False
+51,,['Total Withdrawals'],,,8845.3,False,False
+52,,['Total Deposits'],,,10000.0,False,False
+53,,['Total'],,,13985.1,False,False

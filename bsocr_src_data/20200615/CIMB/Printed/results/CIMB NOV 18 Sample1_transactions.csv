@@ -1,0 +1,124 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['OPENING BALANCE'],,,8296.58,False,False
+1,01/11,['CDM CASH DEPOSIT'],850.0,Credit,9146.58,False,False
+2,02/11,"['IBG CREDIT', '20181101149044569', '5048', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",3098.69,Credit,12245.27,False,False
+3,02/11,['HSE CHQ DEPOSIT'],1000.0,Credit,13245.27,False,False
+4,03/11,"['ATM MEPS IBFT FROM OFI', 'Jsj 9665', 'MOHAMAD', 'MOHAMAD AL! SYAFIQ B', 'INSTANT TRANSFER']",528.0,Credit,13773.27,False,False
+5,03/11,"['ATM MEPS (BFT FROM OF', 'CK Automobile', 'BADRUL', 'HIS', 'BADRUL HISHAM JAMALU', 'JPK9355']",3968.0,Credit,17741.27,False,False
+6,05/11,"['TR IBG', '0811700225', '0811700225', 'HITACHI CAPITAL MALA']",3650.0,Debit,14091.27,False,False
+7,06/11,['CDM CASH DEPOSIT'],1350.0,Credit,15441.27,False,False
+8,06/11,['CDM CASH DEPOSIT'],1160.0,Credit,16601.27,False,False
+9,06/11,"['OTHER TRANSFER FEE', 'salary foroct 18 ck?']",0.1,Debit,16601.17,False,False
+10,06/11,"['TR IBG', 'Salary for oct 18', 'ck1', 'chai yi hao']",842.55,Debit,15758.62,False,False
+11,06/11,"['OTHER TRANSFER FEE', 'salary foroct 18 ck1']",0.1,Debit,15758.52,False,False
+12,06/11,"['TR IBG', 'salary for oct 18', 'ck1', 'ho pei shan']",1125.25,Debit,14633.27,False,False
+13,06/11,"['OTHER TRANSFER FEE', 'salary foroet 18 ck?']",0.1,Debit,14633.17,False,False
+14,06/11,"['TR IBG', 'salary for oct 18', 'ck1', 'KE KIM FOO']",1131.0,Debit,13502.17,False,False
+15,06/11,"['TR TO LOANS', 'CK AUTOMOBILE SERVI', 'carloan .']",1350.0,Debit,12152.17,False,False
+16,06/11,"['OTHER TRANSFER FEE', 'rental forsep 18 ckt']",0.1,Debit,12152.07,False,False
+17,06/11,"['TR IBG', 'rental for sep 18', 'ckt', 'HOMETRIC DESIGN & CO']",5200.0,Debit,6952.07,False,False
+18,06/11,"['OTHER TRANSFER FEE', 'salary foroct 18 ckin2']",0.1,Debit,6951.97,False,False
+19,06/11,"['TR IBG', 'salary for oct 18', 'ckin2', 'TAN CHUAN KEAT']",2634.65,Debit,4317.32,False,False
+20,07/11,"['IBG CREDIT', '20181 105149044569', '1895', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1290.51,Credit,5607.83,False,False
+21,07/11,"['IBG CREDIT', '20181106149044569', '6229', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1007.81,Credit,6615.64,False,False
+22,08/11,['CDM CASH DEPOSIT'],1840.0,Credit,8455.64,False,False
+23,08/11,"['IBG CREDIT', 'GANTITAYAR', 'NOR', '6566', 'SHAHID', 'NOR SHAHID ABD MALIK', 'PRIVATE TRANSACTION']",500.0,Credit,8955.64,False,False
+24,08/11,['2D LOCAL CHQ'],1200.0,Credit,10155.64,False,False
+25,08/11,"['IBG CREDIT', 'PB ECP PAYMENT', '1294', 'KUJAYA MAN', 'KUJAYA MANAGEMENT SD', 'PAYMENT FOR ACCOUNT']",518.0,Credit,10673.64,False,False
+26,09/11,"['IBG CREDIT', '20181108149044569', '3160', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1604.93,Credit,12278.57,False,False
+27,12/11,"['IBG CREDIT', '20181110149044569', '2590', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",900.28,Credit,13178.85,False,False
+28,12/11,"['IBG CREDIT', '20181109149044569', '4679', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",256.1,Credit,13434.95,False,False
+29,13/41,['CDM CASH DEPOSIT'],2070.0,Credit,15504.95,False,False
+30,13/11,"['IBG CREDIT', '20181112149044569', '3349', 'AMBANK CS', '‘AMBANK CSD', 'CC MERCH SETTLEMENT']",888.47,Credit,16393.42,False,False
+31,14/11,"['IBG CREDIT', 'INV 006939', 'WELL', '6765', 'GROW!', 'WELL GROWING MANAGEM', 'REG NO JNP5188']",1040.0,Credit,17433.42,False,False
+32,15/11,"['ATM MEPS IBFT FROM OF!', 'Borcash to ck', 'TAN', 'CHUAN', '-TAN CHUAN KEAT', 'Fund Transfer']",10000.0,Credit,27433.42,False,False
+33,15/11,"['TR IBG', '019311805', '141120181 10754965066', 'KUMPULAN WANG SIMPAN']",54.0,Debit,27379.42,False,False
+34,15/11,"['TR IBG', ':019311805', '141120181 10401964846', '-KUMPULAN WANG SIMPAN']",5000.0,Debit,22379.42,False,False
+35,15/11,"['OTHER TRANSFER FEE', 'pmt for aug sep 18 CK1']",0.1,Debit,22379.32,False,False
+36,45/14,"['TR IBG', 'pmt for aug sep 18', 'CK1', 'maxlee auto marketin']",8775.0,Debit,13604.32,False,False
+37,15/11,"['OTHER TRANSFER FEE', 'pay bilno1559 1575 CK1']",0.1,Debit,13604.22,False,False
+38,15/11,"['TR IBG', 'pay bilno1559 1575', 'CK1', 'GIANTT AGENCY']",547.4,Debit,13056.82,False,False
+39,15/11,"['OTHER TRANSFER FEE', 'payment for jul 18 CK1']",0.1,Debit,13056.72,False,False
+40,15/11,"[':TR IBG', 'payment for jul 18', 'CkK1', 'sincere auto parts s']",12560.5,Debit,496.22,False,False
+41,15/11,"['OTHER TRANSFER FEE', 'pay biino0491', '-CK1']",0.1,Debit,496.12,False,False
+42,15/11,"['TR IBG', 'pay bil n00491', 'CKi', '-yun tong auto parts']",350.0,Debit,146.12,False,False
+43,15/11,"['IBG CREDIT', '°20181114149044569', '8944', 'AMBANK CS', '‘AMBANK CSD', 'CC MERCH SETTLEMENT']",91.6,,,False,True
+44,15/11,['CDM CASH DEPOSIT'],900.0,,1137.72,False,False
+45,15/11,['2D LOCAL CHQ'],1200.0,Credit,2337.72,False,False
+46,16/11,"['IBG CREDIT', '20181115149044569', '8043', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",5307.9,Credit,7645.62,False,False
+47,49/11,"['ATM MEPS IBFT FROM OFI', 'Servis kereta', 'MUHAMMAD F', 'MUHAMMAD FIKRI BIN R', 'INSTANT TRANSFER']",333.0,Credit,7978.62,False,False
+48,19/11,"['IBG CREDIT', '20181117149044569', '2038', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1494.04,Credit,9472.66,False,False
+49,20/11,['CDM CASH DEPOSIT'],2100.0,Credit,11572.66,False,False
+50,20/11,"['OTHER TRANSFER FEE', 'SALARY 1 FOR NOV 18 CKT']",0.1,Debit,11572.56,False,False
+51,20/11,"['TR IBG', 'SALARY 1 FOR NOV 18', 'CK1', 'ho pei shan']",1125.25,Debit,10447.31,False,False
+52,20/11,"['OTHER TRANSFER FEE', 'payment for aug 18 CK1']",0.1,Debit,10447.21,False,False
+53,20/11,"['TR IBG', 'payment for aug 18', 'CK1', 'priube sdn bha']",5980.8,Debit,4466.41,False,False
+54,20/11,"['OTHER TRANSFER FEE', 'SALARY 1NOV18', 'CKT']",0.1,Debit,4466.31,False,False
+55,20/11,"['TR IBG', 'SALARY 1 NOV 18', 'CkK1', 'KE KIM FOO']",832.25,Debit,3634.06,False,False
+56,20/11,"['OTHER TRANSFER FEE', '“SALARY 1 FOR NOV 18 CK1']",0.1,Debit,3633.96,False,False
+57,20/11,"['TR IBG', 'SALARY 1 FOR NOV 18', 'cK1', 'LIOW SHUNG GENG']",795.05,Debit,2838.91,False,False
+58,20/11,"['OTHER TRANSFER FEE', 'SALARY 1 FOR NOV 18 CK1']",0.1,Debit,2838.81,False,False
+59,20/11,"['TR IBG', 'SALARY 7 FOR NOV 18', ':CK1', 'chai yi hao']",231.21,Debit,2607.6,False,False
+60,20/11,"['OTHER TRANSFER FEE', 'payment for sep 18 CK1']",0.1,Debit,2607.5,False,False
+61,20/11,"['‘TR IBG', '“payment for sep 18', 'CK1', 'TRIUMPH MASTERS MARK']",160.0,Debit,2447.5,False,False
+62,20/11,"['OTHER TRANSFER FEE', 'payment for sep 18 CK1']",0.1,Debit,2447.4,False,False
+63,20/11,"['TR IBG', '‘payment for sep 18', 'iv cross tyre & tradi']",1520.0,Debit,927.4,False,False
+64,12/11,"['1BG CREDIT', ':20181119149044569', '9076', '-AMBANK CS', '/AMBANK CSD', 'CCMERCH SETTLEMENT']",2248.51,Credit,3175.91,False,False
+65,21/11,"['IBG CREDIT', '20181120149044569', '9966', 'AMBANK CS', 'AMBANK CSD', '-CC MERCH SETTLEMENT']",3621.95,Credit,6797.86,False,False
+66,21/11,['CDM CASH DEPOSIT'],3650.0,Credit,10447.86,False,False
+67,22/11,"['IBG CREDIT', 'INTERBANK GIRO', '8749', 'MENG MANAG', '“MENG MANAGEMENT SDN.', 'INV006972']",3988.0,Credit,14435.86,False,False
+68,22/11,"['IBG CREDIT', '°20181121149044569', '3313', '“AMBANK CS', 'AMBANK CSD', '.CC MERCH SETTLEMENT']",1443.13,Credit,15878.99,False,False
+69,23/11,"[':IBG CREDIT', '20181122149044569', '9256', '(AMBANK CS', '.AMBANK CSD', ';CC MERCH SETTLEMENT']",1920.75,Credit,17799.74,False,False
+70,23/11,"[""'CDMCASH DEPOSIT""]",1560.0,Credit,19359.74,False,False
+71,24/11,"['ATM MEPS IBFT FROM OFI', 'CK Automobile', 'BADRUL', 'HIS', 'BADRUL HISHAM JAMALU', '‘UPK9355']",2190.0,Credit,21549.74,False,False
+72,24/11,"['ATM MEPS IBFT FROM OF!', 'MERC C4', 'SHAFFRUDIN', 'SHAFFRUDIN ALAMSHAH', 'INSTANT TRANSFER']",813.0,Credit,22362.74,False,False
+73,24/11,"['TR TO C/A', 'REGAL AUTO TRADING', 'PAYMENT FOR SEP 18', 'CK1']",502.4,Debit,21860.34,False,False
+74,24/11,"['OTHER TRANSFER FEE', 'PAYMENT FOR SEP 18 CK1']",0.1,Debit,21860.24,False,False
+75,24/11,"['TR IBG', 'PAYMENT FOR SEP 18', 'CKI', 'WUERTH (M) SDN BHD']",160.0,Debit,21700.24,False,False
+76,24/11,"['OTHER TRANSFER FEE', 'PAYMENT FOR SET 18 CKT']",0.1,Debit,21700.14,False,False
+77,24/11,"['.TR IBG', 'PAYMENT FOR SET 18', '“CKT', '“MESRA HL TRADING']",21528.14,Debit,21528.14,False,True
+78,24/11,"['OTHER TRANSFER FEE', '‘payment for aug 18 CK1']",21528.04,Debit,21528.04,False,True
+79,24/11,"[':TR IBG', 'payment for aug 18', '“CK1', '_KS LINK AUTO PARTS S']",1600.0,Debit,19928.04,False,False
+80,24/11,"['OTHER TRANSFER FEE', 'payment for aug 18 CK1']",0.1,Debit,19927.94,False,False
+81,24/11,"['TR IBG', 'payment for aug 18', 'CKT', 'emg', 'FORWARD AUTOIRARTS', 'Sone sees']",873.0,Debit,19054.94,False,False
+82,24/11,"['OTHER TRANSFER FEE', 'payment for aug 18 CK1n CK2']",0.1,Debit,19054.84,False,False
+83,24/11,"['TR IBG', 'payment for aug 18', 'CK1n CK2', '_SUAN HUAT AUTO CORPO']",6446.0,Debit,12608.84,False,False
+84,24/11,"[':OTHER TRANSFER FEE', '(PAY AUG 17SEP18 CKi']",0.1,Debit,12608.74,False,False
+85,24/11,"[':TR IBG', 'PAY AUG 17 SEP 18', 'CK1', ':CKS AUTO SUPPLY']",1491.3,Debit,11117.44,False,False
+86,24/11,"['-OTHER TRANSFER FEE', 'PAYMENT FOR OCT 18 CK1']",0.1,Debit,11117.34,False,False
+87,24/11,"[':TR IBG', 'PAYMENT FOR OCT 18', ':CKT', '‘HOCK LIAN REPAIRS &']",150.0,Debit,10967.34,False,False
+88,24/11,"['OTHER TRANSFER FEE', 'PAYMENT FOR SEP 18 CK1']",0.1,Debit,10967.24,False,False
+89,24/11,"['TR IBG', '‘PAYMENT FOR SEP 18', '“CK1', 'igp auto parts sdn b']",950.0,Debit,10017.24,False,False
+90,24/11,"[';OTHER TRANSFER FEE', 'PAYMENT FOR SEP 18 CK1']",0.1,Debit,10017.14,False,False
+91,24/11,"['-TR IBG', 'PAYMENT FOR SEP 18', 'CKI', 'mgp auto parts sdn b']",120.0,Debit,9897.14,False,False
+92,24/11,"['OTHER TRANSFER FEE', 'PAYMENT FOR SEP 18 CK1']",0.1,Debit,9897.04,False,False
+93,24/11,"['TR IBG', 'PAYMENT FOR SEP 18', '-CKT', 'BGT MARKETING']",106.0,Debit,9791.04,False,False
+94,24/11,"['OTHER TRANSFER FEE', 'payment for may 18 CK1']",0.1,Debit,9790.94,False,False
+95,24/11,"[':TR IBG', '“payment for may 18', 'CK1', 'MING YI AUTOMOTIVE S']",1905.88,Debit,7885.06,False,False
+96,24/11,"[':OTHER TRANSFER FEE', '_ payment for aug 18 CKT']",0.1,Debit,7884.96,False,False
+97,24/11,"['TR IBG', 'payment for aug 18', 'CK1', 'YAK KAH SPORT RIM']",300.0,Debit,7584.96,False,False
+98,24/11,"['OTHER TRANSFER FEE', 'PAID BIL NO 00000732CK1']",0.1,Debit,7584.86,False,False
+99,24/11,"['TR IBG', 'PAID BIL NO 00000732', 'CK1', 'EUROTECH AUTOMOBILE']",380.0,Debit,7204.86,False,False
+100,24/11,"['OTHER TRANSFER FEE', 'payment for aug 18 CK1']",0.1,Debit,7204.76,False,False
+101,24/11,"['TR IBG', 'payment for aug 18', 'CK1', 'AEK AUTO SDN BHD']",733.0,Debit,6471.76,False,False
+102,24/11,"['OTHER TRANSFER FEE', 'PAYMENT FOR OCT 18 CK?']",0.1,Debit,6471.66,False,False
+103,24/11,"['TR IBG', 'PAYMENT FOROCT.18._', 'CK1', 'kimi electric tradin']",1350.0,Debit,5121.66,False,False
+104,24/11,"['OTHER TRANSFER FEE', 'payment for aug 18 CK1']",0.1,Debit,5121.56,False,False
+105,24/11,"['TR IBG', '«payment for aug 18', 'CK1', 'zhi siong enterprise']",350.0,Debit,4771.56,False,False
+106,24/11,"[': OTHER TRANSFER FEE', '‘PAYMENT FOR JUL 18 CK1']",0.1,Debit,4771.46,False,False
+107,24/11,"['TR IBG', ':PAYMENT FOR JUL 78', '“CK', 'iRAVENOL LUBRICANTS (']",310.0,Debit,4461.46,False,False
+108,24/11,"['-OTHER TRANSFER FEE', '‘ACCOUNTING FEE 1ST CK1nCK2']",0.1,Debit,4461.36,False,False
+109,24/11,"['TR IBG', '‘ACCOUNTING FEE 1ST', '-CKINCK2', '“averco corporate ser']",1000.0,Debit,3461.36,False,False
+110,26/11,"[':IBG CREDIT', '20181124149044569', '6112', '‘AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",4638.98,Credit,8100.34,False,False
+111,26/11,"['IBG CREDIT', 'SEPT2018', 'NOR', '1781', 'SHAHID', 'NOR SHAHID ABD MALIK', 'PRIVATE TRANSACTION']",900.0,Credit,9000.34,False,False
+112,26/11,['CDM CASH DEPOSIT'],1350.0,Credit,10350.34,False,False
+113,27/11,"['IBG CREDIT', 'INV 006995', 'WELL', '5142', '.GROWI', 'WELL GROWING MANAGEM', '‘REG NO WXH5188']",390.0,Credit,10740.34,False,False
+114,30/11,[':CDM CASH DEPOSIT'],400.0,Credit,11140.34,False,False
+115,30/11,"['OTHER TRANSFER FEE', 'pay bil no u1811t35 CK1']",0.1,Debit,11140.24,False,False
+116,30/11,"['TR IBG', 'pay bil no u1871t35', 'CK1', 'u liang enterprise s']",1080.0,Debit,10060.24,False,False
+117,30/11,"['OTHER TRANSFER FEE', 'pay bil no cas62724 CK1']",0.1,Debit,10060.14,False,False
+118,30/11,"['TR IBG', 'pay bil no cas62724', 'CKt', 'hyunkia auto parts s']",900.0,Debit,9160.14,False,False
+119,30/11,"['IBG CREDIT', '20181129149044569', '7746', 'AMBANK CS', '/AMBANK CSD', 'GC MERCH SETTLEMENT', 'pst', 'encom)']",377.25,Credit,9537.39,False,False
+120,,['CLOSING BALANCE / BAK] PENUTUP'],,,9537.39,False,False
+121,,['Total Withdrawal'],,,74748.09,False,False
+122,,['Total Deposit'],,,75988.9,False,False

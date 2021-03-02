@@ -1,0 +1,177 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Balance from previous statement'],,,244806.86,False,False
+1,27/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,244806.76,False,False
+2,27/12,"['Connect BIZ IBG', 'CNY GIFT', 'JACKY LOW CHIN FAI', 'IBGCMSMBB27122019914220']",596.0,Debit,244210.76,False,False
+3,27/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,244210.66,False,False
+4,27/12,"['Connect BIZ IBG', 'I-1527/19', 'QUICKSTORM IT SOLUTI', 'IBGCMSMBB27122019914428']",2170.0,Debit,242040.66,False,False
+5,27/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,242040.56,False,False
+6,27/12,"['Connect BIZ IBG', 'IV-12497', 'SUPER 56 SDN BHD', 'IBGCMSMBB27122019914506']",864.5,Debit,241176.06,False,False
+7,27/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,241175.96,False,False
+8,27/12,"['Connect BIZ IBG', 'I-50845/I-50824', 'CCL ELECTRIC (M) SDN', 'IBGCMSMBB27122019914606']",1140.0,Debit,240035.96,False,False
+9,27/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,240035.86,False,False
+10,27/12,"['Connect BIZ IBG', 'hlb credit card', 'low miew fong', 'IBGCMSHSBC27122019914656']",2023.6,Debit,238012.26,False,False
+11,27/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,238012.16,False,False
+12,27/12,"['Connect BIZ IBG', 'I-50795', 'CCL ELECTRIC (M) SDN', 'IBGCMSMBB27122019914726']",4110.0,Debit,233902.16,False,False
+13,27/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,233902.06,False,False
+14,27/12,"['Connect BIZ IBG', 'I-1410/19', 'QUICKSTORM IT SOLUTI', 'IBGCMSMBB27122019914886']",2300.0,Debit,231602.06,False,False
+15,27/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,231601.96,False,False
+16,27/12,"['Connect BIZ IBG', 'IV-13390', 'SUPER 56 SDN BHD', 'IBGCMSMBB27122019914998']",882.0,Debit,230719.96,False,False
+17,27/12,"['334062', 'Local Cheque (RPC) at TEQ']",20939.0,Credit,251658.96,False,False
+18,31/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,251658.86,False,False
+19,31/12,"['Connect BIZ IBG', 'INV1905114', 'RAINBOW TEN ENTERPRI', 'IBGCMSPBB31122019970941']",1087.2,Debit,250571.66,False,False
+20,31/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,250571.56,False,False
+21,31/12,"['Connect BIZ IBG', 'I-2340232398', 'LYRECO OFFICE SUPPLI', 'IBGCMSHSBC31122019970193']",144.32,Debit,250427.24,False,False
+22,31/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,250427.14,False,False
+23,31/12,"['Connect BIZ IBG', 'I-09-1119', 'PL EQUIPMENTS SDN BH', 'IBGCMSMBB31122019970257']",10300.0,Debit,240127.14,False,False
+24,31/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,240127.04,False,False
+25,31/12,"['Connect BIZ IBG', 'I-00000715', 'AUDIO SYNERGY LIGHTS', 'IBGCMSPBB31122019970777']",1780.0,Debit,238347.04,False,False
+26,31/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,238346.94,False,False
+27,31/12,"['Connect BIZ IBG', 'I-2019-0014', 'STELLAR AVL SOLUTION', 'IBGCMSMBB31122019971435']",8625.0,Debit,229721.94,False,False
+28,31/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,229721.84,False,False
+29,31/12,"['Connect BIZ IBG', 'GASKETALLEY', 'URBANDJZ EVENT SOLUT', 'IBGCMSBCB31122019971771']",900.0,Debit,228821.84,False,False
+30,31/12,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,228821.74,False,False
+31,31/12,"['Connect BIZ IBG', 'ECO ARDENCE', 'URBANDJZ EVENT SOLUT', 'IBGCMSBCB31122019971701']",18000.0,Debit,210821.74,False,False
+32,31/12,"['416117', 'House Cheque Debit (RPC) at PCJ']",238.15,Debit,210583.59,False,False
+33,31/12,"['Connect BIZ Fund Transfer', 'I-001848/1870', 'PV-01874', 'LIFO PATISSERIE SDN BHD']",2050.0,Credit,212633.59,False,False
+34,01/01,['Cheque Processing Fee'],0.5,Debit,212633.09,False,False
+35,02/01,"['FPX B2B1', '20200102151810_23705196', 'PERTUBUHAN KESELAMATAN SOSIAL', '2001021518100096']",70.6,Debit,212562.49,False,False
+36,02/01,"['FPX B2B1', '20200102151121_5432485', 'PERTUBUHAN KESELAMATAN SOSIAL', '2001021511220484']",397.0,Debit,212165.49,False,False
+37,02/01,"['ATM Interbank Funds Trf to CA', 'INSTANT TRANSFER', 'INSTANT TRANSFER', 'KNS WAVE SOLUTIONS', 'INSTANT TRANSFER']",5055.0,Credit,217220.49,False,False
+38,03/01,"['Connect BIZ Fund Transfer', 'CHENG KEN CHING', 'CHENG KEN CHING']",1060.3,Debit,216160.19,False,False
+39,03/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,216160.09,False,False
+40,03/01,"['Connect BIZ IBG', 'I-PFI001101', 'celcom mobile sdn bh', 'IBGCMSMBB0301202033021']",2707.0,Debit,213453.09,False,False
+41,03/01,"['000317', 'Local Cheque (RPC) at PNT']",20000.0,Credit,233453.09,False,False
+42,04/01,"['Connect BIZ Bulk Payment', 'MAKHAN', 'MAKHANI SDN BHD']",1800.0,Credit,235253.09,False,False
+43,06/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,235252.99,False,False
+44,06/01,"['Connect BIZ IBG', 'DEC SALARY 2019', 'CHENG TEN SIONG', 'IBGCMSHSBC0601202066475']",4422.35,Debit,230830.64,False,False
+45,06/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,230830.54,False,False
+46,06/01,"['Connect BIZ IBG', 'DEC SALARY 2019', 'LOW MIEW FONG', 'IBGCMSHSBC0601202066441']",2649.0,Debit,228181.54,False,False
+47,06/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,228181.44,False,False
+48,06/01,"['Connect BIZ IBG', 'I-06655', 'TOEMILAND PROSOUND S', 'IBGCMSPBB0601202066265']",430.0,Debit,227751.44,False,False
+49,06/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,227751.34,False,False
+50,06/01,"['Connect BIZ IBG', 'DECEMBER 2019 SALARY', 'STEPHANIE ROS A/P SE', 'IBGCMSBCB0601202066195']",1105.46,Debit,226645.88,False,False
+51,06/01,"['Connect BIZ Fund Transfer', 'MOHD SHAFUAN', 'MOHD SHAFUAN BIN MOHD DAHALAN']",1594.57,Debit,225051.31,False,False
+52,06/01,"['Connect BIZ Fund Transfer', 'CHENG WENG HING', 'CHENG WENG HING']",1969.4,Debit,223081.91,False,False
+53,06/01,"['Connect BIZ Fund Transfer', 'MUHAMMAD HAIRI BIN A', 'MUHAMMAD HAIRI BIN ABDULLAH']",1919.41,Debit,221162.5,False,False
+54,06/01,"['Connect BIZ Fund Transfer', 'CHENG KEN CHING', 'CHENG KEN CHING']",2000.0,Debit,219162.5,False,False
+55,06/01,"['Connect BIZ Fund Transfer', 'MUHAMMAD DANIAL CHIN', 'AZLINA BINTI SAFRI']",2233.1,Debit,216929.4,False,False
+56,06/01,"['416119', 'Inclearing-Cheque']",3030.0,Debit,213899.4,False,False
+57,06/01,"['416121', 'House Cheque Debit (RPC) at PCG']",1085.0,Debit,212814.4,False,False
+58,07/01,['Cheque Processing Fee'],1.0,Debit,212813.4,False,False
+59,07/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,212813.3,False,False
+60,07/01,"['Connect BIZ IBG', 'A', 'ong peck hwee', 'IBGCMSBSN0701202086220']",300.0,Debit,212513.3,False,False
+61,07/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,212513.2,False,False
+62,07/01,"['Connect BIZ IBG', 'visa', 'low miew fong', 'IBGCMSHSBC0701202086180']",1201.55,Debit,211311.65,False,False
+63,07/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,211311.55,False,False
+64,07/01,"['Connect BIZ IBG', 'I-11225/11220/11404', 'SOUND AVENUE SDN BHD', 'IBGCMSPBB0701202086136']",676.0,Debit,210635.55,False,False
+65,07/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,210635.45,False,False
+66,07/01,"['Connect BIZ IBG', 'I-0415-15672', 'VC ELECTRONICS SDN B', 'IBGCMSPBB0701202086056']",84.0,Debit,210551.45,False,False
+67,07/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,210551.35,False,False
+68,07/01,"['Connect BIZ IBG', 'i-a1909072', 'acom biz software so', 'IBGCMSPBB0701202085988']",100.0,Debit,210451.35,False,False
+69,07/01,"['Connect BIZ Fund Transfer', '2007', 'KLINIK LEE']",104.0,Debit,210347.35,False,False
+70,07/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,210347.25,False,False
+71,07/01,"['Connect BIZ IBG', 'KISB/INV/T2-1920/449', 'JOEVE CHENG ZHI EN', 'KINGSLEY INTERNATION', 'IBGCMSBCB0701202085814']",2595.0,Debit,207752.25,False,False
+72,07/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,207752.15,False,False
+73,07/01,"['Connect BIZ IBG', 'INVOICE -10702', 'CONCEPT ASSOCIATES(K', 'IBGCMSPBB0701202085696']",1140.0,Debit,206612.15,False,False
+74,07/01,"['416122', 'House Cheque Debit (RPC)']",1482.57,Debit,205129.58,False,False
+75,07/01,"['254742', 'Local Cheque (RPC) at PCG']",14208.0,Credit,219337.58,False,False
+76,08/01,['Cheque Processing Fee'],0.5,Debit,219337.08,False,False
+77,08/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,219336.98,False,False
+78,08/01,"['Connect BIZ IBG', 'PETTY CASH', 'LOW MIEW FONG', 'IBGCMSHSBC08012020100987']",205.15,Debit,219131.83,False,False
+79,08/01,"['416118', 'Inclearing-Cheque']",1000.0,Debit,218131.83,False,False
+80,09/01,['Cheque Processing Fee'],0.5,Debit,218131.33,False,False
+81,10/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,218131.23,False,False
+82,10/01,"['Connect BIZ IBG', 'MOVING HEAD', 'STATION A TO Z ENTER', 'IBGCMSMBB10012020144824']",25798.19,Debit,192333.04,False,False
+83,10/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,192332.94,False,False
+84,10/01,"['Connect BIZ IBG', 'INV-100970', 'MOF SOLUTION', 'IBGCMSMBB10012020144806']",1200.0,Debit,191132.94,False,False
+85,10/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,191132.84,False,False
+86,10/01,"['Connect BIZ IBG', 'I-PFI001090', 'CELCOM MOBILE SDN BH', 'IBGCMSMBB10012020144780']",640.0,Debit,190492.84,False,False
+87,10/01,"['018078', 'Local Cheque (RPC) at PCJ']",432.0,Credit,190924.84,False,False
+88,11/01,"['Instant Transfer at KLM', 'AMCS AV', 'AMCS AV', 'EFFARIZAN JACQUELINE ARMS', '20200111MBBEMYKL010ORM08535019']",5880.0,Credit,196804.84,False,False
+89,13/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,196804.74,False,False
+90,13/01,"['Connect BIZ IBG', '1021178-P/MY00017348', 'M001913968', 'SHELL MALAYSIA TRADI', 'IBGCMSSCB13012020178160']",1099.61,Debit,195705.13,False,False
+91,13/01,"['147321', 'House Cheque (RPC) at BBB']",5000.0,Credit,200705.13,False,False
+92,14/01,"['HLB Collection at KLM', 'EC682500', 'CTOS DATA SYSTEMS SDN BHD', 'P2001133479759']",479.12,Debit,200226.01,False,False
+93,14/01,"['416120', 'House Cheque Debit (RPC) at BKS']",975.0,Debit,199251.01,False,False
+94,14/01,"['Fund Transfer at DIO', 'Q008202477', 'IPONG (PJ) SDN BHD']",1475.0,Credit,200726.01,False,False
+95,15/01,['Cheque Processing Fee'],0.5,Debit,200725.51,False,False
+96,15/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,200725.41,False,False
+97,15/01,"['Connect BIZ IBG', '28 JALAN LE 2', 'CHENG TEN SIONG', 'IBGCMSCITI15012020218520']",2600.0,Debit,198125.41,False,False
+98,15/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,198125.31,False,False
+99,15/01,"['Connect BIZ IBG', 'PHASE2/QB00004921', 'PHASE 2-1296', 'SR PROPERTY MANAGEME', 'IBGCMSBCB15012020218472']",990.0,Debit,197135.31,False,False
+100,15/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,197135.21,False,False
+101,15/01,"['Connect BIZ IBG', 'I-0548', 'LF IRON WORKS', 'IBGCMSMBB15012020218342']",1560.0,Debit,195575.21,False,False
+102,15/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,195575.11,False,False
+103,15/01,"['Connect BIZ IBG', 'PETTY CASH', 'LOW MIEW FONG', 'IBGCMSHSBC15012020218192']",319.25,Debit,195255.86,False,False
+104,15/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,195255.76,False,False
+105,15/01,"['Connect BIZ IBG', 'PETTY CASH', 'LOW MIEW FONG', 'IBGCMSHSBC15012020218152']",459.35,Debit,194796.41,False,False
+106,15/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,194796.31,False,False
+107,15/01,"['Connect BIZ IBG', 'PETTY CASH', 'LOW MIEW FONG', 'IBGCMSHSBC15012020218122']",68.0,Debit,194728.31,False,False
+108,15/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,194728.21,False,False
+109,15/01,"['Connect BIZ IBG', 'BK13127', 'MELANG INN SDN BHD', 'IBGCMSMBB15012020218084']",1368.0,Debit,193360.21,False,False
+110,15/01,"['Auto Funds Trf To LN Account', 'AUTO DEBIT TO LOAN F', 'ROM 06300101586', 'EIGHT TWO AUDIO CONSULTING SDN BHD']",1492.0,Debit,191868.21,False,False
+111,17/01,"['FPX B2B1', 'C 2370057501', 'LEMBAGA HASIL DALAM NEGERI MAL', '2001171456260800']",666.0,Debit,191202.21,False,False
+112,17/01,"['Instant Transfer at KLM', '00311362', 'OPHELIA MALAYSIA SDN. BHD', '20200117MBBEMYKL010ORB05098958']",4580.0,Credit,195782.21,False,False
+113,17/01,"['Cr Adv-Interbank GIRO at KLM', 'I-001882', 'STRONGHOLD CYCLES SDN BHD']",6120.0,Credit,201902.21,False,False
+114,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,201902.11,False,False
+115,20/01,"['Connect BIZ IBG', 'CIDP LICENSE', 'JENNIFER LOW M F', 'IBGCMSCITI17012020268103']",210.0,Debit,201692.11,False,False
+116,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,201692.01,False,False
+117,20/01,"['Connect BIZ IBG', 'UTILITY', 'LOW MIEW FONG', 'IBGCMSHSBC17012020268047']",1073.85,Debit,200618.16,False,False
+118,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,200618.06,False,False
+119,20/01,"['Connect BIZ IBG', 'I-000203', 'CHUAN AUTO TYRE SERV', 'IBGCMSPBB17012020267923']",495.0,Debit,200123.06,False,False
+120,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,200122.96,False,False
+121,20/01,"['Connect BIZ IBG', 'INVOICE:IV0102494', 'ZLE103', 'SYARIKAT INSTRACO (M', 'IBGCMSPBB17012020267827']",785.0,Debit,199337.96,False,False
+122,20/01,"['FPX B2B1', '0120200018773961C111304125', 'KUMPULAN WANG SIMPANAN PEKERJA', '2001171513360622']",4395.0,Debit,194942.96,False,False
+123,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,194942.86,False,False
+124,20/01,"['Connect BIZ IBG', 'I-040120', 'CLEANHERO (M) SDN BH', 'IBGCMSBCB20012020304511']",570.0,Debit,194372.86,False,False
+125,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,194372.76,False,False
+126,20/01,"['Connect BIZ IBG', 'LED', 'GREENFIELD VICTORY S', 'IBGCMSRHB20012020304443']",26619.51,Debit,167753.25,False,False
+127,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,167753.15,False,False
+128,20/01,"['Connect BIZ IBG', 'VISA', 'LOW MIEW FONG', 'IBGCMSCITI20012020305083']",3889.43,Debit,163863.72,False,False
+129,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,163863.62,False,False
+130,20/01,"['Connect BIZ IBG', 'CELCOM', 'LOW MIEW FONG', 'IBGCMSHSBC20012020305053']",422.0,Debit,163441.62,False,False
+131,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,163441.52,False,False
+132,20/01,"['Connect BIZ IBG', 'VISA', 'LOW MIEW FONG', 'IBGCMSHSBC20012020305009']",800.0,Debit,162641.52,False,False
+133,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,162641.42,False,False
+134,20/01,"['Connect BIZ IBG', 'PETTY CASH', 'LOW MIEW FONG', 'IBGCMSHSBC20012020304965']",328.73,Debit,162312.69,False,False
+135,20/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,162312.59,False,False
+136,20/01,"['Connect BIZ IBG', 'master', 'jennifer low', 'IBGCMSBCB20012020307811']",1000.0,Debit,161312.59,False,False
+137,20/01,"['341966', 'House Cheque (RPC) at KLM']",19219.0,Credit,180531.59,False,False
+138,21/01,"['FPX B2B1', '20200121134531_24013575', 'PERTUBUHAN KESELAMATAN SOSIAL', '2001211345310265']",68.2,Debit,180463.39,False,False
+139,21/01,"['FPX B2B1', '20200121134220_5781977', 'PERTUBUHAN KESELAMATAN SOSIAL', '2001211342210194']",383.6,Debit,180079.79,False,False
+140,21/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,180079.69,False,False
+141,21/01,"['Connect BIZ IBG', 'IV-10846', 'CONCEPT ASSOCIATES (', 'IBGCMSPBB21012020328567']",2400.0,Debit,177679.69,False,False
+142,21/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,177679.59,False,False
+143,21/01,"['Connect BIZ IBG', 'I-2019-207/2019-190', 'SUNSHINE STEEL & GLA', 'IBGCMSOCBC21012020328503']",9880.0,Debit,167799.59,False,False
+144,21/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,167799.49,False,False
+145,21/01,"['Connect BIZ IBG', 'cny orange', 'low miew fong', 'IBGCMSHSBC21012020337791']",725.0,Debit,167074.49,False,False
+146,21/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,167074.39,False,False
+147,21/01,"['Connect BIZ IBG', 'credit card', 'low miew fong', 'IBGCMSHSBC21012020337739']",599.75,Debit,166474.64,False,False
+148,21/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,166474.54,False,False
+149,21/01,"['Connect BIZ IBG', 'nirwana', 'low miew fong', 'IBGCMSHSBC21012020337571']",1905.0,Debit,164569.54,False,False
+150,21/01,"['Connect BIZ Loan Repayment', 'LOW MIEW FONG']",3500.0,Debit,161069.54,False,False
+151,21/01,"['Instant Transfer at KLM', 'i001897', 'STELLAR AVL SOLUTIONS', '20200121MBBEMYKL010ORM09477409']",5555.0,Credit,166624.54,False,False
+152,22/01,"['Connect BIZ Fund Transfer', 'inv fb19-097', 'FAJAR BAIDURI EVENTS SDN BHD']",35000.0,Debit,131624.54,False,False
+153,22/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,131624.44,False,False
+154,22/01,"['Connect BIZ IBG', 'INV1908113', 'RAINBOW TEN ENTERPRI', 'IBGCMSPBB22012020362401']",4683.6,Debit,126940.84,False,False
+155,22/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,126940.74,False,False
+156,22/01,"['Connect BIZ IBG', 'I-002141', 'ITGS COMPUTER HOUSE', 'IBGCMSARBK22012020362273']",115.0,Debit,126825.74,False,False
+157,22/01,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,126825.64,False,False
+158,22/01,"['Connect BIZ IBG', 'CASH SALES :CS31132', 'BG SOUND & LIGHT SDN', 'IBGCMSMBB22012020363601']",10000.0,Debit,116825.64,False,False
+159,22/01,"['416126', 'Inclearing-Cheque']",2859.05,Debit,113966.59,False,False
+160,22/01,"['416127', 'CA Cash Cheque']",14000.0,Debit,99966.59,False,False
+161,22/01,"['Fund Trf fr CA to CA-Internet', 'Fund transfer', 'CHEW LINN MEI']",21820.0,Credit,121786.59,False,False
+162,22/01,"['Instant Transfer at KLM', '3rd Party Transfer', 'transfer', 'GSL EXPORT LINES LOGISTICS', '20200122RHBBMYKL010ORB12858787']",30000.0,Credit,151786.59,False,False
+163,22/01,"['Cr Adv-Interbank GIRO at KLM', 'INV SEP TO DEC 2019', 'STRONGHOLD CYCLES SDN BHD']",45390.0,Credit,197176.59,False,False
+164,22/01,"['018126', 'Local Cheque (RPC) at PCJ']",80.0,Credit,197256.59,False,False
+165,22/01,"['147396', 'House Cheque (RPC) at PCJ']",10000.0,Credit,207256.59,False,False
+166,22/01,"['230368', 'Local Cheque (RPC) at PCJ']",3260.0,Credit,210516.59,False,False
+167,23/01,['Cheque Processing Fee'],1.0,Debit,210515.59,False,False
+168,23/01,"['416123', 'House Cheque Debit (RPC) at KLA']",1000.0,Debit,209515.59,False,False
+169,23/01,"['341984', 'House Cheque (RPC) at KMA']",10000.0,Credit,219515.59,False,False
+170,24/01,['Cheque Processing Fee'],0.5,Debit,219515.09,False,False
+171,24/01,"['416128', 'Inclearing-Cheque']",3348.0,Debit,216167.09,False,False
+172,25/01,['Cheque Processing Fee'],0.5,Debit,216166.59,False,False
+173,,['Total Withdrawals'],,,261503.27,False,False
+174,,['Total Deposits'],,,232863.0,False,False
+175,,['Closing Balance'],,,216166.59,False,False

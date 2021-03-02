@@ -1,0 +1,143 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,47821.05,False,False
+1,01/10,"['Inward Credit-FAST', 'BEXP BizExpenses', 'TROPIC PLANNERS & LA', 'OCBC(1) TO UOB']",80000.0,Credit,127821.05,False,False
+2,02/10,"['Bulk - GIRO', 'GEB1909005 7433401', 'GEN SEPT 19', 'PAYROLL']",20201.6,Debit,107619.45,False,False
+3,02/10,"['Bulk - GIRO', 'GEB19100057571510', 'GDN END SEPT 19', 'PAYROLL']",33845.07,Debit,73774.38,False,False
+4,02/10,"['SVC Chg', 'GEB1909005 7433401', 'GEN SEPT 19', 'PAYROLL']",2.0,Debit,73772.38,False,False
+5,02/10,"['SVC Chg', 'GEB19100057571510', 'GDN END SEPT 19', 'PAYROLL']",8.2,Debit,73764.18,False,False
+6,05/10,"['Misc Credit', 'PMRIBGMPROR/0919', 'PMRSG30092019007828', 'BG Bulk Srvc Reb']",51.2,Credit,73815.38,False,False
+7,05/10,"['Bulk - GIRO', 'GEB19090057455156', 'TP-W (SUP) SEPT', 'PAYROLL']",16233.9,Debit,57581.48,False,False
+8,05/10,"['Bulk - GIRO', 'GEB19100057543653', 'TROPIC FW 1 SEPT', 'PAYROLL']",37765.0,Debit,19816.48,False,False
+9,05/10,"['SVC Chg', 'GEB19090057455156', 'TP-W (SUP) SEPT', 'PAYROLL']",2.4,Debit,19814.08,False,False
+10,05/10,"['svc Chg', 'GEB19100057543653', 'TROPIC FW 1 SEPT', 'PAYROLL']",15.2,Debit,19798.88,False,False
+11,09/10,"['Bulk - GIRO', 'GEB19100057997902', 'GEN OT SEPT 19', 'PAYROLL']",811.68,Debit,18987.2,False,False
+12,09/10,"['SVC Chg', 'GEB19100057997902', 'GEN OT SEPT 19', 'PAYROLL']",0.4,Debit,18986.8,False,False
+13,11/10,"['Inward Credit-FAST', 'OTHR Other', 'TROPIC PLANNERS & LA', 'OCBC(1) TO UOB']",20000.0,Credit,38986.8,False,False
+14,,['Cheque Deposit'],18725.0,Credit,57711.8,False,False
+15,11/10,['Cheque Deposit'],5136.0,Credit,62847.8,False,False
+16,11/10,['Cheque Deposit'],7169.0,Credit,70016.8,False,False
+17,12/10,"['Bulk - GIRO', 'GEB19100058137812', 'TROPIC FW OT', 'PAYROLL']",23329.14,Debit,46687.66,False,False
+18,12/10,"['SVC Chg', 'GEB19100058137812', 'TROPIC FW OT', 'PAYROLL']",15.2,Debit,46672.46,False,False
+19,16/10,"['Bulk - GIRO', 'GEB19100058463233', 'GDN MID OCT 19', 'PAYROLL']",22000.0,Debit,24672.46,False,False
+20,16/10,"['SVC Chg', 'GEB19100058463233', 'GDN MID OCT 19', 'PAYROLL']",8.8,Debit,24663.66,False,False
+21,29/10,"['Misc Debit', '6018773500-00000', 'Trf. Wd. Loans']",6160.05,Debit,18503.61,False,False
+22,30/10,"['Misc Debit', '6018777263-00000', 'Trt. Wd. Loans']",1857.19,Debit,16646.42,False,False
+23,30/10,"['Misc Debit', '6018777 158-00000', 'Trf. Wd. Loans', 'NN']",384.56,Debit,16261.86,False,False
+24,,['Total Withdrawals'],,,162640.39,False,False
+25,,['Total Deposits'],,,131081.2,False,False
+26,,['Total'],,,16261.36,False,False
+27,,['BALANCE B/F'],,,16261.86,False,False
+28,04/11,"['Inward Credit-FAST', 'OTHR Other', 'TROPIC PLANNERS & LA', 'OCBC(1) TO UOB']",100000.0,Credit,116261.86,False,False
+29,04/11,"['Bulk - GIRO', '@EB19110059575142', 'GEN OCT 19', 'PAYROLL']",20221.0,Debit,96040.86,False,False
+30,04/11,"['SVC Chg', 'GEB19110059575142', 'GEN OCT 19', 'PAYROLL']",2.0,Debit,96038.86,False,False
+31,05/11,"['Bulk - GIRO', 'GEB19110059738664', 'TP-W (SUP) OCT', 'PAYROLL']",22342.83,Debit,73696.03,False,False
+32,05/11,"['Bulk - GIRO', 'GEB19110059692527', 'GDN END OCT 19', 'PAYROLL']",36227.68,Debit,37468.35,False,False
+33,05/11,"['Bulk - GIRO', 'GEB19110059767214', 'TROPIC FW', 'PAYROLL']",43379.0,Debit,5910.65,False,False
+34,05/11,"['SVC Chg', 'GEB19110059738664', 'TP-W (SUP) OCT', 'PAYROLL']",3.0,Credit,5913.65,False,False
+35,05/11,"['SVC Chg', 'GEB19110059692527', 'GDN END OCT 19', 'PAYROLL']",9.0,Credit,5922.65,False,False
+36,05/11,"['SVC Chg', 'GEB19110059767214', 'TROPIC FW', 'PAYROLL']",16.0,Credit,5938.65,False,False
+37,06/11,"['Misc Credit', 'PMRIBGMPROR/1019', 'PMRSG31 102019008122', 'IBG Bulk Srve Reb']",52.2,Debit,5886.45,False,False
+38,08/11,"['Inward Credit-FAST', 'OTHR Other', 'TROPIC PLANNERS & LA', 'OCBC(1) TO UOB']",100000.0,Credit,94113.55,False,False
+39,13/11,"['Bulk - GIRO', 'GEB19110060261313', 'TROPIC FW OT', 'PAYROLL']",25475.2,Debit,68638.35,False,False
+40,13/11,"['SVC Chg', 'GEB191 10080261313', 'TROPIC FW OT', 'PAYROLL']",16.4,Debit,68621.95,False,False
+41,19/11,"['Bulk - GIRO', 'GEB19110060546242', 'GDN MID NOV 19', 'PAYROLL']",20500.0,Debit,48121.95,False,False
+42,19/11,"['SVC Chg', 'GEB19110060546242', 'GDN MID NOV 19', 'PAYROLL']",8.2,Debit,48113.75,False,False
+43,29/11,"['Misc Debit', '6018773500-00000', 'Trt. Wd. Loans']",6160.05,Debit,41953.7,False,False
+44,30/11,['OD Int Charge'],10.0,Debit,41943.7,False,False
+45,,['Total Withdrawals'],,,174370.36,False,False
+46,,['Total Deposits'],,,200052.2,False,False
+47,,['Total'],,,41943.7,False,False
+48,,['BALANCE B/F'],,,41943.7,False,False
+49,02/12,"['Misc Debit', '6018777263-00000', 'Trf. Wd. Loans']",1857.19,Debit,40086.51,False,False
+50,02/12,"['Misc Debit', '6018777158-00000', 'Trf. Wd. Loans']",423.01,Debit,39663.5,False,False
+51,04/12,"['Inward Credit-FAST', 'OTHR Other', 'TROPIC PLANNERS & LA', 'OCBC(1) TO UOB']",150000.0,Credit,189663.5,False,False
+52,05/12,"['Bulk - GIRO', 'GEB19120061765776', 'GDN END NOV 19', 'PAYROLL']",33911.51,Debit,155751.99,False,False
+53,05/12,"['Bulk - GIRO', 'GEB19120061692902', 'TROPIC FW NOV', 'PAYROLL']",43778.0,Debit,111973.99,False,False
+54,05/12,"['Bulk - GIRO', 'GEB19120061702795', 'TP-W (SUP) NOV', 'PAYROLL']",26256.05,Debit,85717.94,False,False
+55,05/12,"['Bulk - GIRO', 'GEB19120061756278', 'GEN NOV 19', 'PAYROLL']",18287.67,Debit,67430.27,False,False
+56,05/12,"['SVC Chg', 'GEB19120061765776', 'GDN END NOV 19', 'PAYROLL']",8.8,Debit,67421.47,False,False
+57,05/12,"['SVC Chg', 'GEB19120061692902', 'TROPIC FW NOV', 'PAYROLL']",17.0,Debit,67404.47,False,False
+58,05/12,"['SVC Chg', 'GEB19120061702795', 'TP-W (SUP) NOV', 'PAYROLL']",3.6,Debit,67400.87,False,False
+59,05/12,"['SVC Chg', 'GEB19120061756278', 'GEN NOV 19', 'PAYROLL']",1.8,Debit,67399.07,False,False
+60,06/12,"['Misc Credit', 'PMRIBGMPROR/1119', 'PMRSG30112019008388.', 'BG Bulk Srvc Reb']",54.6,Credit,67453.67,False,False
+61,12/12,"['Bulk - GIRO', 'GEB19120062178392', 'TROPIC FW OT', 'PAYROLL']",22269.37,Debit,45184.3,False,False
+62,12/12,"['SVC Chg', 'GEB19120062178392', 'TROPIC FW OT', 'PAYROLL']",13.8,Debit,45170.5,False,False
+63,16/12,"['Bulk - GIRO Rev', 'GEB19120062178392', 'TROPIC FW OT']",909.65,Credit,46080.15,False,False
+64,16/12,"['Penalty', 'GEB19120062178392', 'TROPIC FW OT']",1.0,Debit,46079.15,False,False
+65,16/12,['Cheque Deposit'],351281.0,Credit,397360.15,False,False
+66,18/12,"['Bulk - GIRO', 'GEB19120062561381', 'GDN MID DEC 19', 'PAYROLL']",19500.0,Debit,377860.15,False,False
+67,18/12,"['SVC Chg', 'GEB19120062561381', 'Q@DN MID DEC 19', 'PAYROLL']",7.8,Debit,377852.35,False,False
+68,30/12,"['Misc Debit', '6018773500-00000', 'Trf. Wd. Loans']",6160.05,Debit,371692.3,False,False
+69,30/12,"['Misc Debit', '6018777263-00000', 'Trf. Wd. Loans']",1857.19,Debit,369835.11,False,False
+70,30/12,"['Misc Debit', '6018777158-00000', 'Trf. Wd. Loans']",358.92,Debit,369476.19,False,False
+71,,['Total Withdrawals'],,,174712.76,False,False
+72,,['Total Deposits'],,,502245.25,False,False
+73,,['Total'],,,369476.19,False,False
+74,,['BALANCE B/F'],,,369476.19,False,False
+75,04/01,"['Bulk - GIRO', 'GEB20010063727130', 'GDN END DEC 19', 'PAYROLL']",36617.4,Debit,332858.79,False,False
+76,04/01,"['SVC Chg', '@EB20010063727130', 'GDN END DEC 19', 'PAYROLL']",9.0,Debit,332849.79,False,False
+77,06/01,"['Bulk - GIRO', 'GEB20010063659346', 'TROPIC FW', 'PAYROLL']",42470.0,Debit,290379.79,False,False
+78,06/01,"['Bulk - GIRO', 'GEB20010063725810', 'TP-W (SUP)DEG', 'PAYROLL']",23028.8,Debit,267350.99,False,False
+79,06/01,"['Bulk - GIRO', 'GEB20010063853149', 'GEN DEC 19', 'PAYROLL']",18294.68,Debit,249056.31,False,False
+80,06/01,"['SVC Chg', 'GEB20010063659346', 'TROPIC FW', 'PAYROLL']",16.4,Debit,249039.91,False,False
+81,06/01,"['SVC Chg', 'GEB20010063725810', 'TP-W (SUP)DEC', 'PAYROLL']",3.2,Debit,249036.71,False,False
+82,06/01,"['SVC Chg', 'GEB20010063853149', 'GEN DEC 19', 'PAYROLL']",1.8,Debit,249034.91,False,False
+83,07/01,"['Misc Credit', 'PMRIBGMPROR/1219', 'PMRSG31122019008163', '{BG Bulk Srvc Reb']",52.8,Credit,249087.71,False,False
+84,13/01,"['Bulk - GIRO', 'GEB20010064207461', 'TROPIC FW OT', 'PAYROLL']",27577.25,Debit,221510.46,False,False
+85,13/01,"['SVC Chg', 'GEB20010084207461', 'TROPIC FW OT', 'PAYROLL']",16.8,Debit,221493.66,False,False
+86,21/01,"['Bulk - FAST', 'GEB20010064967134', 'GDN MID JAN 2020', 'PAYMENTS,']",21500.0,Debit,199993.66,False,False
+87,21/01,"['Serv Charge', 'GEB20010064967134', 'GDN MID JAN 2020', 'PAYMENTS']",21.5,Debit,199972.16,False,False
+88,21/01,"['Bulk - GIRO', 'GEB20010064677550', 'GEN JAN 2020', 'PAYROLL']",25481.0,Debit,174491.16,False,False
+89,21/01,"['SVC Chg', 'GEB20010064677550', 'GEN JAN 2020', 'PAYROLL']",2.0,Debit,174489.16,False,False
+90,22/01,"['Bulk - GIRO', 'GEB20010064755659', 'TP-W (SUP) BONUS', 'PAYROLL']",14100.0,Debit,160389.16,False,False
+91,22/01,"['SVC Chg', 'GEB20010064755659', 'TP-W (SUP) BONUS', 'PAYROLL']",3.4,Debit,160385.76,False,False
+92,29/01,"['Misc Debit', '6018773500-00000', 'Trf. Wd. Loans']",6160.05,Debit,154225.71,False,False
+93,30/01,"['Misc Debit', '6018777263-00000', 'Trf. Wd. Loans']",1854.71,Debit,152371.0,False,False
+94,30/01,"['Misc Debit', '6018777158-00000', 'Trf. Wd. Loans']",383.73,Debit,151987.27,False,False
+95,,['Total Withdrawals'],,,217541.72,False,False
+96,,['Total Deposits'],,,52.8,False,False
+97,,['Total'],,,151987.27,False,False
+98,,['BALANCE B/F'],,,151987.27,False,False
+99,05/02,"['Bulk - GIRO', 'GEB20020065812976', 'GEN JAN 2020', 'PAYROLL']",722.13,Debit,151265.14,False,False
+100,05/02,"['Bulk - GIRO', 'GEB20020065948087', 'GDN END JAN 2020', 'PAYROLL']",35339.96,Debit,115925.18,False,False
+101,05/02,"['Bulk - GIRO', 'GEB20020065952192', 'TROPIC FW', 'PAYROLL']",43725.0,Debit,72200.18,False,False
+102,05/02,"['SVC Chg', 'GEB20020065812976', 'GEN JAN 2020', 'PAYROLL']",0.2,Debit,72199.98,False,False
+103,05/02,"['SVC Chg', 'GEB20020065948087', 'GDN END JAN 2020', 'PAYROLL']",9.0,Debit,72190.98,False,False
+104,05/02,"['SVC Chg', 'GEB20020065952192', 'TROPIC FW', 'PAYROLL']",16.2,Debit,72174.78,False,False
+105,06/02,"['Misc Credit', 'PMRIBGMPROR/0120', 'PMRSG31012020096855', 'IBG Bulk Srvc Reb']",52.6,Credit,72227.38,False,False
+106,06/02,"['Bulk - GIRO', 'GEB20020066015315', 'TP-W (SUP) JAN', 'PAYROLL']",26287.0,Debit,45940.38,False,False
+107,06/02,"['SVC Chg', 'GEB20020066015315', 'TP-W (SUP) JAN', 'PAYROLL']",3.4,Debit,45936.98,False,False
+108,12/02,"['Bulk - GIRO', 'GEB20020066377213', 'TROPIC FW OT', 'PAYROLL']",23430.15,Debit,22506.83,False,False
+109,12/02,"['SVC Chg', 'GEB20020066377213', 'TROPIC FW OT', 'PAYROLL']",16.0,Debit,22490.83,False,False
+110,18/02,"['Bulk - GIRO', 'GEB20020086617850', 'GDN MID FEB 2020', 'PAYROLL']",22000.0,Debit,490.83,False,False
+111,18/02,"['SVC Chg', 'GEB20020066617850', 'GDN MID FEB 2020', 'PAYROLL']",8.8,Debit,482.03,False,False
+112,,['Total Withdrawals'],,,151557.84,False,False
+113,,['Total Deposits'],,,52.6,False,False
+114,,['Total'],,,482.03,False,False
+115,,['BALANCE B/F'],,,482.03,False,False
+116,02/03,"['Misc Debit', '6018773500-00000', 'Trf. Wd. Loans']",6160.05,Credit,5678.02,False,False
+117,02/03,"['Misc Debit', '6018777263-00000', 'Trf. Wd. Loans']",1854.71,Credit,7532.73,False,False
+118,02/03,"['Misc Debit', '6018777158-00000', 'Trf. Wd. Loans']",396.12,Credit,7928.85,False,False
+119,04/03,"['Inward Credit-FAST', 'SUPP SupplierPymt', 'TROPICAL ENVIRONMENT', 'DBS1TR200304TP-UOB']",127330.0,Credit,119401.15,False,False
+120,04/03,"['Bulk - GIRO', 'GEB20030067873195', 'GEN END FEB 2020', 'PAYROLL']",17551.5,Debit,101849.65,False,False
+121,04/03,"['Bulk - GIRO', 'GEB20030067874750', 'GDN END FEB 2020', 'PAYROLL']",32159.78,Debit,69689.87,False,False
+122,04/03,"['SVC Chg', 'GEB20030067873195', 'GEN END FEB 2020', 'PAYROLL']",1.8,Debit,69688.07,False,False
+123,04/03,"['SVC Chg', 'GEB20030067874750', 'GDN END FEB 2020', 'PAYROLL']",8.2,Debit,69679.87,False,False
+124,05/03,"['Bulk - GIRO', 'GEB20030087960918', 'TP-W (SUP) FEB', 'PAYROLL']",21007.0,Debit,48672.87,False,False
+125,05/03,"['Bulk - GIRO', 'GEB20030067968108', 'TROPIC FW', 'PAYROLL']",37165.0,Debit,11507.87,False,False
+126,05/03,"['SVC Chg', 'GEB20030087960918', 'TP-W (SUP) FEB', 'PAYROLL']",2.8,Debit,11505.07,False,False
+127,05/03,"['SVC Chg', 'GEB20030067968108', 'TROPIC FW', 'PAYROLL']",14.8,Debit,11490.27,False,False
+128,06/03,"['Misc Credit', 'PMRIBGMPROR/0220', 'PMRSG29022020007367', 'IBG Bulk Srvc Reb']",53.6,Credit,11543.87,False,False
+129,11/03,"['Misc Debit', '311219', 'Service Charge-Audit Confirmation-']",50.0,Debit,11493.87,False,False
+130,11/03,"['Inward Credit-FAST', 'OTHR Other', 'TROPIC PLANNERS & LA', 'OCBC(2) TO UOB']",50000.0,Credit,61493.87,False,False
+131,12/03,"['Bulk - GIRO', 'GEB20030068346690', 'TROPIC FW OT', 'PAYROLL']",22897.23,Debit,38596.64,False,False
+132,12/03,"['SVC Chg', 'GEB20030068346690', 'TROPIC FW OT', 'PAYROLL']",14.4,Debit,38582.24,False,False
+133,18/03,"['Bulk - GIRO', 'GEB20030068778991', 'GDN MID MAR 2020', 'PAYROLL']",20500.0,Debit,18082.24,False,False
+134,18/03,"['SVC Chg', 'GEB20030068778991', 'GDN MID MAR 2020', 'PAYROLL']",8.2,Debit,18074.04,False,False
+135,30/03,"['Misc Debit', '6018773500-00000', 'Trf. Wd. Loans']",6160.05,Debit,11913.99,False,False
+136,30/03,"['Misc Debit', '6018777263-00000', 'Trf. Wd. Loans']",1854.71,Debit,10059.28,False,False
+137,30/03,"['Misc Debit', '6018777158-00000', 'Trf. Wd. Loans']",346.6,Debit,9712.68,False,False
+138,31/03,['OD Int Charge'],10.0,Debit,9702.68,False,False
+139,,['Total Withdrawals'],,,168162.95,False,False
+140,,['Total Deposits'],,,177383.6,False,False
+141,,['Total'],,,9702.68,False,False

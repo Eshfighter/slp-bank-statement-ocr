@@ -1,0 +1,75 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Beginning Balance'],,,133.39,False,False
+1,,['Deposits'],,,20652.0,False,False
+2,,['Withdrawals'],,,15816.25,False,False
+3,,['Ending Balance'],,,4969.14,False,False
+4,,['B/F BALANCE'],,,133.39,False,False
+5,02/02,"['21793', 'CDT CASH DEPOSIT']",450.0,Credit,583.39,False,False
+6,05/02,"['761', 'IBK INSTANT TRF DR', 'CIK NURUL AZIRA BINTI ROSLI', '3rd Party Transfer', 'Ai']",141.0,Debit,442.39,False,False
+7,05/02,"['6572', 'IBK INSTANT TRF DR', 'E MAX FASHION SDN. B', '3rd Party Transfer', 'Stock']",450.0,Debit,7.61,True,False
+8,05/02,"['16982', 'ATM INST CR AT MEPS', 'HAFIZAH BINTI MOHD AKIL', 'Baju Fizah', 'Baju Fizah 4 Feb 20']",110.0,Credit,102.39,False,False
+9,06/02,"['6720', 'IBK INSTANT TRF DR', 'MOHD ZHARIFF SHAZANI', '3rd Party Transfer', 'Jv']",3450.0,Debit,3347.61,True,False
+10,06/02,"['7728', 'IBK INSTANT TRF DR', 'CHE WAN NORULNADIA B', '3rd Party Transfer', 'Wall chart']",20.0,Debit,3367.61,True,False
+11,06/02,"['9208', 'RPP INWARD INST TRF CR', 'WAN ADZRUL HELMI BIN WAN', 'RM2k', 'RM2k']",2000.0,Credit,1367.61,True,False
+12,06/02,"['11108', 'CDT CASH DEPOSIT']",600.0,Credit,767.61,True,False
+13,06/02,"['13004', 'ATM INST CR AT MEPS', 'TENGKU NUR LIYANA BINTI TE', 'Yana', 'INSTANT TRANSFER']",1000.0,Credit,232.39,False,False
+14,06/02,"['38995', 'MYDEBIT -', 'POPULAR-BERJAYA MEG', 'KUANTAN', 'MY CARD 3031']",6.6,Debit,225.79,False,False
+15,07/02,"['3612', 'RPP INWARD INST TRF CR', 'FILZAH FATIN BINTI MOHD A', 'Baju cotton']",337.0,Credit,562.79,False,False
+16,07/02,"['9494', 'IBK FUND TRF DR', 'RAKAN DAKWAT DIGITAL SERVICES', 'Fund Transfer', 'Ade']",500.0,Debit,62.79,False,False
+17,08/02,"['36312', 'CDT CASH DEPOSIT']",1800.0,Credit,1862.79,False,False
+18,09/02,"['6438', 'IBK INSTANT TRF DR', 'SHAIFUL AZIZI BIN YA', '3rd Party Transfer', 'Tapak Kak Yan']",800.0,Debit,1062.79,False,False
+19,10/02,"['521', 'RPP INWARD INST TRF CR', 'AHMAD ZULHILMI BIN ALI AF', 'Transfer 400']",400.0,Credit,1462.79,False,False
+20,10/02,"['2929', 'IBK FUND TRF CR', 'IBK', 'RAKAN DAKWAT DIGITAL SERVICES', 'Fund Transfer', 'trading']",200.0,Credit,1662.79,False,False
+21,11/02,"['CHQ SVC CHARGE-CLRG', '202002110227060161017000420429']",0.5,Debit,1662.29,False,False
+22,11/02,"['34', 'CLEARING CHQ', '202002110227060161017000420429']",1500.0,Debit,162.29,False,False
+23,11/02,"['5546', 'IBK INSTANT TRF DR', 'AHMAD ZULHILMI BIN A', '3rd Party Transfer', 'Zulhilmi']",400.0,Debit,237.71,True,False
+24,11/02,"['6995', 'RPP INWARD INST TRF CR', 'WAN AINI ASYIKIN BIN', '100']",100.0,Credit,137.71,True,False
+25,11/02,"['8719', 'IBK INSTANT TRF DR', 'WAN NOR ATIKAH BINTI', '3rd Party Transfer', 'Saving']",200.0,Debit,337.71,True,False
+26,11/02,"['11754', 'CDT CASH DEPOSIT']",600.0,Credit,262.29,False,False
+27,11/02,"['82596', 'MYDEBIT -', 'SUBWAY-TELUK CHEMPE', '25050', 'MY CARD 3031']",12.0,Debit,250.29,False,False
+28,12/02,"['3669', 'IBK INSTANT TRF DR', 'CIK NURUL AZIRA BINTI ROSLI', '3rd Party Transfer', 'Ai']",141.0,Debit,109.29,False,False
+29,13/02,"['1733', 'RPP INWARD INST TRF CR', 'NOOR AZREEN BINTI RAMLI', 'BELIAN']",110.0,Credit,219.29,False,False
+30,14/02,"['85624', 'ATM CASH WITHDRAWAL']",150.0,Debit,69.29,False,False
+31,16/02,"['67724', 'DEBITCARD TXN - DR', '130220', 'CAPITALAND-EASTCOAST']",2.0,Debit,67.29,False,False
+32,17/02,"['CHQ SVC CHARGE-CLRG', '202002170235060531017001510005']",0.5,Debit,66.79,False,False
+33,17/02,"['36', 'CLEARING CHQ', '202002170235060531017001510005']",2100.0,Debit,2033.21,True,False
+34,17/02,"['6140', 'IBK INSTANT TRF DR', 'SHAMSUDDIN BIN MAT YADIN', '3rd Party Transfer', 'Wan Azhar']",500.0,Debit,2533.21,True,False
+35,17/02,"['12387', 'CDT CASH DEPOSIT']",300.0,Credit,2233.21,True,False
+36,17/02,"['37540', 'CDT CASH DEPOSIT']",2600.0,Credit,366.79,False,False
+37,18/02,"['4563', 'IBK RELOAD DR', '0179737319']",10.0,Debit,356.79,False,False
+38,18/02,"['5709', 'IBK INSTANT TRF DR', 'CIK NURUL AZIRA BINTI ROSLI', '3rd Party Transfer', 'Ai']",141.0,Debit,215.79,False,False
+39,18/02,"['5972', 'IBK RELOAD DR', '0179737319']",10.0,Debit,205.79,False,False
+40,18/02,"['8874', 'IBK RELOAD DR', '0179737319']",50.0,Debit,155.79,False,False
+41,18/02,"['42920', 'CDT CASH DEPOSIT']",400.0,Credit,555.79,False,False
+42,20/02,"['5614', 'IBK INSTANT TRF DR', 'AZIDA BINTI TAHIR', '3rd Party Transfer', 'Nor Azian']",400.0,Debit,155.79,False,False
+43,20/02,"['43242', 'CDT CASH DEPOSIT']",700.0,Credit,855.79,False,False
+44,21/02,"['1968', 'IBK INSTANT TRF DR', 'PAN MENG CHOY', '3rd Party Transfer', 'Stock Nor Azian']",397.0,Debit,458.79,False,False
+45,21/02,"['3080', 'IBK FUND TRF DR', 'BUTIK PARAGON', 'Fund Transfer', 'Stock']",312.0,Debit,146.79,False,False
+46,21/02,"['6187', 'IBK NBPS PYMT DR', 'WOONGJIN COWAY (MALAYS', 'WOONGJIN COWAY (MALAYS', '28284594', '72LWU08A22002211009Y']",140.0,Debit,6.79,False,False
+47,21/02,"['38158', 'CDT CASH DEPOSIT']",900.0,Credit,906.79,False,False
+48,22/02,"['12957', 'CDT CASH DEPOSIT']",700.0,Credit,1606.79,False,False
+49,23/02,"['7698', 'RPP INWARD INST TRF CR', 'WAN NOR ATIKAH BINTI WAN', 'Customer']",150.0,Credit,1756.79,False,False
+50,24/02,"['2119', 'IBK INSTANT TRF DR', 'RASYIDAH BINTI MOHAM', '3rd Party Transfer', 'Nor Azian']",150.0,Debit,1606.79,False,False
+51,24/02,"['2126', 'IBK INSTANT TRF DR', 'CIK NURUL AZIRA BINTI ROSLI', '3rd Party Transfer', 'Ai']",141.0,Debit,1465.79,False,False
+52,24/02,"['2391', 'RPP INWARD INST TRF CR', 'WAN NOR ATIKAH BINTI WAN', 'Wan Azhar']",1500.0,Credit,2965.79,False,False
+53,24/02,"['4479', 'RPP INWARD INST TRF CR', 'WAN NOR ATIKAH BINTI WAN', 'Wan Azhar']",2000.0,Credit,4965.79,False,False
+54,24/02,"['4814', 'IBK INSTANT TRF DR', 'ROWA EMPIRE', '3rd Party Transfer', 'Stock Nor Azian']",630.0,Debit,4335.79,False,False
+55,24/02,"['8888', 'IBK INSTANT TRF DR', 'SHAIFUL AZIZI BIN YA', '3rd Party Transfer', 'Tapak kp kak yan']",600.0,Debit,3735.79,False,False
+56,24/02,"['13198', 'CDT CASH DEPOSIT']",900.0,Credit,4635.79,False,False
+57,24/02,"['28327', 'ATM CASH WITHDRAWAL']",50.0,Debit,4585.79,False,False
+58,25/02,"['43732', 'MYDEBIT -', 'JAYA GROCER-KUANTAN', 'KUANTAN', 'MY CARD 3031']",21.6,Debit,4564.19,False,False
+59,26/02,"['3264', 'DEBITCARD TXN - DR', '230220', 'MCDONALDS-INDERA 0029']",9.05,Debit,4555.14,False,False
+60,26/02,"['44471', 'CDT CASH DEPOSIT']",500.0,Credit,5055.14,False,False
+61,27/02,"['1141', 'IBK INSTANT TRF DR', 'E MAX FASHION SDN. B', '3rd Party Transfer', 'Stock']",207.0,Debit,4848.14,False,False
+62,27/02,"['3980', 'IBK INSTANT TRF DR', 'WAN ADZRUL HELMI BIN', '3rd Party Transfer', 'Along']",1000.0,Debit,3848.14,False,False
+63,27/02,"['5916', 'RPP INWARD INST TRF CR', 'MAIZURA BINTI OSMAN', 'baju']",160.0,Credit,4008.14,False,False
+64,27/02,"['8304', 'RPP INWARD INST TRF CR', 'AHMAD ZULHILMI BIN ALI AF', 'Jan Feb']",100.0,Credit,4108.14,False,False
+65,27/02,"['39166', 'CDT CASH DEPOSIT']",300.0,Credit,4408.14,False,False
+66,27/02,"['93047', 'ATM CASH WITHDRAWAL']",50.0,Debit,4358.14,False,False
+67,28/02,"['950', 'IBK INSTANT TRF DR', 'WAN NURHANUM BINTI WAN SAIPUDDIN', '3rd Party Transfer', 'Mk']",319.0,Debit,4039.14,False,False
+68,28/02,"['6550', 'IBK INSTANT TRF DR', 'SHAIFUL AZIZI BIN YA', '3rd Party Transfer', 'Tapak Kak Yan']",775.0,Debit,3264.14,False,False
+69,28/02,"['39262', 'CDT CASH DEPOSIT']",200.0,Credit,3464.14,False,False
+70,28/02,"['44822', 'CDT CASH DEPOSIT']",500.0,Credit,3964.14,False,False
+71,28/02,"['48381', 'ATM INST CR AT MEPS', 'HAFIZAH BINTI MOHD AKIL', 'baju fiza', 'INSTANT TRANSFER']",85.0,Credit,4049.14,False,False
+72,29/02,"['45349', 'CDT CASH DEPOSIT']",950.0,Credit,4999.14,False,False
+73,29/02,"['78163', 'DEBITCARD TXN - DR', '260220', 'SHELL-AHMAD JOHARI IB']",30.0,Debit,4969.14,False,False

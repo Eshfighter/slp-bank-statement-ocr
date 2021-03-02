@@ -1,0 +1,54 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['OPENING BALANCE'],,,20133.12,False,False
+1,02/02,"['OTHER TRANSFER FEE', 'wei salary jan 19 2 pay back to eric']",0.1,Debit,20133.02,False,False
+2,02/02,"['TR IBG', 'wei salary jan 19 2', 'pay back to eric', 'TAN CHUAN KEAT']",800.0,Debit,19333.02,False,False
+3,02/02,"['OTHER TRANSFER FEE', 'salary forjan 19 ck1']",0.1,Debit,19332.92,False,False
+4,02/02,"['TR IBG', 'salary for jan 19', 'ck?', 'ho pei shan']",1124.9,Debit,18208.02,False,False
+5,02/02,"['OTHER TRANSFER FEE', 'salary for jan 19 2. ck?']",0.1,Debit,18207.92,False,False
+6,02/02,"['TR IBG', 'salary for jan 19 2', 'ck?', 'KE KIM FOO']",1055.6,Debit,17152.32,False,False
+7,02/02,"['OTHER TRANSFER FEE', 'Salary for jan 19 2 ck?']",0.1,Debit,17152.22,False,False
+8,02/02,"['TR IBG', 'salary for jan 19 2', 'ckt', 'LIM SAI WEI']",939.4,Debit,16212.82,False,False
+9,02/02,"['OTHER TRANSFER FEE', 'salary for jan 19']",0.1,Debit,16212.72,False,False
+10,02/02,"['TR IBG', 'salary for jan 19', 'wong wei le']",2384.45,Debit,13828.27,False,False
+11,04/02,"['IBG CREDIT', '20190201149044569', '8303', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1970.0,Credit,15798.27,False,False
+12,04/02,"['IBG CREDIT', '20190202149044569', '1054', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1587.6,Credit,17385.87,False,False
+13,04/02,"['IBG CREDIT', '20190131149044569', '4912', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1899.9,Credit,19285.77,False,False
+14,04/02,"['TR IBG', '0811700225', '0811700225', 'HITACHI CAPITAL MALA']",3650.0,Debit,15635.77,False,False
+15,08/02,"['ATM MEPS IBFT FROM OF', '7050 n 7057', 'KUJAYA', 'MAN', 'KUJAYA MANAGEMENT SD', 'INSTANT TRANSFER']",611.0,Credit,16246.77,False,False
+16,13/02,"['IBG CREDIT', '20190212149044569', '6671', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",669.8,Credit,16916.57,False,False
+17,43/02,"['ATM MEPS IBFT FROM OF!', 'RentAddaHeight', 'TEOH', 'CHIEK', 'TEOH CHIEK KAI', 'RentAddaHeight']",3100.0,Credit,20016.57,False,False
+18,13/02,['2D LOCAL CHQ'],1200.0,Credit,21216.57,False,False
+19,13/02,['2D LOCAL CHQ'],696.0,Credit,21912.57,False,False
+20,14/02,"['IBG CREDIT', '20190213149044569', '6179', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1477.5,Credit,23390.07,False,False
+21,18/02,"['IBG CREDIT', '20190215149044569', '3904', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",177.3,Credit,23567.37,False,False
+22,18/02,"['IBG CREDIT', '20190216149044569', '6124', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1063.8,Credit,24631.17,False,False
+23,48/02,"['TR IBG', '019311805', '15022019130502483054', 'KUMPULAN WANG SIMPAN']",4059.0,Debit,20572.17,False,False
+24,18/02,"['OTHER TRANSFER FEE', 'card machine 140219']",0.1,Debit,20572.07,False,False
+25,18/02,"['TR IBG', 'card machine 140219', 'teoh chiek kai']",1476.5,Debit,19095.57,False,False
+26,48/02,"['OTHER TRANSFER FEE', 'card machine 130219']",0.1,Debit,19095.47,False,False
+27,48/02,"['TR IBG', 'card machine 130219', 'feoh chiek kal']",668.8,Debit,18426.67,False,False
+28,18/02,"['JOMPAY', '1030287559', '62/LC6T98888', 'TM UNIFI']",298.05,Debit,18128.62,False,False
+29,48/02,"['OTHER TRANSFER FEE', 'card machine 180219']",0.1,Debit,18128.52,False,False
+30,18/02,"['TR IBG', 'card machine 180219', 'feoh chiek kai']",1240.1,Debit,16888.42,False,False
+31,18/02,"['OTHER TRANSFER FEE', 'card machine 140219']",0.1,Debit,16888.32,False,False
+32,18/02,"['TR IBG', 'card machine 140219', 'teoh chiek kai']",5456.5,Debit,11431.82,False,False
+33,19/02,"['IBG CREDIT', '201902 18149044569', '8234', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",443.25,Credit,11875.07,False,False
+34,21/02,"['OTHER TRANSFER FEE', 'salary for feb 19 1']",0.1,Debit,11874.97,False,False
+35,21/02,"['TR IBG', 'salary for feb 194', 'LIM SAI WEI']",1239.75,Debit,10635.22,False,False
+36,21/02,"['OTHER TRANSFER FEE', 'card machine 190219']",0.1,Debit,10635.12,False,False
+37,21/02,"[': TR IBG', 'jeard machine 190219', '‘feoh chiek kai']",139.57,Debit,10495.55,False,False
+38,21/02,"['.JOMPAY', '1030287559', '62LY66WX8888', ':TM UNIFI']",302.65,Debit,10192.9,False,False
+39,21/02,"[':IBG CREDIT', '20190220149044569', '3100', '‘AMBANK CS', ':AMBANK CSD', '!CC MERCH SETTLEMENT']",381.19,Credit,10574.09,False,False
+40,21/02,['CDM CASH DEPOSIT'],1720.0,Credit,12294.09,False,False
+41,22/02,"['IBG CREDIT', '°20190221149044569', '5771', 'iAMBANK CS', '‘AMBANK CSD', 'CC MERCH SETTLEMENT']",1910.9,Credit,14204.99,False,False
+42,22/02,['2D LOCAL CHQ'],1280.0,Credit,15484.99,False,False
+43,25/02,"['IBG CREDIT', '20190222149044569', '8692', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1791.0,Credit,17275.99,False,False
+44,25/02,"[':IBG CREDIT', ""'20190223149044569"", '1456', '‘AMBANK CS', ""'AMBANK CSD"", 'CC MERCH SETTLEMENT']",1492.5,Credit,18768.49,False,False
+45,25/02,"['OTHER TRANSFER FEE', 'rental for feb 19']",0.1,Debit,18768.39,False,False
+46,25/02,"['TR IBG', '“rental for feb 19', '‘HOMETRIC DESIGN & CO']",5200.0,Debit,13568.39,False,False
+47,25/02,"['IBG CREDIT', '20190224149044569', '1520', '‘AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",5329.83,Credit,18898.22,False,False
+48,25/02,"['IBG CREDIT', 'DIS2018', 'NOR', '0647', 'SHAHID', 'NOR SHAHID ABD MALIK', 'PRIVATE TRANSACTION']",900.0,Credit,19798.22,False,False
+49,27/02,"['IBG CREDIT', '201902261 49044569', '9878', '_AMBANK CS', 'AMBANK CSD', '“CC MERCH SETTLEMENT']",522.05,Credit,20320.27,False,False
+50,,['CLOSING BALANCE / BAK/ PENUTUP'],,,20320.27,False,False
+51,,['Total Withdrawal'],,,30036.47,False,False
+52,,['Total Deposit'],,,30223.62,False,False

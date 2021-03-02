@@ -1,0 +1,14 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,181.51,True,False
+1,23/08,"['CHEQUE DEPOSIT', 'MAYBANK SG LTD']",51366.71,Credit,51185.2,False,False
+2,26/08,"['MEPS RECEIPTS', '1M190826007670000', 'MCC BUSINESS', 'TT-SGD5848.03']",5848.03,Credit,57033.23,False,False
+3,26/08,['TRANSFER CA'],15791.54,Debit,41241.69,False,False
+4,27/08,"['MEPS RECEIPTS.', '1M190827006742000', 'MCC BUSINESS', 'TT-SGD253.50']",253.5,Credit,41495.19,False,False
+5,28/08,"['MEPS RECEIPTS', '1M190828007637000', 'MCC BUSINESS', 'TT-SGD234.00']",234.0,Credit,41729.19,False,False
+6,29/08,"['MEPS RECEIPTS', '§m190829007658000', 'MCC BUSINESS', 'TT-SGD608.40']",608.4,Credit,42337.59,False,False
+7,30/08,"['MEPS RECEIPTS', 'IM190830607912000', 'MCC BUSINESS', 'TT-SGD955.50']",955.5,Credit,43293.09,False,False
+8,31/08,"['CASH WITHDRAWAL ATM', 'OCBC-GOLDEN MILE FC', 'SINGAPORE SG']",400.0,Debit,42893.09,False,False
+9,31/08,['OD INT CHARGE'],30.0,Debit,42863.09,False,False
+10,,['BALANCE C/F'],,,42863.09,False,False
+11,,['Total Withdrawals'],,,16221.54,False,False
+12,,['Total Deposits'],,,59266.14,False,False

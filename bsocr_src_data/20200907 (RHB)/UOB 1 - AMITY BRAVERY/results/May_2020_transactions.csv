@@ -1,0 +1,92 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,50000.0,False,False
+1,01/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",14492.19,Credit,64492.19,False,False
+2,01/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",0.35,Credit,64492.54,False,False
+3,01/04,"['IBG CR', 'IV000744 21/02/20', 'IV000612 19/12/19', 'HLBB PARAGON PETS LOVER SDN BHD']",4212.75,Credit,68705.29,False,False
+4,01/04,"['IBG Debit', 'SALARY']",5307.85,Debit,63397.44,False,False
+5,01/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",13397.44,Debit,50000.0,False,False
+6,02/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",13397.44,Credit,63397.44,False,False
+7,02/04,"['IBG CR', 'BEBK040286203212', 'I000802', 'PBB PAW PET']",693.5,Credit,64090.94,False,False
+8,02/04,"['IBG CR', 'INV000679', 'Interbank GIRO', 'OCBC VINPET']",1375.8,Credit,65466.74,False,False
+9,02/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",15466.74,Debit,50000.0,False,False
+10,03/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",15466.74,Credit,65466.74,False,False
+11,03/04,"['IBG Debit', '1912/00239']",8688.2,Debit,56778.54,False,False
+12,03/04,"['IBG Debit', 'WAGES']",800.0,Debit,55978.54,False,False
+13,03/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",5978.54,Debit,50000.0,False,False
+14,,['BALANCE C/F'],,,50000.0,False,False
+15,,['BALANCE B/F'],,,50000.0,False,False
+16,05/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",5978.54,Credit,55978.54,False,False
+17,05/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",5978.54,Debit,50000.0,False,False
+18,06/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",5978.54,Credit,55978.54,False,False
+19,06/04,"['IBG CR', 'I-000754', 'Interbank GIRO', 'OCBC K & K PET AVENUE']",3384.7,Credit,59363.24,False,False
+20,06/04,"['IBG CR', 'SEMENYIH TESCO', 'INV 764', 'CIMB RASA SAYANG PET MART SDN BHD']",3600.0,Credit,62963.24,False,False
+21,06/04,"['IBG Debit', 'AMITY CP204']",1500.0,Debit,61463.24,False,False
+22,06/04,"['FPX Debit', 'PERTUBUHAN KESELAMAT', '20200406121950_70246']",77.6,Debit,61385.64,False,False
+23,06/04,"['FPX Debit', 'PERTUBUHAN KESELAMAT', '20200406122236_25115']",13.8,Debit,61371.84,False,False
+24,06/04,"['FPX Debit', 'LEMBAGA HASIL DALAM', 'PE6D20001817']",283.0,Debit,61088.84,False,False
+25,06/04,"['FPX Debit', 'KUMPULAN WANG SIMPAN', '0420200021815659C112']",840.0,Debit,60248.84,False,False
+26,06/04,"['DuitNow/Instant Trf', 'Py', 'Pet', 'PBB YEOH BOON KIAT']",175.0,Credit,60423.84,False,False
+27,06/04,"['Cheque Deposit HLBB', '044104']",16497.81,Credit,76921.65,False,False
+28,06/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",10423.84,Debit,66497.81,False,False
+29,07/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",10423.84,Credit,76921.65,False,False
+30,07/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",26921.65,Debit,50000.0,False,False
+31,08/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",26921.65,Credit,76921.65,False,False
+32,08/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",26921.65,Debit,50000.0,False,False
+33,,['BALANCE C/F'],,,50000.0,False,False
+34,,['BALANCE B/F'],,,50000.0,False,False
+35,09/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",26921.65,Credit,76921.65,False,False
+36,09/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",26921.65,Debit,50000.0,False,False
+37,10/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",26921.65,Credit,76921.65,False,False
+38,10/04,"['DuitNow/Instant Trf', 'Kee', 'PBB KEE KIM CHONG']",9000.0,Credit,85921.65,False,False
+39,10/04,"['IBG CR', 'I-000700 -CN2004-001', 'I-000700 -CN2004-001', 'CIMB PARAGON GENESIS SDN BHD']",12857.18,Credit,98778.83,False,False
+40,10/04,"['IBG CR', 'INV000713-728-', 'CN2002-006', 'OCBC VINPET']",2742.6,Credit,101521.43,False,False
+41,10/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",51521.43,Debit,50000.0,False,False
+42,12/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",51521.43,Credit,101521.43,False,False
+43,12/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",51521.43,Debit,50000.0,False,False
+44,13/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",51521.43,Credit,101521.43,False,False
+45,13/04,"['DuitNow/Instant Trf', 'LOOSE', 'MBB CHAN TOONG SOON']",375.0,Credit,101896.43,False,False
+46,13/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",51896.43,Debit,50000.0,False,False
+47,14/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",51896.43,Credit,101896.43,False,False
+48,14/04,"['IBG CR', 'PRIVATE TRANSACTION', 'AMITY BRAVERY', 'MBB IRENE AQUARIUM']",249.68,Credit,102146.11,False,False
+49,14/04,"['DuitNow/Instant Trf', '00470 00472', 'MBB SOUTHERN PET TRADING']",7000.0,Credit,109146.11,False,False
+50,14/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",59146.11,Debit,50000.0,False,False
+51,,['BALANCE C/F'],,,50000.0,False,False
+52,,['BALANCE B/F'],,,50000.0,False,False
+53,15/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",59146.11,Credit,109146.11,False,False
+54,15/04,"['IBG CR', 'PRIVATE TRANSACTION', 'APRIL', 'MBB IKAN IKAN ENTERPRISE']",4250.0,Credit,113396.11,False,False
+55,15/04,"['IBG Debit', 'C0012151']",30.0,Debit,113366.11,False,False
+56,15/04,"['DuitNow/Instant Trf', 'qqpet', '3rd Party Transfer', 'SCB NG JUN LOONG']",1234.8,Credit,114600.91,False,False
+57,15/04,"['Cheque Deposit ABMB', '000408']",3842.4,Credit,118443.31,False,False
+58,15/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",64600.91,Debit,53842.4,False,False
+59,16/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",64600.91,Credit,118443.31,False,False
+60,16/04,"['ODS Sweep Trf DR', '2293033929', '2293033929']",68443.31,Debit,50000.0,False,False
+61,17/04,"['ODS Sweep Trf CR', '2293033929', '2293033929']",68443.31,Credit,118443.31,False,False
+62,17/04,"['Fund Trf EB', 'I-016426']",102052.0,Debit,16391.31,False,False
+63,20/04,"['DuitNow/Instant Trf', 'I-000808', 'MBB LAI WEN HAUR']",1776.68,Credit,18167.99,False,False
+64,20/04,"['DuitNow/Instant Trf', 'INV I-000736', '00205941', 'MBB UNIQUE PETS CARE SDN BHD']",358.8,Credit,18526.79,False,False
+65,20/04,"['DuitNow/Instant Trf', 'INV I-000737', '00205942', 'MBB UNIQUE PETS CARE SDN BHD']",885.6,Credit,19412.39,False,False
+66,20/04,"['Cheque Deposit MBB', '740820']",572.1,Credit,19984.49,False,False
+67,20/04,"['Cheque Deposit PBB', '189568']",1821.6,Credit,21806.09,False,False
+68,22/04,"['IBG CR', 'I-000782', 'Interbank GIRO', 'OCBC K & K PET AVENUE']",1023.0,Credit,22829.09,False,False
+69,26/04,"['DuitNow/Instant Trf', 'PAYMENT', 'MBB SOUTHERN PET TRADING']",3500.0,Credit,26329.09,False,False
+70,,['BALANCE C/F'],,,26329.09,False,False
+71,,['BALANCE B/F'],,,26329.09,False,False
+72,27/04,"['IBG CR', 'I-000755/I-000716', 'RHB PETSTOP EXPRESS']",1632.0,Credit,27961.09,False,False
+73,27/04,"['IBG CR', 'I-000824', 'I-000824', 'CIMB RASA SAYANG BANTING PET', 'HOUSE']",450.0,Credit,28411.09,False,False
+74,29/04,"['JomPAY DR', '74UAFVW922004290952Y', '2100056823355']",330.72,Debit,28080.37,False,False
+75,29/04,"['IBG Debit', '8800536767']",10.05,Debit,28070.32,False,False
+76,29/04,"['IBG Debit', 'C0012285']",30.0,Debit,28040.32,False,False
+77,29/04,"['IBG Debit', 'INV0011']",2460.0,Debit,25580.32,False,False
+78,29/04,"['IBG Debit', 'CS-0005387']",1650.0,Debit,23930.32,False,False
+79,29/04,"['IBG CR', 'PRIHATIN PKS1200 - B', 'FL200428150261', 'MBB PERKESO SIP-BAYARAN']",1200.0,Credit,25130.32,False,False
+80,29/04,"['Cheque Deposit CIMB', '007369']",567.0,Credit,25697.32,False,False
+81,29/04,"['Cheque Deposit ABB', '658304']",603.2,Credit,26300.52,False,False
+82,29/04,"['Cheque Deposit PBB', '013803']",2560.5,Credit,28861.02,False,False
+83,29/04,"['Cheque Deposit RHB', '050148']",6802.2,Credit,35663.22,False,False
+84,29/04,"['IBG Debit', 'CLAIMS']",909.9,Debit,34753.32,False,False
+85,29/04,"['IBG CR', 'SAP VENTURE SDN.BHD.', 'I-000656,000676', 'I-000695']",3004.2,Credit,37757.52,False,False
+86,29/04,"['DuitNow/Instant Trf', 'PETS VILLAGE', 'MBB PETS VILLAGE MARKETING']",372.0,Credit,38129.52,False,False
+87,30/04,"['DuitNow/Instant Trf', 'dog food', 'gan 57', 'PBB GAN HOCK CHUAN']",950.0,Credit,39079.52,False,False
+88,30/04,"['IBG CR', 'CS000132', 'CIMB CUTE Q MART']",87.45,Credit,39166.97,False,False
+89,,['Total Deposits'],,,593289.76,False,False
+90,,['Total Withdrawals'],,,604122.79,False,False

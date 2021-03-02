@@ -1,0 +1,23 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,05/01,"['Misc DR Loan', 'Trf. Wd. Loans', '3458047977-00000']",36187.0,Debit,255993.18,True,False
+1,06/01,"['IBG CR', 'KENWON KARTON SB', 'IEBK010694878862', 'PBB KENWON KARTON', 'SDN BHD']",190000.0,Credit,65993.18,True,False
+2,07/01,"['IBG DR', 'UIEI060101', 'IBG Bulk Payroll/Pmt']",188252.68,Debit,254245.86,True,False
+3,07/01,"['IBG Charge', 'UIEI060101', 'IBG Bulk Payroll/Pmt']",8.0,Debit,254253.86,True,False
+4,09/01,"['DR', '345BA136704', 'Trade Bill Transfer', '345BA136704 345']",1025.49,Debit,255279.35,True,False
+5,09/01,"['CR', '345BA136704', 'Trade Bill Transfer', '345BA136704 345']",117000.0,Credit,138279.35,True,False
+6,10/01,"['DR', '345BA135352', 'Trade Bill Transfer', '345BA135352 345']",151000.0,Debit,289279.35,True,False
+7,17/01,"['DR', '345BA136850', 'Trade Bill Transfer', '345BA136850 345']",3672.76,Debit,292952.11,True,False
+8,17/01,"['DR', '345BA136852', 'Trade Bill Transfer', '345BA136852 345']",3349.38,Debit,296301.49,True,False
+9,20/01,"['DR', '345BA136892', 'Trade Bill Transfer', '345BA136892 345']",2993.53,Debit,299295.02,True,False
+10,20/01,"['CR', '345BA136892', 'Trade Bill Transfer', '345BA136892 345']",411000.0,Credit,111704.98,False,False
+11,21/01,"['Fund Trf EB', 'KENWON KARTON SB', '165515M', 'KENWON']",200000.0,Debit,88295.02,True,False
+12,21/01,"['IBG Debit', 'UIEI210101', 'IBG BULK PAYROLL/PMT']",174148.83,Debit,262443.85,True,False
+13,21/01,"['IBG Charge', 'UIEI210101', 'IBG BULK PAYROLL/PMT']",7.9,Debit,262451.75,True,False
+14,21/01,"['IBG CR', 'GEB JAMAL', 'SALARY', 'INVALID ID']",1249.6,Credit,261202.15,True,False
+15,23/01,"['DuitNow/Instant Trf', 'KHENG HWA PAPER', 'PRODUCTS SDN BHD', 'ADVANCE', 'PBB KHENG HWA PAPER', 'PRODUCTS SDN B', 'PBB KHENG HWA PAPER', 'PRODUCTS SDN', 'BHD ADVANCE']",100000.0,Credit,161202.15,True,False
+16,23/01,"['IBG CR', 'KENWON KARTON SB', 'IEBK012387696874', 'PBB KENWON KARTON', 'SDN BHD']",40000.0,Credit,121202.15,True,False
+17,29/01,"['DR', '345BA136151', 'Trade Bill Transfer', '345BA136151 345']",150000.0,Debit,271202.15,True,False
+18,31/01,['OD Int Charge'],1507.13,Debit,272709.28,True,False
+19,31/01,['OD Commitment Fee Ch'],58.68,Debit,272767.96,True,False
+20,,['Deposits'],,,859249.6,False,False
+21,,['Withdrawals'],,,912211.38,False,False

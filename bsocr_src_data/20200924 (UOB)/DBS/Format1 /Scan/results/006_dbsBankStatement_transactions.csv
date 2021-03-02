@@ -1,0 +1,501 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,01/08,"['CHEQUE', '0000247']",2200.0,,38297.54,False,False
+1,02/08,"['CASH TRANSACTION', '0000253']",1430.0,Debit,36867.54,False,False
+2,02/08,"['CHEQUE', '0000242']",2800.0,Debit,34067.54,False,False
+3,02/08,"['CHEQUE', '0000243']",3800.0,Debit,30267.54,False,False
+4,05/08,"['aan CHEQUE DEPOSIT', '0000244']",214.0,Credit,30481.54,False,False
+5,05/08,"['CHEQUE', '0000246']",3200.0,Debit,24774.14,False,True
+6,05/08,"['CHEQUE', '0000255']",566.25,Debit,24207.89,False,False
+7,05/08,"['CHEQUE', '0000257']",3703.53,Debit,20504.36,False,False
+8,05/08,"['FAST PAYMENT', 'RENOVATION 1000075241', 'OTHER', 'NILANJAN RAY', 'SGD 4119.5']",4119.5,Credit,24623.86,False,False
+9,06/08,"['CASH TRANSACTION', '0000245']",960.0,Debit,23663.86,False,False
+10,06/08,"['CASH TRANSACTION', '0000265']",2610.76,Debit,21053.1,False,False
+11,06/08,"['CASH TRANSACTION', '0000266']",4638.7,Debit,16414.4,False,False
+12,06/08,"['CHEQUE', '0000267']",690.0,Debit,15724.4,False,False
+13,07/08,"['CHEQUE', '0000256']",1896.47,Debit,13827.93,False,False
+14,07/08,"['CHEQUE', '0000258']",600.0,Debit,13227.93,False,False
+15,07/08,"['CHEQUE', '0000260']",679.23,Debit,12548.7,False,False
+16,07/08,"['CHEQUE', '0000263']",3634.79,Debit,8913.91,False,False
+17,08/08,"['INTERBANK GIRO.', 'AMERICAN BUREAU OF SHIPPING', '78302', 'OTHER']",577.8,Credit,9491.71,False,False
+18,13/08,"['QUICK CHEQUE DEPOSIT', 'QcDM']",214.0,Credit,9705.71,False,False
+19,13/08,"['QUICK CHEQUE DEPOSIT', 'QCDM']",470.8,Credit,10176.51,False,False
+20,13/08,['auc CHEQUE DEPOSIT'],14231.0,Credit,24407.51,False,False
+21,,"['INTERBANK GIRO', 'ROYAL DANISH EMBASSY INV', '000880/881', 'INVOICE PAYMENT']",2150.7,Credit,26558.21,False,False
+22,15/08,"['CHEQUE', '0000224']",2348.86,Debit,24209.35,False,False
+23,16/08,"['INTERBANK GIRO', 'ABSG CONSULTING INC 5008045', 'OTHER']",4429.8,Credit,28639.15,False,False
+24,16/08,"['CHEQUE', '9000261']",223.72,Debit,28415.43,False,False
+25,19/08,"['INTERBANK GIRO', 'SIGNIFY SINGAPORE PTE. LTD.', '0619052751POB19R', 'SUPPLIER PAYMENT']",20383.5,Credit,48798.93,False,False
+26,19/08,"['INTERBANK GIRO', 'SIGNIFY SINGAPORE PTE. LTD.', '0619053227POB19R', 'SUPPLIER PAYMENT']",2375.4,Credit,51174.33,False,False
+27,19/08,"['INTERBANK GIRO', 'Ramky Solutions Pte. Ltd. GATLO243', 'GATLO243']",90.0,Debit,51084.33,False,False
+28,19/08,"['INTERBANK GIRO', 'Ramiy Solutions Pte. Ltd. GATLO254', 'GATLO251']",90.0,Debit,50994.33,False,False
+29,19/08,"['INTERBANK GIRO', 'Ramky Solutions Pte. Ltd. GATLO251', 'GATLO251']",90.0,Debit,50904.33,False,False
+30,19/08,"['INTERBANK GIRO', 'Ramky Solutions Pte. Ltd. GATLO251', 'GATLO251']",90.0,Debit,50814.33,False,False
+31,19/08,"['INTERBANK GIRO', 'Ramky Solutions Pte. Lid. GATLO244', 'GATLO244']",80.0,Debit,50734.33,False,False
+32,19/08,"['INTERBANK GIRO', 'Ramky Solutions Pte, Ltd, GATLO251', 'GATLO251']",90.0,Debit,50644.33,False,False
+33,19/08,"['CHEQUE', '0000254']",260.0,Debit,50384.33,False,False
+34,19/08,"['CHEQUE', '0000268']",60.0,Debit,50324.33,False,False
+35,20/08,['Sonn CHEQUE DEPOSIT'],374.5,Credit,50698.83,False,False
+36,20/08,['aut CHEQUE DEPOSIT'],900.0,Credit,51598.83,False,False
+37,20/08,"['CHEQUE', '0000259']",114.5,Debit,51484.33,False,False
+38,20/08,"['CHEQUE', '0000273']",2546.6,Debit,48937.73,False,False
+39,20/08,"['CHEQUE', '0000276']",642.0,Debit,48295.73,False,False
+40,21/08,"['CHEQUE', '0000272']",546.94,Debit,47748.79,False,False
+41,22/08,"['FAST PAYMENT', 'invoice 882 PIB1908222933038138', 'OTHER', 'LEE JUNHAO JONATHAN', 'SGD 3559.68']",3559.68,Credit,51308.47,False,False
+42,22/08,"['CHEQUE', '0000271']",113.25,Debit,51195.22,False,False
+43,23/08,"['CHEQUE', '0000264']",275.0,Debit,50920.22,False,False
+44,26/08,['oni CHEQUE DEPOSIT'],695.5,Credit,51615.72,False,False
+45,26/08,"['QUICK CHEQUE DEPOSIT', 'QcDM']",5089.46,Credit,56705.18,False,False
+46,26/08,"['INTERBANK GIRO', 'Mecomb Singapore Ltd 1600000203', 'OTHER']",4173.0,Credit,60878.18,False,False
+47,26/08,"['INTERBANK GIRO', ""FRESENIUS MEDICAL CARE S'PORE"", 'PL SG PYMT - AUG 19', 'SUPPLIER PAYMENT']",3466.8,Credit,64344.98,False,False
+48,27/08,"['INTERBANK GIRO', 'KIDNEY THERAPY CENTRE PTE LTD', 'KTC-PYMT-0819', 'SUPPLIER PAYMENT']",353.1,Credit,64698.08,False,False
+49,27/08,"['INTERBANK GIRO', 'ASIA RENAL CARE MT ELIZABETH', 'PTE ARC MT.E PAYMENT-0819', 'INVOICE PAYMENT']",481.5,Credit,65179.58,False,False
+50,28/08,"['INTERBANK GIRO', 'JTC CORPORATION', 'SGGC190827090124', '1950009283']",3613.39,Debit,61566.19,False,False
+51,29/08,"['CASH TRANSACTION', '0000274']",550.0,Debit,61016.19,False,False
+52,29/08,"['TRANSFER OF FUND', 'TRF TAN BOON KIAT (CHEN WENMIE)', 'I-BANK 539-10639-2 Joseph Tan']",5089.46,Credit,66105.65,False,False
+53,28/08,"['CASH TRANSACTION', '0000282']",5100.0,Debit,61005.65,False,False
+54,30/08,"['fe RAY MENT', '483', 'ponuesl 90830082857 16361908300828', 'OTHER', 'KOH YUAN YI DAVID', 'SGD 12865.77']",12865.77,Credit,73871.42,False,False
+55,30/08,"['INTERBANK GIRO', 'KSB SINGAPORE (ASIA PACIFIC) PTE', 'LT PD1 0826', 'ACCOUNT MANAGEMENT']",909.5,Credit,74780.92,False,False
+56,31/08,"['CASH TRANSACTION', '0000284']",2000.0,Debit,72780.92,False,False
+57,,['Total Debit Amount'],,,59383.99,False,False
+58,,['Total Credit Amount'],,,87317.37,False,False
+59,,[],73019.89,,,False,True
+60,,['Quick Cheque Deposit'],36770.1,,,False,False
+61,,['Quick Cheque Deposit'],813.2,,,False,False
+62,,['Cheque 0000158'],2800.0,,,False,False
+63,,['Cheque 0000204'],3800.0,,,False,False
+64,,['Cheque 0000210'],328.79,,,False,False
+65,,['Cheque 0000211'],500.0,,102174.4,False,False
+66,,"['Advice FAST Payment / Receipt', 'OCBC:551814619001:IDEAL', 'EBGPP90702820230']",30000.0,,,False,True
+67,,"['Advice Service Charge for FAST Payment', 'EBGPP90702820230']",0.5,,,False,False
+68,,['Cheque 0000193'],12040.71,,,False,False
+69,,['Cheque 0000194'],2587.5,,,False,False
+70,,['Cheque 0000207'],6009.55,,1556.14,False,False
+71,,['Cheque 0000185'],3568.54,,,False,True
+72,,['Cheque 0000187'],983.0,,,False,False
+73,,['Cheque 0000188'],411.92,,,False,False
+74,,['Cheque 0000205'],2700.0,,43912.68,False,False
+75,,['Cash 0000201'],960.0,,,False,True
+76,,['Cash 0000191'],3560.0,,,False,False
+77,,['Cheque 0000184'],303.35,,,False,False
+78,,['Cheque 0000209'],2250.0,,36839.33,False,False
+79,,['Cheque 0000178'],250.0,,,False,True
+80,,['Cheque 0000195'],500.0,,36089.33,False,False
+81,,['Cash 0000213'],1365.62,,,False,True
+82,,['Cash 0000219'],4794.0,,,False,False
+83,,['Cheque 0000203'],2000.0,,,False,False
+84,,['Cheque 0000206'],1000.0,,,False,False
+85,,['Cheque 0000214'],1094.32,,25835.39,False,False
+86,,"['GIRO Payments / Coltections via GIRO', 'TNT VEGETABLES IMPORTER & EXPORTER', 'SGG$ 190705133190', 'Business Expenses']",5489.1,Credit,31324.49,False,False
+87,,"['MCA.MTHEND FOFLES.D 160801TOSZ500.LOC (46551)', '73', 'CONTINUE ON THE REVERSE OR NEXT PAGE', '3']",31324.49,,,False,True
+88,,[],31324.49,,,False,False
+89,,"['Advice Remittance Transfer of Funds', '3', 'EBAGTS07 10250469', '4', '0016RFS646203', 'Value Date:10 Jul']",345.0,,30979.49,False,False
+90,,"['44 Jul', 'AMERICAN BUREAU OF SHIPPING', '78243', 'Other']",1958.1,Debit,1958.1,False,True
+91,,"['GIRO Payments / Collections via GIRO', 'LEARNINGVISION@WORK', 'Supplier Payment', 'toa']",327.25,,,False,True
+92,,"['GIRO Payments / Collections via GIRO', '@MC PTE LTD', 'Supplier Payment']",2193.5,,,False,False
+93,,['Cheque 0000183'],280.0,,,False,False
+94,,['Cheque 0000185'],2182.2,,,False,False
+95,,['Cheque 0000192'],1690.6,,31305.54,False,False
+96,,['Cheque 0000220'],5000.0,Debit,26305.54,False,False
+97,,['Quick Gheque Deposit'],467.38,Credit,26772.92,False,False
+98,,['Cheque 0600218'],218.59,Debit,26554.33,False,False
+99,,['Quick Cheque Deposit'],10750.0,,,False,True
+100,,['Cheque 0000215'],4136.68,,,False,False
+101,,['Cheque 0000217'],1120.96,,35046.69,False,False
+102,,['Quick Cheque Deposit'],695.5,,,False,True
+103,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte. Ltd.', 'GATLO243', 'GATLO243']",90.0,,,False,False
+104,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte. Ltd.', 'GATLO251', 'GATLO251']",90.0,,,False,False
+105,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pie. Ltd.', 'GATLO251', 'GATLO251']",90.0,,,False,False
+106,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte. Ltd.', 'GATLO251', 'GATLO251']",90.0,,,False,False
+107,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Ple. Lid.', 'GATLO251', 'GATLOZ51']",90.0,,,False,False
+108,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pie. Ltd.', 'GATLO244', 'GATIL0244']",80.0,,,False,False
+109,,"['AMCAMTHEND FDFILES.D190801705250010G {46564}', 'CONTINUE ON THE REVERSE OR NEXT PAGE']",36212.19,,,False,False
+110,,[],35212.19,,,False,False
+111,,['Cheque 9000196'],909.5,,,False,False
+112,,['Cheque 0000226'],3160.69,,,False,False
+113,,['Cheque 0000227'],220.0,,30922.0,False,False
+114,,['Returned Cheque 0000226'],3160.69,,,False,True
+115,,['Cheque 0000221'],1875.66,,32407.03,False,False
+116,,['Cash 0000232'],1770.13,,,False,True
+117,,['Cash 0000234'],3827.9,,,False,False
+118,,['Cash 0000228'],2000.0,,,False,False
+119,,['Quick Cheque Deposit'],32100.0,,,False,False
+120,,['Cheque 0000222'],7398.0,,,False,False
+121,,['Cheque 0000223'],89.88,,,False,False
+122,,['Cheque 0000233'],1190.27,,48530.85,False,False
+123,,['Cash 0000239'],5100.0,,,False,True
+124,,"['Debit Card Transaction', '00.30 % CASHBACK 24JUL', '4096-3620-1312-7536']",4.78,,,False,False
+125,,"['GIRO Payments / Collections via GIRO', 'Mecomb Singapore Lid', '1600000088', 'Other']",4333.5,,,False,False
+126,,['Cheque 0000251'],1016.5,,46752.63,False,False
+127,,['Quick Cheque Deposit'],481.5,,,False,True
+128,,['Quick Cheque Deposit'],267.5,,,False,False
+129,,"['GIRO Payments / Collections via GIRO', 'JTC CORPORATION', 'SGGC 190726203609', '1950009283']",3613.39,,,False,False
+130,,['Cheque 0000236'],243.38,,,False,False
+131,,['Cheque 0000237'],947.01,,,False,False
+132,,['Cheque 0000238'],3160.69,,,False,False
+133,,['Cheque 0000248'],6000.0,,33537.16,False,False
+134,,"['GIRO Payments / Collections via GIRO', 'FRESENIUS MEDICAL', ""CARE S'PORE PL"", '3', 'SG PYMT - JULY 19', '8', 'Supplier Payment', '3']",920.2,Credit,34457.36,False,False
+135,,['Advice Cheque Fee'],11.25,,,False,True
+136,,"['GIRO Payments / Collections via GIRO', 'KSB SINGAPORE (ASIA PACIFIC) PTE LT', '7', 'PD4 0726', 'Fe', 'Account Management']",765.05,,,False,False
+137,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PTE. LTD.', '0619048689POB19R', 'Supplier Payment']",12636.38,,,False,False
+138,,"['3', 'MCA MTHENO FOFILE3. O190801To82500L0C (46601)', '73', 'CONTINUE ON THE REVERSE OR NEXT PAGE']",47847.54,,,False,False
+139,,[],47847.54,,,False,False
+140,,['Cheque 0000252'],3000.0,,44847.54,False,False
+141,,[],141306.08,Credit,113133.73,False,True
+142,,"['Py', 'oMessades For You', 'cee ee', 'eae', 'For Personal account enquities, please call us at 1800 111 4111', 'For Business account enquiries, please call us at 1800 222 2200', 'Cheque fees of $$0.75 will apply for every cheque from 1 Sep 2019.', 'Please refer to https://go.dbs.com/2.JEmaWJ for more details.', '*Rebates apply for first 30 transactions every month, valid ti] 34 Jan 2020', 'Update Your Personal Particulars', 'lf there is any change to your personal particulars or contact details, please', 'update us via Internet Banking or visit any DBS/POSB branch.', ""To improve our user experience, we're conducting a customer satisfaction survey."", 'As our valued customer, you may be invited to participate.', 'Ipsos Pte Lid and Qualtrics have been appointed to conduct this survey.', 'Rest assured your responses will be treated with absolute confidentiality.', ""MONTH'S STATEMENT OF ACCOUNT"", 'OVERDRAFT INTEREST OENOTES: INTEREST CHARGE ON.', '1', 'MCA. MYHEND FOPILES.0180801T082500.L06 (46628)']",44647.54,,,False,True
+143,,[],87810.52,,,False,False
+144,,['Quick Cheque Deposit'],7200.0,,,False,False
+145,,['Cash 0000441'],980.0,,,False,False
+146,,['Returned Cheque 0000001'],480.0,,,False,False
+147,,"['Advice Remittance Transfer of Funds', 'OCH design drawi', '0016RF5123529', 'Value Dale:03 Jun']",800.0,,,False,False
+148,,"['GIRO Payments / Collections via GIRO', 'ADAM KHOO LEARNING TECHNOLOGIES', 'PV1905.00125', 'Businoss Expenses']",160.5,,,False,False
+149,,['Cheque 0000137'],227.3,,,False,False
+150,,['Cheque 0000154'],138.0,,,False,False
+151,,['Cheque 0000155'],197.91,,92367.81,False,False
+152,,['Cash 0000148'],2000.0,,,False,True
+153,,['Cheque 0000138'],141.96,,,False,False
+154,,['Cheque 0000156'],1070.0,,89155.85,False,False
+155,,['Quick Cheque Deposit'],214.0,,,False,True
+156,,['Quick Cheque Deposit'],2107.9,,,False,False
+157,,['Quick Cheque Deposit'],214.0,,,False,False
+158,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PTE. LTD.', '0618034291POB19R', 'Supptiar Payment']",2953.2,,,False,False
+159,,['Cheque 0000112'],400.0,,,False,False
+160,,['Cheque 0000159'],1849.76,,92395.19,False,False
+161,,['Cash 0000172'],6000.0,Debit,86395.19,False,False
+162,,['Cash 0000460'],4948.54,,,False,True
+163,,['Cash 0000157'],4250.1,,,False,False
+164,,['Cheque 0000161'],1290.4,,78906.18,False,False
+165,,"['Advice Funds Transfer', 'BANK', '8', '114-05862-9', 'EileonCastic', '8']",21400.0,,,False,True
+166,,['Cheque 0000162'],2500.0,,,False,False
+167,,['Cheque 0000166'],5936.0,,91871.18,False,False
+168,,"['MCA MIHEND FOFILE3 0 100701T073240.L06 (41230)', '8', 'CONTINUE ON THE REVERSE OR NEXT PAGE', 'Z', 'I a']",91871.18,,,False,True
+169,,[],94871.18,,,False,False
+170,,['Cheque 0000169'],154.59,,,False,False
+171,,['Gheque 0000174'],4618.0,,,False,False
+172,,['Cheque 9000173'],6009.55,,84089.04,False,False
+173,,['Cheque 0000163'],4016.5,,,False,True
+174,,['Cheque 0000170'],147.7,,,False,False
+175,,['Cheque 0000175'],2867.5,,80387.34,False,False
+176,,"['GIRO Payments / Collections via GIRO', 'LEARNINGVISION@WORK', 'Supplier Payment']",5382.1,,,False,True
+177,,"['GIRO Payments f Collections via GIRO', 'BMC PTE LTD', '7', 'Supplier Payment']",449.4,,,False,False
+178,,['Cheque 0000174'],30.0,,,False,False
+179,,['Cheque 0000176'],4189.84,,84999.0,False,False
+180,,['Quick Cheque Deposit'],2099.0,,,False,True
+181,,['Cheque 9000150'],120.0,,86976.0,False,False
+182,,"['GIRO Payments { Collections via GIRO', 'ABSG CONSULTING INC', '5007977', 'Other']",1926.0,,,False,True
+183,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Ple, Lid.', 'GATLO2A3', 'GATLOZ43']",90.0,,,False,False
+184,,"['GIRO Payments', 'ae Solutions Pte, Lid,', 'SATLO251', 'GATLO264', 'QO']",,,90.0,False,False
+185,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pie. Lid.', 'GATLO244', 'GATLOZA4']",80.0,,,False,True
+186,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte. Lid.', 'GATLO254', 'GATLO254']",90.0,,,False,False
+187,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pis. Lid.', 'GATLO251', 'GATLO251']",90.0,,,False,False
+188,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutlons Pte. Lid.', 'GATLO251', 'GATLOZ51']",90.0,,,False,False
+189,,['Cheque 0000165'],625.0,,,False,False
+190,,['Cheque 0000177'],475.0,,87274.0,False,False
+191,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PTE, LTD.', '0819038128POB19R', 'Suppliar Paymont']",2263.05,,,False,True
+192,,"['MCAMTHENDFOFRESD1SO7OITOTSZAOLOC (64257)', '82', 'GONTINUE ON THE REVERSE OR NEXT PAGE']",89537.05,,,False,False
+193,,[],89537.05,,,False,False
+194,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PTE. LTD.', '0619038 129POB19R', 'Supplier Paymont']",4099.74,,,False,False
+195,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PTE. LTO.', '0819038 130POB19R', 'Supplier Paymont']",64.2,,,False,False
+196,,"['GIRO Payments / Collections via GIRO', ""FRESENIUS MEDICAL CARE S'PORE PL"", 'SG PYMT - JUNE 19', 'Supplier Paymont']",3777.1,,97478.06,False,False
+197,,['Cash 0000179'],2000.0,,,False,True
+198,,['Quick Cheque Deposit'],192.6,,,False,False
+199,,['Quick Cheque Deposit'],214.0,,,False,False
+200,,['Quick Cheque Deposit'],2798.8,,,False,False
+201,,['Quick Cheque Deposit'],2448.16,,,False,False
+202,,"['GIRO Payments / Coliections via GIRO', 'AMERICAN BUREAU OF SHIPPING', '78211', 'Other']",438.7,,101570.32,False,False
+203,,"['GIRO Payments / Goliections via GIRO', 'Mecomb Singapore Lid', '1600001637', 'Other']",4654.5,,,False,True
+204,,['Cheque 0000184'],2036.06,,,False,False
+205,,['Cheque 0000182'],2167.51,,102021.25,False,False
+206,,['Quick Cheque Deposit'],214.0,,,False,True
+207,,['Cash 0000197'],6100.0,,,False,False
+208,,"['GIRO Payments / Collections via GIRO', 'LEARNINGVISION@WORK', 'Supplier Payment']",481.5,,96616.75,False,False
+209,,['Cash 0000198'],5600.0,,,False,True
+210,,"['GIRO Payments / Collections via GIRO', 'ASIA RENAL CARE MT ELIZABETH PTE', 'ARG MT.E PAYMENT-0519', 'Supplior Payment']",192.6,,,False,False
+211,,"['GIRO Payments / Collections via GIRO', 'JTC CORPORATION', '2', 'SGGC 190627 192080', '3', '1950009283', '2']",3613.39,,,False,False
+212,,['Cheque 0000180'],1844.26,,,False,False
+213,,['Cheque 0000189'],436.56,,,False,False
+214,,['Cheque 0000190'],1190.0,,,False,False
+215,,['Cheque 0000199'],2200.0,,,False,False
+216,,['Cheque 6000200'],5700.0,,,False,False
+217,,"['MCA MTHEND FDFILES D 1007017073240 00 (41279)', '$2', 'GONTINUE ON THE REVERSE OR NEXT PAGE']",78225.44,,,False,False
+218,,[],76225.14,,,False,False
+219,,['Cheque 0000202'],3200.0,,73025.14,False,False
+220,,['Advice Cheque Fee'],5.25,Debit,73019.89,False,False
+221,,[],73019.89,,,False,True
+222,,[],80735.65,,65945.02,False,False
+223,,"['Balance Carried Forward', 'For Personal account enquiries, please call us at 1800 111 1111', 'For Business account enquiries, please call us at 4800 222 2200', 'Update Your Personal Particulars', 'If there is any change to your personal particulars or contact details, please', 'update us via Internet Banking or visit any DBS/POSB branch.', ""To improve our user experience, we're conducting a customer satisfaction survey."", 'As our valued customer, you may be invited to participate.', 'Ipsos Pte Ltd and Qualtrics have been appointed to conduct this survey.', '4', 'Rest assured your responses will be treated with absolute confidentiality.', 'QC)', ""MONTH'S STATEMENT OF ACCOUNT."", 'OVGERORAST INTEREST DENOTES INTEREST CHARGE ON:', 'FOR CORPORATE ACCOUNT?', 'MCA MTHENDFDFLES.D19070 1T073240.L00 (49302)', 'Once']",73019.89,,,False,True
+224,,['Balance Brought Forward'],141584.73,,,False,False
+225,,['Cash 0000106'],4800.0,,,False,False
+226,,"['GIRO Payments / Collections via GIRO', 'TASTER FOOD PTE LTD', 'SGGP 190426064202', 'Other']",5457.0,,,False,False
+227,,['Cheque 0000103'],2200.0,,,False,False
+228,,['Cheque 0300090'],50.0,,,False,False
+229,,['Cheque 0300107'],430.0,,,False,False
+230,,['Cheque 0300149'],5136.0,,134325.73,False,False
+231,,['Cheque 0000109'],3000.0,Debit,131325.73,False,False
+232,,['Cash 0000102'],960.0,,,False,True
+233,,"['Advice Funds Transfer', '-BANK', '002-78750-4 Ronald']",4000.0,,,False,False
+234,,"['Advice FAST Payment / Receipt', 'Deposit GST CG483', 'X61897 190506 1644158359 190506184416']",1400.0,,,False,False
+235,,['Cheque 0000110'],4000.14,,,False,False
+236,,['Cheque 0300095'],1579.05,,130186.54,False,False
+237,,['Cheque 0000116'],3800.0,Debit,126386.54,False,False
+238,,['Cheque 0000115'],413.64,,,False,True
+239,,['Cheque 0300139'],647.35,,125625.55,False,False
+240,,"['GIRO Payments / Collections via GIRO', 'FRASERS PROPERTY CUPPAGE PTE. LTD.', '©280001180400919', 'Other']",2760.6,,,False,True
+241,,['Cheque 0300130'],4800.0,,426586.15,False,False
+242,,['Quick Cheque Deposit'],214.0,,,False,True
+243,,['Quick Cheque Deposit'],428.0,,427228.15,False,False
+244,,"['Advice Remittance Transfer of Funds', '00 16RF4832995', 'LEARNING VISION @ WO', 'Value Date:i3 May']",4326.8,,,False,True
+245,,['Cash 0000120'],3505.3,,,False,False
+246,,['Cash 0000127'],3572.35,,,False,False
+247,,"['NCA MIMEND FOFWES DIS0EOTT 105141 LOG (40042)', '70', 'CONTINUE ON THE REVERSE OR NEXT PAGE']",421477.3,,,False,False
+248,,[],121477.3,,,False,False
+249,,['Cash 0000118'],300.0,,,False,False
+250,,['Quick Cheque Deposit'],4406.0,,,False,False
+251,,"['GIRO Payments / Collections via GIRO', 'AMERICAN BUREAU OF SHIPPING', '78438', 'Other']",856.0,,,False,False
+252,,['Cheque 0000101'],40.0,,,False,False
+253,,['Cheque 0000114'],2000.0,,,False,False
+254,,['Cheque 0300141'],120.0,,423779.3,False,False
+255,,['Quick Cheque Deposit'],9148.5,,,False,True
+256,,['Cheque 0000128'],256.01,,,False,False
+257,,['Cheque 0300143'],2093.4,,130578.39,False,False
+258,,"['Advice FAST Payment / Recelpt', 'P2 CG483', '261898 1905151350009 1651905 15135000']",40000.0,,,False,True
+259,,"['Advice FAST Payment / Receipt', 'P2 CG483', '2618981905 151357 409404 1905 16135740']",41400.0,,,False,False
+260,,['Cheque 0000125'],42800.0,,109178.39,False,False
+261,,['Cash 0000117'],2700.0,Debit,106478.39,False,False
+262,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte. Lid.', 'GATLOZ43', 'GATLOZ43']",90.0,,,False,True
+263,,"['GIRO Payments / Collections via GIRO', 'Ramky Solatione Pte. Lid.', 'AS', 'GATLO2A4', 'QO']",80.0,,,False,False
+264,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte, Ltd.', 'GATLO261', 'GATLO251']",90.0,,,False,False
+265,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte. Lid,', 'GATLO251', 'GATLO254']",90.0,,,False,False
+266,,['Cheque 0000113'],191.19,,105937.2,False,False
+267,,['Quick Cheque Deposit'],214.0,,,False,True
+268,,['Quick Cheque Deposit'],283.55,,,False,False
+269,,['Cheque 0000122'],380.0,,106084.75,False,False
+270,,"['GIRO Payments / Collections via GIRO', 'AMERICAN BUREAU OF SHIPPING', '78180', 'Olhor']",577.8,Credit,106632.55,False,True
+271,,['Cheque 0000127'],173.34,,,False,True
+272,,['Cheque 0000136'],580.0,,105879.24,False,False
+273,,"['KCALTHENDFDFILES D19000{T 1OS141.L0C 440388)', '10', 'CONTINUE ON THE REVERSE OR NEXT PAGE', 'ES']",105879.24,,,False,True
+274,,[],105879.24,,,False,False
+275,,['Cash 0000129'],4722.4,,,False,False
+276,,['Cash 0000134'],1841.92,,,False,False
+277,,"['GIRO Payments / Collections via GIRO', 'FRASERS PROPERTY CUPPAGE PTE. LTD.', '0260001207400919', 'Other']",2461.0,,,False,False
+278,,['Cheque 0000134'],268.1,,101837.82,False,False
+279,,"['Advice FAST Payment / Receipt', 'CGA83 Variation1+2', '261898190527 163 1479207 190527 163147']",9148.5,,,False,True
+280,,"['GIRO Payments / Collections via GIRO', ""FRESENIUS MEDICAL CARE S'PORE PL."", ""SG PYMT - MAY'(9"", 'Supplier Paymant']",3488.2,,,False,False
+281,,['Cheque 0000126'],570.75,,,False,False
+282,,['Cheque 0000130'],2172.33,,,False,False
+283,,['Cheque 0000139'],1200.0,,,False,False
+284,,['Cheque 0000140'],443.46,,110087.98,False,False
+285,,['Cash 0000144'],5100.0,,,False,True
+286,,['Cash 0300147'],2350.0,,,False,False
+287,,"['GIRO Payments / Collections via GIRO', 'Mecomb Singapore Lid', '1600001505', 'Other']",3531.0,,,False,False
+288,,"['GIRO Payments / Collections via GIRO', 'JTC CORPORATION', 'SGGC 190527013917', '1950009283']",3613.39,,,False,False
+289,,['Cheque 0000124'],8244.35,,,False,False
+290,,['Cheque 0000135'],103.84,,,False,False
+291,,['Cheque 0000142'],3200.0,,,False,False
+292,,['Cheque 0000147'],4500.0,,86507.4,False,False
+293,,"['Advice FAST Payment / Receipt', 'OCBC:551814619004:IDEAL', 'self bank transfor']",20000.0,,,False,True
+294,,"['Advice Service Charge for FAST Payment', 'EBGPP90529821748']",0.5,,,False,False
+295,,"['GIRO Payments / Collections via GIRO', 'LEARNINGVISION@WORK', '3', 'Supplier Payment']",1214.45,,,False,False
+296,,"['GIRO Payments / Collections via GIRO', 'BMC PTE LTD', 'Supplier Payment', 'S$']",460.1,,,False,False
+297,,['Cheque 0000132'],850.0,,,False,False
+298,,['Cheque 0000143'],2200.0,,,False,False
+299,,"['MCA MTRENO FOFILES D1S0004T105161L0C (40392)', '79', 'CONTINUE ON THE REVERSE OR NEXT PAGE']",65131.45,,,False,False
+300,,[],65131.45,,,False,False
+301,,['Cheque 0000151'],4962.66,,60168.79,False,False
+302,,['Quick Cheque Deposit'],4494.0,,,False,True
+303,,['Quick Gheque Deposit'],1363.18,,,False,False
+304,,['Quick Cheque Deposit'],60.0,,,False,False
+305,,['Cash 0000145'],4600.0,,,False,False
+306,,['Cash 0000153'],2700.0,,,False,False
+307,,['Cheque 0000123'],300.0,,8485.97,False,False
+308,,['Quick Cheque Deposit'],749.0,,,False,True
+309,,['Quick Cheque Deposit'],480.0,,,False,False
+310,,['Advice Cheque Fee'],13.6,,,False,False
+311,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PTE. LTD.', '0619033048POB19R', 'Supplier Payment']",27616.7,,,False,False
+312,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PTE. LTO.', '0649033049POB19R', 'Suppier Payment']",4392.35,,,False,False
+313,,['Cheque 0000133'],490.0,,,False,False
+314,,['Cheque 0000152'],3800.0,,87610.52,False,False
+315,,[],162704.94,Credit,108830.73,False,True
+316,,"['or Personal account enquiries, please call us at 1800 111 1117', 'For Business account enquiries, please call us at 1800 222 2200', 'DBS IDEAL (For Non-individuals)', 'Effective 01 Jut 2019, no paper advices will be sent for remittances.', 'Please accass DBS {DEAL to view e-advices.', 'Terms and Conditions Governing Accounts (For Non-Individuals}', 'Updates to Terms and Conditions Governing Accounts (For Non-Individuals)', 'will be made on 01 and 30 June 2019. More info at hitps:/igo.dbs.com/2GBnGYg', 'Update Your Personal Particulars', 'if there is any change to your personal particulars or contact defalls, please', 'update us via internet Banking or visit any DBS/POSB branch.', ""To improve our user experience, we're conducting a customer satisfaction survey."", 'As our valued customer, you may be invited to participate.', 'Ipsos Pte Ltd and Qualtrics have been appointed to conduct this survey.', 'Rest assured your responses will be treated with absolute confidentlalily.']",87810.52,,,False,True
+317,,['2'],141.4,,,False,False
+318,,[],164769.6,,,False,False
+319,,"['Debit Card Transaction', 'PARADISE DYNASTY - CHA SI NG 29MAR', '4096-3620-13 12-7536', 'O01 Apr', 'Cash 0300113', '960 00']",156.19,,164613.5,False,False
+320,,['Cash 0300117'],4000.0,,,False,True
+321,,['Cash 0300116'],4600.0,,,False,False
+322,,['Cheque 0300123'],296.13,,154757.37,False,False
+323,,['Cheque 0300112'],7851.66,Debit,146905.71,False,False
+324,,['Cheque 0300122'],15515.0,Debit,131390.71,False,False
+325,,['Cheque 0300103'],3017.51,,,False,True
+326,,['Cheque 0300120'],6200.0,,122173.2,False,False
+327,,['Cheque 0300105'],885.0,Debit,121268.2,False,True
+328,,['Cheque 0300104'],3330.2,Debit,117958.0,False,True
+329,,"['Debit Card Transaction', 'SIN CHEW CHIN CULT PTD SI NG O8APR', '4096-3620-1312-7536']",4198.0,,,False,True
+330,,"['Advice FAST Payment / Receipt', 'OCBC:5518148 19001:IDEAL', 'EBGPP904 10358044']",52737.13,,,False,False
+331,,"['Advice Service Charge for FAST Payment', 'EBGPPS0410358044']",0.5,,,False,False
+332,,"['GIRO Payments / Collections via GIRO', 'NG CONTRACTOR PTE. LTD.', 'Inv 000604', 'Invoice Payment']",1944.06,,65966.43,False,False
+333,,['Cash 0300135'],3897.11,,,False,True
+334,,['Cash 0300126'],7451.74,,,False,False
+335,,['Cheque 0300128'],558.32,,54059.26,False,False
+336,,['Quick Cheque Deposit'],695.5,,,False,True
+337,,['Quick Cheque Deposit'],4198.4,,,False,False
+338,,['Quick Cheque Deposit'],1958.1,,,False,False
+339,,['Cheque 0300125'],15.0,,87396.26,False,False
+340,,"['Advice Funds Transfer', '1-BANK', '2', '421-04107-5 ChiaChang Yi']",5938.5,Debit,63334.76,False,True
+341,,"['2', 'MGA MIHEND FOFILE3 D1SDSOTT 1UOY1SLOC {37342}', '$2', 'CONTINUE ON THE REVERSE OR NEXT PAGE', '3']",63334.76,,,False,True
+342,,[],63334.76,,,False,False
+343,,"['Advice FAST Payment / Receipt', 'Other', '2618981904 16133917 4138190415138918']",9416.0,,,False,False
+344,,['Cheque 0300133'],4335.6,,74415.16,False,False
+345,,['Cash 0300136'],4300.0,,,False,True
+346,,['Cheque 0300142'],477.0,,69938.16,False,False
+347,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pie. Lid.', 'GATLO243', 'GATLOZAS']",90.0,,,False,True
+348,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte, Ltd.', 'GATLOZA4', 'GATLOZ44']",80.0,,,False,False
+349,,['Cheque 0300127'],163.48,,,False,False
+350,,['Cheque 0300134'],1413.13,,68191.55,False,False
+351,,"['Debit Card Transaction', 'DFS VENTURE S P/L - TE SING 18AFR', '4096-3820-1312-7536']",398.56,Debit,67792.99,False,False
+352,,['Cheque 0300129'],417.3,,,False,True
+353,,['Cheque 0300144'],1353.33,,66022.38,False,False
+354,,['Cash 0300146'],7126.1,,,False,True
+355,,['Cash 0300145'],2522.62,,,False,False
+356,,"['GIRO Payments / Collections via GIRO', 'AMERICAN BUREAU OF SHIPPING', '78102', 'Olher']",2289.8,,,False,False
+357,,"['GIRO Payments / Collections via GIRO', ""FRESENIUS MEDIGAL CARE S'PORE PL"", 'QO', 'SG PYMT - APR1S', 'Supplior Payment']",1619.4,,,False,False
+358,,['Cheque 0300132'],7383.0,,,False,False
+359,,['Cheque 0300137'],1999.62,,60801.22,False,False
+360,,['Quick Cheque Deposit'],21400.0,,,False,True
+361,,"['GIRO Payments / Colfections via GIRO', 'Macomb Singapore Lid', '4600001334', 'Other']",7602.7,,79803.92,False,False
+362,,['Returned Cheque 0064094'],21400.0,,,False,True
+363,,['Cheque 0300138'],1273.3,,87130.62,False,False
+364,,"['Advice Remittance Transfer of Funds', '0016RF4596439', 'LEARNING VISION @ WO', 'Value Dale:26 Apr']",3188.6,,,False,True
+365,,"['Advice FAST Payment / Receipt', 'Deposit DKYY', '26189849042813 12237605 190426131223']",40000.0,,,False,False
+366,,"['MCAMTHERO.FOFRESD190501T 100775L0G (37368)', '5', 'CONTINUE ON THE REVERSE OR NEXT PAGE']",70319.22,,,False,False
+367,,"['CSOSA ESSE ee', 'Date', 'Deseriptin 000', 'eS ee e ceinafaWar 27 Bapeais’ O°', 'Balance?', 'CURRENCY SINGAPORE DOLLAR']",9.3,,,False,False
+368,,[],76319.22,,,False,False
+369,,"['Debit Card Transaction', '00.30 % CASHBACK 24APR', '40968-3620-13 12-7536']",1.53,,,False,False
+370,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PT', '0619024788POB19R', 'Supplier Paymant']",1214.34,,,False,False
+371,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Plo. Lid,', 'GATLOZ51', 'GATLO251']",90.0,,,False,False
+372,,['Cheque 0300131'],50.0,,70895.09,False,False
+373,,"['Advice FAST Payment / Receipt', 'DKYY CG deposit', '61898 1904291217266000190429121726']",10000.0,,,False,True
+374,,"['Advice FAST Payment / Receipt', '4 payment', '$G3P 190429767 138']",1423.1,,,False,False
+375,,['Quick Cheque Deposit'],10900.0,,,False,False
+376,,['Quick Cheque Deposit'],66963.28,,,False,False
+377,,"['GIRO Payments / Collections via GIRO', 'SIGNIFY SINGAPORE PT', '0619025222P0B19R', 'Supplier Payment']",7537.72,,,False,False
+378,,"['GIRO Payments / Collections via GIRO', 'STG CORPORATION', 'SGGC19042615 1818', '1950009283']",2680.91,,,False,False
+379,,['Cheque 0300118'],2689.0,,,False,False
+380,,['Cheque 0300140'],5550.0,,,False,False
+381,,['Cheque 0300148'],3006.14,,153593.17,False,False
+382,,['Cash 0000105'],4600.0,,,False,True
+383,,['Quick Cheque Deposit'],214.0,,,False,False
+384,,['Advice Cheque Fee'],3.0,,,False,False
+385,,['Cheque 0000104'],3200.0,,,False,False
+386,,['Cheque 0000107'],4000.0,,,False,False
+387,,['Cheque 0300150'],419.44,,141584.73,False,False
+388,,[],188589.99,Credit,165405.03,False,True
+389,,"['pMesongeR POt: You hoo gnu se shit oe sat', 'eh Beebe Gat 18', 'For Personal account enquiries, please call us at 1800 111 1114', 'For Business account enquiries, please call us at 1800 222 2200', 'MCA MTHEND FOFILE3 01905017 100715 LOC (37391)', 'CONTINUE ON THE REVERSE OR NEXT PAGE']",141584.73,,,False,True
+390,,['$2'],15.1,,,False,False
+391,,[],207251.59,,,False,False
+392,,['Cash 0300056'],120.0,,,False,False
+393,,['Cash 0300057'],2116.0,,,False,False
+394,,['Cash 0300060'],4600.0,,200415.59,False,False
+395,,['Cash 0300059'],6615.91,,,False,True
+396,,['Cash 0300061'],4600.0,,,False,False
+397,,['Cash 0300058'],10285.13,,,False,False
+398,,['Quick Cheque Deposit'],401.25,,,False,False
+399,,['Cheque 0300062'],4600.0,,174735.8,False,False
+400,,['Cash 0300064'],388.0,,,False,True
+401,,['Cheque 0300053'],800.0,,173547.8,False,False
+402,,['Cheque 0300052'],3500.0,Debit,170047.8,False,False
+403,,['Cheque 0300067'],428.0,,,False,True
+404,,['Cheque 0300068'],3007.77,,166612.03,False,False
+405,,['Cash 0300072'],3778.39,Debit,162833.64,False,False
+406,,['Cheque 0300083'],465.93,Debit,162367.71,False,False
+407,,['Quick Cheque Deposit'],481.5,,,False,True
+408,,['Quick Cheque Deposit'],143497.7,,,False,False
+409,,['Cash 0300080'],200.0,,,False,False
+410,,['Cash 0300082'],1350.64,,,False,False
+411,,['Cash 0300087'],4372.54,,,False,False
+412,,['Cheque 0300055'],8425.35,,,False,False
+413,,['Cheque 0300069'],259.79,,,False,False
+414,,['Cheque 0300089'],196.0,,293.54,False,False
+415,,['Cheque 0300073'],6995.92,,,False,True
+416,,['Cheque 0300081'],2588.0,,,False,False
+417,,['Cheque 0300085'],8430.0,,,False,False
+418,,['Cheque 0300088'],6762.4,,268786.3,False,False
+419,,['Cheque 0000091'],1888.0,,,False,True
+420,,['Cheque 0000096'],2190.83,,,False,False
+421,,['Cheque 0300065'],120.0,,,False,False
+422,,"['5', 'MCA MTHEND FOFILES D190«0;T081028 LOG (34003)', '103', 'CONTINUE ON THE REVERSE OR NEXT PAGE', '8']",264587.47,,,False,False
+423,,[],284507.47,,,False,False
+424,,['15 Mar'],449.4,,264138.07,False,False
+425,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pto, Lid.', 'GATLO243', 'GATLOZAS']",90.0,,,False,True
+426,,"['GIRO. Payments / Collections via GIRO', 'Ramky Solutions Pte, Ud.', 'GATLOZA4', 'GATLO244']",80.0,,,False,False
+427,,['Cheque 0300077'],117.7,,263850.37,False,False
+428,,['Cheque 0300078'],423.53,,,False,True
+429,,['Cheque 0300086'],144.0,,,False,False
+430,,['Cheque 0300094'],1716.83,,261886.01,False,False
+431,,['Cheque 0300079'],802.5,,,False,True
+432,,['Cheque 0300084'],28519.78,,,False,False
+433,,['Cheque 0300091'],4301.12,,,False,False
+434,,['Cheque 0300098'],1486.9,,229778.74,False,False
+435,,['Cash 0300099'],5838.55,,,False,True
+436,,['Cheque 0300071'],7800.0,,,False,False
+437,,['Cheque 0300074'],963.0,,215175.16,False,False
+438,,['Cash 0300100'],7887.47,Debit,207287.69,False,False
+439,,['Quick Cheque Deposit'],963.0,,,False,True
+440,,"['GIRO Payments / Collections via GIRO', 'Mecomb Singapore Lid', '1800001183', 'Other']",35.0,,,False,False
+441,,['Cheque 0300075'],3905.5,,,False,False
+442,,['Cheque 0300097'],708.77,,,False,False
+443,,['Cheque 0300101'],533.71,,,False,False
+444,,['Cheque 0300109'],3983.1,,,False,False
+445,,['Cheque 0300110'],3400.0,,,False,False
+446,,['Cheque 0300114'],445.35,,168409.26,False,False
+447,,"['GIRO Payments / Collections via GIRO', ""FRESENIUS MEDICAL CARE S'PORE PL"", '$G PYMT - MAR19', 'Suppiier Payment']",8521.2,,,False,True
+448,,['26 Mar'],4367.54,,172862.82,False,False
+449,,['Cheque 0300108'],192.95,Debit,172.87,False,True
+450,,['Cash 0300115'],6100.06,Credit,166270.87,False,True
+451,,['Cash 0300124'],40000.0,,,False,True
+452,,['Quick Gheque Deposit'],414770.0,,,False,False
+453,,"['MCAMIHEND.FOFRLES.OUUT401TOSI9Z0L0C (35028)', '403', 'CONTINUE ON THE REVERSE OR NEXT PAGE']",168040.87,,,False,False
+454,,"['Aesount Ne,2023-908378.0']",10.34,,,False,False
+455,,"['Deseription <0', 'CURRENCY SINGAPORE DOLLAR']",28.28,,,False,False
+456,,[],168040.87,,,False,False
+457,,['Quick Gheque Deposit'],802.5,,,False,False
+458,,['Quick Cheque Deposit'],321.0,,,False,False
+459,,['Cheque 0300106'],499.59,,,False,False
+460,,['Cheque 0300144'],3200.0,,,False,False
+461,,['Cheque 0300119'],300.0,,,False,False
+462,,['23 Mar'],376.99,,164787.69,False,False
+463,,['Advice Cheque Fee'],18.0,Debit,164769.69,False,False
+464,,[],164769.69,,,False,True
+465,,[],206775.05,,164293.15,False,False
+466,,"['Messages For Yeu', 'ea,', 'afin ei tena nen', 'a! Slang', 'ape', 'For Personal account enquiries, please call us at 1800 111 1111', 'For Business account enquiries, please call us ai 1800 222 2200', 'Update of Terms and Conditions Governing Accounts (Applicable to Individuals)', 'We will be updating selected clauses in the Terms and Conditions Governing', 'Accounts. The revised version takes effect from 41 May 2019.', 'Please refer to dbs.com.sg/personal/deposits for more details.', 'Update Your Personal Particulars', 'lf there is any change to your persona! particulars or contact details, please', '7', 'update us via Internet Banking or visit any DBS/POSB branch.', ""To improve our user experience, we're conducting a customer satisfaction Survey,"", 'As our valued customer, you may be invited to participate.', 'lpsos Ple Lid and Qualtrics have been appointed to conduct this survey.', 'Rest assured your responses will be treated with absolute confidentiality.', '8', 'Ee', ""MONTH'S STATEMENT OF ACCOUNT"", 'Ey', 'OVERDRAFT INTEREST DEMOTES INTEREST CHARGE OR', '3', 'FOR CORPORATE ACCOUNT', '2', '7', '3', 'MGA MIHEND FOFRLES 0190401T0981929 LOG (35055)', '103', '8']",164769.69,,,False,True
+467,,[],93082.98,,,False,False
+468,,['Cash 0000094'],4600.0,,,False,False
+469,,['Cheque 0000088'],3600.0,,,False,False
+470,,['Cheque 0000092'],2500.59,,82382.39,False,False
+471,,['Returned Cheque 0000092'],2500.59,,,False,True
+472,,['Cheque 0000076'],428.0,,,False,False
+473,,['Cheque 0000087'],28519.78,,55935.2,False,False
+474,,['Cheque 0000077'],219.36,,,False,True
+475,,['Cheque 6000078'],870.0,,54845.84,False,False
+476,,[],49.0,,,False,True
+477,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte. Lid', 'GATLO243', 'GATLO243']",90.0,,,False,False
+478,,"['GIRO Payments / Collections via GIRO', 'Ramky Solutions Pte. Ltd.', 'GATLO244', 'GATLO244']",80.0,,,False,False
+479,,['Cheque 0000097'],2500.59,,52924.25,False,False
+480,,['Cheque 0000075'],467.7,Debit,52456.55,False,False
+481,,['Cheque 0000089'],629.16,,,False,True
+482,,['Cheque 0000093'],11186.21,,40641.18,False,False
+483,,"['GIRO Payments / Collections via GIRO', 'FRESENIUS MEDICAL', 'CARE SPORE PL 4/2. yy', 'S29R', 'dboye', '8G PYMT - FEB(9', '4, 51 S278 474', 'Supplier Payment']",,,42395.98,False,True
+484,,"['GIRO Payments / Collections via GIRO 4:8 2, SOF sob, Seg', 'Mecomb Singapore Ltd', '3', '1600001068', '8', 'Other', '8']",1872.5,,,False,True
+485,,['Cheque 0000095'],4825.7,,39442.78,False,False
+486,,['Cash 0000098'],9620.33,,,False,True
+487,,['Cheque 0000099'],696.0,,29126.45,False,False
+488,,"['Quick Cheque Deposit ¢ 2, 3']",100000.0,,,False,True
+489,,['Quick Cheque Deposit $34'],0.4,,27606.0,False,False
+490,,['Quick Cheque Deposit ¢3¢'],79372.13,,,False,True
+491,,"['2', '3', 'MCA MTHEND FOFILE 0 1903011083714 LOS (26622)', '587', 'CONTINUE ON THE REVERSE ("" NEXT PAGE', '8']",236104.58,,,False,False
+492,,[],236104.58,,,False,False
+493,,"['Advice Remittance Transfer of Funds', 'mecomb', '0013RF3802119', 'Vale Date:27 Feb']",1343.2,,234761.38,False,False
+494,,"['GIRO Payments / Collections via GIRO', 'NC CONTRACTOR PTE. LTD.', 'Inv 000543', 'Invoice Payment']",8140.01,,,False,True
+495,,['Cheque 0300051'],26899.8,,,False,False
+496,,['Cheque 0300054'],5750.0,,207251.59,False,False
+497,,[],104828.42,Credit,218995.03,False,True
+498,,"['MS', 'For Personal account enquiries, please call us at 1800 111 1111', 'For Business account enquiries, please call us at 1800 222 2200', 'Security Tips', 'Check out our security tips to protect yourself from being a victim of', 'fraudulent scams at https://www.dbs.com/sacurity', 'Update Your Personal Particulars', 'If thera is any change to your personal particulars or contact details, please', 'update us via Internet Banking or visit any DBS/POSB branch,', 'C)', ""To improve our user experience, we're conducting a customer satisfaction survey."", 'As our valued customer, you may be invited to participate.', 'Ipsos Pte Ltd and Qualtrics have been appointed to conduct this survey.', 'Rest assured your responses will be treated with absolute confidentiality.', ""MONTH'S STATEMENT OF ACCOUNT."", 'OVERDRAFT INTEREST DENOTES INTEREST CHARGE ON:', 'FOR CORPORATE ACCO‘JNT}']",207261.59,,,False,True
+499,,['‘557'],3.01,,,False,False

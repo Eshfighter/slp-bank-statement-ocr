@@ -1,0 +1,7 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Opening Balance'],,,65.0,True,False
+1,,['Ledger Balance'],,,130.0,True,False
+2,28/02,['INTEREST'],30.0,Debit,95.0,True,False
+3,28/02,['SERVICE CHARGE'],35.0,Debit,130.0,True,False
+4,,['Total Debit Amount'],,,65.0,False,False
+5,,['Total Credit Amount'],,,0.0,False,False

@@ -1,0 +1,83 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,194662.75,True,False
+1,02/04,"['LOAN PAYMENT', '501118035300000']",2279.72,Debit,196942.47,True,False
+2,02/04,"['LOAN PAYMENT', '501118034400000']",2284.38,Debit,199226.85,True,False
+3,26/04,"['CHEQUE DEPOSIT', 'SCB (SG)']",6000.0,Credit,193226.85,True,False
+4,30/04,['OD INT CHARGE'],1058.2,Debit,194285.05,True,False
+5,,['BALANCE C/F'],,,194285.05,True,False
+6,,['Total Withdrawals'],,,5622.3,False,False
+7,,['Total Deposits'],,,6000.0,False,False
+8,,['BALANCE B/F'],,,4262.09,False,False
+9,12/05,"['CREDIT ADVICE', 'OCBC MERCHANT BIZ', '37003271 (MID)', 'MERCHANT PAYMENT']",63.84,Credit,4325.93,False,False
+10,15/05,"['CREDIT ADVICE', 'OCBC MERCHANT BIZ', 'cet Lah wring', '37003271 (MID)', '285, 3688', 'MERCHANT PAYMENT', 'rnp']",168.16,Credit,4494.09,False,False
+11,16/05,"['CREDIT ADVICE', 'OCBC MERCHANT BIZ', '37003271 (MID)', 'MERCHANT PAYMENT']",180.04,Credit,4674.13,False,False
+12,19/05,"['CREDIT ADVICE', 'OCBC MERCHANT BIZ', '37003271 (MID)', 'MERCHANT PAYMENT']",24.69,Credit,4698.82,False,False
+13,22/05,"['CREDIT ADVICE', 'OCBC MERCHANT BIZ', '37003271 (MID)', 'MERCHANT PAYMENT']",227.38,Credit,4926.2,False,False
+14,24/05,"['CREDIT ADVICE', 'OCBC MERCHANT BIZ', '37003271 (MID)', 'MERCHANT PAYMENT']",326.24,Credit,5252.44,False,False
+15,25/05,"['CREDIT ADVICE', 'OCBC MERCHANT BIZ', '37003271 (MID)', '7', 'MERCHANT PAYMENT']",105.14,Credit,5357.58,False,False
+16,28/05,"['CREDIT ADVICE', 'OCBC MERCHANT BiZ', '37003271 (MID)', 'MERCHANT PAYMENT']",53.81,Credit,5411.39,False,False
+17,31/05,"['SERVICE CHARGE', 'Bryam £ .2an2']",35.0,Debit,5376.39,False,False
+18,31/05,['ANNUAL FEE'],40.0,Debit,5336.39,False,False
+19,,['BALANCE C/F'],,,5336.39,False,False
+20,,['Total Withdrawals'],,,75.0,False,False
+21,,['Total Deposits'],,,1149.3,False,False
+22,,['BALANCE B/F'],,,194285.05,True,False
+23,02/05,"['LOAN PAYMENT', '501118035300000']",2279.72,Debit,196564.77,True,False
+24,02/05,"['LOAN PAYMENT', '§01118034400000']",2284.38,Debit,198849.15,True,False
+25,10/05,"['IBGGIRO', 'OTHR', 'ra Meee?', 'NEW ZEALAND MFAT', 'ant or', '0027760000', 'exe?']",291139.5,Credit,1139.5,True,True
+26,22/05,"['567275', 'SCB (SG)']",5000.0,Debit,192708.65,True,True
+27,25/05,"['INSUR PREM', '0001002449', 'F0176394']",133.75,Debit,192843.4,True,True
+28,25/05,"['INSUR PREM', '0001002450', 'F0176397']",133.75,Debit,192977.15,True,False
+29,30/05,"['SVC CHARGE', 'CASE ID: 48458548', 'AUDIT FEES']",50.0,Debit,193027.15,True,False
+30,31/05,['OD INT CHARGE'],1083.92,Debit,194111.07,True,False
+31,,['BALANCE C/F'],,,194111.07,True,False
+32,,['Total Withdrawals'],,,5965.52,False,False
+33,,['Total Deposits'],,,6139.5,False,False
+34,,['BALANCE B/F'],,,703.4,False,False
+35,31/05,"['SERVICE CHARGE', 'ZBAT', '000000001']",15.0,Debit,688.4,False,False
+36,,['BALANCE C/F'],,,688.4,False,False
+37,,['Total Withdrawals'],,,15.0,False,False
+38,,['Total Deposits'],,,0.0,False,False
+39,,['WM'],184111.07,,,False,False
+40,,"['01 JUN', '5017 18035300000']",2279.72,,196.39,False,False
+41,01/06,"['LOAN PAYMENT', '501118034460000']",,,198.87,False,True
+42,01/06,['21 JUN'],12332.09,,,True,True
+43,30/06,['OD INT CHARGE'],1039.46,,187382.62,False,False
+44,30/06,[],187382.62,,,True,True
+45,30/06,"['Total Interest Paid This Year', '0.ce']",603.55,,42332.06,False,False
+46,30/06,"['494,564,89 OR']",494564.89,,,False,True
+47,30/06,[],200000.0,,,False,False
+48,30/06,[],5.0,,,False,False
+49,,[],187382.62,,,True,False
+50,02/07,"['LOAN PAYMENT', '501118035300000']",2279.72,,189662.34,True,False
+51,02/07,"['LOAN PAYMENT', '501118034400000']",2284.38,Debit,191946.72,True,False
+52,26/07,"['IBG GIRO', 'OTHR', 'NEW ZEALAND MFAT', '00294100000']",155.0,Credit,191791.72,True,False
+53,,['OD INT CHARGE'],1058.67,Credit,192850.39,False,False
+54,,[],192850.39,,,True,True
+55,,[],5622.77,,155.0,False,False
+56,,[],0.0,,,False,True
+57,,[],191768.49,,,True,False
+58,,[],200000.0,,,False,False
+59,,[],5.0,,,False,False
+60,,['BALANCE B/F'],,,192850.39,True,False
+61,01/08,"['LOAN PAYMENT', '5011 18035300000']",,,195130.1,True,True
+62,01/08,"['LOAN PAYMENT', '501 118034400000']",2284.38,Debit,197414.42,True,True
+63,30/08,"['CHEQUE DEPOSIT', 'SCB (SG)']",5000.0,Credit,192414.49,True,True
+64,31/08,['OD INT CHARGE'],1088.05,Debit,193502.54,True,False
+65,,['BALANCE C/F'],,,493902.54,True,False
+66,,[],5552.15,Credit,5000.0,False,True
+67,,[],0.0,,,False,True
+68,,[],197091.9,,,True,False
+69,,[],200006.0,,,False,False
+70,,['BALANCE B/F'],,,193502.54,True,False
+71,,"['o3SEP', '501718035300000']",2279.72,Debit,195782.26,True,False
+72,03/09,"['LOAN PAYMENT', '501118034400000']",2284.38,Debit,198066.64,True,True
+73,07/09,"['CHEQUE DEPOSIT', 'SCB (SG)']",6000.0,Credit,192066.64,True,False
+74,,['CASH DEPOSIT'],5300.9,Credit,186766.84,False,True
+75,18/09,"['IBG GIRO', 'OTHR', 'NEW ZEALAND MFAT', '0030730000']",385.0,Debit,186371.64,True,True
+76,30/09,['ODINT CHARGE'],1014.87,Debit,187386.51,True,False
+77,,['BALANCE C/F'],,,187386.51,True,False
+78,,[],6578.97,Credit,11885.0,False,True
+79,,[],0.08,,,False,True
+80,,[],189964.63,,,False,False
+81,,[],200000.6,,,False,False

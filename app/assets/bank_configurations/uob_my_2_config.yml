@@ -1,0 +1,56 @@
+
+init-config:
+  country-name: malaysia
+  bank-name : UOB
+  format-id: uob_my_2
+  format-key-word: 'Account Details'
+
+# parsing variables
+summary-config:
+  summary-page-index: 0
+  keys: ['account-number', 'account-type', 'bank-name', 'document-type', 'number-of-pages', 'statement-date']
+  bank-name-find: ['UOB']
+  account-list: ['Current Account']
+  separate-summary-lines: True
+  account-name-start: 'Account Name:'
+  account-name-line-start-index: 0
+  account-name-line-end-index: 0
+  account-name-end: 'Ledger Balance:'
+  state-dt-keyword: 'Movement Details'
+  no-of-date-words: 3
+  page-keyword: Page
+  account-no-keyword: 'Account Number:'
+  account-no-regex: '\d\d\d\d\d\d\d\d\d\d'
+  balance-postprocessing-opening-balance: True
+  opening-balance-calculate: True
+  balance-postprocessing-closing-balance: True
+
+transaction-config:
+  txn-key-word: []
+  txn-description-ignore-regex: ['\d\d:\d\d:\d\d AM', '\d\d:\d\d:\d\d PM']
+  start-of-month-keyword: []
+  end-of-month-keyword: ['Total in Account Currency']
+  stop-at: ['Total in Account Currency']
+  stop-at-regex: '\d / \d'
+  date-regex-list: ['\d\d/\d\d/\d\d\d\d']
+  transaction-date-index: 1
+  columns-in-between-date-descriptions: 2
+  statement-date-format: 'DD MMM YYYY'
+  transaction-date-format: 'DD/MM/YYYY'
+  number-regex-list: ['([0-9sS$oO§]{1,3}(,[0-9sS$oO§]{3})*(\.|\,)[0-9sS$oO§]{2})']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: []
+  balance-in-separate-table: True
+  balance-fields: {
+    'key': ['Withdrawals', 'Deposits', 'Ledger Balance', 'Available Balance', 'Total in Account Currency'],
+    'actual-key': ['Deposits', 'Withdrawals'],
+    'row-after-key': 0,
+  }
+  transaction-summary-key-info: [{
+    keyword: ['Deposits'],
+    key: 'total-credit'
+  }, {
+    keyword: ['Withdrawals'],
+    key: 'total-debit'
+  }]

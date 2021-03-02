@@ -1,0 +1,179 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,376931.34,False,False
+1,02/05,"['GIRO CHARGES', 'SALARY']",0.2,Debit,376931.14,False,False
+2,02/05,"['GIRO CHARGES', 'SALARY']",0.2,Debit,376930.94,False,False
+3,02/05,"['GIRO CHARGES', 'RENTAL #01-11']",0.2,Debit,376930.74,False,False
+4,02/05,"['GIRO CHARGES', 'RENTAL #01-16']",0.2,Debit,376930.54,False,False
+5,02/05,"['GIRO PAYMENT', 'SALARY']",2700.0,Debit,374230.54,False,False
+6,02/05,"['GIRO PAYMENT', 'SALARY']",2700.0,Debit,371530.54,False,False
+7,02/05,"['GIRO PAYMENT', 'RENTAL #01-11']",3852.0,Debit,367678.54,False,False
+8,02/05,"['GIRO PAYMENT', 'RENTAL #01-16']",4000.0,Debit,363678.54,False,False
+9,02/05,['CASH CHQ WDL'],550.0,Debit,363128.54,False,False
+10,02/05,"['IBG GIRO', 'COLL 43922642', 'Singapore Telecommu', '43922642']",404.43,Debit,362724.11,False,False
+11,02/05,"['CHEQUE DEPOSIT', 'DBS BANK']",18969.5,Credit,381693.61,False,False
+12,02/05,['CHEQUE'],143.5,Debit,381550.11,False,False
+13,02/05,['CHEQUE'],267.5,Debit,381282.61,False,False
+14,02/05,['CHEQUE'],1289.78,Debit,379992.83,False,False
+15,03/05,['CHEQUE'],117.4,Debit,379875.43,False,False
+16,03/05,['CHEQUE'],173.6,Debit,379701.83,False,False
+17,03/05,['CHEQUE'],224.1,Debit,379477.73,False,False
+18,03/05,['CHEQUE'],254.3,Debit,379223.43,False,False
+19,03/05,['CHEQUE'],303.8,Debit,378919.63,False,False
+20,03/05,['CHEQUE'],637.7,Debit,378281.93,False,False
+21,06/05,['CHEQUE'],180.4,Debit,378101.53,False,False
+22,06/05,['CHEQUE'],333.0,Debit,377768.53,False,False
+23,06/05,['CHEQUE'],493.5,Debit,377275.03,False,False
+24,06/05,['CHEQUE'],521.2,Debit,376753.83,False,False
+25,06/05,['CHEQUE'],586.6,Debit,376167.23,False,False
+26,06/05,['CHEQUE'],781.1,Debit,375386.13,False,False
+27,07/05,"['CASH CHQ WDL', 'Please lurn over...']",1900.0,Debit,373486.13,False,False
+28,07/05,['CASH CHQ WDL'],1235.0,Debit,372251.13,False,False
+29,07/05,['CASH CHQ WDL'],1030.0,Debit,371221.13,False,False
+30,07/05,['CASH CHQ WDL'],1131.0,Debit,370090.13,False,False
+31,07/05,['CASH CHQ WDL'],1235.0,Debit,368855.13,False,False
+32,07/05,['CASH CHQ WDL'],1203.0,Debit,367652.13,False,False
+33,07/05,['CHEQUE'],32.3,Debit,367619.83,False,False
+34,07/05,['CHEQUE'],103.36,Debit,367516.47,False,False
+35,07/05,['CHEQUE'],669.0,Debit,366847.47,False,False
+36,08/05,['CHEQUE'],306.3,Debit,366541.17,False,False
+37,08/05,['CHEQUE'],604.2,Debit,365936.97,False,False
+38,09/05,['CHEQUE'],513.8,Debit,365423.17,False,False
+39,10/05,"['IBG GIRO', 'COLL 201327721D', 'BEST PETROL AND DIE', '191041580035']",328.82,Debit,365094.35,False,False
+40,10/05,['CHEQUE'],361.2,Debit,364733.15,False,False
+41,10/05,['CHEQUE'],365.9,Debit,364367.25,False,False
+42,10/05,['CHEQUE'],1113.3,Debit,363253.95,False,False
+43,13/05,"['CHEQUE DEPOSIT', 'ocec']",10000.0,Credit,373253.95,False,False
+44,13/05,"['CHEQUE DEPOSIT', 'OCBC.']",43962.24,Credit,417216.19,False,False
+45,13/05,"['CHEQUE DEPOSIT', 'ocBc']",1382.1,Credit,418598.29,False,False
+46,13/05,"['CHEQUE DEPOSIT', 'ocBe']",1682.0,Credit,420280.29,False,False
+47,13/05,"['CHEQUE DEPOSIT', 'OCBC']",4811.55,Credit,425091.84,False,False
+48,13/05,"['CHEQUE DEPOSIT', 'ocBc']",1934.55,Credit,427026.39,False,False
+49,13/05,"['CHEQUE DEPOSIT', 'OCBC']",2420.75,Credit,429447.14,False,False
+50,13/05,"['CHEQUE DEPOSIT', 'ocBc']",1052.5,Credit,430499.64,False,False
+51,13/05,"['CHEQUE DEPOSIT', 'ocBc']",2729.7,Credit,433229.34,False,False
+52,13/05,"['CHEQUE DEPOSIT', 'ocsc']",2381.65,Credit,435610.99,False,False
+53,13/05,"['CHEQUE DEPOSIT', 'OCBC']",3070.9,Credit,438681.89,False,False
+54,13/05,"['CHEQUE DEPOSIT', 'ocec']",2876.25,Credit,441558.14,False,False
+55,13/05,"['CHEQUE DEPOSIT', 'ocec']",1258.5,Credit,442816.64,False,False
+56,13/05,"['CHEQUE DEPOSIT', 'ocBc']",9558.85,Credit,452375.49,False,False
+57,,"['CHEQUE DEPOSIT', 'OcBC']",28063.4,Credit,480438.89,False,False
+58,13/05,"['CHEQUE DEPOSIT', 'UOB BANK']",1072.89,Credit,481511.78,False,False
+59,13/05,"['CHEQUE DEPOSIT', 'UOB BANK']",2631.58,Credit,484143.36,False,False
+60,13/05,"['CHEQUE DEPOSIT', 'ocec']",1364.1,Credit,485507.46,False,False
+61,13/05,['CHEQUE'],95.8,Debit,485411.66,False,False
+62,13/05,['CHEQUE'],108.8,Debit,485302.86,False,False
+63,13/05,['CHEQUE'],122.8,Debit,485180.06,False,False
+64,13/05,['CHEQUE'],133.8,Debit,485046.26,False,False
+65,,['CHEQUE'],136.1,Debit,484910.16,False,False
+66,,['CHEQUE'],150.5,Debit,484759.66,False,False
+67,13/05,['CHEQUE'],190.4,Debit,484569.26,False,False
+68,13/05,['CHEQUE'],253.9,Debit,484315.36,False,False
+69,13/05,['CHEQUE'],260.2,Debit,484055.16,False,False
+70,13/05,['CHEQUE'],277.7,Debit,483777.46,False,False
+71,13/05,['CHEQUE'],291.4,Debit,483486.06,False,False
+72,13/05,['CHEQUE'],419.7,Debit,483066.36,False,False
+73,13/05,['CHEQUE'],556.4,Debit,482509.96,False,False
+74,13/05,['CHEQUE'],852.26,Debit,481657.7,False,False
+75,13/05,['CHEQUE'],1380.7,Debit,480277.0,False,False
+76,13/05,"['CHEQUE DEPOSIT', 'DBS BANK']",19395.68,Credit,499672.68,False,False
+77,14/05,"['GIRO', 'COLL 201327721D', 'CPF', 'BIZ']",5360.0,Debit,494312.68,False,False
+78,14/05,['009300'],70000.0,Debit,424312.68,False,False
+79,14/05,['CHEQUE'],105.1,Debit,424207.58,False,False
+80,14/05,['CHEQUE'],111.4,Debit,424096.18,False,False
+81,14/05,['009297'],126.5,Debit,423969.68,False,False
+82,14/05,['009292'],386.2,Debit,423583.48,False,False
+83,14/05,['CHEQUE'],451.9,Debit,423131.58,False,False
+84,15/05,"['IBG GIRO', 'GSTX 201327721D', 'IRAS', 'GST']",61939.15,Debit,361192.43,False,False
+85,15/05,['CHEQUE'],614.2,Debit,360578.23,False,False
+86,15/05,['CHEQUE'],614.3,Debit,359963.93,False,False
+87,16/05,"['CHEQUE DEPOSIT', 'ocse']",551.0,Credit,360514.93,False,False
+88,16/05,"['CHEQUE DEPOSIT', 'csc']",16918.23,Credit,377433.16,False,False
+89,16/05,"['CHEQUE DEPOSIT', 'OCBC']",1729.7,Credit,379162.86,False,False
+90,16/05,"['CHEQUE DEPOSIT', 'OCBC.']",2829.7,Credit,381992.56,False,False
+91,16/05,"['CHEQUE DEPOSIT', 'ocse']",3338.0,Credit,385330.56,False,False
+92,16/05,"['CHEQUE DEPOSIT', 'ocBc']",1375.5,Credit,386706.06,False,False
+93,16/05,['CHEQUE'],16.3,Debit,386689.76,False,False
+94,16/05,['CHEQUE'],472.6,Debit,386217.16,False,False
+95,16/05,['CHEQUE'],597.9,Debit,385619.26,False,False
+96,16/05,['CHEQUE'],776.6,Debit,384842.66,False,False
+97,16/05,['CHEQUE'],876.1,Debit,383966.56,False,False
+98,16/05,['CHEQUE'],1288.9,Debit,382677.66,False,False
+99,16/05,['CHEQUE'],1337.2,Debit,381340.46,False,False
+100,16/05,['CHEQUE'],2560.51,Debit,378779.95,False,False
+101,17/05,"['GIRO', 'COLL 201327721D', 'CPF', 'BFWL']",2152.93,Debit,376627.02,False,False
+102,17/05,['CHEQUE'],526.3,Debit,376100.72,False,False
+103,17/05,['CHEQUE'],733.7,Debit,375367.02,False,False
+104,21/05,"['IBG GIRO', 'COLL 3018874898', 'Loans IBG Settlemen', 'DIRECT DEBIT3018874898']",1492.0,Debit,373875.02,False,False
+105,21/05,['CHEQUE'],39.9,Debit,373835.12,False,False
+106,21/05,['CHEQUE'],61.9,Debit,373773.22,False,False
+107,21/05,['CHEQUE'],79.0,Debit,373694.22,False,False
+108,21/05,['CHEQUE'],161.8,Debit,373532.42,False,False
+109,21/05,['CHEQUE'],211.6,Debit,373320.82,False,False
+110,21/05,['CHEQUE'],252.8,Debit,373068.02,False,False
+111,21/05,['CHEQUE'],484.6,Debit,372583.42,False,False
+112,21/05,['CHEQUE'],836.4,Debit,371747.02,False,False
+113,21/05,['CHEQUE'],1198.3,Debit,370548.72,False,False
+114,22/05,['CHEQUE'],173.0,Debit,370375.72,False,False
+115,22/05,['CHEQUE'],309.87,Debit,370065.85,False,False
+116,23/05,['CASH CHQ WDL'],50000.0,Debit,320065.85,False,False
+117,23/05,['CHEQUE'],107.2,Debit,319958.65,False,False
+118,23/05,['CHEQUE'],210.8,Debit,319747.85,False,False
+119,23/05,['CHEQUE'],1075.2,Debit,318672.65,False,False
+120,24/05,"['IBG GIRO', 'COLL 8927266612 SP SERVICES LTD GIRO Collection 892726661']",172.01,Debit,318500.64,False,False
+121,24/05,"['CHEQUE DEPOSIT', 'DBS BANK']",24742.73,Credit,343243.37,False,False
+122,24/05,['CHEQUE'],71.4,Debit,343171.97,False,False
+123,24/05,['CHEQUE'],72.4,Debit,343099.57,False,False
+124,24/05,['CHEQUE'],83.0,Debit,343016.57,False,False
+125,24/05,['CHEQUE'],219.0,Debit,342797.57,False,False
+126,24/05,['CHEQUE'],362.53,Debit,342435.04,False,False
+127,24/05,['CHEQUE'],383.1,Debit,342051.94,False,False
+128,27/05,['CASH CHQ WDL'],139.0,Debit,341912.94,False,False
+129,27/05,"['IBG GIRO', 'COLL 201327721D BEST PETROL AND DIE 191051586275']",108.7,Debit,341804.24,False,False
+130,27/05,['CHEQUE'],39.8,Debit,341764.44,False,False
+131,27/05,['CHEQUE'],72.1,Debit,341692.34,False,False
+132,27/05,['CHEQUE'],96.3,Debit,341596.04,False,False
+133,27/05,['CHEQUE'],284.2,Debit,341311.84,False,False
+134,27/05,['CHEQUE'],327.5,Debit,340984.34,False,False
+135,27/05,['CHEQUE'],452.5,Debit,340531.84,False,False
+136,27/05,['CHEQUE'],575.0,Debit,339956.84,False,False
+137,27/05,['CHEQUE'],648.8,Debit,339308.04,False,False
+138,27/05,['CHEQUE'],887.3,Debit,338420.74,False,False
+139,27/05,['009246'],1051.2,Debit,337369.54,False,False
+140,27/05,['CHEQUE'],1465.1,Debit,335904.44,False,False
+141,27/05,['CHEQUE'],1610.8,Debit,334293.64,False,False
+142,27/05,"['CHEQUE DEPOSIT', 'ocse']",627.4,Credit,334921.04,False,False
+143,27/05,"['CHEQUE DEPOSIT', 'OCBC']",1450.0,Credit,336371.04,False,False
+144,27/05,"['CHEQUE DEPOSIT', 'ocec']",1834.5,Credit,338205.54,False,False
+145,27/05,"['CHEQUE DEPOSIT', 'OCBC']",1947.4,Credit,340152.94,False,False
+146,27/05,"['CHEQUE DEPOSIT', 'ocBc']",1907.0,Credit,342059.94,False,False
+147,27/05,"['168250', 'OCBC']",3272.7,Credit,345332.64,False,False
+148,27/05,"['CHEQUE DEPOSIT', 'UOB BANK']",3358.63,Credit,348691.27,False,False
+149,27/05,"['CHEQUE DEPOSIT', 'OcBC']",2322.6,Credit,351013.87,False,False
+150,27/05,"['CHEQUE DEPOSIT', 'OCBC']",2024.5,Credit,353038.37,False,False
+151,27/05,"['CHEQUE DEPOSIT', 'OCBC']",2466.4,Debit,255504.77,False,True
+152,28/05,['CHEQUE'],337.2,Credit,355167.57,False,True
+153,28/05,['CHEQUE'],362.3,Debit,354805.27,False,False
+154,28/05,['CHEQUE'],401.7,Debit,354403.57,False,False
+155,28/05,['CHEQUE'],406.4,Debit,353997.17,False,False
+156,28/05,['CHEQUE'],416.8,Debit,353580.37,False,False
+157,28/05,['CHEQUE'],437.4,Debit,353142.97,False,False
+158,28/05,['CHEQUE'],516.7,Debit,352626.27,False,False
+159,28/05,['CHEQUE'],582.4,Debit,352043.87,False,False
+160,29/05,['CHEQUE'],72.4,Debit,351971.47,False,False
+161,29/05,['CHEQUE'],122.3,Debit,351849.17,False,False
+162,29/05,['CHEQUE'],125.1,Debit,351724.07,False,False
+163,29/05,['CHEQUE'],263.0,Debit,351461.07,False,False
+164,29/05,['CHEQUE'],427.68,Debit,351033.39,False,False
+165,29/05,['CHEQUE'],433.3,Debit,350600.09,False,False
+166,29/05,['CHEQUE'],640.29,Debit,349959.8,False,False
+167,29/05,['CHEQUE'],1069.4,Debit,348890.4,False,False
+168,30/05,"['CASH CHQ WDL', 'Please lurn over...']",70000.0,Debit,278890.4,False,False
+169,31/05,"['GIRO CHARGES', 'SALARY']",0.2,Debit,277614.7,False,True
+170,31/05,"['GIRO PAYMENT', 'SALARY']",2700.0,Debit,274914.7,False,False
+171,31/05,"['GIRO PAYMENT', 'SALARY']",2700.0,Debit,272214.7,False,False
+172,31/05,"['GIRO PAYMENT', 'SALARY']",10800.0,Debit,261414.7,False,False
+173,31/05,"['GIRO CHARGES', 'SALARY']",0.2,Debit,261414.5,False,False
+174,31/05,['CHEQUE'],1278.5,Debit,260136.0,False,False
+175,31/05,[],260068.5,,,False,True
+176,,['Total Withdrawals'],,,360177.52,False,False
+177,,['Total Deposits'],,,233314.68,False,False

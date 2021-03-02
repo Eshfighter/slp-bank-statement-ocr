@@ -1,0 +1,20 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,01/06,"['DR', '345BA137512', 'Trade Bill Transfer', '345BA137512 345']",286000.0,Debit,179534.98,True,False
+1,02/06,"['DR', '345BA138287', 'Trade Bill Transfer', '345BA138287 345']",5142.34,Debit,184677.32,True,False
+2,02/06,"['IBG CR', 'KENWON KARTON SB', 'IEBK060215858041', 'PBB KENWON KARTON', 'SDN BHD']",100000.0,Credit,84677.32,True,False
+3,02/06,"['IBG CR', 'KENWON KARTON SB', 'IEBK060218514334', 'PBB KENWON KARTON', 'SDN BHD']",30000.0,Credit,54677.32,True,False
+4,04/06,"['IBG Debit', 'UIEI040601', 'IBG BULK PAYROLL/PMT']",180938.41,Debit,235615.73,True,False
+5,04/06,"['IBG Charge', 'UIEI040601', 'IBG BULK PAYROLL/PMT']",7.7,Debit,235623.43,True,False
+6,05/06,"['Misc DR Loan', 'Trf. Wd. Loans', '3458047977-00000']",36187.0,Debit,271810.43,True,False
+7,09/06,"['IBG DR', 'PYMT OF', 'GUARANTEE FEE', 'IBG SYARIKAT JAMINAN', 'PEMBIA']",11361.0,Debit,283171.43,True,False
+8,12/06,"['IBG CR', 'KENWON KARTON SB', 'IEBK061232740661', 'PBB KENWON KARTON', 'SDN BHD']",50000.0,Credit,233171.43,True,False
+9,15/06,"['Cheque Deposit', 'RHB 027220']",202897.46,Credit,30273.97,True,False
+10,23/06,"['DR', '345BA137826', 'Trade Bill Transfer']",82000.0,Debit,112273.97,True,False
+11,24/06,"['DR', '345BA138418', 'Trade Bill Transfer', '345BA138418 345']",2682.15,Debit,114956.12,True,False
+12,29/06,"['IBG CR', 'Account transfer', 'Account transfer', 'PBB KENWON KARTON', 'SDN BHD']",200000.0,Credit,85043.88,False,False
+13,30/06,"['DR', '345BA138475', 'Trade Bill Transfer', '345BA138475 345']",3416.37,Debit,81627.51,False,False
+14,30/06,"['IBG CR', 'KENWON KARTON SB', 'IEBK063029316967', 'PBB KENWON KARTON', 'SDN BHD']",80000.0,Credit,161627.51,False,False
+15,30/06,['OD Int Charge'],792.23,Debit,160835.28,False,False
+16,30/06,['OD Commitment Fee Ch'],134.51,Debit,160700.77,False,False
+17,,['Deposits'],,,662897.46,False,False
+18,,['Withdrawals'],,,608661.71,False,False

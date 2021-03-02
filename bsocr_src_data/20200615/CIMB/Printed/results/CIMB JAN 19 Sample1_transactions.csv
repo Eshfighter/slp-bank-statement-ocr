@@ -1,0 +1,165 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['OPENING BALANCE'],,,109933.09,False,False
+1,02/01,"['IBG CREDIT', 'SEWAOKT2018', 'NOR', '6760', 'SHAHID', 'NOR SHAHID ABD MALIK', 'PRIVATE TRANSACTION']",900.0,Credit,110833.09,False,False
+2,02/01,"['IBG CREDIT', '20190101149044569', '1083', 'Sf.', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",452.25,Credit,111285.34,False,False
+3,03/01,"['TR IBG', '0811700225', '0841700225', 'HITACHI CAPITAL MALA']",3650.0,Debit,107635.34,False,False
+4,03/01,"['TR TO LOANS', 'CK AUTOMOBILE SERVI', 'car loan jqy5300']",1350.0,Debit,106285.34,False,False
+5,03/01,"['OTHER TRANSFER FEE', 'borcard machine 01012019']",0.1,Debit,106285.24,False,False
+6,03/01,"['TR IBG', 'bor card machine', '01012019', 'teoh chiek kai']",451.25,Debit,105833.99,False,False
+7,03/01,"['IBG CREDIT', '20190102149044569', '9330', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",5164.35,Credit,110998.34,False,False
+8,04/01,"['IBG CREDIT', '20190 103149044569', '2857', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",4087.75,Credit,115086.09,False,False
+9,04/01,"['JOMPAY', '1030287559', '6143LDCR8888', 'TM UNIFI']",570.45,Debit,114515.64,False,False
+10,04/01,"['OTHER TRANSFER FEE', 'borcard machine CK1']",0.1,Debit,114515.54,False,False
+11,04/01,"['TR IBG', 'bor card machine', 'CK1', 'teoh chiek kai']",9250.1,Debit,105265.44,False,False
+12,04/01,"['JOMPAY', '1016:2100012429930 614X4G50']",863.98,Debit,104401.46,False,False
+13,07/01,"['IBG CREDIT', '201901051 49044569', '9823', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1182.0,Credit,105583.46,False,False
+14,07/01,"['IBG CREDIT', '20190104149044569', '6396', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",522.05,Credit,106105.51,False,False
+15,07/01,"['OTHER TRANSFER FEE', 'salary for dec 18 2 CK1']",0.1,Debit,106105.41,False,False
+16,07/01,"['TR IBG', 'Salary for dec 18 2', 'CKI', 'KE KIM FOO']",1070.2,Debit,105035.21,False,False
+17,07/01,"['OTHER TRANSFER FEE', 'Salary for dec 18 2 CK1']",0.1,Debit,105035.11,False,False
+18,07/01,"['TR IBG', 'salary for dec 18 2', 'CK1', 'LIOW SHUNG GENG']",794.7,Debit,104240.41,False,False
+19,07/01,"['OTHER TRANSFER FEE', 'sr 04 jan 19', 'boy bor machine']",0.1,Debit,104240.31,False,False
+20,07/01,"['TR IBG', 'sr 04 jan 19', 'boy bor machine', 'teoh chiek kai']",103719.26,Credit,403719.26,False,True
+21,07/01,"['OTHER TRANSFER FEE', 'salary fordec 18 2 CK1']",103719.16,Debit,103719.16,False,True
+22,07/01,"['TR IBG', 'salary fordec 18 2', 'CK1', 'ho pei shan']",1124.9,Debit,102594.26,False,False
+23,07/01,"['OTHER TRANSFER FEE', 'salary for dec 18 2 wei salary dec']",0.1,Debit,102594.16,False,False
+24,07/01,"['TR IBG', 'salary for dec 18 2', 'wei salary dec', 'TAN CHUAN KEAT']",1739.4,Debit,100854.76,False,False
+25,07/01,"['JOMPAY', '82271017j8 117600', '61774F5F3673', 'SAJ Ranhill']",30.0,Debit,100824.76,False,False
+26,07/01,"['JOMPAY', '1016:1100018823077 617KBLFD']",56.0,Debit,100768.76,False,False
+27,07/01,"['JOMPAY', '5454:220756 135204 617LXIP4']",616.05,Debit,100152.71,False,False
+28,08/01,"['IBG CREDIT', '20190107149044569', '2599', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",2437.87,Credit,102590.58,False,False
+29,09/01,"['OTHER TRANSFER FEE', 'borcard machine CK1']",0.1,Debit,102590.48,False,False
+30,09/01,"['TR IBG', 'bor card machine', 'CK1', 'teoh chiek kai']",3617.87,Debit,98972.61,False,False
+31,40/01,"['IBG CREDIT', '20190109149044569', '5656', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",958.39,Credit,99931.0,False,False
+32,10/01,"['IBG CREDIT', 'PB ECP PAYMENT', '9637', 'KUJAYA MAN', 'KUJAYA MANAGEMENT SD', 'PAYMENT FOR ACCOUNT']",327.0,Credit,100258.0,False,False
+33,14/01,"['IBG CREDIT', '20190112149044569', '2977', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",1531.67,Credit,101789.67,False,False
+34,14/01,"['IBG CREDIT', '20190111149044569', '8668', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",2171.92,Credit,103961.59,False,False
+35,45/01,"['JOMPAY', '1016:2100012429930 61F7LJBI']",327.25,Debit,103634.34,False,False
+36,15/01,"['OTHER TRANSFER FEE', 'payment for dec 18 ck1']",0.1,Debit,103634.24,False,False
+37,15/01,"['TR IBG', 'payment for dec 18', 'ckt', 'LK WORKSHOP']",100.0,Debit,103534.24,False,False
+38,15/01,"['OTHER TRANSFER FEE', 'payment for nov 18 ck?']",103534.14,Debit,103534.14,False,True
+39,15/01,"['TR IBG', 'payment for nov 18', 'ckt', 'YAK KAH SPORT RIM']",320.0,Debit,103214.14,False,False
+40,15/01,"['JOMPAY', '1016:1100018823077 61FTKBA9']",71.43,Debit,103142.71,False,False
+41,45/01,"['OTHER TRANSFER FEE', 'payment for oct 18 ck?']",0.1,Debit,103142.61,False,False
+42,45/01,"['TR IBG', 'payment for oct 18', 'ckt', 'AEK AUTO SDN BHD']",411.0,Debit,102731.61,False,False
+43,15/01,"['OTHER TRANSFER FEE.', 'payment for nov 18 ck1']",0.1,Debit,102731.51,False,False
+44,45/01,"['TR IBG', 'payment for nov 18', 'ckt', 'v cross tyre & tradi']",426.0,Debit,102305.51,False,False
+45,15/01,"['OTHER TRANSFER FEE', 'salary for sep 18 2ck1n2']",0.1,Debit,102305.41,False,False
+46,45/01,"['TR IBG', 'salary forsep 182? hy KY', 'ae', 'ckin2', 'TAN CHUAN KEAT']",2643.65,Debit,99661.76,False,False
+47,15/01,"['OTHER TRANSFER FEE', 'payment for nov 18 ckt']",0.1,Debit,99661.66,False,False
+48,15/01,"['TR IBG', 'payment for nov 18', 'ck?', 'jgp auto parts sdn b']",4750.0,Debit,94911.66,False,False
+49,15/01,"['OTHER TRANSFER FEE', 'salary for jun 18 ckin2']",0.1,Debit,94911.56,False,False
+50,45/01,"['TR IBG', 'Salary for jun 18', 'ckin2', 'TAN CHUAN KEAT']",3710.35,Debit,91201.21,False,False
+51,15/01,"['OTHER TRANSFER FEE', 'payment fornov 18 ck1']",0.1,Debit,91201.11,False,False
+52,15/01,"['TR IBG', 'payment for nov 18', 'ckt', 'ns coo! trading sdn']",473.0,Debit,90728.11,False,False
+53,16/01,"['TR IBG', '019311805', '150120190959 12974669', 'KUMPULAN WANG SIMPAN']",5000.0,Debit,85728.11,False,False
+54,16/01,"['TR IBG', '019311805', '15012019100108974942', 'KUMPULAN WANG SIMPAN']",451.0,Debit,85277.11,False,False
+55,16/01,"['OTHER TRANSFER FEE', 'payment for nov 18 ck']",0.1,Debit,85277.01,False,False
+56,16/01,"['TR IBG', 'payment for nov 18', 'ckt', 'TRIUMPH MASTERS MARK']",175.0,Debit,85102.01,False,False
+57,16/01,"['OTHER TRANSFER FEE', 'payment for nov 18 ck1']",0.1,Debit,85101.91,False,False
+58,16/01,"['TR IBG', 'payment for nov 18', 'ck?', 'FJ UNION BATTERY AUT']",2079.55,Debit,83022.36,False,False
+59,16/01,"['OTHER TRANSFER FEE', 'payment for nov 18 ck1']",0.1,Debit,83022.26,False,False
+60,16/01,"['TR IBG', 'payment for nov 18', 'ckt', 'maxlee auto marketin']",2061.0,Debit,80961.26,False,False
+61,46/01,"['OTHER TRANSFER FEE', 'payment for oct 18 ck']",0.1,Debit,80961.16,False,False
+62,16/01,"['TR IBG', 'payment for oct 18', 'TRIUMPH MASTERS MARK']",110.01,Debit,80851.16,False,True
+63,46/01,"['OTHER TRANSFER FEE', 'payment for oct 18 ck?']",80851.06,Debit,80851.06,False,True
+64,16/01,"['TR IBG', 'payment for oct 18', 'ck', 'sincere auto parts s']",8174.0,Debit,72677.06,False,False
+65,16/01,"['OTHER TRANSFER FEE', 'payment for oct 18 ck1']",0.1,Debit,72676.96,False,False
+66,16/01,"['TR IBG', 'payment for oct 18', 'ckt', 'Zhi siong enterprise']",500.0,Debit,72176.96,False,False
+67,16/01,"['OTHER TRANSFER FEE', 'pmt for nov dec 18 ck?']",0.1,Debit,72176.86,False,False
+68,16/01,"['TR IBG', 'pmt for nov dec 18', 'ckt', 'bgt marketing']",229.0,Debit,71947.86,False,False
+69,16/01,"['OTHER TRANSFER FEE', 'payment for 3rd 18']",0.1,Debit,71947.76,False,False
+70,16/01,"['TR IBG', 'payment for 3rd 18', 'averco corporate ser']",1000.0,Debit,70947.76,False,False
+71,16/01,"['OTHER TRANSFER FEE', 'payment for oct 18 ck?']",0.1,Debit,70947.66,False,False
+72,16/01,"['TR IBG', 'payment for oct 18', 'ckt', 'KS LINK AUTO PARTS S']",1420.0,Debit,69527.66,False,False
+73,46/01,"['OTHER TRANSFER FEE', 'payment for sep 18 ck?']",0.1,Debit,69527.56,False,False
+74,16/01,"['TR IBG', 'payment for sep 18', 'ckt', 'sincere auto parts s']",5001.5,Debit,64526.06,False,False
+75,16/01,"['OTHER TRANSFER FEE', 'pay bil no 00000762 ck?']",0.1,Debit,64525.96,False,False
+76,16/01,"['TR IBG', 'pay bil no 00000762', 'ckt', 'EUROTECH AUTOMOBILE']",680.0,Debit,63845.96,False,False
+77,16/01,"['OTHER TRANSFER FEE', 'payment for sep 18 ck?']",0.1,Debit,63845.86,False,False
+78,16/01,"['TR IBG', 'payment for sep 18', 'ck1', 'RAVENOL LUBRICANTS (']",1540.0,Debit,62305.86,False,False
+79,16/01,"['OTHER TRANSFER FEE', 'payment for sep 18 ck?']",0.1,Debit,62305.76,False,False
+80,16/01,"['TR IBG', 'payment for sep 18', 'electa equipment (m)']",230.0,Debit,62075.76,False,False
+81,46/01,"['OTHER TRANSFER FEE', 'rental fornov 18 ck']",0.1,Debit,62075.66,False,False
+82,16/01,"['TR IBG', 'rental for nov 18', 'HOMETRIC DESIGN & CO']",5200.0,Debit,56875.66,False,False
+83,16/01,"['OTHER TRANSFER FEE', '110118 card machine']",0.1,Debit,56875.56,False,False
+84,16/01,"['TR IBG', '110118 card machine', 'teoh chiek kai']",2170.92,Debit,54704.64,False,False
+85,16/01,"['OTHER TRANSFER FEE', '090119 card machine']",0.1,Debit,54704.54,False,False
+86,16/01,"['TR IBG', '090119 card machine', 'teoh chiek kai']",956.4,Debit,53748.14,False,False
+87,16/01,"['OTHER TRANSFER FEE', 'payment for jul 18 ck1']",0.1,Debit,53748.04,False,False
+88,16/01,"['TR IBG', 'payment for jul 18', 'ckt', 'MING Yi AUTOMOTIVE S']",2570.0,Debit,51178.04,False,False
+89,16/01,"['OTHER TRANSFER FEE', '120119 card machine']",0.1,Debit,51177.94,False,False
+90,16/01,"['TR IBG', '120119 card machine', 'teoh chiek kai']",1530.67,Debit,49647.27,False,False
+91,16/01,"['1BG CREDIT', '20190115149044569', '7614', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",49859.04,Credit,49859.04,False,True
+92,17/01,['CDM CASH DEPOSIT'],200.0,Credit,50059.04,False,False
+93,17/01,"['IBG CREDIT', '20190116149044569', '1223', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",4006.93,Credit,54065.97,False,False
+94,17/01,['2D LOCAL CHQ'],1200.0,Credit,55265.97,False,False
+95,48/01,['CDM CASH DEPOSIT'],4870.0,Credit,60135.97,False,False
+96,18/01,"['OTHER TRANSFER FEE', '150119 CARD MACHINE']",0.1,Debit,60135.87,False,False
+97,18/01,"['TR IBG', '150119 CARD MACHINE', 'feoh chiek kai']",210.77,Debit,59925.1,False,False
+98,18/01,"['TR TO RENTAS', '1901 180041086907', 'PAY BACK TO ERIC', 'TAN CHUAN KEAT']",10000.0,Debit,49925.1,False,False
+99,48/01,"['SERVICE CHARGE', '1901180041086901 PAY BACK TO', 'ERIC']",2.0,Debit,49923.1,False,False
+100,18/01,"['OTHER TRANSFER FEE', '160119 CARD MACHINE']",0.1,Debit,49923.0,False,False
+101,18/01,"['TR IBG', '160119 CARD MACHINE', 'teoh chiek kai']",4005.93,Debit,45917.07,False,False
+102,18/01,"['IBG CREDIT', '20190117149044569', '2260', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",3477.05,Credit,49394.12,False,False
+103,22/01,"['IBG CREDIT', '20190118149044569', '7827', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",354.6,Credit,49748.72,False,False
+104,22/01,"['IBG CREDIT', '20190121149044569', '3170', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",161.54,Credit,49910.26,False,False
+105,23/01,"['IBG CREDIT', '20190122149044569', '5107', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",2159.07,Credit,52069.33,False,False
+106,24/01,"['IBG CREDIT', '20190123149044569', '1894', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",415.66,Credit,52484.99,False,False
+107,24/01,"['OTHER TRANSFER FEE', '170119 CARD MACHINE']",0.1,Debit,52484.89,False,False
+108,24/01,"['TR IBG', '170119 CARD MACHINE', 'teoh chiek kai']",3476.05,Debit,49008.84,False,False
+109,24/01,"['OTHER TRANSFER FEE', '210119 CARD MACHINE']",0.1,Debit,49008.74,False,False
+110,24/01,"['TR IBG', '210119 CARD MACHINE', 'teoh chiek kai']",160.54,Debit,48848.2,False,False
+111,24/01,"['TR TO C/A', 'SIONG HUP MOTOR SPA', 'HONDA RB1 ABSORBER']",1284.0,Debit,47564.2,False,False
+112,24/01,"['OTHER TRANSFER FEE', '180119 CARD MACHINE']",0.1,Debit,47564.1,False,False
+113,24/01,"['TR BG', '180119 CARD MACHINE', 'teoh chiek kai']",353.6,Debit,47210.5,False,False
+114,25/01,"['IBG CREDIT', 'SEWANOV2018', 'NOR', '9457', 'SHAHID', 'NOR SHAHID ABD MALIK', 'PRIVATE TRANSACTION']",900.0,Credit,48110.5,False,False
+115,25/01,"['IBG CREDIT', '20190124149044569', '1097', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",5008.35,Credit,53118.85,False,False
+116,28/01,"['IBG CREDIT', '20190125149044569', '4116', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",5431.6,Credit,58550.45,False,False
+117,28/01,"['IBG CREDIT', '20190127149044569', '8050', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",3152.0,Credit,61702.45,False,False
+118,29/01,"['OTHER TRANSFER FEE', 'PAY FOR LESEN NIAGA']",0.1,Debit,61702.35,False,False
+119,29/01,"['TR IBG', 'PAY FOR LESEN NIAGA', 'PANG CHIN LIONG']",1214.36,Debit,60487.99,False,False
+120,29/01,"['OTHER TRANSFER FEE', '250119 CARD MACHINE']",0.1,Debit,60487.89,False,False
+121,29/01,"['TR IBG', '250119 CARD MACHINE', 'teoh chiek kai']",5430.6,Debit,55057.29,False,False
+122,29/01,"['OTHER TRANSFER FEE', '270119 CARD MACHINE']",0.1,Debit,55057.19,False,False
+123,29/01,"['TR IBG', '270119 CARD MACHINE', 'feoh chiek kai']",3151.0,Debit,51906.19,False,False
+124,29/01,"['OTHER TRANSFER FEE', '230119 CARD MACHINE']",0.1,Debit,51906.09,False,False
+125,29/01,"['TR IBG', '230119 CARD MACHINE', 'teoh chiek kai']",414.66,Debit,51491.43,False,False
+126,29/01,"['OTHER TRANSFER FEE', '220119 CARD MACHINE']",0.1,Debit,51491.33,False,False
+127,29/01,"['TR IBG', '220119 CARD MACHINE', 'teoh chiek kai']",2158.07,Debit,49333.26,False,False
+128,29/01,"['OTHER TRANSFER FEE', '240119 CARD MACHINE']",0.1,Debit,49333.16,False,False
+129,29/01,"['TR IBG', '240119 CARD MACHINE', 'teoh chiek kai']",5007.35,Debit,44325.81,False,False
+130,30/01,"['IBG CREDIT', '20190129149044569', '8246', 'AMBANK CS', 'AMBANK CSD', 'CC MERCH SETTLEMENT']",844.14,Credit,45169.95,False,False
+131,30/01,"['OTHER TRANSFER FEE', '290119 card machine']",0.1,Debit,45169.85,False,False
+132,30/01,"['TR IBG', '290119 card machine', 'teoh chiek kai']",843.14,Debit,44326.71,False,False
+133,30/01,"['TR TO LOANS', 'CK AUTOMOBILE SERVI', 'car loan jqy5300']",1350.0,Debit,42976.71,False,False
+134,30/01,"['OTHER TRANSFER FEE', 'pay for mbjb lesen return to eric']",0.1,Debit,42976.61,False,False
+135,30/01,"['TR IBG', 'pay for mbjb lesen', 'return to eric', 'TAN CHUAN KEAT']",1350.0,Debit,41626.61,False,False
+136,30/01,"['OTHER TRANSFER FEE', 'wei ho foo', 'salary for jan 191']",0.1,Debit,41626.51,False,False
+137,30/01,"['TR IBG', 'wei ho foo', 'salary forjan 19 1', 'TAN CHUAN KEAT']",3967.25,Debit,37659.26,False,False
+138,30/01,"['OTHER TRANSFER FEE', 'PAYMENT FOR DEC 18 CK2']",0.1,Debit,37659.16,False,False
+139,30/01,"['TR IBG', 'PAYMENT FOR DEC 18', 'CK2', 'SLS PARTS & LUBRICAN']",661.14,Debit,36998.02,False,False
+140,31/01,"['ATM MEPS IBFT FROM OFI', 'Bill Payment', 'CHONG', 'JUN', 'CHONG JUN YONG', 'INSTANT TRANSFER']",2087.01,Credit,39085.02,False,True
+141,31/01,"['OTHER TRANSFER FEE', 'rental for 1218 0119CK1 shop']",0.1,Debit,39084.92,False,False
+142,31/01,"['TR IBG', 'rental for 1218 0119', 'CK1 shop', 'HOMETRIC DESIGN & CO']",10400.0,Debit,28684.92,False,False
+143,31/01,"['TR TO C/A', 'REGAL AUTO TRADING', 'payment for nov 18', 'ck?']",320.0,Debit,28364.92,False,False
+144,31/01,"['OTHER TRANSFER FEE', 'payment for dec 18 CK1']",0.1,Debit,28364.82,False,False
+145,31/01,"['TR IBG', 'payment for dec 18', 'CK1', 'FJ UNION BATTERY AUT']",1062.1,Debit,27302.72,False,False
+146,31/01,"['OTHER TRANSFER FEE', 'payment for dec 18 CKT']",27302.62,Debit,27302.62,False,True
+147,31/01,"['TR IBG', 'payment for dec 18', 'CkK1', 'BEST ZONE AUTO PARTS']",600.0,Debit,26702.62,False,False
+148,31/01,"['OTHER TRANSFER FEE', 'payment for dec 18 CK1']",0.1,Debit,26702.52,False,False
+149,31/01,"['TR IBG', 'payment for dec 18', 'CK1', 'top mix auto parts s']",80.0,Debit,26622.52,False,False
+150,31/01,"['OTHER TRANSFER FEE', 'payment for aug 18 CK1']",0.1,Debit,26622.42,False,False
+151,31/01,"['TR IBG', 'payment for aug 18', 'CckK1', 'MING Yt AUTOMOTIVE S']",400.0,Debit,26222.42,False,False
+152,31/01,"['OTHER TRANSFER FEE', 'PAYMENT FOR OCT 18 CK1']",0.1,Debit,26222.32,False,False
+153,31/01,"['TR IBG', 'PAYMENT FOR OCT 18', 'CcK1', 'SUAN HUAT AUTO CORPO']",7486.0,Debit,18736.32,False,False
+154,31/01,"['TR TO C/A', 'HONG SHENG SPARE PA', 'payment for nov 18', 'ck?']",2668.0,Debit,16068.32,False,False
+155,31/01,"['OTHER TRANSFER FEE', 'payment for dec 18 CK1']",0.1,Debit,16068.22,False,False
+156,31/01,"['TR IBG', 'payment for dec 18', 'CK1', 'TRIUMPH MASTERS MARK']",759.0,Debit,15309.22,False,False
+157,31/01,"['OTHER TRANSFER FEE', 'salary for dec 18 2 CK1']",0.1,Debit,15309.12,False,False
+158,31/01,"['TR IBG', 'salary for dec 18 2', 'CKt', 'V cross tyre & tradi']",296.0,Debit,15013.12,False,False
+159,31/01,['CDM CASH DEPOSIT'],4830.0,Credit,19843.12,False,False
+160,31/01,['CDM CASH DEPOSIT'],290.0,Credit,20133.12,False,False
+161,,['CLOSING BALANCE / BAK! PENUTUP'],,,20133.12,False,False
+162,,['Total Withdrawal'],,,149134.93,False,False
+163,,['Total Deposit'],,,59334.96,False,False

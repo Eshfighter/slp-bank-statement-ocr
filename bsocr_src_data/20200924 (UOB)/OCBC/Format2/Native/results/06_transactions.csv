@@ -1,0 +1,7 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,16074.61,False,False
+1,01/06,"['LOAN PAYMENT', '501112008900000']",2095.96,Debit,13978.65,False,False
+2,10/06,"['GIRO', 'OTHR', 'GARDEN PICKS FOOD M', 'Garden Picks']",2500.0,Credit,16478.65,False,False
+3,,['BALANCE C/F'],,,16478.65,False,False
+4,,['Total Withdrawals'],,,2095.96,False,False
+5,,['Total Deposits'],,,2500.0,False,False

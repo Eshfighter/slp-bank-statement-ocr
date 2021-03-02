@@ -1,0 +1,57 @@
+
+init-config:
+  country-name: singapore
+  bank-name : Maybank
+  format-id: maybank_sg_2
+  format-key-word: 'SGD'
+
+# parsing variables
+summary-config:
+  summary-page-index: 0
+  keys: ['account-number', 'account-type', 'bank-name', 'document-type', 'number-of-pages', 'statement-date']
+  bank-name-find: ['Maybank']
+  account-list: ['Current Account']
+  separate-summary-lines: True
+  account-name-address-remove: ['Statement Date', 'Branch']
+  account-name-start: ''
+  account-name-line-start-index: 0
+  account-address-stop: ['Statement Date']
+  state-dt-keyword: 'Statement Date'
+  state-dt-from-start: False
+  no-of-date-words: 1
+  page-keyword: PAGE
+  account-no-regex: '\d\d\d\d\d\d\d\d\d\d\d'
+
+cropped-summary-areas:
+  crop-account-name-address-area:
+    coordinates: [280, 600, 0, 900]
+
+transaction-config:
+  txn-key-word: ['BAL B/F']
+  start-of-month-keyword: ['BAL B/F']
+  end-of-month-keyword: ['TOTAL']
+  stop-at: ['TOTAL']
+  date-regex-list: ['\d\d/\d\d/\d\d\d\d', '\d/\d\d/\d\d\d\d']
+  columns-in-between-date-descriptions: 0
+  statement-date-format: 'DD/MM/YYYY'
+  transaction-date-format: 'D/MM/YYYY'
+  number-regex-list: ['([0-9sS$oO§]{1,3}(,[0-9sS$oO§]{3})*(\.|\,)[0-9sS$oO§]{2})']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: ['TOTAL']
+  balance-in-separate-table: True
+  balance-fields: {
+    'key': ['Total Withdrawals', 'Total Deposits', 'TOTAL'],
+    'actual-key': ['Total Withdrawals', 'Total Deposits'],
+    'row-after-key': 0,
+  }
+  transaction-summary-key-info: [{
+    keyword: ['Total Deposits'],
+    key: 'total-credit'
+  }, {
+    keyword: ['Total Withdrawals'],
+    key: 'total-debit'
+  }, {
+    keyword: [ 'BAL B/F' ],
+    key: 'start-balance'
+  }]

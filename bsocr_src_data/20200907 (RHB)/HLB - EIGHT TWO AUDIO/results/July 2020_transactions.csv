@@ -1,0 +1,73 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Balance from previous statement'],,,127215.47,False,False
+1,27/06,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,127215.37,False,False
+2,27/06,"['Connect BIZ IBG', 'master', 'low miew fong', 'IBGCMSCITI27062020204709']",1000.0,Debit,126215.37,False,False
+3,27/06,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,126215.27,False,False
+4,27/06,"['Connect BIZ IBG', 'VISA', 'LOW MIEW FONG', 'IBGCMSCITI25062020178428']",1000.0,Debit,125215.27,False,False
+5,30/06,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,125215.17,False,False
+6,30/06,"['Connect BIZ IBG', 'CREDIT CARD', 'LOW MIEW FONG', 'IBGCMSHSBC30062020250691']",1052.2,Debit,124162.97,False,False
+7,30/06,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,124162.87,False,False
+8,30/06,"['Connect BIZ IBG', 'NIRWANA', 'LOW MIEW FONG', 'IBGCMSHSBC30062020250625']",2061.3,Debit,122101.57,False,False
+9,01/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,122101.47,False,False
+10,01/07,"['Connect BIZ IBG', 'IV-25132', 'SUPER 56 SDN BHD', 'IBGCMSMBB01072020267230']",112.0,Debit,121989.47,False,False
+11,01/07,"['Instant Transfer at KLM', 'Audio', 'CHUA KOK ANN', '20200701MBBEMYKL010ORM02264884']",2000.0,Credit,123989.47,False,False
+12,02/07,"['417202', 'Inclearing-Cheque']",3122.0,Debit,120867.47,False,False
+13,02/07,"['Cr Adv-Interbank GIRO at KLM', 'PRIHATIN PKS1200 - B', 'A3702037830Y', 'PERKESO SIP-BAYARAN']",14400.0,Credit,135267.47,False,False
+14,03/07,['Cheque Processing Fee'],0.5,Debit,135266.97,False,False
+15,06/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,135266.87,False,False
+16,06/07,"['Connect BIZ IBG', 'MAY 2020 SALARY', 'LOW MIEW FONG', 'IBGCMSHSBC06072020344526']",1833.25,Debit,133433.62,False,False
+17,06/07,"['Connect BIZ Fund Transfer', 'JUNE 2020 SALARY', 'MUHAMMAD HAIRI BIN ABDULLAH']",2062.57,Debit,131371.05,False,False
+18,06/07,"['Connect BIZ Fund Transfer', 'JUNE 2020 SALARY', 'AZLINA BINTI SAFRI']",2234.25,Debit,129136.8,False,False
+19,06/07,"['Connect BIZ Fund Transfer', 'JUNE 2020 SALARY', 'IDRIS HAWLADER']",1700.0,Debit,127436.8,False,False
+20,06/07,"['Connect BIZ Fund Transfer', 'JUNE 2020 SALARY', 'STEPHANIE ROS A/P SEVIAR']",1787.75,Debit,125649.05,False,False
+21,06/07,"['Connect BIZ Fund Transfer', 'inv20/05281', 'WEYN-HUNG MACHINERY & HARDWARE SDN BHD']",220.0,Debit,125429.05,False,False
+22,06/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,125428.95,False,False
+23,06/07,"['Connect BIZ IBG', 'INV:2019-263', 'SUNSHINE STEEL & GLA', 'IBGCMSOCBC06072020343716']",7600.0,Debit,117828.95,False,False
+24,07/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,117828.85,False,False
+25,07/07,"['Connect BIZ IBG', 'PETTY CAsh', 'LOW MIEW FONG', 'IBGCMSHSBC07072020369302']",220.0,Debit,117608.85,False,False
+26,09/07,"['416143', 'House Cheque Debit (RPC) at KLA']",700.0,Debit,116908.85,False,False
+27,09/07,"['417206', 'Inclearing-Cheque']",1308.0,Debit,115600.85,False,False
+28,10/07,['Cheque Processing Fee'],1.0,Debit,115599.85,False,False
+29,14/07,"['HLB Collection at KLM', 'EC682500', 'CTOS DATA SYSTEMS SDN BHD', 'P2007134084172']",487.71,Debit,115112.14,False,False
+30,14/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,115112.04,False,False
+31,14/07,"['Connect BIZ IBG', 'MEDICAL', 'LOW MIEW FONG', 'IBGCMSBCB14072020467148']",2386.0,Debit,112726.04,False,False
+32,14/07,"['Connect BIZ Fund Transfer', 'MARCH 2020 SALARY', 'CHENG KEN CHING']",2000.0,Debit,110726.04,False,False
+33,14/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,110725.94,False,False
+34,14/07,"['Connect BIZ IBG', 'PETTY CASH', 'LOW MIEW FONG', 'IBGCMSHSBC14072020468014']",145.0,Debit,110580.94,False,False
+35,14/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,110580.84,False,False
+36,14/07,"['Connect BIZ IBG', 'PETTY CASH', 'LOW MIEW FONG', 'IBGCMSHSBC14072020467990']",469.1,Debit,110111.74,False,False
+37,15/07,"['417204', 'House Cheque Debit (RPC) at BKS']",600.0,Debit,109511.74,False,False
+38,15/07,"['417205', 'House Cheque Debit (RPC) at BKS']",487.5,Debit,109024.24,False,False
+39,15/07,"['417207', 'Inclearing-Cheque']",3666.0,Debit,105358.24,False,False
+40,16/07,['Cheque Processing Fee'],1.5,Debit,105356.74,False,False
+41,16/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,105356.64,False,False
+42,16/07,"['Connect BIZ IBG', 'PERKESO SIP APRIL', 'LOW MIEW FONG', 'IBGCMSHSBC16072020496548']",600.0,Debit,104756.64,False,False
+43,16/07,"['Connect BIZ Fund Transfer', 'PERKESO SIP APRIL', 'CHENG WENG HING']",600.0,Debit,104156.64,False,False
+44,16/07,"['Connect BIZ Fund Transfer', 'PERKESO SIP APRIL', 'AZLINA BINTI SAFRI']",600.0,Debit,103556.64,False,False
+45,16/07,"['Connect BIZ Fund Transfer', 'PERKESO SIP APRIL', 'STEPHANIE ROS A/P SEVIAR']",600.0,Debit,102956.64,False,False
+46,16/07,"['Connect BIZ Fund Transfer', 'PERKESO SIP APRIL', 'MUHAMMAD HAIRI BIN ABDULLAH']",600.0,Debit,102356.64,False,False
+47,16/07,"['Instant Transfer at KLM', 'I001930 10July20', 'Rental of karaoke system', 'TSUKIJI FRESH SDN BHD', '20200716PBBEMYKL010ORB13565061']",1500.0,Credit,103856.64,False,False
+48,16/07,"['Cr Adv-Interbank GIRO at KLM', 'a', 'a', 'LOW MIEW FONG']",350.0,Credit,104206.64,False,False
+49,17/07,"['008688', 'House Cheque (RPC) at PCG']",6150.0,Credit,110356.64,False,False
+50,21/07,"['FPX Collection at KLM', 'MY00017348', 'SHELL MALAYSIA TRADING SDN BHD', 'I2007214112287']",504.47,Debit,109852.17,False,False
+51,21/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,109852.07,False,False
+52,21/07,"['Connect BIZ IBG', 'UTILITY', 'LOW MIEW FONG', 'IBGCMSHSBC21072020558946']",2222.19,Debit,107629.88,False,False
+53,21/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,107629.78,False,False
+54,21/07,"['Connect BIZ IBG', 'PETTY CASH', 'LOW MIEW FONG', 'IBGCMSHSBC21072020558902']",305.12,Debit,107324.66,False,False
+55,21/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,107324.56,False,False
+56,21/07,"['Connect BIZ IBG', 'CELCOM', 'LOW MIEW FONG', 'IBGCMSHSBC21072020558858']",846.9,Debit,106477.66,False,False
+57,21/07,"['FPX B2B1', 'C 2370057501', 'LEMBAGA HASIL DALAM NEGERI MAL', '2007211539050172']",833.0,Debit,105644.66,False,False
+58,21/07,"['417208', 'Inclearing-Cheque']",2235.0,Debit,103409.66,False,False
+59,21/07,"['000015', 'House Cheque (RPC) at PCJ']",1194.0,Credit,104603.66,False,False
+60,21/07,"['000018', 'House Cheque (RPC) at PCJ']",2500.0,Credit,107103.66,False,False
+61,22/07,['Cheque Processing Fee'],0.5,Debit,107103.16,False,False
+62,23/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,107103.06,False,False
+63,23/07,"['Connect BIZ IBG', 'NIRWANA', 'LOW MIEW FONG', 'IBGCMSHSBC23072020585362']",1500.0,Debit,105603.06,False,False
+64,23/07,['Serv Charge-IBG/TT/Rentas/Misc'],0.1,Debit,105602.96,False,False
+65,23/07,"['Connect BIZ IBG', 'INV:07797126', 'ACCT:000319317', 'TNT EXPRESS WORLDWID', 'IBGCMSBCB23072020585224']",273.77,Debit,105329.19,False,False
+66,23/07,"['416150', 'Inclearing-Cheque']",1800.0,Debit,103529.19,False,False
+67,23/07,"['417201', 'Inclearing-Cheque']",150.0,Debit,103379.19,False,False
+68,24/07,['Cheque Processing Fee'],1.0,Debit,103378.19,False,False
+69,,['Total Withdrawals'],,,51931.28,False,False
+70,,['Total Deposits'],,,28094.0,False,False
+71,,['Closing Balance'],,,103378.19,False,False

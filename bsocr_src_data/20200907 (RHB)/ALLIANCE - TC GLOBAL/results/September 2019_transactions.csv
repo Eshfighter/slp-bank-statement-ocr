@@ -1,0 +1,111 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,"['1 30/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",39274.56,,24532.43,False,False
+1,,"['2 30/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",6793.2,Credit,63806.99,False,True
+2,,"['3 30/09/2019', '22:01:29', 'PAYMENT', 'FROZEN', 'AM450/201', 'SERVICES', 'SDN BHD', '63406']",3160.0,Credit,70600.19,False,True
+3,,['4 30/09/2019'],2100.0,Debit,67440.19,False,True
+4,,"['21:26:38', 'BANKING', 'MARKETIN', 'SERVICES', 'G/AOBFTR', '300920196', '32633']",1.1,,,False,True
+5,,"['5 30/09/2019 CARD AND', '19:02:20 PAYMENT', 'CONVENIE 15843/Out', 'SERVICES', 'NT R', 'ward ACH']",1663.56,,65340.19,False,False
+6,,"['6 30/09/2019 CARD AND', '19:02:20 PAYMENT', 'CONVENIE 14071/Out', 'SERVICES', 'NT R', 'ward ACH']",1212.48,Debit,63676.63,False,True
+7,,"['7 30/09/2019 CARD AND', '16:23:46 PAYMENT', 'TO CA', 'AKU', 'TRANSFE', 'SERVICES', 'R']",202.8,Debit,62464.15,False,True
+8,,"['8 30/09/2019 ELECTRO', '16:10:32', 'NIC', '- CA', 'AKU', '5/AOBFTR', 'BANKING', '300920196', 'SERVICES', '31457']",167.4,Debit,62261.35,False,True
+9,,"['9 30/09/2019 ELECTRO', '16:10:32', 'NIC', '- CA', 'AKU', '1/AOBFTR', 'BANKING', '300920196', 'SERVICES', '31461']",118.8,Debit,62093.95,False,True
+10,,"['10 30/09/2019 CARD AND', '16:01:26 PAYMENT', 'SHOPPING 1909/441', 'SERVICES', 'CENTR', '12:54:30 PAYMENT', 'TO CA', 'RLIE', '03', 'SERVICES', '201909']",597.48,Debit,61975.15,False,True
+11,,"['12 30/09/2019 CARD AND', '10:05:21 PAYMENT', 'N', '000000001', 'SERVICES', 'CREATION 64/Outward', 'ACH']",4419.4,Debit,61113.67,False,True
+12,,"['13 30/09/2019 CARD AND', '10:02:49 PAYMENT', 'World', '2019/BEBK', 'SERVICES', 'Restaur', '092827750', '075']",760.0,Debit,56694.27,False,True
+13,,"['14 28/09/2019 ELECTRO', '17:39:56', 'NIC', 'Dazs12oct1 MIN/RPP19', 'BANKING', '092800080', 'SERVICES', '6016']",2807.61,Debit,55934.27,False,True
+14,,"['15 28/09/2019 CARD AND', '17:38:19 PAYMENT', 'TO CA', 'A ONE', 'SERVICES', 'FAMILY']",300.0,Debit,53126.66,False,True
+15,,"['16 28/09/2019 MELAKA', '02:27:24', 'FEE']",0.5,Debit,52826.66,False,True
+16,,"['17 27/09/2019 MELAKA', '23:00:00', 'INCLEARING-', 'CHEQUE']",1441.0,Credit,52827.16,False,True
+17,,"['18 27/09/2019', '17:44:04', 'DEP/MISC']",953.96,Credit,54268.16,False,True
+18,,"['19 27/09/2019', '17:41:42', 'DEP/MISC', 'Page 1 of 6']",732.6,Debit,53314.2,False,True
+19,,['20 27/09/2019 ELECTRO'],23300.0,Debit,52581.6,False,True
+20,,"['895', 'BANKING']",9.2,,,,True
+21,,"['21 26/09/2019 CARD AND', '12:19:14 PAYMENT', 'TO CA', 'Pacific Mkt', 'SERVICES']",31.5,,29281.6,False,False
+22,,['22 25/09/2019 ELECTRO'],12000.0,Debit,29250.1,False,True
+23,,"['18:27:26', 'BANKING', '920196250', 'SERVICES', '79']",9.2,,,False,True
+24,,"['23 25/09/2019 ELECTRO', '18:12:32', 'NIC', 'From', 'salary/AOB', 'salary/Tran', 'BANKING', 'ABMB', 'IFT250920', 'sfer From', 'SERVICES', '19418196', 'ABMB']",1662.0,,17250.1,False,False
+25,,"['24 25/09/2019 MELAKA', '17:29:19', 'DEP/MISC', 'BANK']",562.47,Credit,18912.1,False,True
+26,,"['25 25/09/2019 CARD AND', '16:00:35 PAYMENT', 'EMAS', 'inv/Fund', 'SERVICES', 'MARINE', 'Transfer', 'SDN']",1152.0,Debit,18349.63,False,True
+27,,"['26 25/09/2019 ELECTRO Instant Transfer', '07:31:19', 'NIC', 'From', 'Mich', 'Mich', 'BANKING', 'ABMB', 'sala/AOBIF', 'salary/Tran', 'SERVICES', 'T24092019', 'sfer From', '41180', 'ABMB']",3200.0,Debit,17197.63,False,True
+28,,"['27 25/09/2019', '02:28:21', 'FEE']",0.5,Credit,20397.63,False,True
+29,,"['28 24/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",13275.3,Credit,20398.13,False,True
+30,,"['29 24/09/2019', '17:00:19', 'DEP/MISC']",2232.07,Credit,33673.43,False,True
+31,,"['30 24/09/2019', '17:00:19', 'DEP/MISC']",374.98,Debit,31441.36,False,True
+32,,"['31 24/09/2019', '10:54:08', 'NIC', 'From', 'advance/A', 'advance/Tr', 'BANKING', 'ABMB', 'OBIFT2409', 'ansfer', 'SERVICES', '201940696', 'From', 'ABMB']",200.0,Debit,31066.38,False,True
+33,,"['32 24/09/2019 CARD AND CR ADVICE - IBG', '10:02:36 PAYMENT', 'ZEMART', 'ZEMART', 'SERVICES', 'SDN BHD S/B/PAY', 'OF A/C']",3788.7,Credit,31266.38,False,True
+34,,"['33 23/09/2019 CARD AND IBFT FRM OTHS', '16:12:21 PAYMENT TO CA', '8/3358', 'TRANSFE', 'SERVICES']",2857.41,Debit,27477.68,False,True
+35,,"['34 23/09/2019 CARD AND CR ADVICE - IBG', '16:00:11 PAYMENT', 'MINI', 'SERVICES', 'SOON', 'HUAT']",1317.24,Debit,24620.27,False,True
+36,,"['35 23/09/2019 ELECTRO Instant Transfer', '09:58:28', 'NIC', 'From', 'Os002131/', 'Os002131/', 'BANKING', 'ABMB', 'AOBIFT230', 'Transfer', 'SERVICES', '920194000', 'From', '88', 'ABMB']",2300.0,Debit,23303.03,False,True
+37,,"['36 23/09/2019 ELECTRO Instant Transfer', '09:58:26', 'NIC', 'From', 'kelvin', 'kelvin', 'BANKING', 'ABMB', '450/AOBIF', '450/Transf', 'SERVICES', 'T23092019', 'er From', '400135', 'ABMB']",950.0,Credit,25603.03,False,True
+38,,"['37 23/09/2019 ELECTRO Instant Transfer', '09:58:25', 'NIC', 'From', 'loan/AOBIF', 'loan/Transf', 'BANKING', 'ABMB', 'T23092019', 'er From', 'SERVICES', '400052', 'ABMB']",1070.0,Credit,26553.03,False,True
+39,,"['38 22/09/2019 ELECTRO Instant Transfer', '17:32:01', 'NIC', 'From', 'advance/A', 'advance/Tr', 'BANKING', 'ABMB', 'OBIFT2209', 'ansfer', 'SERVICES', '201939931', 'From', 'ABMB', 'Page 2 of 6']",200.0,Credit,27623.03,False,True
+40,,"['39 21/09/2019 ELECTRO Instant Transfer', '13:47:10', 'NIC', 'From', 'advance', 'advance', 'BANKING', 'ABMB', '200/AOBIF 200/Transf', 'SERVICES', 'T21092019 er From', '398307', 'ABMB', '12:16:28 PAYMENT', 'TO CA', 'PETROMA', 'SERVICES', 'RT']",200.0,Credit,27823.03,False,False
+41,,"['41 19/09/2019 MELAKA', '18:06:57', 'DEP/MISC']",5389.05,Debit,27101.52,False,True
+42,,"['42 19/09/2019 MELAKA', '18:06:44', 'DEP/MISC']",937.45,Debit,21712.47,False,True
+43,,"['43 19/09/2019 ELECTRO', '17:25:03', 'NIC', 'From', 'advance', 'advance', 'BANKING', 'ABMB', '350./AOBIF', '350. Mich', 'SERVICES', 'T19092019', '100/Transf', '390765', 'er From', 'ABMB']",450.0,Debit,20775.02,False,True
+44,,"['44 19/09/2019 CARD AND IBFT FRM OTHS', '14:01:55 PAYMENT TO CA', 'Pacific Mkt 20163394', 'SERVICES']",157.5,Credit,21225.02,False,True
+45,,"['45 19/09/2019 CARD AND CR ADVICE - IBG', '10:01:13 PAYMENT', 'SCREEN', 'SCREEN', 'SERVICES', 'CINEMA', 'CINEMA/T', 'C GLOBAL', 'MARKETIN']",1927.75,Debit,21067.52,False,True
+46,,"['46 18/09/2019 ELECTRO Instant Transfer', '18:46:20', 'NIC', 'From', 'entermain/', 'entermain/', 'BANKING', 'ABMB', 'AOBIFT180', 'Transfer', 'SERVICES', '920193857', 'From', '10', 'ABMB']",200.0,Debit,19139.77,False,True
+47,,"['47 18/09/2019 ELECTRO Instant Transfer', '11:04:23', 'NIC', 'From', 'Petty', 'Petty cash', 'BANKING', 'ABMB', 'cas/AOBIF', '100/Transf', 'SERVICES', 'T18092019', 'er From', '38170', 'ABMB']",200.0,Credit,19339.77,False,False
+48,,"['48 18/09/2019 CARD AND CR ADVICE - IBG', '10:00:41 PAYMENT', 'HOE MINI', 'aug19/BEB', 'SERVICES', 'MARK', 'K09173101', '6498']",764.0,Credit,19539.77,False,True
+49,,"['49 17/09/2019 CARD AND CR ADVICE - IBG', '16:00:41 PAYMENT', 'HOE', '19', 'SERVICES', 'TRADING']",2510.4,Debit,18775.77,False,True
+50,,"['50 17/09/2019 ELECTRO IB2G FND TRF CA', '14:44:46', 'NIC', '- CA', '2019', 'GLOBAL', 'BANKING', 'MARKETIN', 'SERVICES', 'G/AOBFTR', '170920196', '14366']",770.0,Debit,16265.37,False,True
+51,,"['51 17/09/2019 ELECTRO Instant Transfer', '10:05:10', 'NIC', 'From', 'advance/A', 'advance/Tr', 'BANKING', 'ABMB', 'OBIFT1709', 'ansfer', 'SERVICES', '201937492', 'From', 'ABMB']",200.0,Debit,15495.37,False,True
+52,,"['52 17/09/2019 CARD AND CR ADVICE - IBG', '10:04:47 PAYMENT', 'MART SDN', '87694/Out', 'SERVICES', 'ward ACH', 'from L &']",1080.65,Credit,15695.37,False,True
+53,,"['53 17/09/2019 CARD AND CR ADVICE - IBG', '10:04:47 PAYMENT', 'MART SDN', '26750/Out', 'SERVICES', 'ward ACH', 'from L &']",164.4,Debit,14614.72,False,True
+54,,"['54 17/09/2019 CARD AND CR ADVICE - IBG', '10:01:59 PAYMENT', 'PENGKAL', 'PENGKAL', 'SERVICES', 'AN', 'AN', 'TRADING', 'TRADING/', 'BEBK0915', '90528760']",294.0,Debit,14450.32,False,True
+55,,"['55 17/09/2019 ELECTRO Instant Transfer', '09:38:58', 'NIC', 'From', '20/AOBIFT', '20/Transfer', 'BANKING', 'ABMB', '170920193', 'From', 'SERVICES', '74652', 'ABMB', 'Page 3 of 6']",2300.0,Debit,14156.32,False,True
+56,,"['56 17/09/2019 ELECTRO NBPS IBG Dr CA', '09:38:57', 'NIC', '0510', 'TELEPHO', 'BANKING', 'NE', 'SERVICES', 'MULTIM/A', 'OBJOM170', '920197220', '09:38:55', 'NIC', 'From', '27/AOBIFT 27/Transfer', 'BANKING', 'ABMB', '170920193 From', 'SERVICES', '74674', 'ABMB']",284.1,Credit,16456.32,False,True
+57,,"['58 15/09/2019 ELECTRO Instant Transfer', '10:36:28', 'NIC', 'From', 'advance/A advance/Tr', 'BANKING', 'ABMB', 'OBIFT1509 ansfer', 'SERVICES', '201937289 From', 'ABMB']",200.0,Credit,26569.02,False,True
+58,,"['59 14/09/2019 ELECTRO Instant Transfer', '10:14:28', 'NIC', 'From', 'cs1900626/ cs1900626/', 'BANKING', 'ABMB', 'AOBIFT140 Transfer', 'SERVICES', '920193710 From', '30', 'ABMB']",215.0,Credit,26769.02,False,True
+59,,"['60 14/09/2019 ELECTRO Instant Transfer', '10:08:05', 'NIC', 'From', 'advance/A advance/Tr', 'BANKING', 'ABMB', 'OBIFT1409 ansfer', 'SERVICES', '201937098 From', 'ABMB']",250.0,Credit,26984.02,False,True
+60,,"['61 13/09/2019 MELAKA LOCAL CHQ', '15:04:17', 'DEP/MISC']",1645.1,Credit,27234.02,False,True
+61,,"['62 13/09/2019 ELECTRO Instant Transfer', '07:42:05', 'NIC', 'From', 'advance/A', 'advance/Tr', 'BANKING', 'ABMB', 'OBIFT1309', 'ansfer', 'SERVICES', '201936245', 'From', 'ABMB']",300.0,Debit,25588.92,False,True
+62,,"['63 12/09/2019 MELAKA', '17:03:25', 'DEP/MISC']",4077.8,Credit,25888.92,False,True
+63,,"['64 12/09/2019 CARD AND', '13:38:11 PAYMENT', 'TO CA', 'Pacific Mkt 20163333', 'SERVICES']",63.0,Debit,21811.12,False,True
+64,,"['65 12/09/2019 MELAKA', '02:20:58', 'FEE']",0.5,Debit,21748.12,False,True
+65,,"['66 11/09/2019 MELAKA', '23:00:00', 'INCLEARING-', 'CHEQUE']",2300.0,Credit,21748.62,False,True
+66,,"['67 11/09/2019 CARD AND CR ADVICE - IBG', '10:00:55 PAYMENT', 'SDN BHD AUG19', 'SERVICES', 'PYMT/BEB', 'K09105309', '2983']",410.98,Credit,24048.62,False,True
+67,,"['68 11/09/2019 CARD AND', '10:00:53 PAYMENT', 'RYORI', 'RYORI', 'SERVICES', 'SDN BHD AUG19', 'PYT/BEBK', '091011109', '202']",573.72,Debit,23637.64,False,True
+68,,"['69 11/09/2019 ELECTRO', '08:38:25', 'NIC', '- CA', 'discount', 'TRADING/', 'BANKING', 'AOBFTR11', 'SERVICES', '092019607', '750']",500.0,Debit,23063.92,False,True
+69,,"['70 11/09/2019', '02:18:53', 'FEE']",2.0,Credit,23563.92,False,True
+70,,"['71 10/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",1800.0,Credit,23565.92,False,True
+71,,"['72 10/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",440.0,Credit,25365.92,False,True
+72,,"['73 10/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",63.0,Credit,25805.92,False,True
+73,,"['74 10/09/2019', '18:00:14', 'CHEQUE/MISC', 'B', 'Page 4 of 6']",600.0,Credit,25868.92,False,True
+74,,"['75 10/09/2019 ELECTRO Instant Transfer', '14:30:03', 'NIC', 'From', 'advance/A advance/Tr', 'BANKING', 'ABMB', 'OBIFT1009 ansfer', 'SERVICES', '201934085 From', 'ABMB']",200.0,Credit,26468.92,False,True
+75,,"['76 10/09/2019 CARD AND CR ADVICE - IBG', '10:04:43 PAYMENT', 'EVOLUTIO R/PAYMEN', 'SERVICES', 'N SDN', 'T 201905-', '08']",636.5,Credit,26668.92,False,True
+76,,['77 10/09/2019 CARD AND CR ADVICE - IBG'],60.0,Debit,26032.42,False,True
+77,,"['10:02:34 PAYMENT', 'SERVICES', 'K09072031', '5620']",60.0,,,False,True
+78,,"['78 10/09/2019 CARD AND CR ADVICE - IBG', '10:01:45 PAYMENT', 'AND', 'GIRO/CAL', 'SERVICES', 'CHESTER LENA&CH', 'ESTER', 'TRAD']",859.34,,25972.42,False,False
+79,,"['79 09/09/2019 ELECTRO Instant Transfer', '18:29:01', 'NIC', 'From', 'advance/A advance/Tr', 'BANKING', 'ABMB', 'OBIFT0809 ansfer', 'SERVICES', '201933448 From', 'ABMB']",200.0,Debit,25113.08,False,True
+80,,"['80 08/09/2019 ELECTRO Instant Transfer', '07:58:26', 'NIC', 'From', 'CHUAN/AO', 'BANKING', 'ABMB', 'BIFT08092', 'SERVICES', '019334177']",200.0,Credit,25313.08,False,False
+81,,"['81 08/09/2019 ELECTRO Instant Transfer', '07:58:24', 'NIC', 'From', 'PINTAR', 'BANKING', 'ABMB', 'CERDAS/A', 'SERVICES', 'OBIFT0409', '201931230', '82 07/09/2019', 'MELAKA']",695.0,Credit,25513.08,False,True
+82,,"['CA DR CHQ PRO', '02:21:17', 'FEE']",0.5,Debit,208.08,False,True
+83,,"['83 06/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",368.4,Credit,26208.58,False,True
+84,,"['84 06/09/2019 ELECTRO Instant Transfer', '11:27:03', 'NIC', 'From', 'Mich', 'Mich 500.', 'BANKING', 'ABMB', '500/AOBIF', 'Max200/Tr', 'SERVICES', 'T06092019', 'ansfer', '32510', 'From', 'ABMB']",1000.0,Credit,26576.98,False,True
+85,,"['85 06/09/2019 CARD AND CR ADVICE - IBG', '10:01:14 PAYMENT', 'SELECTIO 20162614/', 'SERVICES', 'N (M', 'BEBK0905', '95470199']",842.4,Credit,27576.98,False,True
+86,,"['86 05/09/2019 ELECTRO', '22:04:28', 'NIC', 'From', 'fees', 'fees', 'BANKING', 'ABMB', '2018/AOBI', '2018/Trans', 'SERVICES', 'FT0509201', 'fer From', '932231', 'ABMB']",2000.0,Debit,26734.58,False,True
+87,,"['87 05/09/2019 CARD AND', '22:01:10 PAYMENT', 'AKU (M)', '8078/KELU', 'SERVICES', 'SDN.', 'ARGAKU']",401.4,Credit,28734.58,False,True
+88,,"['88 05/09/2019 ELECTRO', '16:16:57', 'NIC', '- CA', 'AKU', '3/AOBFTR', 'BANKING', '050920196', 'SERVICES', '01454']",267.2,Debit,28333.18,False,True
+89,,"['89 05/09/2019 CARD AND', '14:43:23 PAYMENT', 'TO CA', 'Pacific Mkt', 'SERVICES']",126.0,Debit,28065.98,False,True
+90,,"['90 05/09/2019 CARD AND CR ADVICE - IBG', '13:00:41 PAYMENT', 'SCREEN', 'SCREEN', 'SERVICES', 'CINEMA', 'CINEMA/T', 'C GLOBAL', 'MARKETIN']",5608.0,Debit,27939.98,False,True
+91,,"['91 05/09/2019', '02:23:15', 'FEE', 'Page 5 of 6']",0.5,Debit,22331.98,False,True
+92,,"['92 04/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",7340.7,Credit,22332.48,False,True
+93,,"['93 04/09/2019', '15:20:05', 'DEP/MISC']",4958.4,Credit,29673.18,False,True
+94,,"['94 04/09/2019', '02:34:38', 'FEE']",1.0,Debit,24714.78,False,True
+95,,"['95 03/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",20997.56,Credit,24715.78,False,True
+96,,"['96 03/09/2019', '23:00:00', 'INCLEARING-', 'CHEQUE']",6700.0,Credit,45713.34,False,True
+97,,"['97 03/09/2019', '22:02:08', 'PAYMENT', 'ACC', 'SERVICES', 'PETROMA', 'JULY/PRIV', 'RT', 'ATE', 'TRANSAC', 'TION']",1305.3,Credit,52413.34,False,True
+98,,"['98 03/09/2019 CARD AND', '19:02:11 PAYMENT', 'CONVENIE 98050/Out', 'SERVICES', 'NT R', 'ward ACH']",1380.0,Debit,51108.04,False,True
+99,,"['99 03/09/2019 CARD AND', '19:02:11 PAYMENT', 'CONVENIE 98106/Out', 'SERVICES', 'NT R', 'ward ACH']",980.76,Debit,49728.04,False,True
+100,,"['10 03/09/2019 MELAKA', '18:13:40', 'DEP/MISC', 'BANK']",3783.71,Debit,48747.28,False,True
+101,,"['10 03/09/2019 ELECTRO', '17:49:20', 'NIC', 'From', 'advance/A', 'advance/Tr', 'BANKING', 'ABMB', 'OBIFT0309', 'ansfer', 'SERVICES', '201930325', 'From', 'ABMB']",200.0,Debit,44963.57,False,True
+102,,"['10 03/09/2019 CARD AND CR ADVICE - IBG', '16:01:16 PAYMENT', 'SHOPPING 1909/116', 'SERVICES', 'CENTR']",335.7,Credit,45163.57,False,True
+103,,"['10 03/09/2019 CARD AND CR ADVICE - IBG', '16:01:01 PAYMENT', 'KITCHEN 20163388/', 'SERVICES', 'SDN BH', 'BEBK0903', '86874813']",602.96,Debit,44827.87,False,True
+104,,"['10 03/09/2019 CARD AND CR ADVICE - IBG', '10:05:15 PAYMENT', 'MART', '236', 'SERVICES', 'SDN.BH']",5233.6,Debit,44224.91,False,True
+105,,"['10 03/09/2019 CARD AND CR ADVICE - IBG', '10:03:00 PAYMENT', 'MART', 'PAYMENT', 'SERVICES', 'CASH & C']",218.0,Debit,38991.31,False,True
+106,,"['10 03/09/2019 ELECTRO NBPS IBG Dr CA', '08:16:10', 'NIC', '009', 'NASIONAL', 'BANKING', 'BERH/AOB', 'SERVICES', 'JOM03092', '01970948']",1166.3,Debit,38773.31,False,True
+107,,"['10 02/09/2019 ELECTRO FPX ABB as Byr', '21:17:29', 'NIC', '(CA)', '2320583', '00053_229', 'BANKING', '25/AOBB2', 'SERVICES', 'B01092019', '29244']",134.2,Credit,39939.61,False,True
+108,,"['10 02/09/2019 ELECTRO FPX ABB as Byr', '21:17:25', 'NIC', '(CA)', '9310703', '95752_455', 'BANKING', '86/AOBB2', 'SERVICES', 'B01092019', '29244', 'Total Total Amount:']",560.4,Credit,40073.81,False,True
+109,,"['Amount:', '132464', '.82', 'Page 6 of 6']",363.04,,,False,True

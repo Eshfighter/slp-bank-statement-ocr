@@ -1,0 +1,28 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,03/02,"['DR', '345BA137057', 'Trade Bill Transfer', '345BA137057 345']",1448.35,Debit,274216.31,True,False
+1,03/02,"['CR', '345BA137057', 'Trade Bill Transfer', '345BA137057 345']",202000.0,Credit,72216.31,True,False
+2,05/02,"['IBG CR', 'KENWON KARTON SB', 'IEBK020418158056', 'PBB KENWON KARTON', 'SDN BHD']",120000.0,Credit,47783.69,False,False
+3,05/02,"['DuitNow/Instant Trf', 'ACCOUNT TRANSFER', 'PBB KHENG HWA PAPER', 'PRODUCTS SDN B', 'PBB KHENG HWA PAPER', 'PRODUCTS SDN BHD']",20000.0,Credit,67783.69,False,False
+4,05/02,"['CR', 'ACCOUNT TRANSFER', 'YIR002050689C01', 'RENTAS KHENG HWA', 'PAPER PRODUCTS SDN', 'BHD']",20000.0,Credit,87783.69,False,False
+5,05/02,"['CR', 'FUND TRANSFER TO UOB', 'YIR002050751C01', 'RENTAS KENWON', 'KARTON SDN BHD']",20000.0,Credit,107783.69,False,False
+6,05/02,"['DR', '345BA136366', 'Trade Bill Transfer', '345BA136366 345']",406000.0,Debit,298216.31,True,False
+7,10/02,"['DR', '345BA137129', 'Trade Bill Transfer', '345BA137129 345']",2865.34,Debit,301081.65,True,False
+8,10/02,"['CR', '345BA137129', 'Trade Bill Transfer', '345BA137129 345']",401000.0,Credit,99918.35,False,False
+9,10/02,"['Misc DR Loan', 'Trf. Wd. Loans', '3458047977-00000']",36187.0,Debit,63731.35,False,False
+10,11/02,"['CR', 'KENWON KARTON SDN', 'BH', 'YIR002110649C01', 'RENTAS KENWON', 'KARTON SDN BHD']",145000.0,Credit,208731.35,False,False
+11,11/02,"['DR', '345BA135839', 'Trade Bill Transfer', '345BA135839 345']",506000.0,Debit,297268.65,True,False
+12,11/02,"['Cheque Deposit', 'RHB 026149']",247325.0,Credit,49943.65,True,False
+13,12/02,"['DR', '345BA137181', 'Trade Bill Transfer', '345BA137181 345']",1756.27,Debit,51699.92,True,False
+14,12/02,"['CR', '345BA137181', 'Trade Bill Transfer', '345BA137181 345']",226000.0,Credit,174300.08,False,False
+15,12/02,"['DR', '345BA136537', 'Trade Bill Transfer', '345BA136537 345']",406000.0,Debit,231699.92,True,False
+16,14/02,"['DR', '345BA137232', 'Trade Bill Transfer', '345BA137232 345']",3132.26,Debit,234832.18,True,False
+17,14/02,"['CR', '345BA137232', 'Trade Bill Transfer', '345BA137232 345']",368000.0,Credit,133167.82,False,False
+18,14/02,"['IBG CR', 'KENWON KARTON SB', 'IEBK021463843615', 'PBB KENWON KARTON', 'SDN BHD']",100000.0,Credit,233167.82,False,False
+19,17/02,"['DR', '345BA135924', 'Trade Bill Transfer', '345BA135924 345']",500000.0,Debit,266832.18,True,False
+20,21/02,"['IBG CR', 'Account transfer', 'Account transfer', 'PBB KENWON KARTON', 'SDN BHD']",150000.0,Credit,116832.18,True,False
+21,24/02,"['DR', '345BA136040', 'Trade Bill Transfer', '345BA136040 345']",120000.0,Debit,236832.18,True,False
+22,27/02,"['IBG CR', 'KENWON KARTON SB', 'IEBK022758141476', 'PBB KENWON KARTON', 'SDN BHD']",100000.0,Credit,136832.18,True,False
+23,28/02,['OD Int Charge'],1121.19,Debit,137953.37,True,False
+24,28/02,['OD Commitment Fee Ch'],89.44,Debit,138042.81,True,False
+25,,['Deposits'],,,2119325.0,False,False
+26,,['Withdrawals'],,,1984599.85,False,False

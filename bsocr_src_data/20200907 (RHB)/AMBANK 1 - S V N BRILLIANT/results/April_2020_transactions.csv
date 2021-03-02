@@ -1,0 +1,105 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['OPENING BALANCE'],,,657.1,False,False
+1,,['TOTAL DEBITS'],,,123617.6,False,False
+2,,['TOTAL CREDITS'],,,123666.51,False,False
+3,,['CLOSING BALANCE'],,,706.01,False,False
+4,,['Balance b/f'],,,657.1,False,False
+5,02/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, own, Boss personal']",500.0,Debit,157.1,False,False
+6,02/03,"['Inst Trf CR CASA OFI /ATM INTERBANK TRF,', 'MOHD ISA BIN OTHMAN, akedselasih,', 'sgkundang']",1800.0,Credit,1957.1,False,False
+7,02/03,"['CTL OUTWARD CLEARING /LOCAL CHQ', 'DEPOSIT, , 426577,']",57000.0,Credit,58957.1,False,False
+8,03/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Paip, Hock Lee', 'Hardware']",405.0,Debit,58552.1,False,False
+9,03/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Maeganathan, Buy Sand']",400.0,Debit,58152.1,False,False
+10,04/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Payment for May and', 'Sep, Deep Blue']",1310.0,Debit,56842.1,False,False
+11,04/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Outstanding payment', 'and Deposit, Petron']",10000.0,Debit,46842.1,False,False
+12,04/03,"['DEBIT TRANSFER, , own, House Payment']",4000.0,Debit,42842.1,False,False
+13,04/03,"['DEBIT TRANSFER, , own, BMW']",2000.0,Debit,40842.1,False,False
+14,04/03,"['DEBIT TRANSFER, , own, Ford Ranger']",2000.0,Debit,38842.1,False,False
+15,04/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, own, Saravanan Personal']",1000.0,Debit,37842.1,False,False
+16,04/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Contract No 132463,', 'Orix Credit Malaysia']",4467.0,Debit,33375.1,False,False
+17,04/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Inv', 'CS37922andCS38013, Outstanding payment']",1080.0,Debit,32295.1,False,False
+18,04/03,"['JomPAY Credit /DEBIT TRANSFER, MAXIS,', '1908992686, 734QMPPP22003041428Y']",1300.6,Debit,30994.5,False,False
+19,04/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Commision, Varinder', 'Singh']",1000.0,Debit,29994.5,False,False
+20,04/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Commision, Harish']",2000.0,Debit,27994.5,False,False
+21,04/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, CMF NETWORK ENTERPRI,', 'Commision']",2000.0,Debit,25994.5,False,False
+22,04/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Inv 0001 SV01, NVD', 'BALA TRADING']",6720.0,Debit,19274.5,False,False
+23,04/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, MAEGANATHAN, BUY SAND']",1300.0,Debit,17974.5,False,False
+24,05/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Jegatheeswari, Petty Cash Office']",1000.0,Debit,16974.5,False,False
+25,05/03,"['JomPAY Credit /DEBIT TRANSFER, TENAGA', 'NASIONAL BERHAD, 210008045507, 735', 'LBFHB22003051119Y']",1000.0,Debit,15974.5,False,False
+26,05/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Welding VCR2688,', 'YOO FOON AUTO']",272.0,Debit,15702.5,False,False
+27,05/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Outstanding', 'Payment, Juan Aik Auto Spare']",3370.0,Debit,12332.5,False,False
+28,05/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Buy Sand,', 'Muhammad Khairi Nordin']",292.0,Debit,12040.5,False,False
+29,05/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, own, Boss Personal']",1000.0,Debit,11040.5,False,False
+30,05/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Mahaletchumi, Daughter']",1000.0,Debit,10040.5,False,False
+31,05/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Boss friend,', 'Jayachandran']",1000.0,Debit,9040.5,False,False
+32,06/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Buy Pasir Halus,', 'Rimbun Bumiraya Sdn Bhd']",276.0,Debit,8764.5,False,False
+33,06/03,"['FPX PAYMENT /MISC DEBIT, PUSPAKOM SDN', 'BHDBTQ5TVWV-1832254, BTQ5TVWV-', '1832254,']",72.4,Debit,8692.1,False,False
+34,06/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Outstanding', 'Payment, Hoo Suei Ping']",600.0,Debit,8092.1,False,False
+35,06/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Meganathan, Petty Cash']",1200.0,Debit,6892.1,False,False
+36,07/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, DEPOSIT, Winson', 'Machinery']",1000.0,Debit,5892.1,False,False
+37,07/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, own, Boss Personal']",1000.0,Debit,4892.1,False,False
+38,07/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, ADVANCE, VEEMAN']",300.0,Debit,4592.1,False,False
+39,07/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, VIJAIAN, ADVANCE']",200.0,Debit,4392.1,False,False
+40,07/03,"['JomPAY Credit /DEBIT TRANSFER, SYABAS /', 'AIR SELANGOR, 0107232000, 737S5', 'KW022003071241Y']",421.8,Debit,3970.3,False,False
+41,07/03,"['JomPAY Credit /DEBIT TRANSFER, ASTRO,', '0817334646, 737FET0T22003071242Y']",515.3,Debit,3455.0,False,False
+42,07/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Deposit for Sand,', 'Rimbun Bumiraya Sdn Bhd']",1000.0,Debit,2455.0,False,False
+43,07/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, MAEGANATHAN, Puspakom']",1610.0,Debit,845.0,False,False
+44,09/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Deposit, Rimbun', 'Bumiraya Sdn Bhd']",500.0,Debit,345.0,False,False
+45,09/03,"['Inst Trf CR CASA OFI /ATM INTERBANK TRF,', 'THIYAKU A/L MUNIANDY, svn, INSTANT', 'TRANSFER']",9000.0,Credit,9345.0,False,False
+46,09/03,"['Inst Trf CR CASA OFI /ATM INTERBANK TRF,', 'THIYAKU A/L MUNIANDY, svn, INSTANT', 'TRANSFER']",1000.0,Credit,10345.0,False,False
+47,10/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, SALARY, ANTHONY', 'JUSTIN']",1518.4,Debit,8826.6,False,False
+48,10/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, SALARY, KASI', 'VISUVANATHAN']",1876.7,Debit,6949.9,False,False
+49,10/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, MOHD SHAH, SALARY']",925.85,Debit,6024.05,False,False
+50,10/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, MURUGARAJA, SALARY']",1975.2,Debit,4048.85,False,False
+51,10/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, SANKAR, SALARY']",763.75,Debit,3285.1,False,False
+52,10/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, KALIAMAL, SALARY']",1067.45,Debit,2217.65,False,False
+53,10/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, VIRONICA, SALARY']",1200.0,Debit,1017.65,False,False
+54,10/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, YASOTHA, Petty Cash']",820.1,Debit,197.55,False,False
+55,11/03,"['DuitNow CR TRF /MISC CREDIT, S V N', 'BRILLIANT RESOURCE, SVN BRILLIANT', 'RESOURCES, For settle monthly payment']",10000.0,Credit,10197.55,False,False
+56,11/03,"['DuitNow CR TRF /MISC CREDIT, S V N', 'BRILLIANT RESOURCE, SVN BRILLIANT', 'RESOURCES, For settle monthly payment']",10000.0,Credit,20197.55,False,False
+57,11/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Repayment,', 'AMAARA AUTOMOBILE']",10150.0,Debit,10047.55,False,False
+58,11/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Deposit, Rawang', 'Hon Leong Auto']",1000.0,Debit,9047.55,False,False
+59,11/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Housing payment,', 'Jegatheeswari']",2000.0,Debit,7047.55,False,False
+60,11/03,"['JomPAY Credit /DEBIT TRANSFER, TENAGA', 'NASIONAL BERHAD, 220212398506, 73BV9', 'N5022003111319Y']",133.0,Debit,6914.55,False,False
+61,11/03,"['JomPAY Credit /DEBIT TRANSFER, SYABAS /', 'AIR SELANGOR, 3309781000, 73BG7', 'XN822003111320Y']",124.0,Debit,6790.55,False,False
+62,11/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, VIJAIAN, SALARY']",800.0,Debit,5990.55,False,False
+63,11/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Deposit, Rimbun', 'Bumiraya Sdn Bhd']",1000.0,Debit,4990.55,False,False
+64,11/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Mahaletchumi, Boss Daugther']",500.0,Debit,4490.55,False,False
+65,11/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, YASOTHA, YASOTHA']",500.0,Debit,3990.55,False,False
+66,12/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, own, sara boss']",1000.0,Debit,2990.55,False,False
+67,12/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, SALARY, KASSEM']",1050.0,Debit,1940.55,False,False
+68,12/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Commision, Sara']",1000.0,Debit,940.55,False,False
+69,12/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Deposit, Winson', 'Machinery']",500.0,Debit,440.55,False,False
+70,12/03,"['FPX PAYMENT /MISC DEBIT, PUSPAKOM SDN', 'BHDNHC6PXQ4-1853998, NHC6PXQ4-', '1853998,']",72.4,Debit,368.15,False,False
+71,13/03,"['Inst Trf CR CASA OFI /ATM INTERBANK TRF,', 'MOHD ISA BIN OTHMAN, Sgkundang,', 'Akedselasih']",1800.0,Credit,2168.15,False,False
+72,13/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Commision, RADZI']",500.0,Debit,1668.15,False,False
+73,13/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Jegatheeswari, Buy Food', 'Drivers']",50.0,Debit,1618.15,False,False
+74,13/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Commision,', 'Kanakaraja']",500.0,Debit,1118.15,False,False
+75,14/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, own, Boss Personal']",1000.0,Debit,118.15,False,False
+76,17/03,"['CREDIT TRANSFER, SVN BRILLIANT', 'ENTERPRISE, own, For Deposit to Rimbu']",500.0,Credit,618.15,False,False
+77,17/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Deposit, Rimbun', 'Bumiraya Sdn Bhd']",500.0,Debit,118.15,False,False
+78,17/03,"['Inst Trf CR CASA OFI /ATM INTERBANK TRF,', 'AMAARA AUTOMOBILE, svn, INSTANT', 'TRANSFER']",10000.0,Credit,10118.15,False,False
+79,17/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, own, Boss Personal']",1000.0,Debit,9118.15,False,False
+80,17/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, BMW SERVICES,', 'FAKHRUL RAZI']",500.0,Debit,8618.15,False,False
+81,17/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, MOHD SHAH, ADVANCE']",1000.0,Debit,7618.15,False,False
+82,17/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, SANKAR, ADVANCE']",1000.0,Debit,6618.15,False,False
+83,17/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, ADVANCE, JUSTIN']",1000.0,Debit,5618.15,False,False
+84,17/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, ADVANCE, VEEMAN']",700.0,Debit,4918.15,False,False
+85,17/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, ADVANCE, KASI', 'VISUVANATHAN']",600.0,Debit,4318.15,False,False
+86,17/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Boss Personal Acc,', 'SARAVANAN']",2000.0,Debit,2318.15,False,False
+87,17/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Boss personal acc,', 'SARAVANAN']",1000.0,Debit,1318.15,False,False
+88,17/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Balance rental fees,', 'Mariyamah']",948.65,Debit,369.5,False,False
+89,18/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Mahaletchumi, Daughter']",50.0,Debit,319.5,False,False
+90,18/03,"['DuitNow CR TRF /MISC CREDIT, S V N', 'BRILLIANT RESOURCE, SVN BRILLIANT', 'RESOURCES, For Payment']",10000.0,Credit,10319.5,False,False
+91,19/03,"['CASH WITHDRAWAL, , ,']",5000.0,Debit,5319.5,False,False
+92,20/03,"['DuitNow CR TRF /MISC CREDIT, S V N', 'BRILLIANT RESOURCE, Svnbrilliant', 'Resources, Repayment']",10000.0,Credit,15319.5,False,False
+93,20/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Repayment, Amaara', 'Automobile']",10000.0,Debit,5319.5,False,False
+94,20/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Sooriyagantha, Loan payment']",500.0,Debit,4819.5,False,False
+95,20/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, YASOTHA, Salary']",3200.0,Debit,1619.5,False,False
+96,20/03,"['CMS INTER ACC TRF /MISC CREDIT, SENG', 'HUP ENTERPRISE SDN BHD-BALANCE', 'PAYMENT OF A/C FEB 2020,', 'CMS20080003135, 828317VAAP165']",2564.38,Credit,4183.88,False,False
+97,21/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Advance kassem,', 'Kassem']",300.0,Debit,3883.88,False,False
+98,21/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, Prema, Feb and Mar payment']",330.0,Debit,3553.88,False,False
+99,22/03,"['DEBIT TRANSFER, S V N BRILLIANT', 'RESOURCES, own, Boss personal']",2000.0,Debit,1553.88,False,False
+100,25/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Commision, Varinder', 'Singh']",500.0,Debit,1053.88,False,False
+101,26/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Advance,', 'SARAVANAN']",100.0,Debit,953.88,False,False
+102,27/03,"['DuitNow DR TRF /MISC DEBIT, S V N', 'BRILLIANT RESOURCES, Commision, Kiranjit', 'bahadur']",250.0,Debit,703.88,False,False
+103,31/03,"['HIBAH/PROFIT, , ,']",2.13,Credit,706.01,False,False

@@ -1,0 +1,79 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,544322.16,False,False
+1,02/12,"['Inward DR - GIRO', 'OTHR MESEHBENT007', 'MINI ENVIRONMENT']",3618.56,Debit,540703.6,False,False
+2,02/12,"['Inward DR - GIRO', 'OTHR JPDEHBINT009', 'MES AND JPD']",10855.68,Debit,529847.92,False,False
+3,02/12,"['Inward DR - GIRO', 'COLL 8912807123', 'SP SERVICES LTD', 'GIRO Collection 8912807123']",541.06,Debit,529306.86,False,False
+4,02/12,"['Inward DR - GIRO', 'COLL 8938516591', 'SP SERVICES LTD', 'GIRO Collection 8938516591']",456.68,Debit,528850.18,False,False
+5,02/12,"['Inward DR - GIRO', 'COLL 8941008198', 'SP SERVICES LTD', 'GIRO Collection 8941008198']",423.45,Debit,528426.73,False,False
+6,03/12,"['Cheque Withdrawal', '0728515']",239.68,Debit,528187.05,False,False
+7,04/12,"['Bulk - GIRO', 'ROS48126', 'PAYROLL']",23364.88,Debit,504822.17,False,False
+8,04/12,"['SVC Chg', 'ROS48126', 'PAYROLL']",1.4,Debit,504820.77,False,False
+9,04/12,"['Cheque Withdrawal', '0728522']",970.51,Debit,503850.26,False,False
+10,04/12,"['Cheque Withdrawal', '0728524']",927.5,Debit,502922.76,False,False
+11,04/12,"['Cheque Withdrawal', '0728525']",112.0,Debit,502810.76,False,False
+12,04/12,"['Cheque Withdrawal', '0728526']",1775.5,Debit,501035.26,False,False
+13,04/12,"['Cheque Withdrawal', '0728527']",1709.5,Debit,499325.76,False,False
+14,05/12,"['Bulk - GIRO', 'ROS49048', 'PAYROLL']",28988.41,Debit,470337.35,False,False
+15,05/12,"['SVC Chg', 'ROS49048', 'PAYROLL']",11.8,Debit,470325.55,False,False
+16,05/12,"['Inward DR - GIRO', 'COLL 8904023622', 'SP SERVICES LTD', 'GIRO Collection 8904023622']",205.39,Debit,470120.16,False,False
+17,06/12,"['Misc Debit', 'PMRGEBSC/1119', 'PMRSG30112019003390', 'BIBPlus Subscription Charge']",20.0,Debit,470100.16,False,False
+18,06/12,"['Cheque Withdrawal', '0728523']",535.0,Debit,469565.16,False,False
+19,09/12,"['Bulk - GIRO Rev', 'ROS49048']",448.78,Credit,470013.94,False,False
+20,09/12,"['Penalty', 'ROS49048']",1.0,Debit,470012.94,False,False
+21,09/12,"['Cheque Withdrawal', '0728520']",2407.07,Debit,467605.87,False,False
+22,09/12,"['Cheque Withdrawal', '0728528']",175.75,Debit,467430.12,False,False
+23,09/12,"['Cheque Withdrawal', '0728541']",28241.25,Debit,439188.87,False,False
+24,10/12,"['Inward DR - GIRO', 'COLL 199605640E', 'BEST PETROL AND DIES', '19I11I662219']",1077.07,Debit,438111.8,False,False
+25,11/12,"['Inward DR - GIRO', 'COLL 8941414560', 'SP SERVICES LTD', 'GIRO Collection 8941414560']",367.1,Debit,437744.7,False,False
+26,12/12,"['Cheque Withdrawal', '0728542']",140.0,Debit,437604.7,False,False
+27,12/12,"['Cheque Withdrawal', '0728543']",238.08,Debit,437366.62,False,False
+28,12/12,"['Cheque Withdrawal', '0728545']",22.42,Debit,437344.2,False,False
+29,13/12,"['Cheque Withdrawal', '0728521']",80.0,Debit,437264.2,False,False
+30,13/12,"['Cheque Withdrawal', '0728529']",1241.2,Debit,436023.0,False,False
+31,13/12,"['Cheque Withdrawal', '0728530']",181.9,Debit,435841.1,False,False
+32,13/12,"['Cheque Withdrawal', '0728531']",1765.5,Debit,434075.6,False,False
+33,13/12,"['Cheque Withdrawal', '0728533']",588.5,Debit,433487.1,False,False
+34,13/12,"['Cheque Withdrawal', '0728534']",11102.21,Debit,422384.89,False,False
+35,13/12,"['Cheque Withdrawal', '0728547']",247.6,Debit,422137.29,False,False
+36,13/12,"['Cheque Withdrawal', '0728549']",120.0,Debit,422017.29,False,False
+37,13/12,"['Cheque Withdrawal', '0728552']",187.25,Debit,421830.04,False,False
+38,13/12,"['Cheque Withdrawal', '0728553']",4547.5,Debit,417282.54,False,False
+39,13/12,"['Cheque Withdrawal', '0728555']",569.24,Debit,416713.3,False,False
+40,13/12,"['Cheque Withdrawal', '0728556']",216.14,Debit,416497.16,False,False
+41,13/12,"['Cheque Withdrawal', '0728560']",1261.55,Debit,415235.61,False,False
+42,14/12,"['Bulk - GIRO', 'ROS51493', 'PAYROLL']",21689.07,Debit,393546.54,False,False
+43,14/12,"['SVC Chg', 'ROS51493', 'PAYROLL']",11.4,Debit,393535.14,False,False
+44,16/12,"['Inward DR - GIRO', 'COLL 6093671', 'CPF', 'BIZ']",8572.5,Debit,384962.64,False,False
+45,16/12,"['Cheque Withdrawal', '0728538']",1275.44,Debit,383687.2,False,False
+46,16/12,"['Cheque Withdrawal', '0728546']",1294.7,Debit,382392.5,False,False
+47,16/12,"['Cheque Withdrawal', '0728559']",299.0,Debit,382093.5,False,False
+48,17/12,"['Inward DR - GIRO', 'COLL 6093671', 'CPF', 'BFWL']",23368.56,Debit,358724.94,False,False
+49,17/12,"['Bulk - GIRO', 'ROS52575', 'PAYROLL']",3752.1,Debit,354972.84,False,False
+50,17/12,"['SVC Chg', 'ROS52575', 'PAYROLL']",0.4,Debit,354972.44,False,False
+51,17/12,"['Cheque Withdrawal', '0728536']",1506.56,Debit,353465.88,False,False
+52,17/12,"['Cheque Withdrawal', '0728548']",6656.25,Debit,346809.63,False,False
+53,17/12,"['Cheque Withdrawal', '0728550']",2882.18,Debit,343927.45,False,False
+54,18/12,"['Cheque Withdrawal', '0728532']",2710.26,Debit,341217.19,False,False
+55,18/12,"['Cheque Withdrawal', '0728537']",270.0,Debit,340947.19,False,False
+56,18/12,"['Cheque Withdrawal', '0728551']",18242.43,Debit,322704.76,False,False
+57,18/12,"['Cheque Withdrawal', '0728554']",3466.8,Debit,319237.96,False,False
+58,18/12,"['Cheque Withdrawal', '0728557']",813.2,Debit,318424.76,False,False
+59,19/12,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'VPK SGD', 'EHB Internat']",77489.15,Credit,395913.91,False,False
+60,20/12,"['Cheque Withdrawal', '0728561']",1540.8,Debit,394373.11,False,False
+61,23/12,"['Inward CR - GIRO', 'OTHR Other', 'STOLTHAVEN SINGAPORE', 'PNUM23006501']",14873.0,Credit,409246.11,False,False
+62,23/12,['Cheque Deposit'],226568.09,Credit,635814.2,False,False
+63,23/12,"['Cheque Withdrawal', '0728540']",2998.78,Debit,632815.42,False,False
+64,23/12,"['Cheque Withdrawal', '0728544']",441.38,Debit,632374.04,False,False
+65,24/12,"['Cheque Withdrawal', '0728558']",1789.04,Debit,630585.0,False,False
+66,26/12,"['Inward DR - GIRO', 'COLL 199605640E', 'BEST PETROL AND DIES', '19I12I667852']",692.48,Debit,629892.52,False,False
+67,30/12,"['Inward DR - GIRO', 'COLL 90659858', 'Singapore Telecommun', '90659858']",402.17,Debit,629490.35,False,False
+68,30/12,"['Cheque Withdrawal', '0728535']",48.15,Debit,629442.2,False,False
+69,30/12,"['Cheque Withdrawal', '0728539']",117.0,Debit,629325.2,False,False
+70,31/12,"['Inward DR - GIRO', 'COLL 8912807123', 'SP SERVICES LTD', 'GIRO Collection 8912807123']",443.91,Debit,628881.29,False,False
+71,31/12,"['Inward DR - GIRO', 'COLL 8938516591', 'SP SERVICES LTD', 'GIRO Collection 8938516591']",455.54,Debit,628425.75,False,False
+72,31/12,"['Inward DR - GIRO', 'COLL 8941008198', 'SP SERVICES LTD', 'GIRO Collection 8941008198']",370.59,Debit,628055.16,False,False
+73,31/12,"['Inward DR - GIRO', 'COLL 8941414560', 'SP SERVICES LTD', 'GIRO Collection 8941414560']",473.98,Debit,627581.18,False,False
+74,31/12,['Cheque Charges'],9.75,Debit,627571.43,False,False
+75,,['Total Withdrawals'],,,236129.75,False,False
+76,,['Total Deposits'],,,319379.02,False,False
+77,,['Total'],,,627571.43,False,False

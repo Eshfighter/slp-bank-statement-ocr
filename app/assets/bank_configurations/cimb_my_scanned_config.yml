@@ -1,0 +1,77 @@
+
+init-config:
+  country-name: malaysia
+  bank-name : CIMB
+  line-start: 12
+  y_padding: 15
+  y_delta: 2
+  format-id: cimb_my_scanned
+
+img-processing:
+  align-template: "template_file/cimb_temp.jpg"
+  document-type: ~
+
+# parsing variables
+summary-config:
+  keys: ['account-number','account-type','bank-address','bank-name','document-type','number-of-pages','statement-date']
+  bank-name-find: ['Bank Berhad', 'CIMB']
+  bank-add-find: ['Branch / Cawangan','Branch','Cawangan']
+  address-start-line: 1
+  no-of-addr-lines: 3
+  account-list: ['Current Account', 'Savings Account','PREMISES FLEX']
+  page-keyword: Page
+  state-dt-keyword: Statement Date
+  no-of-date-words: 1
+  account-no-regex: '\d\d\-\d\d\d\d\d\d\d\-\d'
+
+cropped-summary-areas:
+  crop-bank-addr-area: 
+    field-name: bank-address
+    coordinates: [320,1000,1400,null]
+    label: 'Branch / Cawangan'
+    start-line: 1
+    no-of-lines: 4
+  # crop-account-number-area: 
+  #   field-name: account-number
+  #   coordinates: [500,1000,50,850]
+  #   label: 'No Akaun'
+
+final-summary:
+
+transaction-config:
+  txn-key-word: ['OPENING BALANCE','CLOSING BALANCE']
+  start-of-month-keyword: ['OPENING BALANCE']
+  end-of-month-keyword: ['Total Deposit']
+  stop-at: ['CONTINUE NEXT PAGE', 'No of Withdrawa', 'CLOSING BALANCE', 'End of Statement','No of Deposit','Total Withdrawa','Tata Withdrawa','Tata Deposit','Total Deposit']
+  date-regex-list: ['\d\d/\d\d/\d\d\d\d','\d\d/\d\s\d/\d\d\d\d','\d/\d\d/\d\d\d\d','\d\d/\d\d\d\d']
+  columns-in-between-date-descriptions: 0
+  statement-date-format: 'DD/MM/YYYY'
+  transaction-date-format: 'DD/MM/YYYY'
+  number-regex-list: ['([0-9sS$oO§]{1,3}(,[0-9sS$oO§]{3})*(\.|\,)[0-9sS$oO§]{2})']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: []
+  balance-in-separate-table: True
+  balance-fields: {
+    'key': ['No of Withdrawa','No of Deposit','Total Withdrawa','Tata Withdrawa','Tata Deposit','Total Deposit'],
+    'actual-key': ['Total Withdrawal','Total Deposit'],
+    'row-after-key': 2,
+    'column': [3,4]
+  }
+  balance-columns: [ 3, 4 ]
+  transaction-summary-key-info: [{
+    keyword: ['Tata Deposit','Total Deposit'],
+    key: 'total-credit'
+  }, {
+    keyword: ['Total Withdrawa','Tata Withdrawa'],
+    key: 'total-debit'
+  }, {
+    keyword: ['OPENING BALANCE'],
+    key: 'start-balance'
+  }, {
+    keyword: ['CLOSING BALANCE'],
+    key: 'close-balance'
+  }]
+  
+start-of-statement: 'OPENING BALANCE'
+end-of-statement:  ['OPENING BALANCE']

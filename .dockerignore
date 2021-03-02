@@ -1,0 +1,22 @@
+# Project
+.git
+.cache
+.idea
+venv/
+build/
+.DS_Store
+Dockerfile
+Dockerfile_debug
+.dockerignore
+README.md
+batch_testing.py
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# App specific
+app/assets/temp_file/

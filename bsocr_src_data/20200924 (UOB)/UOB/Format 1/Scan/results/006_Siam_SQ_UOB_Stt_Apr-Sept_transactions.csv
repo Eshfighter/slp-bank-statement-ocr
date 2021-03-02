@@ -1,0 +1,1429 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,51052.81,False,False
+1,02/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",932.8,Credit,51985.61,False,False
+2,02/09,"['CR Retail-NETS', '31AUG', '11168627900']",54.3,Credit,52039.91,False,False
+3,02/09,"['CR Retail-NETS', '31AUG', '11168691500']",2778.6,Credit,54818.51,False,False
+4,02/09,"['CR Retail-NETS', '31AUG', '11168691600']",804.4,Credit,55622.91,False,False
+5,02/09,"['CR Retail-NETS', '31AUG', '11169178900']",3371.1,Credit,58994.01,False,False
+6,02/09,['Cash 0771361'],10000.0,Debit,48994.01,False,False
+7,02/09,"['CR Retail-NETS', 'O1SEP', '11168691500']",2306.6,Credit,51300.61,False,False
+8,02/09,"['CR Retail-NETS', 'O1SEP', '11168691600']",112.2,Credit,51412.81,False,False
+9,02/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",237.1,Credit,51649.91,False,False
+10,02/09,"['CR Retail-NETS', '01SEP', '11169178900']",2709.0,Credit,54358.91,False,False
+11,02/09,"['CR Retail-NETS', 'O1SEP', '11168627900']",28.0,Credit,54386.91,False,False
+12,02/09,"['CR Retail-NETS', 'O1SEP', '11168691500']",3320.25,Credit,57707.16,False,False
+13,02/09,"['CR Retail-NETS', 'O1SEP', '11168691600']",436.0,Credit,58143.16,False,False
+14,02/09,"['Bulk - GIRO', 'ROS08285', 'PAYROLL']",18200.0,Debit,39943.16,False,False
+15,02/09,"['SVC Chg', 'ROS08285', 'PAYROLL']",0.6,Debit,39942.56,False,False
+16,02/09,"['CR Retail-NETS', 'O2SEP', '11168691500']",1394.9,Credit,41337.46,False,False
+17,02/09,"['CR Retail-NETS', 'O2SEP', '11168691600']",30.4,Credit,41367.86,False,False
+18,02/09,"['Bulk - GIRO', 'GEB19080055579698', 'BK18060030848958', 'PAYROLL']",4200.0,Debit,37167.86,False,False
+19,02/09,"['SVC Chg', 'GEB19080055579698', 'BK18060030848958', 'PAYROLL']",0.4,Debit,37167.46,False,False
+20,02/09,"['Inward DR - GIRO', 'OTHR C-S-000085', 'RESORTS CONCEPT PL', 'EH TENANT']",13969.92,Debit,23197.54,False,False
+21,02/09,"['Cheque Withdrawal', '0771360']",2336.7,Debit,20860.84,False,False
+22,03/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",379.3,Credit,21240.14,False,False
+23,03/09,"['CR Retail-NETS', '02SEP', '11168691500']",992.35,Credit,22232.49,False,False
+24,03/09,"['CR Retail-NETS', 'O02SEP', '11168691600']",240.9,Credit,22473.39,False,False
+25,03/09,"['CR Retail-NETS', 'O2SEP', '11169178900']",778.3,Credit,23251.69,False,False
+26,03/09,"['CR Retail-NETS', 'O3SEP', '11168691500']",614.6,Credit,23866.29,False,False
+27,03/09,"['CR Retail-NETS', 'O3SEP', '11168691600']",428.5,Credit,24294.79,False,False
+28,03/09,"['Cheque Withdrawal', '0771351']",4500.0,Debit,19794.79,False,False
+29,03/09,"['Cheque Withdrawal', '0771352']",1600.0,Debit,18194.79,False,False
+30,03/09,"['Cheque Withdrawal', '0771357']",9978.03,Debit,8216.76,False,False
+31,03/09,"['Cheque Withdrawal', '0771364']",2688.0,Debit,5528.76,False,False
+32,04/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",237.5,Credit,5766.26,False,False
+33,04/09,"['CR Retail-NETS', 'O3SEP', '11168691500']",937.2,Credit,6703.46,False,False
+34,04/09,"['CR Retail-NETS', 'O3SEP', '11168691600']",536.2,Credit,7239.66,False,False
+35,04/09,"['CR Retail-NETS', 'O3SEP', '11169178900']",1033.1,Credit,8272.76,False,False
+36,04/09,"['Returned Cheque', '0771357']",9978.03,Credit,18250.79,False,False
+37,04/09,"['Misc Debit', 'SERVICE CHARGE FOR RETURNED CHEQUE']",40.0,Debit,18210.79,False,False
+38,04/09,"['Funds Trf - FAST', 'GEBFT19090055816731', 'FT19090055816731', 'G@DDS 01']",5220.01,Debit,12990.78,False,False
+39,04/09,"['SVC Chg', 'GEBFT19090055816731', 'FT19090055816731', 'GDDSs 01']",0.5,Debit,12990.28,False,False
+40,04/09,"['CR Retail-NETS', 'O4SEP', '11168691500']",602.5,Credit,13592.78,False,False
+41,04/09,"['CR Retail-NETS', 'O4SEP', '11168691600']",67.6,Credit,13660.38,False,False
+42,05/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",84.8,Credit,13745.18,False,False
+43,05/09,"['CR Retail-NETS', 'O4SEP', '11168691500']",950.5,Credit,14695.68,False,False
+44,05/09,"['CR Retail-NETS', 'O4SEP', '11168691600']",161.1,Credit,14856.78,False,False
+45,05/09,"['CR Retail-NETS', 'O04SEP', '11169178900']",443.5,Credit,15300.28,False,False
+46,05/09,"['CR Retail-NETS', 'OSSEP', '11168691500']",537.0,Credit,15837.28,False,False
+47,05/09,"['CR Retail-NETS', 'O5SEP', '11168691600']",78.5,Credit,15915.78,False,False
+48,05/09,"['Inward DR - GIRO', 'COLL 2000022831', 'TUASPOWERSUPPLY', '006000741605']",219.72,Debit,15696.06,False,False
+49,05/09,"['Inward DR - GIRO', 'COLL 2000022830', 'TUASPOWERSUPPLY', '006000741604']",716.76,Debit,14979.3,False,False
+50,05/09,"['Cheque Withdrawal', '0771358']",1649.94,Debit,13329.36,False,False
+51,05/09,"['Cheque Withdrawal', '0771365']",9978.03,Debit,3351.33,False,False
+52,06/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",110.2,Credit,3461.53,False,False
+53,06/09,"['CR Retail-NETS', 'O5SEP', '11168627900']",79.4,Credit,3540.93,False,False
+54,06/09,"['CR Retail-NETS', 'O5SEP', '11168691500']",1700.75,Credit,5241.68,False,False
+55,06/09,"['CR Retail-NETS', 'O5SEP', '11168691600']",434.3,Credit,5675.98,False,False
+56,06/09,"['CR Retail-NETS', 'O5SEP', '11169178900']",374.5,Credit,6050.48,False,False
+57,06/09,"['CR Retail-NETS', 'O6SEP', '11168691500']",1755.15,Credit,7805.63,False,False
+58,06/09,"['CR Retail-NETS', 'O6SEP', '11168691600']",255.3,Credit,8060.93,False,False
+59,06/09,"['Misc Debit', 'PMRGEBSC/0819', 'PMRSG31082019009444.', 'BIBPlus Subscription Charge']",20.0,Debit,8040.93,False,False
+60,07/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",470.5,Credit,8511.43,False,False
+61,07/09,"['CR Retail-NETS', 'O6SEP', '11168627900']",51.3,Credit,8562.73,False,False
+62,07/09,"['CR Retail-NETS', 'O6SEP', '11168691500']",3044.15,Credit,11606.88,False,False
+63,07/09,"['CR Retail-NETS', 'O6SEP', '11168691600']",346.6,Credit,11953.48,False,False
+64,07/09,"['CR Retail-NETS', 'O6SEP', '11169178900']",2346.8,Credit,14300.28,False,False
+65,07/09,"['CR Retail-NETS', '07SEP', '11168691600']",66.5,Credit,16725.23,False,True
+66,09/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",480.8,Credit,17206.03,False,False
+67,09/09,"['CR Retail-NETS', 'O7SEP', '11169178900']",3213.0,Credit,20419.03,False,False
+68,09/09,"['CR Retail-NETS', 'O7SEP', '11168627900']",62.4,Credit,20481.43,False,False
+69,09/09,"['CR Retail-NETS', 'O7SEP', '11168691500']",3640.9,Credit,24122.33,False,False
+70,09/09,"['CR Retail-NETS', 'O7SEP', '11168691600']",627.2,Credit,24749.53,False,False
+71,09/09,"['CR Retail-NETS', 'O8SEP', '11168691500']",2514.77,Credit,27264.3,False,False
+72,09/09,"['CR Retail-NETS', 'O8SEP', '11168691600']",546.36,Credit,27810.66,False,False
+73,02/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",44.6,Credit,27855.26,False,False
+74,09/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",287.6,Credit,28142.86,False,False
+75,09/09,"['CR Retail-NETS', 'O8SEP', '11169178900']",2318.0,Credit,30460.86,False,False
+76,09/09,"['CR Retail-NETS', 'O8SEP', '11168627900']",132.3,Credit,30593.16,False,False
+77,09/09,"['CR Retail-NETS', 'O8SEP', '11168691500']",2753.85,Credit,33347.01,False,False
+78,09/09,"['CR Retail-NETS', 'O8SEP', '11168691600']",362.2,Credit,33709.21,False,False
+79,09/09,"['CR Retail-NETS', 'O9SEP', '11168691500']",1805.05,Credit,35514.26,False,False
+80,09/09,"['Inward DR - GIRO', 'COLL 2000035737', 'TUASPOWERSUPPLY', '006000744308']",237.69,Debit,35370.27,False,True
+81,09/09,"['Cheque Withdrawal', '0771367']",2000.0,Debit,33370.27,False,False
+82,10/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",61.1,Credit,33431.37,False,False
+83,10/09,"['CR Retail-NETS', 'O9SEP', '11168627900']",33.4,Credit,33464.77,False,False
+84,10/09,"['CR Retail-NETS', 'O9SEP', '11168691500']",1362.75,Credit,34827.52,False,False
+85,10/09,"['CR Retail-NETS', 'O9SEP', '11168691600']",217.1,Credit,35044.62,False,False
+86,10/09,"['CR Retail-NETS', 'O9SEP', '11169178900']",1398.0,Credit,36442.62,False,False
+87,10/09,"['CR Retail-NETS', '10SEP', '11168691500']",422.9,Credit,36865.52,False,False
+88,10/09,"['CR Retail-NETS', '10SEP', '11168691600']",37.3,Credit,36902.82,False,False
+89,10/09,"['Cheque Withdrawal', '0771363']",940.0,Debit,35962.82,False,False
+90,10/09,"['Cheque Withdrawal', '0771366']",6911.0,Debit,29051.82,False,False
+91,11/09,"['CR Retail-NETS', '10SEP', '11168691500']",1114.95,Credit,30166.77,False,False
+92,11/09,"['CR Retail-NETS', '10SEP', '11168691600']",291.2,Credit,30457.97,False,False
+93,11/09,"['CR Retail-NETS', '10SEP', '11169178900']",701.0,Credit,31158.97,False,False
+94,11/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",334.4,Credit,31493.37,False,False
+95,11/09,"['CR Retail-NETS', '11SEP', '11168691500']",851.35,Credit,32344.72,False,False
+96,11/09,"['CR Retail-NETS', '11SEP', '11168691600']",39.6,Credit,32384.32,False,False
+97,11/09,"['Cheque Withdrawal', '0771362']",554.26,Debit,31830.06,False,False
+98,12/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",30.7,Credit,31860.76,False,False
+99,12/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",62.1,Credit,31922.86,False,False
+100,12/09,"['CR Retail-NETS', '11SEP', '11168691500']",1099.75,Credit,33022.61,False,False
+101,12/09,"['CR Retail-NETS', '11SEP', '11168691600']",175.1,Credit,33197.71,False,False
+102,12/09,"['CR Retail-NETS', '11SEP', '11169178900']",1213.2,Credit,34410.91,False,False
+103,12/09,"['CR Retail-NETS', '12SEP', '11168691500']",351.1,Credit,34762.01,False,False
+104,12/09,"['CR Retail-NETS', '12SEP', '11168691600']",57.1,Credit,34819.11,False,False
+105,13/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",300.1,Credit,35119.21,False,False
+106,13/09,"['CR Retail-NETS', '12SEP', '11168691500']",1158.2,Credit,36277.41,False,False
+107,13/09,"['CR Retail-NETS', '12SEP', '11168691600']",173.6,Credit,36451.01,False,False
+108,13/09,"['CR Retail-NETS', '12SEP', '11169178900']",650.4,Credit,37101.41,False,False
+109,13/09,"['CR Retail-NETS', '13SEP', '11168691500']",1214.55,Credit,38315.96,False,False
+110,14/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",235.5,Credit,38551.46,False,False
+111,14/09,"['CR Retail-NETS', '13SEP', '11168627900']",32.7,Credit,40110.56,False,True
+112,14/09,"['CR Retail-NETS', '13SEP', '11168691500']",3304.05,Credit,43414.61,False,False
+113,14/09,"['CR Retail-NETS', '13SEP', '11168691600']",276.3,Credit,43690.91,False,False
+114,14/09,"['Cash 0771369', '14SEP', '11168691500']",14900.0,Debit,28790.91,False,False
+115,14/09,"['CR Retail-NETS', '14SEP', '11168691600']",123.6,Credit,30332.16,False,True
+116,16/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",20.54,Credit,30352.7,False,False
+117,16/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",646.8,Credit,30999.5,False,False
+118,16/09,"['CR Retail-NETS', '14SEP', '11169178900']",2241.9,Credit,33241.4,False,False
+119,16/09,"['CR Retail-NETS', '14SEP', '11168691500']",4008.75,Credit,37250.15,False,False
+120,16/09,"['CR Retail-NETS', '14SEP', '11168691600']",992.2,Credit,38242.35,False,False
+121,16/09,"['CR Retail-NETS', '15SEP', '11168691500']",1896.6,Credit,40138.95,False,False
+122,16/09,"['CR Retail-NETS', '15SEP', '11168691600']",123.7,Credit,40262.65,False,False
+123,16/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",241.0,Credit,40503.65,False,False
+124,16/09,"['CR Retail-NETS', '15SEP', '11168627900']",36.4,Credit,40540.05,False,False
+125,16/09,"['CR Retail-NETS', '15SEP', '11168691500']",1995.5,Credit,42535.55,False,False
+126,16/09,"['CR Retail-NETS', '15SEP', '11168691600']",600.3,Credit,43135.85,False,False
+127,16/09,"['CR Retail-NETS', '18SEP', '11169178900']",1335.5,Credit,44471.35,False,False
+128,16/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",22.83,Credit,44494.18,False,False
+129,16/09,['Cheque Deposit'],20876.0,Credit,65370.18,False,False
+130,16/09,"['CR Retail-NETS', '16SEP', '11168691500']",1044.45,Credit,66414.63,False,False
+131,16/09,"['CR Retail-NETS', '16SEP', '11168691600']",103.6,Credit,66518.23,False,False
+132,16/09,"['Inward DR - GIRO', 'OTHR C-S-000085', 'RESORTS CONCEPT PL', '0002']",970.22,Debit,65548.01,False,False
+133,16/09,"['Cheque Withdrawal', '0771368']",550.0,Debit,64998.01,False,False
+134,17/09,"['(nward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",79.7,Credit,65077.71,False,False
+135,17/09,"['CR Retail-NETS', '16SEP', '11168691500']",1124.5,Credit,66202.21,False,False
+136,17/09,"['CR Retail-NETS', '16SEP', '11168691600']",342.2,Credit,66544.41,False,False
+137,17/09,"['CR Retail-NETS', '16SEP', '11169178900']",1015.0,Credit,67559.41,False,False
+138,17/09,"['Inward DR - GIRO', 'COLL 201317184G', 'CPF', 'BFWL']",13368.72,Debit,54190.69,False,False
+139,17/09,"['CR Retail-NETS', '17SEP', '11168691500']",1253.15,Credit,55443.84,False,False
+140,17/09,"['CR Retail-NETS', '17SEP', '11168691600']",164.1,Credit,55607.94,False,False
+141,17/09,"['Cheque Withdrawal', '0771354']",3800.0,Debit,50807.94,False,True
+142,17/09,"['Cheque Withdrawal', '0771355']",2650.0,Debit,48157.94,False,False
+143,17/09,"['Cheque Withdrawal', '0771356']",50.0,Debit,48107.94,False,False
+144,18/09,"['Funds Trf - FAST', 'GEBFT19090056553434', 'FT19090056553434', 'GDDS 01']",5047.53,Debit,43060.41,False,False
+145,18/09,"['SVC Chg', 'GEBFT19090056553434', 'FT19090056553434', 'G@DDs 01']",0.5,Debit,43059.91,False,False
+146,18/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",190.9,Credit,43250.81,False,False
+147,18/09,"['CR Retail-NETS', '17SEP', '11169178900']",232.7,Credit,43483.51,False,False
+148,18/09,"['CR Retail-NETS', '17SEP', '11168691500']",1337.55,Credit,44821.06,False,False
+149,18/09,"['CR Retail-NETS', '17SEP', '11168691600']",199.6,Credit,45020.66,False,False
+150,18/09,"['Cash 0771373', '0771356']",11790.0,Debit,33230.66,False,False
+151,18/09,"['Misc Debit', 'SERVICE CHARGE FOR RETURNED CHEQUE']",40.0,Credit,33240.66,False,True
+152,18/09,"['CR Retail-NETS', '18SEP', '11168691500']",998.0,Credit,34238.66,False,False
+153,18/09,"['CR Retail-NETS', '18SEP', '11168691600']",49.2,Credit,34287.86,False,False
+154,18/09,"['Cheque Withdrawal', '0771374']",6647.4,Debit,27640.46,False,False
+155,19/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",39.2,Credit,27679.66,False,False
+156,19/09,"['CR Retail-NETS', '18SEP', '11169178900']",1019.9,Credit,28699.56,False,False
+157,19/09,"['CR Retail-NETS', '18SEP', '11168691500']",489.7,Credit,29189.26,False,False
+158,19/09,"['CR Retail-NETS', '18SEP', '11168691600']",249.3,Credit,29438.56,False,False
+159,19/09,"['CR Retail-NETS', '19SEP', '14168691500']",616.8,Credit,30055.36,False,False
+160,19/09,"['CR Retail-NETS', '19SEP', '11168691600']",209.7,Credit,30265.06,False,False
+161,19/09,"['Cheque Withdrawal', '0771370']",1831.84,Debit,28433.22,False,False
+162,20/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",63.6,Credit,28496.82,False,False
+163,20/09,"['CR Retail-NETS', '19SEP', '11168691500']",1456.25,Credit,29953.07,False,False
+164,20/09,"['CR Retail-NETS', '19SEP', '11168691600']",307.1,Credit,30260.17,False,False
+165,20/09,"['CR Retail-NETS', '19SEP', '11169178900']",663.7,Credit,30923.87,False,False
+166,20/09,"['CR Retail-NETS', '20SEP', '11168691500']",366.9,Credit,31290.77,False,False
+167,20/09,"['CR Retail-NETS', '20SEP', '11168691600']",324.1,Credit,31614.87,False,False
+168,20/09,"['Inward DR - GIRO', 'OTHR ES8614', 'NETS (S) Pte Ltd', 'F110025006']",671.16,Debit,30943.71,False,False
+169,20/09,"['Cheque Withdrawal', '0771372']",9967.36,Debit,20976.35,False,False
+170,21/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",134.4,Credit,21110.75,False,False
+171,21/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",503.4,Credit,21614.15,False,False
+172,21/09,"['CR Retail-NETS', '20SEP', '11168691500']",3010.3,Credit,24624.45,False,False
+173,21/09,"['CR Retail-NETS', '20SEP', '11168691600']",500.0,Credit,25124.45,False,False
+174,21/09,"['CR Retail-NETS', '20SEP', '11169178900']",1379.6,Credit,26504.05,False,False
+175,21/09,['Cash 0771382'],3800.0,Debit,22704.05,False,False
+176,21/09,"['CR Retail-NETS', '21SEP', '11168691500']",2020.8,Credit,24724.85,False,False
+177,21/09,"['CR Retail-NETS', '21SEP', '11168691600']",283.5,Credit,25008.35,False,False
+178,23/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",31.4,Credit,25039.75,False,False
+179,23/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",210.6,Credit,25250.35,False,False
+180,23/09,"['CR Retail-NETS', '21SEP', '11169178900']",2527.1,Credit,27777.45,False,False
+181,23/09,"['CR Retail-NETS', '21SEP', '11168627900']",164.4,Credit,27941.85,False,False
+182,23/09,"['CR Retail-NETS', '21SEP', '11168691500']",2658.25,Credit,30600.1,False,False
+183,23/09,"['CR Retail-NETS', '21SEP', '11168691600']",233.0,Credit,30833.1,False,False
+184,23/09,"['CR Retail-NETS', '22SEP', '11168627900']",34.5,Credit,30867.6,False,False
+185,23/09,"['CR Retail-NETS', '22SEP', '11168691500']",1665.2,Credit,32532.8,False,False
+186,23/09,"['CR Retail-NETS', '22SEP', '11168691600']",114.3,Credit,32647.1,False,False
+187,23/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",264.0,Credit,32911.1,False,False
+188,23/09,"['CR Retail-NETS', '22SEP', '11169178900']",2191.9,Credit,35103.0,False,False
+189,23/09,"['CR Retail-NETS', '22SEP', '11168691500']",2063.55,Credit,37166.55,False,False
+190,23/09,"['CR Retail-NETS', '22SEP', '11168691600']",968.3,Credit,38134.85,False,False
+191,23/09,"['Funds Transfer', 'mBK-Transfer']",20000.0,Credit,58134.85,False,False
+192,23/09,"['CR Retail-NETS', '23SEP', '11168691500']",1289.15,Credit,59424.0,False,False
+193,23/09,"['CR Retail-NETS', '23SEP', '11168691600']",23.8,Credit,59447.8,False,False
+194,23/09,['Cash Deposit-CDM'],10000.0,Credit,69447.8,False,False
+195,23/09,['Cash Deposit-CDM'],10000.0,Credit,79447.8,False,False
+196,23/09,['Cash Deposit-CDM'],9950.0,Credit,89397.8,False,False
+197,23/09,"['Cheque Withdrawal', '0771371']",6000.0,Debit,83397.8,False,False
+198,23/09,"['Cheque Withdrawal', '0771375']",900.0,Debit,82497.8,False,False
+199,23/09,"['Cheque Withdrawal', '0771381']",960.0,Debit,81537.8,False,False
+200,23/09,"['Cheque Withdrawal', '0771383']",60920.02,Debit,20617.78,False,False
+201,24/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",337.9,Credit,20955.68,False,False
+202,24/09,"['CR Retail-NETS', '23SEP', '11168691500']",1042.75,Credit,21998.43,False,False
+203,24/09,"['CR Retail-NETS', '23SEP', '11168691600']",130.4,Credit,22128.83,False,False
+204,24/09,"['CR Retail-NETS', '23SEP', '11169178900']",534.9,Credit,22663.73,False,False
+205,24/09,"['CR Retail-NETS', '24SEP', '11168691500']",992.05,Credit,23655.78,False,False
+206,24/09,"['CR Retail-NETS', '24SEP', '11168691600']",62.3,Credit,23718.08,False,False
+207,24/09,"['Cheque Withdrawal', '0771380']",2273.7,Debit,21444.38,False,False
+208,25/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",534.4,Credit,21978.78,False,False
+209,25/09,"['CR Retail-NETS', '24SEP', '14168627900']",62.1,Credit,22040.88,False,False
+210,25/09,"['CR Retail-NETS', '24SEP', '111468691500']",1512.65,Credit,23553.53,False,False
+211,25/09,"['CR Retail-NETS', '24SEP', '11168691600']",224.2,Credit,23777.73,False,False
+212,25/09,"['CR Retail-NETS', '24SEP', '11169178900']",390.4,Credit,24168.13,False,False
+213,25/09,"['CR Retail-NETS', '25SEP', '11168691500']",488.65,Credit,24656.78,False,False
+214,25/09,"['CR Retail-NETS', '25SEP', '11168691600']",64.1,Credit,24720.88,False,False
+215,25/09,"['Cheque Withdrawal', '0771379']",332.59,Debit,24388.29,False,False
+216,26/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",27.4,Credit,24415.69,False,False
+217,26/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",515.7,Credit,24931.39,False,False
+218,26/09,"['CR Retail-NETS', '25SEP', '11168691500']",1069.0,Credit,26000.39,False,False
+219,26/09,"['CR Retail-NETS', '25SEP', '11168691600']",256.9,Credit,26257.29,False,False
+220,26/09,"['CR Retail-NETS', '25SEP', '11169178900']",581.3,Credit,26838.59,False,False
+221,26/09,"['Inward Credit-FAST', 'PAYNOW OTHR', 'LEE TIONG LENG', 'PAYNOWGMT']",0.01,Credit,26838.6,False,False
+222,26/09,"['CR Retail-NETS', '26SEP', '11168691500']",1511.25,Credit,28349.85,False,False
+223,26/09,"['CR Retail-NETS', '26SEP', '11168691600']",33.3,Credit,28383.15,False,False
+224,27/09,"['CR Retail-NETS', '26SEP', '11168627900']",215.2,Debit,26653.35,False,True
+225,27/09,"['CR Retail-NETS', '26SEP', '11168691500']",1913.4,Credit,28566.75,False,False
+226,27/09,"['CR Retail-NETS', '26SEP', '11168691600']",240.1,Credit,28806.85,False,False
+227,27/09,"['CR Retail-NETS', '26SEP', '11169178900']",1041.6,Credit,29848.45,False,False
+228,27/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",184.1,Credit,30032.55,False,False
+229,27/09,"['Inward CR - GIRO', 'OTHR Other', 'CPF BOARD', 'CPFB RFM 6800173 501600001001']",384.0,Credit,30416.55,False,False
+230,27/09,"['CR Retail-NETS', '27SEP', '11168691500']",1623.1,Credit,32039.65,False,False
+231,27/09,"['CR Retail-NETS', '27SEP', '11168691600']",304.6,Credit,32344.25,False,False
+232,27/09,"['Cheque Withdrawal', '0771377']",970.22,Debit,31374.03,False,False
+233,27/09,"['Cheque Withdrawal', '0771378']",300.0,Debit,31074.03,False,False
+234,28/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",24.8,Credit,31098.83,False,False
+235,28/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",357.5,Credit,31456.33,False,False
+236,28/09,"['CR Retail-NETS', '27SEP', '11168691500']",3262.05,Credit,34718.38,False,False
+237,28/09,"['CR Retail-NETS', '27SEP', '11168691600']",210.9,Credit,34929.28,False,False
+238,28/09,"['CR Retail-NETS', '27SEP', '11169178900']",2037.5,Credit,36966.78,False,False
+239,28/09,"['CR Retail-NETS', '28SEP', '11168691600']",98.4,Credit,38575.23,False,True
+240,30/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",361.47,Credit,38936.7,False,False
+241,30/09,"['CR Retail-NETS', '28SEP', '11169178900']",2668.7,Credit,41605.4,False,False
+242,30/09,"['CR Retail-NETS', '28SEP', '11168627900']",43.3,Credit,41648.7,False,False
+243,30/09,"['CR Retail-NETS', '28SEP', '11168691500']",3668.1,Credit,45316.8,False,False
+244,30/09,"['CR Retail-NETS', '28SEP', '11168691600']",385.0,Credit,45701.8,False,False
+245,30/09,"['CR Retail-NETS', '29SEP', '11168691500']",2437.25,Credit,48139.05,False,False
+246,30/09,"['CR Retail-NETS', '29SEP', '11168691600']",210.4,Credit,48349.45,False,False
+247,30/09,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",317.7,Credit,48667.15,False,False
+248,30/09,"['CR Retail-NETS', '29SEP', '11168627900']",85.4,Credit,48752.55,False,False
+249,30/09,"['CR Retail-NETS', '29SEP', '11168691500']",2555.65,Credit,51308.2,False,False
+250,30/09,"['CR Retail-NETS', '29SEP', '11168691600']",423.4,Credit,51731.6,False,False
+251,30/09,"['CR Retail-NETS', '29SEP', '11169178900']",2712.2,Credit,54443.8,False,False
+252,30/09,"['CR Retail-NETS', '30SEP', '11168691500']",1135.9,Credit,55579.7,False,False
+253,30/09,"['Inward Credit-FAST', 'PAYNOW OTHR', 'YAP QIAN YING', 'PAYNOWLEN']",55.7,Credit,55635.4,False,False
+254,30/09,"['Misc Debit', '6018866940-00000', 'Trt. Wd. Loans']",1519.95,Debit,54115.45,False,False
+255,30/09,"['Cheque Withdrawal', '0771385']",550.0,Debit,53565.45,False,False
+256,30/09,"['Cheque Withdrawal', '0771386']",2340.0,Debit,51225.45,False,False
+257,30/09,"['Cheque Withdrawal', '0771387']",3600.0,Debit,47625.45,False,False
+258,30/09,"['Cheque Charges', 'SSS']",1.5,Debit,47623.95,False,False
+259,,['Total Withdrawals'],,,255659.27,False,False
+260,,['Total Deposits'],,,252230.41,False,False
+261,,['Total'],,,47623.95,False,False
+262,,['BALANCE B/F'],,,44889.18,False,False
+263,01/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",100.3,Credit,44989.48,False,False
+264,01/08,"['CR Retail-NETS', '31JUL', '11168627900']",135.2,Credit,45124.68,False,False
+265,01/08,"['CR Retail-NETS', '31JUL', '11168691500']",1371.4,Credit,46496.08,False,False
+266,01/08,"['CR Retail-NETS', '31JUL', '11168691600']",362.8,Credit,46858.88,False,False
+267,01/08,"['CR Retail-NETS', '31JUL', '11169178900']",1272.9,Credit,48131.78,False,False
+268,01/08,"['Bulk - GIRO', 'ROS93995', 'PAYROLL', 'ROS93995', 'PAYROLL']",18200.0,Debit,29931.78,False,False
+269,01/08,"['CR Retail-NETS', 'O1AUG', '11168691500']",818.05,Credit,30749.23,False,True
+270,01/08,"['CR Retail-NETS', 'O1AUG', '11168691600']",110.5,Credit,30859.73,False,False
+271,01/08,"['Bulk - GIRO', 'GEB19070053570781', 'BK18060030848958', 'PAYROLL']",4200.0,Debit,26659.73,False,False
+272,01/08,"['SVC Chg', 'GEB19070053570781', 'BK18060030848958', 'PAYROLL']",0.4,Debit,26659.33,False,False
+273,01/08,"['Inward DR - GIRO', 'OTHR C-S-000085', 'RESORTS CONCEPT PL', 'EH TENANT']",13969.92,Debit,12689.41,False,False
+274,02/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",128.0,Credit,12817.41,False,False
+275,02/08,"['CR Retail-NETS', 'O1AUG', '11169178900']",963.8,Credit,13781.21,False,False
+276,02/08,"['CR Retail-NETS', 'O1AUG', '11168691500']",1094.65,Credit,14875.86,False,False
+277,02/08,"['CR Retail-NETS', '02AUG', '11168691500']",830.0,Credit,16144.26,False,True
+278,02/08,"['CR Retail-NETS', '02AUG', '11168691600']",64.6,Credit,16208.86,False,False
+279,02/08,"['Inward DR - GIRO', 'GOLL 2000022831', 'TUASPOWERSUPPLY', '006000728796']",210.75,Debit,15998.11,False,False
+280,02/08,"['Inward DR - GIRO', 'COLL 2000022830', 'TUASPOWERSUPPLY', '006000728795']",664.35,Debit,15333.76,False,False
+281,02/08,"['Cheque Withdrawal', '0771175']",1306.24,Debit,14027.52,False,False
+282,03/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",98.1,Credit,14125.62,False,False
+283,03/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",49.4,Credit,14175.02,False,False
+284,03/08,"['CR Retail-NETS', '02AUG', '11168691500']",2760.55,Credit,16935.57,False,False
+285,03/08,"['CR Retail-NETS', '02AUG', '11168691600']",319.8,Credit,17255.37,False,False
+286,03/08,"['CR Retail-NETS', '02AUG', '11169178900']",1782.9,Credit,19038.27,False,False
+287,03/08,"['CR Retail-NETS', 'O8AUG', '11168627900']",32.4,Credit,19070.67,False,False
+288,03/08,"['CR Retail-NETS', 'O38AUG', '11168691500']",1961.95,Credit,21032.62,False,False
+289,03/08,"['CR Retail-NETS', 'O8AUG', '11168691600']",159.5,Credit,21192.12,False,False
+290,05/08,"['inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",20.54,Credit,21212.66,False,False
+291,05/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",277.0,Credit,21489.66,False,False
+292,05/08,"['CR Retail-NETS', 'O8AUG', '11169178900']",3098.1,Credit,24587.76,False,False
+293,05/08,"['CR Retail-NETS', '03AUG', '11168627900']",31.2,Credit,24618.96,False,False
+294,05/08,"['CR Retail-NETS', '03AUG', '11168691500']",4524.2,Credit,29143.16,False,False
+295,05/08,"['CR Retail-NETS', 'O3AUG', '11168691600']",622.0,Credit,29765.16,False,False
+296,05/08,"['Funds Trf - FAST', 'GEBFT19080053919391', 'FT19080053919391', 'GDDS 01']",4574.99,Debit,25190.17,False,False
+297,05/08,"['SVC Chg', 'GEBFT19080053919391', 'FT19080053919391', '@DDs 01']",0.5,Debit,25189.67,False,False
+298,05/08,"['CR Retail-NETS', 'O4AUG', '11168691500']",1969.3,Credit,27158.97,False,False
+299,05/08,"['CR Retail-NETS', 'O4AUG', '11168691600']",329.8,Credit,27488.77,False,False
+300,05/08,"['Inward Credit-FAST', 'OTHR Other', 'G@PAY NETWORK (8) PT']",173.0,Credit,27661.77,False,False
+301,05/08,"['CR Retail-NETS', '04AUG', '11168691500']",3157.45,Credit,30819.22,False,False
+302,05/08,"['CR Retail-NETS', '04AUG', '11168691600']",220.9,Credit,31040.12,False,False
+303,05/08,"['CR Retail-NETS', 'O04AUG', '11169178900']",2709.2,Credit,33749.32,False,False
+304,05/08,"['CR Retail-NETS', 'O5AUG', '11168691500']",987.75,Credit,34737.07,False,False
+305,05/08,['Cash Deposit-CDM'],10000.0,Credit,44737.07,False,False
+306,05/08,['Cash Deposit-CDM'],10000.0,Credit,54737.07,False,False
+307,05/08,['Cash Deposit-CDM'],10000.0,Credit,64737.07,False,False
+308,05/08,['Cash Deposit-CDM'],10000.0,Credit,74737.07,False,False
+309,05/08,['Cash Deposit-CDM'],10000.0,Credit,84737.07,False,False
+310,05/08,"['Inward DR - GIRO', 'COLL 2000035737', 'TUASPOWERSUPPLY', '006000731080']",239.78,Credit,94497.29,False,True
+311,06/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",26.1,Credit,94523.39,False,False
+312,06/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",86.9,Credit,94610.29,False,False
+313,06/08,"['CR Retail-NETS', 'O5AUG', '11168691500']",1577.35,Credit,96187.64,False,False
+314,06/08,"['CR Retail-NETS', 'O5AUG', '11168691600']",161.6,Credit,96349.24,False,False
+315,06/08,"['CR Retail-NETS', 'Q5AUG', '11169178900']",910.5,Credit,97259.74,False,False
+316,06/08,"['CR Retail-NETS', 'O6AUG', '11168691500']",1171.05,Credit,98430.79,False,False
+317,06/08,"['CR Retail-NETS', 'O6AUG', '11168691600']",59.3,Credit,98490.09,False,False
+318,06/08,"['Misc Debit', 'PMRGEBSG/0719', 'PMRSG31072019009635', 'BIBPlus Subscription Charge']",20.0,Debit,98470.09,False,False
+319,07/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT', 'OTHR Other', 'GPAY NETWORK (8) PT']",14.46,Credit,98484.55,False,False
+320,07/08,"['CR Retail-NETS', 'O6AUG', '11169178900']",541.4,Debit,98141.55,False,True
+321,07/08,"['CR Retail-NETS', 'O6AUG', '11168691500']",1455.4,Credit,100596.95,False,True
+322,07/08,"['CR Retail-NETS', 'O6AUG', '11168691600']",120.0,Credit,100716.95,False,False
+323,07/08,"['CR Retail-NETS', 'O7AUG', '11168691500']",878.65,Credit,101595.6,False,False
+324,07/08,"['Cheque Withdrawal', '0771321']",1600.0,Debit,99995.6,False,False
+325,07/08,"['Cheque Withdrawal', '0771325']",100.0,Debit,99895.6,False,False
+326,07/08,"['Cheque Withdrawal', '0771332']",6199.9,Debit,93695.7,False,False
+327,08/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",66.9,Credit,93762.6,False,False
+328,08/08,"['CR Retail-NETS', 'O7AUG', '11168691500']",1726.25,Credit,95488.85,False,False
+329,08/08,"['CR Retail-NETS', 'O7AUG', '11168691600']",491.0,Credit,95979.85,False,False
+330,08/08,"['CR Retail-NETS', 'O7AUG', '11169178900']",813.0,Credit,96792.85,False,False
+331,08/08,"['CR Retail-NETS', 'O8AUG', '11168691500']",869.85,Credit,97662.7,False,False
+332,08/08,"['CR Retail-NETS', 'O8AUG', '11168691600']",432.6,Credit,98095.3,False,False
+333,08/08,"['Cheque Withdrawal', '0771304']",270.0,Debit,97825.3,False,False
+334,08/08,"['Cheque Withdrawal', '0771327']",4500.0,Debit,93325.3,False,False
+335,10/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",627.1,Credit,93952.4,False,False
+336,10/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",183.0,Credit,94135.4,False,False
+337,10/08,"['CR Retail-NETS', 'O8AUG', '11169178900']",2013.0,Credit,96148.4,False,False
+338,10/08,"['CR Retail-NETS', 'O8AUG', '11168691500']",2104.3,Credit,98252.7,False,False
+339,10/08,"['CR Retail-NETS', 'O8AUG', '11168691600']",269.5,Credit,98522.2,False,False
+340,10/08,"['CR Retail-NETS', 'O9AUG', '11168691500']",2602.05,Credit,101124.25,False,False
+341,,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",309.0,Credit,101433.25,False,False
+342,10/08,"['CR Retail-NETS', 'O9AUG', '11168691500']",1681.3,Credit,103114.55,False,False
+343,10/08,"['CR Retail-NETS', 'O8AUG', '11168691600']",601.7,Credit,103716.25,False,False
+344,10/08,"['CR Retail-NETS', 'O8AUG', '11169178900']",2599.9,Credit,106316.15,False,False
+345,10/08,"['CR Retail-NETS', '10AUG', '11168691500']",2474.0,Credit,108790.15,False,False
+346,10/08,"['CR Retail-NETS', '10AUG', '11168691600']",67.0,Credit,108857.15,False,False
+347,13/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",274.9,Credit,109132.05,False,False
+348,13/08,"['CR Retail-NETS', '10AUG', '11169178900']",2870.9,Credit,112002.95,False,False
+349,13/08,"['CR Retail-NETS', '10AUG', '11168627900']",67.9,Credit,112070.85,False,False
+350,13/08,"['CR Retail-NETS', '10AUG', '11168691500']",3373.45,Credit,115444.3,False,False
+351,13/08,"['CR Retail-NETS', '10AUG', '11168691600']",478.5,Credit,115922.8,False,False
+352,13/08,"['CR Retail-NETS', '11AUG', '111686279800']",66.3,Credit,115989.1,False,False
+353,13/08,"['CR Retail-NETS', '11AUG', '11168691500']",1830.8,Credit,117819.9,False,False
+354,13/08,"['CR Retail-NETS', '11AUG', '11168691600']",41.7,Credit,117861.6,False,False
+355,13/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",247.9,Credit,118109.5,False,False
+356,13/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",87.2,Credit,118196.7,False,False
+357,13/08,"['CR Retail-NETS', '11AUG', '11168627900']",92.9,Credit,118289.6,False,False
+358,13/08,"['CR Retail-NETS', '11AUG', '11168691500']",2999.85,Credit,121289.45,False,False
+359,13/08,"['CR Retail-NETS', '11AUG', '11168691600']",780.1,Credit,122069.55,False,False
+360,13/08,"['CR Retail-NETS', '11AUG', '11169178900']",2189.6,Credit,124259.15,False,False
+361,13/08,"['CR Retail-NETS', '12AUG', '11168691500']",1413.7,Credit,125672.85,False,False
+362,13/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",417.2,Credit,126090.05,False,False
+363,13/08,"['CR Retail-NETS', '12AUG', '11168627900']",85.0,Credit,126175.05,False,False
+364,13/08,"['CR Retail-NETS', '12AUG', '11168691500']",3495.55,Credit,129670.6,False,False
+365,13/08,"['CR Retail-NETS', '12AUG', '11168691600']",617.8,Credit,130288.4,False,False
+366,13/08,"['CR Retail-NETS', '12AUG', '11169178900']",1915.6,Credit,132204.0,False,False
+367,13/08,"['CR Retail-NETS', '13AUG', '11168691500']",1815.75,Credit,134019.75,False,False
+368,13/08,"['CR Retail-NETS', '13AUG', '11168691600']",94.4,Credit,134114.15,False,False
+369,13/08,"['Inward CR - GIRO', 'OTHR Other', 'Foodpanda Singapore', 'WSFY Pay Adv Doc 612000004164']",0.01,Credit,134114.16,False,False
+370,13/08,"['Cheque Withdrawal', '0771326']",9443.03,Debit,124671.13,False,False
+371,13/08,"['Cheque Withdrawal', '0771328']",706.2,Debit,123964.93,False,False
+372,13/08,"['Cheque Withdrawal', '0771329']",30000.0,Debit,93964.93,False,False
+373,14/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",154.9,Credit,94119.83,False,False
+374,14/08,"['CR Retail-NETS', '13AUG', '11168691500']",1589.55,Credit,95709.38,False,False
+375,14/08,"['CR Retail-NETS', '13AUG', '11168691600']",162.0,Credit,95871.38,False,False
+376,14/08,"['CR Retail-NETS', '13AUG', '11169178900']",636.3,Credit,96507.68,False,False
+377,14/08,"['CR Retail-NETS', '14AUG', '11168691500']",853.9,Credit,97361.58,False,False
+378,14/08,"['Inward CR - GIRO', 'OTHR Other', 'Foodpanda Singapore', '04596']",17.96,Credit,97379.54,False,False
+379,14/08,"['Inward CR - GIRO', 'OTHR Other', 'EMPLOYMENT AND EMPLO', '50002100030000717062019']",40000.0,Credit,137379.54,False,False
+380,15/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",215.3,Credit,137594.84,False,False
+381,15/08,"['CR Retail-NETS', '14AUG', '11168691500']",1325.45,Credit,138920.29,False,False
+382,15/08,"['CR Retail-NETS', '14AUG', '11168691600']",357.6,Credit,139277.89,False,False
+383,15/08,"['CR Retail-NETS', '14AUG', '11169178900']",969.6,Credit,140247.49,False,False
+384,15/08,"['CR Retail-NETS', '15AUG', '11168691500']",532.6,Credit,140780.09,False,False
+385,15/08,"['Inward DR - GIRO', 'GSTX 201317184G', 'IRAS', 'GST']",52969.85,Debit,87810.24,False,False
+386,15/08,"['Inward DR - GIRO', 'OTHR C-S-000085', 'RESORTS CONCEPT PL', 'EH TENANT']",970.22,Debit,86840.02,False,False
+387,16/08,"['Funds Trf - FAST', 'GEBFT19080054530155', 'FT19080054530155', 'G@DDs 01']",4550.6,Debit,82289.42,False,False
+388,16/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",108.6,Credit,82397.52,False,True
+389,16/08,"['CR Retail-NETS', '15AUG', '11168691500']",1250.05,Credit,83647.57,False,False
+390,16/08,"['CR Retail-NETS', '15AUG', '11168691600']",512.4,Credit,84159.97,False,False
+391,16/08,"['CR Retail-NETS', '15AUG', '11169178900']",844.1,Credit,85004.07,False,False
+392,16/08,"['Cash 0771335', '16AUG', '11168691500']",3748.2,Debit,81255.87,False,False
+393,16/08,"['Cheque Withdrawal', '0771323']",3800.0,Debit,78214.97,False,True
+394,16/08,"['Cheque Withdrawal', '0771324']",2650.0,Debit,75564.97,False,False
+395,16/08,"['Cheque Withdrawal', '0771330']",6920.0,Debit,68644.97,False,False
+396,17/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",31.7,Credit,68676.67,False,False
+397,17/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",798.3,Credit,69474.97,False,False
+398,17/08,"['CR Retail-NETS', '16AUG', '11168691500']",4281.3,Credit,73756.27,False,False
+399,17/08,"['CR Retail-NETS', '16AUG', '11168691600']",348.5,Credit,74104.77,False,False
+400,17/08,"['CR Retail-NETS', '16AUG', '11169178900']",1415.6,Credit,75520.37,False,False
+401,17/08,"['CR Retail-NETS', '17AUG', '11168691500']",2392.7,Credit,77913.07,False,False
+402,17/08,"['CR Retail-NETS', '17AUG', '11168691600']",1134.7,Credit,79047.77,False,False
+403,19/08,"['CR Retail-NETS', '17AUG', '11168691500']",2745.55,Credit,82227.72,False,True
+404,19/08,"['CR Retail-NETS', '17AUG', '11168691600']",480.4,Credit,82708.12,False,False
+405,19/08,"['CR Retail-NETS', '17AUG', '11169178900']",2023.9,Credit,84732.02,False,False
+406,19/08,"['CR Retail-NETS', '18AUG', '11168691500']",1379.6,Credit,86111.62,False,False
+407,19/08,"['CR Retail-NETS', '18AUG', '11168691600']",108.3,Credit,86219.92,False,False
+408,19/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",748.1,Credit,86968.02,False,False
+409,19/08,"['CR Retail-NETS', '18AUG', '11168691500']",3389.7,Credit,90357.72,False,False
+410,19/08,"['CR Retail-NETS', '18AUG', '11168691600']",183.2,Credit,90540.92,False,False
+411,19/08,"['CR Retail-NETS', '18AUG', '11169178900']",2494.5,Credit,93035.42,False,False
+412,19/08,"['CR Retail-NETS', '19AUG', '11168691500']",1527.5,Credit,94562.92,False,False
+413,19/08,"['CR Retail-NETS', '19AUG', '11168691600']",40.1,Credit,94603.02,False,False
+414,19/08,"['Inward DR - GIRO', 'COLL 201317184G', 'CPF', 'BFWL']",11109.35,Debit,83493.67,False,False
+415,19/08,"['Cheque Withdrawal', '0771322']",1000.0,Debit,82493.67,False,False
+416,19/08,"['Cheque Withdrawal', '0771333']",1499.07,Debit,80994.6,False,False
+417,19/08,"['Cheque Withdrawal', '0771338']",535.0,Debit,80459.6,False,False
+418,20/08,"['CR Retail-NETS', '19AUG', '11168691500']",1133.3,Credit,81897.5,False,True
+419,20/08,"['CR Retail-NETS', '19AUG', '11168691600']",150.8,Credit,82048.3,False,False
+420,20/08,"['CR Retail-NETS', '19AUG', '11169178900']",1009.8,Credit,83058.1,False,False
+421,20/08,"['CR Retail-NETS', '20AUG', '11168691500']",403.05,Credit,83461.15,False,False
+422,20/08,"['Inward DR - GIRO', 'OTHR ES8614', 'NETS (S) Pte Ltd', 'F110024965']",518.2,Debit,82942.95,False,False
+423,20/08,"['Cheque Withdrawal', '0771339']",1291.49,Debit,81651.46,False,False
+424,20/08,"['Cheque Withdrawal', '0771340']",1831.84,Debit,79819.62,False,False
+425,20/08,"['Cheque Withdrawal', '0771342']",9937.28,Debit,69882.34,False,False
+426,21/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",25.8,Credit,69908.14,False,False
+427,21/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",199.4,Credit,70107.54,False,False
+428,21/08,"['CR Retail-NETS', '20AUG', '11168627900']",34.7,Credit,70142.24,False,False
+429,21/08,"['CR Retail-NETS', '20AUG', '11168691500']",1091.5,Credit,71233.74,False,False
+430,21/08,"['CR Retail-NETS', '20AUG', '11168691600']",28.9,Credit,71262.64,False,False
+431,21/08,"['CR Retail-NETS', '20AUG', '11169178900']",1306.4,Credit,72569.04,False,False
+432,21/08,"['Cheque Deposit', '21AUG', '11168691500']",85.89,Credit,72654.93,False,False
+433,21/08,"['Cheque Withdrawal', '0771343']",4194.2,Credit,89334.23,False,True
+434,22/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",68.5,Debit,69402.73,False,True
+435,22/08,"['CR Retail-NETS', '21AUG', '11168691500']",960.95,Credit,70363.68,False,False
+436,22/08,"['CR Retail-NETS', '21AUG', '11168691600']",83.0,Credit,70446.68,False,False
+437,22/08,"['CR Retail-NETS', '21AUG', '11169178900']",590.9,Credit,71037.58,False,False
+438,22/08,"['CR Retail-NETS', '22AUG', '11168691500']",794.4,Credit,71831.98,False,False
+439,22/08,"['CR Retail-NETS', '22AUG', '11168691600']",220.7,Credit,72052.68,False,False
+440,23/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",755.1,Credit,72807.78,False,False
+441,23/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",70.2,Credit,72877.98,False,False
+442,23/08,"['CR Retail-NETS', '22AUG', '561400691789']",41.1,Credit,72919.08,False,False
+443,23/08,"['CR Retail-NETS', '22AUG', '11168691500']",1172.7,Credit,74091.78,False,False
+444,23/08,"['CR Retail-NETS', '22AUG', '11168691600']",347.6,Credit,74439.38,False,False
+445,23/08,"['CR Retail-NETS', '22AUG', '11169178900']",531.2,Credit,74970.58,False,False
+446,23/08,"['Funds Transfer-IB', 'FT19080055038700', 'siam square']",1350.0,Credit,76320.58,False,False
+447,23/08,"['CR Retail-NETS', '23AUG', '11168691500']",1246.65,Credit,77567.23,False,False
+448,24/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",297.6,Credit,77966.23,False,True
+449,24/08,"['CR Retail-NETS', '23AUG', '11168627900']",104.3,Credit,78070.53,False,False
+450,24/08,"['CR Retail-NETS', '23AUG', '11168691500']",3674.35,Credit,81744.88,False,False
+451,24/08,"['CR Retail-NETS', '23AUG', '11168691600']",541.8,Credit,82286.68,False,False
+452,24/08,"['CR Retail-NETS', '23AUG', '11169178900']",1554.7,Credit,83841.38,False,False
+453,24/08,"['CR Retail-NETS', '24AUG', '11168691500']",2054.15,Credit,85895.53,False,False
+454,24/08,"['CR Retail-NETS', '24AUG', '11168691600']",151.2,Credit,86046.73,False,False
+455,26/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",602.4,Credit,86649.13,False,False
+456,26/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",23.7,Credit,86672.83,False,False
+457,26/08,"['CR Retail-NETS', '24AUG', '11169178900']",3046.0,Credit,89718.83,False,False
+458,26/08,"['CR Retail-NETS', '24AUG', '11168627900']",147.1,Credit,89865.93,False,False
+459,26/08,"['CR Retail-NETS', '24AUG', '11168691500']",3945.0,Credit,93810.93,False,False
+460,26/08,"['CR Retail-NETS', '24AUG', '11168691600']",613.0,Credit,94423.93,False,False
+461,26/08,"['CR Retail-NETS', '25AUG', '11168627900']",54.7,Credit,94478.63,False,False
+462,26/08,"['CR Retail-NETS', '25AUG', '11168691500']",1812.55,Credit,96291.18,False,False
+463,26/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",409.2,Debit,96280.68,False,True
+464,26/08,"['CR Retail-NETS', '25AUG', '11169178900']",2996.7,Credit,99977.38,False,True
+465,26/08,"['CR Retail-NETS', '25AUG', '11168691500']",2792.25,Credit,102769.63,False,False
+466,26/08,"['CR Retail-NETS', '25AUG', '11168691600']",886.1,Credit,103655.73,False,False
+467,26/08,"['CR Retail-NETS', '26AUG', '11168691500']",445.45,Credit,104101.18,False,False
+468,26/08,"['CR Retail-NETS', '26AUG', '11168691600']",203.7,Credit,104304.88,False,False
+469,26/08,"['Misc Debit', '4018279465-00000', 'Trf. Wd. Loans']",1945.0,Debit,102359.88,False,False
+470,26/08,"['Cheque Withdrawal', '0771341']",57211.33,Debit,45148.55,False,False
+471,26/08,"['Cheque Withdrawal', '0771345']",5600.0,Debit,39548.55,False,False
+472,26/08,"['Cheque Withdrawal', '0771346']",2100.0,Debit,37448.55,False,False
+473,26/08,"['Cheque Withdrawal', '0771347']",3600.0,Debit,33848.55,False,False
+474,26/08,"['Cheque Withdrawal', '0771349']",599.2,Debit,33249.35,False,False
+475,26/08,"['Cheque Withdrawal', '0771350']",2279.0,Debit,30970.35,False,False
+476,27/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",29.9,Credit,31000.25,False,False
+477,27/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",29.5,Credit,31029.75,False,False
+478,27/08,"['CR Retail-NETS', '26AUG', '11168627900']",77.5,Credit,31107.25,False,False
+479,27/08,"['CR Retail-NETS', '26AUG', '11168691500']",1543.05,Credit,32650.3,False,False
+480,27/08,"['CR Retail-NETS', '26AUG', '11168691600']",149.2,Credit,32799.5,False,False
+481,27/08,"['CR Retail-NETS', '26AUG', '11169178900']",1047.2,Credit,33846.7,False,False
+482,27/08,"['CR Retail-NETS', '27AUG', '11168691500']",1119.15,Credit,34965.85,False,False
+483,27/08,"['CR Retail-NETS', '27AUG', '11168691600']",171.7,Credit,35137.55,False,False
+484,27/08,"['Inward CR - GIRO', 'OTHR Other', 'Foodpanda Singapore', 'WSFY Pay Adv Doc 628000000259']",25.99,Credit,35163.54,False,False
+485,27/08,"['Cheque Withdrawal', '0771348']",636.65,Debit,34526.89,False,False
+486,28/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",112.1,Credit,34638.99,False,False
+487,28/08,"['CR Retail-NETS', '27AUG', '11168691500']",839.7,Credit,35478.69,False,False
+488,28/08,"['CR Retail-NETS', '27AUG', '11169178900']",574.2,Credit,36052.89,False,False
+489,28/08,"['CR Retail-NETS', '28AUG', '11168691500']",1118.5,Credit,37171.39,False,False
+490,28/08,"['CR Retail-NETS', '28AUG', '11168691600']",172.1,Credit,37343.49,False,False
+491,28/08,"['Cheque Withdrawal', '0771336']",432.29,Debit,36911.2,False,False
+492,29/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",151.5,Credit,37062.7,False,False
+493,29/08,"['CR Retail-NETS', '28AUG', '11168627900']",105.3,Credit,37168.0,False,False
+494,29/08,"['CR Retail-NETS', '28AUG', '11168691500']",1510.7,Credit,38678.7,False,False
+495,29/08,"['CR Retail-NETS', '28AUG', '11169178900']",865.06,Credit,39830.56,False,True
+496,29/08,"['CR Retail-NETS', '29AUG', '11168691500']",841.7,Credit,40772.26,False,True
+497,29/08,"['CR Retail-NETS', '29AUG', '11168691600']",75.5,Credit,40847.76,False,False
+498,29/08,"['Cheque Withdrawal', '0771359']",2283.24,Debit,38564.52,False,False
+499,30/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",454.4,Credit,39018.92,False,False
+500,30/08,"['CR Retail-NETS', '29AUG', '11168627900']",39.7,Credit,39058.62,False,False
+501,30/08,"['CR Retail-NETS', '29AUG', '11168691500']",1386.45,Credit,40445.07,False,False
+502,30/08,"['CR Retail-NETS', '29AUG', '11168691600']",233.0,Credit,40678.07,False,False
+503,30/08,"['CR Retail-NETS', '29AUG', '11169178900']",616.3,Credit,41294.37,False,False
+504,30/08,"['CR Retail-NETS', '30AUG', '11168627900']",168.3,Credit,41462.67,False,False
+505,30/08,"['CR Retail-NETS', '30AUG', '11168691500']",1011.15,Credit,42473.82,False,False
+506,30/08,"['CR Retail-NETS', '30AUG', '11168691600']",195.4,Credit,42669.22,False,False
+507,30/08,"['Misc Debit', '6018866940-00000', 'Trf. Wd. Loans']",1543.46,Debit,41125.76,False,False
+508,31/08,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",338.5,Credit,41464.26,False,False
+509,31/08,"['CR Retail-NETS', '30AUG', '11168627900']",51.6,Credit,41515.86,False,False
+510,31/08,"['CR Retail-NETS', '30AUG', '11168697500']",3063.6,Credit,44579.46,False,False
+511,31/08,"['CR Retail-NETS', '30AUG', '11168691600']",818.5,Credit,45397.96,False,False
+512,31/08,"['CR Retail-NETS', '30AUG', '11169178900']",1313.2,Credit,46711.16,False,False
+513,31/08,"['CR Retail-NETS', '31AUG', '11168691500']",4270.65,Credit,50981.81,False,False
+514,31/08,"['CR Retail-NETS', '31AUG', '11168691600']",71.0,Credit,51052.81,False,False
+515,,['Total Withdrawals'],,,281962.63,False,False
+516,,['Total Deposits'],,,288126.26,False,False
+517,,['Total'],,,51052.81,False,False
+518,,['BALANCE B/F'],,,55271.19,False,False
+519,01/07,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 905SIA161022 153513871']",50.2,Credit,55321.39,False,False
+520,01/07,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745S1IA199589 153524286']",289.9,Credit,55611.29,False,False
+521,01/07,"['CR Retail-NETS', '29JUN', '11169178900']",2778.9,Credit,58390.19,False,False
+522,01/07,"['CR Retail-NETS', '29JUN', '11168627900']",20.8,Credit,58410.99,False,False
+523,01/07,"['CR Retail-NETS', '2QJUN', '11168691500']",2099.65,Credit,60510.64,False,False
+524,01/07,"['CR Retail-NETS', '29JUN', '11168691600']",530.4,Credit,61041.04,False,False
+525,01/07,"['CR Retail-NETS', '30JUN', '11168691500']",1926.2,Credit,62967.24,False,False
+526,01/07,"['CR Retail-NETS', '3QJUN', '11168691600']",32.1,Credit,62999.34,False,False
+527,01/07,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 153916205']",478.3,Credit,63477.64,False,False
+528,01/07,"['CR Retail-NETS', '30JUN', '11168691500']",2845.7,Credit,66323.34,False,False
+529,01/07,"['CR Retail-NETS', '30JUN', '11168691600']",433.1,Credit,66756.44,False,False
+530,01/07,"['CR Retail-NETS', '30JUN', '11169178900']",1999.0,Credit,68755.44,False,False
+531,01/07,"['Bulk - GIRO', 'ROS81054', 'PAYROLL']",18200.0,Debit,50555.44,False,False
+532,01/07,"['SVC Chg', 'ROS81054', 'PAYROLL']",0.6,Debit,50554.84,False,False
+533,01/07,"['CR Retail-NETS', 'O1JUL', '11168691500']",661.05,Credit,51215.89,False,False
+534,01/07,"['Bulk - GIRO', 'GEB1906005 1689759', 'BK18060030848958', 'PAYROLL']",5900.0,Debit,45360.49,False,True
+535,01/07,"['SVC Chg', 'GEB1906005 1689759', 'BK18060030848958', 'PAYROLL', '6018866940-00000', 'Trf. Wd. Loans']",0.6,Debit,45359.89,False,False
+536,01/07,"['Inward DR - GIRO', 'COLL 2000022830', 'TUASPOWERSUPPLY', '006000714478']",742.45,Debit,43073.98,False,True
+537,01/07,"['Inward DR - GIRO', 'COLL 2000022831', 'TUASPOWERSUPPLY', '006000714479']",226.04,Debit,42847.94,False,False
+538,01/07,"['Inward DR - GIRO', 'OTHR C-S-000085', 'RESORTS CONCEPT P L', 'EH TENANT']",13969.92,Debit,28878.02,False,False
+539,01/07,"['Cheque Withdrawal', '0771278']",945.88,Debit,27932.14,False,False
+540,01/07,"['Cheque Withdrawal', '0771279']",885.96,Debit,27046.18,False,False
+541,01/07,"['Cheque Withdrawal', '0771285']",89.04,Debit,26957.14,False,False
+542,01/07,"['Cheque Withdrawal', '0771286']",3600.0,Debit,23357.14,False,False
+543,02/07,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 154346651']",236.7,Credit,23593.84,False,False
+544,02/07,"['CR Retail-NETS', 'O1JUL', '11168691500']",766.15,Credit,24359.99,False,False
+545,02/07,"['CR Retail-NETS', 'O1JUL', '11168691600']",59.1,Credit,24419.09,False,False
+546,02/07,"['CR Retail-NETS', 'OiJUL', '11169178900']",823.0,Credit,25242.09,False,False
+547,02/07,"['SVC Chg', 'GEBFT19070051845166', 'FT19070051845166', 'GDDs 01']",0.5,Debit,19653.84,False,True
+548,02/07,"['CR Retail-NETS', 'O2JUL', '11168691500']",959.7,Credit,20613.54,False,False
+549,02/07,"['CR Retail-NETS', '02JUL,', '11168691600']",67.4,Credit,20680.94,False,False
+550,02/07,"['Cheque Withdrawal', '0771290']",2987.2,Debit,17693.74,False,False
+551,03/07,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 154757148']",92.7,Credit,17786.44,False,False
+552,03/07,"['CR Retail-NETS', 'O2JUL,', '11168627900']",22.0,Credit,17808.44,False,False
+553,03/07,"['CR Retail-NETS', '02JUL', '11168691500']",1577.45,Credit,19385.89,False,False
+554,03/07,"['CR Retail-NETS', 'o2JUL', '11168691600']",180.6,Credit,19566.49,False,False
+555,03/07,"['CR Retail-NETS', 'O2JUL', '11169178900']",930.1,Credit,20496.59,False,False
+556,03/07,"['CR Retail-NETS', 'O3JUL', '11168627900']",116.1,Credit,20612.69,False,False
+557,03/07,"['CR Retail-NETS', 'O3JUL', '11168691500']",1306.15,Credit,21918.84,False,False
+558,03/07,"['CR Retail-NETS', 'O3JUL', '11168691600']",99.1,Credit,22017.94,False,False
+559,03/07,"['Cheque Withdrawal', '0771275']",105.0,Debit,21912.94,False,False
+560,03/07,"['Cheque Withdrawal', '0771284']",9500.0,Debit,12412.94,False,False
+561,03/07,"['Cheque Withdrawal', '0771292']",2000.0,Debit,10412.94,False,False
+562,04/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",89.4,Debit,9866.14,False,True
+563,04/07,"['CR Retail-NETS', 'O3JUL', '11168691500']",1272.1,Credit,11138.24,False,False
+564,04/07,"['CR Retail-NETS', 'O3JUL', '11168691600']",184.4,Credit,11322.64,False,False
+565,04/07,"['CR Retail-NETS', 'O3JUL', '11169178900']",623.2,Credit,11945.84,False,False
+566,04/07,"['CR Retail-NETS', 'O4JUL', '11168691500']",1171.7,Credit,13117.54,False,False
+567,04/07,"['CR Retail-NETS', 'O4JUL', '11168691600']",119.9,Credit,13237.44,False,False
+568,04/07,"['Cheque Withdrawal', '0771287']",4500.0,Debit,8737.44,False,False
+569,04/07,"['Cheque Withdrawal', '0771288']",1600.0,Debit,7137.44,False,False
+570,04/07,"['Cheque Withdrawal', '0771295']",1252.97,Debit,5884.47,False,False
+571,04/07,"['Cheque Withdrawal!', '0771296']",1332.0,Debit,4552.47,False,False
+572,05/07,"['Funds Transfer', 'iBK-TL']",10000.0,Credit,14552.47,False,False
+573,05/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",40.3,Credit,14592.77,False,False
+574,05/07,"['CR Retail-NETS', 'O4JUL', '11169178900']",757.9,Credit,15350.67,False,False
+575,05/07,"['CR Retail-NETS', 'O4JUL', '11168691500']",1813.4,Credit,17164.07,False,False
+576,05/07,"['CR Retail-NETS', 'O4JUL', '11168691600']",154.8,Credit,17318.87,False,False
+577,05/07,"['CR Retail-NETS', 'O5JUL', '11168691500']",924.85,Credit,18243.72,False,False
+578,05/07,"['CR Retail-NETS', 'OSJUL', '11168691600']",56.9,Credit,18300.62,False,False
+579,05/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",191.5,Credit,18492.12,False,False
+580,05/07,"['Misc Debit', 'PMRGEBSC/0619', 'PMRSG30062019008616', 'BIBPlus Subscription Charge']",20.0,Debit,18472.12,False,False
+581,05/07,"['Cheque Withdrawal', '0771289']",6909.55,Debit,11562.57,False,False
+582,05/07,"['Cheque Withdrawal', '0771299']",9443.04,Debit,2119.53,False,False
+583,06/07,"['Funds Transfer', 'mBK-Transfer']",10000.0,Credit,12119.53,False,False
+584,06/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",848.8,Credit,12968.33,False,False
+585,06/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",50.9,Credit,13019.23,False,False
+586,06/07,"['CR Retail-NETS', 'O5JUL', '11168627900']",177.8,Credit,13197.03,False,False
+587,06/07,"['CR Retail-NETS', 'O5JUL', '11168691500']",2110.55,Credit,15307.58,False,False
+588,06/07,"['CR Retail-NETS', 'OSJUL', '11168691600']",462.7,Credit,15770.28,False,False
+589,06/07,"['CR Retail-NETS', 'OSJUL', '11169178900']",936.3,Credit,16706.58,False,False
+590,06/07,"['CR Retail-NETS', 'O6JUL', '11168627900']",35.2,Credit,16741.78,False,False
+591,06/07,"['CR Retail-NETS', 'O6JUL', '11168691500']",2212.25,Credit,18954.03,False,False
+592,06/07,"['CR Retail-NETS', 'O6JUL', '11168691600']",172.1,Credit,19126.13,False,False
+593,08/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",358.0,Credit,19484.13,False,False
+594,08/07,"['CR Retail-NETS', 'O6JUL', '11168691500']",2386.05,Credit,24572.98,False,True
+595,08/07,"['CR Retail-NETS', 'O6JUL', '11168691600']",459.3,Credit,25032.28,False,False
+596,08/07,"['CR Retail-NETS', 'O7JUL', '11168691500']",1822.1,Credit,26854.38,False,False
+597,08/07,"['CR Retail-NETS', 'O7JUL', '11168691600']",172.0,Credit,27026.38,False,False
+598,08/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",136.5,Credit,27162.88,False,False
+599,08/07,"['CR Retail-NETS', 'O7JUL', '11168627900']",85.2,Credit,27248.08,False,False
+600,08/07,"['CR Retail-NETS', 'O7JUL', '11168691500']",2597.4,Credit,29845.48,False,False
+601,08/07,"['CR Retail-NETS', 'O7JUL', '11168691600']",214.7,Credit,30060.18,False,False
+602,08/07,"['CR Retail-NETS', 'O8JUL', '11168691500']",1013.95,Credit,31074.13,False,False
+603,08/07,"['Inward DR - GIRO', 'COLL 2000035737', 'TUASPOWERSUPPLY', '006000716416']",235.8,Debit,30838.33,False,False
+604,08/07,"['Cheque Withdrawal', '0771291']",1100.0,Debit,29738.33,False,False
+605,08/07,"['Cheque Withdrawal', '0771297']",4776.48,Debit,24961.85,False,False
+606,09/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",318.8,Credit,25280.65,False,False
+607,09/07,"['CR Retail-NETS', 'O8JUL', '11168691500']",1536.3,Credit,26816.95,False,False
+608,09/07,"['CR Retail-NETS', 'O8JUL', '11168691600']",88.4,Credit,26905.35,False,False
+609,09/07,"['CR Retail-NETS', 'O@JUL', '11168691500']",750.7,Credit,27656.05,False,False
+610,09/07,"['CR Retail-NETS', 'OgJUL', '11168691600']",83.7,Credit,27739.75,False,False
+611,10/07,"['CR Retail-NETS', 'OgJUL', '11168691500']",1014.25,Credit,28754.0,False,False
+612,10/07,"['CR Retail-NETS', 'OgJUL', '11168691600']",66.6,Credit,28820.6,False,False
+613,10/07,"['CR Retail-NETS', 'O@JUL', '11169178900']",556.8,Credit,29377.4,False,False
+614,10/07,"['SERV CHARGE', '10R907101078C01', 'NONE', 'wongnai media co. Itd']",34.28,Debit,29343.12,False,False
+615,10/07,"['FUNDS TRF - TT', '10R907101078C01', 'NONE', 'wongnai media co. Itd']",23909.67,Debit,5433.45,False,False
+616,10/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",126.8,Credit,5560.25,False,False
+617,10/07,"['CR Retail-NETS', '1OJUL', '11168691500']",1149.3,Credit,6709.55,False,False
+618,10/07,"['CR Retail-NETS', '10JUL', '11168691600']",24.4,Credit,6733.95,False,False
+619,11/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",229.1,Credit,6963.05,False,False
+620,14/07,"['CR Retail-NETS', 'JOJUL', '11168691500']",1368.8,Credit,8331.85,False,False
+621,11/07,"['CR Retail-NETS', '1OJUL', '11168691600']",361.1,Credit,8692.95,False,False
+622,11/07,"['CR Retail-NETS', '1OJUL', '11169178900']",905.9,Credit,9598.85,False,False
+623,11/07,"['CR Retail-NETS', 'T1JUL', '11168691500']",873.9,Credit,10472.75,False,False
+624,12/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",137.9,Credit,10796.15,False,True
+625,12/07,"['CR Retail-NETS', 'TUL', '11168627900']",282.7,Credit,11078.85,False,False
+626,12/07,"['CR Retail-NETS', '(JUL', '11168691500']",857.55,Credit,11936.4,False,False
+627,12/07,"['CR Retail-NETS', 'q1JUL', '11168691600']",196.4,Credit,12132.8,False,False
+628,12/07,"['CR Retail-NETS', '11JUL', '11169178900']",1019.8,Credit,13152.6,False,False
+629,12/07,"['CR Retail-NETS', '12JUL', '11168691500']",598.3,Credit,13750.9,False,False
+630,12/07,"['CR Retail-NETS', '12JUL', '11168691600']",44.7,Credit,13795.6,False,False
+631,13/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",134.8,Credit,13930.4,False,False
+632,13/07,"['CR Retail-NETS', '12JUL', '11168627900']",72.4,Credit,14002.8,False,False
+633,13/07,"['CR Retail-NETS', '12JUL', '11168691500']",1926.05,Credit,15928.85,False,False
+634,13/07,"['CR Retail-NETS', '12JUL', '11168691600']",286.7,Credit,16215.55,False,False
+635,13/07,"['CR Retail-NETS', '12JUL', '11169178900']",1849.0,Credit,18064.55,False,False
+636,13/07,"['CR Retail-NETS', '13JUL', '11168691500']",1773.7,Credit,19838.25,False,False
+637,13/07,"['CR Retail-NETS', '13JUL', '11168691600']",116.9,Credit,19955.15,False,False
+638,15/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",204.4,Credit,20159.55,False,False
+639,15/07,"['CR Retail-NETS', '13JUL', '11169178900']",2064.9,Credit,22224.45,False,False
+640,15/07,"['CR Retail-NETS', '13JUL', '11168691500']",2513.6,Credit,24738.05,False,False
+641,16/07,"['CR Retail-NETS', '13JUL', '11168691600']",940.5,Credit,25678.55,False,False
+642,15/07,"['CR Retail-NETS', '14JUL', '11168691500']",2250.55,Credit,27929.1,False,False
+643,15/07,"['CR Retail-NETS', '14JUL', '11168691600']",151.9,Credit,28081.0,False,False
+644,15/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",442.6,Credit,28523.6,False,False
+645,15/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",31.5,Credit,28555.1,False,False
+646,15/07,"['CR Retail-NETS', '14JUL', '11168691500']",3045.1,Credit,31600.2,False,False
+647,15/07,"['CR Retail-NETS', '14JUL', '11168691600']",316.9,Credit,31917.1,False,False
+648,15/07,"['CR Retail-NETS', '14JUL', '11169178900']",211.3,Credit,32128.4,False,False
+649,15/07,"['CR Retail-NETS', '15JUL', '11168691500']",1404.6,Credit,33533.0,False,False
+650,15/07,"['CR Retail-NETS', '15JUL', '11168691600']",76.8,Credit,33609.8,False,False
+651,15/07,"['Cheque Withdrawal', '0771300']",1764.0,Debit,31845.8,False,False
+652,16/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",382.0,Credit,32227.8,False,False
+653,16/07,"['CR Retail-NETS', '15JUL', '11168691500']",1072.75,Credit,33300.55,False,False
+654,16/07,"['CR Retail-NETS', '15JUL', '11168691600']",90.3,Credit,33390.85,False,False
+655,16/07,"['SVC Chg', 'GEBFT19070052659008', 'FT19070052659008', 'GDDSs 01']",0.5,Debit,28812.79,False,True
+656,16/07,"['CR Retail-NETS', '16JUL', '11168691500']",757.3,Credit,29570.09,False,False
+657,16/07,"['CR Retail-NETS', '16JUL', '11168691600']",58.1,Credit,29628.19,False,False
+658,16/07,"['Cheque Withdrawal', '0771305']",2382.89,Debit,27245.3,False,False
+659,16/07,"['Cheque Withdrawal', '0771306']",695.0,Debit,26550.3,False,False
+660,17/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",43.5,Credit,26593.8,False,False
+661,17/07,"['CR Retai!l-NETS', '16JUL', '11168691500']",2333.95,Credit,28927.75,False,False
+662,17/07,"['CR Retail-NETS', '16JUL', '11168691600']",64.3,Credit,28992.05,False,False
+663,17/07,"['CR Retail-NETS', '16JUL', '11169178900']",202.9,Credit,29194.95,False,False
+664,17/07,"['CR Retail-NETS', '17JUL', '11168691500']",956.5,Credit,30151.45,False,False
+665,17/07,"['CR Retail-NETS', '17JUL', '11168691600']",97.7,Credit,30249.15,False,False
+666,17/07,"['Inward DR - GIRO', 'COLL 201317184G', 'CPF', 'BFWL']",13036.33,Debit,17212.82,False,False
+667,18/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",148.4,Credit,17361.22,False,False
+668,18/07,"['CR Retail-NETS', '17JUL', '11168691500']",1812.85,Credit,19174.07,False,False
+669,18/07,"['CR Retail-NETS', '17JUL', '11168691600']",283.0,Credit,19457.07,False,False
+670,18/07,"['CR Retail-NETS', '17JUL', '11169178900']",1029.02,Credit,20486.09,False,False
+671,18/07,"['CR Retail-NETS', '18JUL', '11168691500']",709.15,Credit,21195.24,False,False
+672,18/07,"['Cheque Withdrawal', '0771301']",1623.0,Debit,19572.24,False,False
+673,18/07,"['Cheque Withdrawal', '0771302']",3800.0,Debit,15772.24,False,False
+674,18/07,"['Cheque Withdrawal', '0771303']",1000.0,Debit,14772.24,False,False
+675,19/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",61.6,Credit,14833.84,False,False
+676,12/07,"['CR Retail-NETS', '18JUL', '11168691500']",2631.85,Credit,17465.69,False,False
+677,19/07,"['CR Retail-NETS', 'T8JUL', '11168691600']",392.1,Credit,17857.79,False,False
+678,19/07,"['CR Retail-NETS', '18JUL.', '11169178900']",901.4,Credit,18759.19,False,False
+679,19/07,"['CR Retail-NETS', '19JUL', '11168691500']",1035.15,Credit,19794.34,False,False
+680,19/07,"['CR Retail-NETS', '19JUL', '11168691600']",121.3,Credit,19915.64,False,False
+681,19/07,"['Cheque Withdrawal', '0771307']",297.2,Debit,19618.44,False,False
+682,19/07,"['Cheque Withdrawal', '0771309']",100.0,Debit,19518.44,False,False
+683,20/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",177.3,Credit,19695.74,False,False
+684,20/07,"['CR Retail-NETS', 'TOJUL', '11168627900']",73.2,Credit,19768.94,False,False
+685,20/07,"['CR Retail-NETS', '19JUL', '11168691500']",3510.6,Credit,23279.54,False,False
+686,20/07,"['CR Retail-NETS', '19JUL', '11168691600']",589.61,Credit,23869.15,False,False
+687,20/07,"['CR Retail-NETS', '20JUL', '11168691500']",1782.25,Credit,27668.8,False,True
+688,20/07,"['CR Retail-NETS', '20JUL', '11168691600']",110.5,Credit,27779.3,False,False
+689,22/07,"['CR Retail-NETS', '20JUL', '11169178900']",3087.6,Credit,30866.9,False,False
+690,22/07,"['CR Retail-NETS', '20JUL', '11168627900']",100.1,Credit,30967.0,False,False
+691,22/07,"['CR Retail-NETS', '20JUL', '11168691500']",3578.05,Credit,34545.05,False,False
+692,22/07,"['CR Retail-NETS', '20JUL', '11168691600']",865.6,Credit,35410.65,False,False
+693,22/07,"['CR Retail-NETS', '21JUL', '11168691500']",2089.4,Credit,37500.05,False,False
+694,22/07,"['CR Retail-NETS', '21JUL', '11168691600']",321.9,Credit,37821.95,False,False
+695,22/07,"['CR Retail-NETS', '21JUL', '11169178900']",486.1,Credit,38308.05,False,False
+696,22/07,"['CR Retail-NETS', '21JUL', '1116869 1500']",2065.95,Credit,40374.0,False,False
+697,22/07,"['CR Retail-NETS', '21JUL', '11168691600']",406.7,Credit,40780.7,False,False
+698,22/07,"['CR Retail-NETS', '22JUL', '11168691500']",979.75,Credit,41760.45,False,False
+699,22/07,"['CR Retail-NETS', '22JUL', '11168691600']",109.6,Credit,41870.05,False,False
+700,22/07,"['Inward DR - GIRO', 'OTHR ES8614', 'NETS (S) Pte Ltd', 'F110024896']",605.79,Debit,41264.26,False,False
+701,22/07,"['Cheque Withdrawal', '0771298']",2921.1,Debit,38343.16,False,False
+702,22/07,"['Cheque Withdrawal', '0771308']",3074.2,Debit,35268.96,False,False
+703,22/07,"['Cheque Withdrawal', '0771310']",945.88,Debit,34323.08,False,False
+704,22/07,"['Cheque Withdrawal', '0771311']",885.96,Debit,33437.12,False,False
+705,22/07,"['Cheque Withdrawal', '0771312']",9903.34,Debit,23533.78,False,False
+706,22/07,"['Cheque Withdrawal', '0771314']",8200.0,Debit,15333.78,False,False
+707,23/07,"['CR Retail-NETS', '22JUL', '11169178900']",517.5,Credit,15851.28,False,False
+708,23/07,"['CR Retail-NETS', '22JUL', '11168627900']",57.0,Credit,15908.28,False,False
+709,23/07,"['CR Retail-NETS', '22JUL', '11168691500']",321.15,Credit,16229.43,False,False
+710,23/07,"['CR Retail-NETS', '22JUL', '11168691600']",342.48,Credit,16571.91,False,False
+711,23/07,"['CR Retail-NETS', '23JUL', '11168691500']",306.55,Credit,16878.46,False,False
+712,24/07,['Cash Deposit-CDM'],10000.0,Credit,26878.46,False,False
+713,24/07,['Cash Deposit-CDM'],10000.0,Credit,36878.46,False,False
+714,24/07,['Cash Deposit-CDM'],10000.0,Credit,46878.46,False,False
+715,24/07,['Cash Deposit-CDM'],10000.0,Credit,56878.46,False,False
+716,24/07,['Cash Deposit-CDM'],10000.0,Credit,66878.46,False,False
+717,24/07,['Cash Deposit-CDM'],9950.0,Credit,76828.46,False,False
+718,24/07,"['CR Retail-NETS', '23JUL', '11168691500']",998.8,Credit,77827.26,False,False
+719,24/07,"['CR Retail-NETS', '23JUL', '11168691600']",131.0,Credit,77958.26,False,False
+720,24/07,"['CR Retail-NETS', '23JUL', '11169178900']",555.0,Credit,78513.26,False,False
+721,24/07,"['CR Retail-NETS', '24JUL', '11168691500']",853.55,Credit,79366.81,False,False
+722,25/07,"['CR Retail-NETS', '24JUL', '11168691500']",1381.65,Credit,80932.26,False,True
+723,25/07,"['CR Retail-NETS', '24JUL', '11168691600']",89.1,Credit,81021.36,False,False
+724,25/07,"['CR Retail-NETS', '24JUL', '11169178900']",573.8,Credit,81595.16,False,False
+725,25/07,"['CR Retail-NETS', '25JUL', '11168691500']",1075.7,Credit,82670.86,False,False
+726,25/07,"['CR Retail-NETS', '25JUL', '11168691600']",47.1,Credit,82717.96,False,False
+727,25/07,"['Inward CR - GIRO', 'OTHR Other', 'Foodpanda Singapore', '04539']",2.49,Credit,82720.45,False,False
+728,25/07,"['Cheque Withdrawal', '0771316']",61870.2,Debit,20850.25,False,False
+729,26/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",82.8,Credit,20933.05,False,False
+730,26/07,"['CR Retail-NETS', '25JUL', '11168627900']",151.5,Credit,21084.55,False,False
+731,26/07,"['CR Retail-NETS', '25JUL', '11168691500']",1315.6,Credit,22400.15,False,False
+732,26/07,"['CR Retail-NETS', '25JUL', '11168691600']",396.7,Credit,22796.85,False,False
+733,26/07,"['CR Retail-NETS', '25JUL', '11169178900']",460.3,Credit,23257.15,False,False
+734,26/07,"['CR Retail-NETS', '26JUL', '11168691500']",1073.0,Credit,24330.15,False,False
+735,26/07,"['Misc Debit', '4018279465-00000', 'Trf. Wd. Loans']",1945.0,Debit,22385.15,False,False
+736,26/07,"['Cheque Withdrawal', '0771313']",900.0,Debit,21485.15,False,False
+737,27/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",31.1,Credit,21516.25,False,False
+738,27/07,"['(nward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",566.5,Credit,22082.75,False,False
+739,27/07,"['CR Retail-NETS', '26JUL', '11168627300']",93.1,Credit,22175.85,False,False
+740,27/07,"['CR Retail-NETS', '26JUL', '11168691500']",3135.7,Credit,25311.55,False,False
+741,27/07,"['CR Retail-NETS', '26JUL', '11168691600']",396.7,Credit,25708.25,False,False
+742,27/07,"['CR Retail-NETS', '26JUL', '11169178900']",1812.0,Credit,27520.25,False,False
+743,27/07,"['CR Retail-NETS', '27JUL', '11168691500']",1940.55,Credit,29460.8,False,False
+744,27/07,"['CR Retail-NETS', '27JUL', '11168691600']",252.6,Credit,29713.4,False,False
+745,29/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (8) PT']",38.04,Credit,29751.44,False,False
+746,29/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",395.6,Credit,30147.04,False,False
+747,29/07,"['CR Retail-NETS', '27JUL', '11169178900']",2025.2,Credit,32172.24,False,False
+748,29/07,"['CR Retail-NETS', '27JUL', '11168627900']",24.9,Credit,32197.14,False,False
+749,29/07,"['CR Retail-NETS', '27JUL', '11168691500']",3420.15,Credit,35617.29,False,False
+750,29/07,"['CR Retail-NETS', '27JUL', '11168691600']",827.7,Credit,36444.99,False,False
+751,29/07,"['CR Retail-NETS', '28JUL', '11168691500']",2349.95,Credit,38794.94,False,False
+752,29/07,"['CR Retail-NETS', '28JUL', '11168691600']",87.0,Credit,38881.94,False,False
+753,29/07,"['CR Retail-NETS', '28JUL', '11168691500']",3196.2,Credit,42147.94,False,True
+754,29/07,"['CR Retail-NETS', '28JUL', '11168691600']",295.5,Credit,42443.44,False,False
+755,29/07,"['CR Retail-NETS', '28JUL', '11169178900']",1860.2,Credit,44303.64,False,False
+756,29/07,"['CR Retail-NETS', '2QJUL', '11168627900']",46.4,Credit,44350.04,False,False
+757,29/07,"['CR Retail-NETS', '29JUL,', '11168691500']",1588.4,Credit,45938.44,False,False
+758,29/07,"['CR Retail-NETS', '29JUL', '11168691600']",142.9,Credit,46081.34,False,False
+759,29/07,"['Cheque Withdrawal', '0771317']",3000.0,Debit,43081.34,False,False
+760,30/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",334.5,Credit,43415.84,False,False
+761,30/07,"['CR Retail-NETS', '29JUL', '11169178900']",1015.2,Credit,44431.04,False,False
+762,30/07,"['CR Retail-NETS', '29JUL', '11168691500']",1038.0,Credit,45469.04,False,False
+763,30/07,"['CR Retail-NETS', '29JUL', '11168691600']",289.4,Credit,45758.44,False,False
+764,30/07,"['CR Retail-NETS', '30JUL', '11168691500']",363.65,Credit,46122.09,False,False
+765,30/07,"['CR Retail-NETS', '30JUL', '11168691600']",45.6,Credit,46167.69,False,False
+766,30/07,"['Misc Debit', '6018866940-00000', 'Trf. Wd. Loans']",1543.46,Debit,44624.23,False,False
+767,30/07,"['Cheque Withdrawal', '0771318']",130.0,Debit,44494.23,False,False
+768,31/07,"['Inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK ({S) PT']",134.2,Credit,44628.43,False,False
+769,14/07,"['inward Credit-FAST', 'OTHR Other', 'GPAY NETWORK (S) PT']",204.8,Credit,44833.23,False,False
+770,31/07,"['CR Retail-NETS', '30JUL', '11168627900']",30.5,Credit,44863.73,False,False
+771,31/07,"['CR Retail-NETS', '30JUL', '11168691500']",1459.8,Credit,46323.53,False,False
+772,31/07,"['CR Retail-NETS', '30JUL', '11168691600']",312.1,Credit,46635.63,False,False
+773,31/07,"['CR Retail-NETS', '30JUL', '11169178900']",589.9,Credit,47225.53,False,False
+774,31/07,"['CR Retail-NETS', '31JUL', '11168691500']",1210.05,Credit,48435.58,False,False
+775,31/07,"['CR Retail-NETS', '31JUL', '11168691600']",58.1,Credit,48493.68,False,False
+776,31/07,"['Cheque Withdrawal', '0771320']",3600.0,Debit,44893.68,False,False
+777,31/07,"['Cheque Charges', 'eee']",4.5,Debit,44889.18,False,False
+778,,['Total Withdrawals'],,,250840.3,False,False
+779,,['Total Deposits'],,,240458.29,False,False
+780,,['Total'],,,44889.18,False,False
+781,,['BALANCE B/F'],,,31233.5,False,False
+782,01/06,"['CR Retail-NETS', '31MAY', '11168627900']",40.5,Credit,31274.0,False,False
+783,01/06,"['CR Retail-NETS', '31MAY', '11168691500']",2405.8,Credit,33679.8,False,False
+784,01/06,"['CR Retail-NETS', '31MAY', '11168691600']",140.8,Credit,33820.6,False,False
+785,01/06,"['CR Retail-NETS', '31MAY', '11169178900']",1948.9,Credit,35769.5,False,False
+786,01/06,"['Bulk - GIRO', 'ROS68231', 'PAYROLL']",18200.0,Debit,17569.5,False,False
+787,01/06,"['SVC Chg', 'ROS68231', 'PAYROLL']",0.6,Debit,17568.9,False,False
+788,01/06,"['CR Retail-NETS', 'O1JUN', '11168691500']",1593.75,Credit,19162.65,False,False
+789,01/06,"['CR Retail-NETS', 'O1JUN', '11168691600']",209.8,Credit,19372.45,False,False
+790,01/06,"['Bulk - GIRO', 'GEB19050049903465', 'BK18060030848958', 'PAYROLL']",5800.0,Debit,13572.45,False,False
+791,01/06,"['SVC Chg', 'GEB19050049903465', 'BK18060030848958', 'PAYROLL']",0.6,Debit,13571.85,False,False
+792,03/06,"['CR Retail-NETS', 'O1JUN', '11169178900']",2335.3,Credit,15907.15,False,False
+793,03/06,"['CR Retail-NETS', 'O1JUN', '11168627900']",58.6,Credit,15965.75,False,False
+794,03/06,"['CR Retail-NETS', 'O1JUN', '11168691500']",3337.8,Credit,19303.55,False,False
+795,03/06,"['CR Retail-NETS', 'O1JUN', '11168691600']",537.6,Credit,19841.15,False,False
+796,03/06,"['CR Retail-NETS', 'O2JUN', '11168691500']",2221.05,Credit,22062.2,False,False
+797,03/06,"['CR Retail-NETS', 'O2JUN', '11168627900']",75.3,Credit,22195.6,False,True
+798,03/06,"['CR Retail-NETS', 'O2JUN', '11168691500', 'O2JUN', '11168691600']",1895.95,Credit,24091.55,False,False
+799,03/06,"['CR Retail-NETS', 'O2JUN', '11169178900']",2546.9,Credit,28765.75,False,True
+800,03/06,"['CR Retail-NETS', 'O3JUN', '11168691500']",1772.7,Debit,28538.45,False,True
+801,03/06,"['CR Retail-NETS', 'O3JUN', '11168691600']",78.3,Credit,28616.75,False,False
+802,03/06,"['Inward CR - GIRO', 'IVPT Invoice Payment', 'SPRING SINGAPORE', '12105-027']",3150.0,Credit,31766.75,False,False
+803,03/06,"['Inward DR - GIRO', 'OTHR G-S-000085', 'RESORTS CONCEPT PL', 'EH TENANT']",13969.92,Debit,17796.83,False,False
+804,03/06,"['Inward DR - GIRO', 'COLL 2000022830', 'TUASPOWERSUPPLY', '006000703062']",697.47,Debit,17099.36,False,False
+805,03/06,"['Inward DR - GIRO', 'COLL 2000022831', 'TUASPOWERSUPPLY', '006000703063']",222.05,Debit,16877.31,False,False
+806,03/06,"['Cheque Withdrawal', '0771249']",3600.0,Debit,13277.31,False,False
+807,03/06,"['Cheque Withdrawal', '0771250']",827.0,Debit,12450.31,False,False
+808,03/06,"['Cheque Withdrawal', '0771252']",2325.0,Debit,10125.31,False,False
+809,04/06,"['Funds Trf - FAST', 'GEBFT19060050093266', 'FT19060050093266', '@DDs 01']",5262.57,Debit,4862.74,False,False
+810,04/06,"['SVC Chg', 'GEBFT19060050093266', 'FT19060050093266', 'GDDS 01']",0.5,Debit,4862.24,False,False
+811,04/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 144067742']",71.5,Credit,4933.74,False,False
+812,04/06,"['CR Retail-NETS', 'O3JUN', '11168627900']",41.2,Credit,4974.94,False,False
+813,04/06,"['CR Retail-NETS', 'O3JUN', '11168691500']",1090.4,Credit,6065.34,False,False
+814,04/06,"['CR Retail-NETS', 'O3JUN', '11168691600']",336.4,Credit,6401.74,False,False
+815,04/06,"['CR Retail-NETS', 'O3JUN', '11169178900']",1219.8,Credit,7621.54,False,False
+816,04/06,"['CR Retail-NETS', 'O4JUN', '11168691500']",703.25,Credit,8324.79,False,False
+817,04/06,"['Cheque Withdrawal', '0771251']",210.0,Debit,8114.79,False,False
+818,06/06,"['CR Retail-NETS', 'O4JUN', '11169178900']",1181.4,Credit,9296.19,False,False
+819,06/06,"['CR Retail-NETS', 'O4JUN', '11168691500']",3523.1,Credit,12819.29,False,False
+820,06/06,"['CR Retail-NETS', 'O4JUUN', '11168691600']",588.9,Credit,13408.19,False,False
+821,06/06,"['CR Retail-NETS', 'O5JUN', '11168691500']",1840.8,Credit,15248.99,False,False
+822,06/06,"['CR Retail-NETS', 'O5JUN', '11168691600']",87.6,Credit,15336.59,False,False
+823,06/06,['Cash Deposit-CDM'],10000.0,Credit,25336.59,False,False
+824,06/06,['Cash Deposit-CDM'],10000.0,Credit,35336.59,False,False
+825,06/06,['Cash Deposit-CDM'],10000.0,Credit,45336.59,False,False
+826,06/06,['Cash Deposit-CDM'],10000.0,Credit,55336.59,False,False
+827,06/06,"['CR Retail-NETS', 'O5JUN', '11168627900']",166.5,Credit,55503.09,False,False
+828,06/06,"['CR Retail-NETS', 'OSJUN', '11168691600']",788.4,Credit,59149.39,False,True
+829,06/06,"['CR Retail-NETS', 'O5JUN', '11169178900']",2298.39,Credit,61447.78,False,False
+830,06/06,"['CR Retail-NETS', 'O6JUN', '11168691500']",685.0,Credit,62132.78,False,False
+831,06/06,"['CR Retail-NETS', 'O6JUN', '1116869 1600', '0771254']",98.9,Credit,62231.68,False,False
+832,06/06,"['Cheque Withdrawal', '0771258']",2899.7,Debit,57731.98,False,True
+833,06/06,"['Cheque Withdrawal', '0771259']",660.0,Debit,57071.98,False,False
+834,07/06,"['CR Retail-NETS', 'O6JUN', '11168691500']",1463.65,Credit,58535.63,False,False
+835,07/06,"['CR Retail-NETS', 'Q6JUN', '11168691600']",248.2,Credit,58783.83,False,False
+836,07/06,"['CR Retail-NETS', 'O6JUN', '11169178900']",898.4,Credit,59682.23,False,False
+837,07/06,"['Misc Debit', 'PMRGEBSC/0519', 'PMRSG31052019009316', 'BIBPlus Subscription Charge']",20.0,Debit,59662.23,False,False
+838,07/06,"['CR Retail-NETS', 'O7JUN', '11168691500']",671.25,Credit,60333.48,False,False
+839,07/06,"['CR Retail-NETS', 'O7JUN', '11168691600']",330.9,Credit,60664.38,False,False
+840,07/06,"['Cheque Withdrawal', '0771253']",4500.0,Debit,56164.38,False,False
+841,07/06,"['Cheque Withdrawal', '0771256']",9443.04,Debit,46721.34,False,False
+842,08/06,"['CR Retail-NETS', 'O7JUN', '11168691500']",2255.85,Credit,48977.19,False,False
+843,08/06,"['CR Retail-NETS', 'O7JUN', '11169178900']",1005.1,Credit,50375.09,False,True
+844,08/06,"['CR Retail-NETS', 'O8JUN', '11168691500']",1656.25,Credit,52031.34,False,False
+845,08/06,"['CR Retail-NETS', 'O8JUN', '11168691600']",240.5,Credit,52271.84,False,False
+846,10/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 145182951']",60.2,Credit,52332.04,False,False
+847,10/06,"['CR Retail-NETS', 'O8JUN', '11169178900']",2542.7,Credit,54874.74,False,False
+848,10/06,"['CR Retail-NETS', 'O8JUN', '11168691500']",3093.25,Credit,57967.99,False,False
+849,10/06,"['CR Retail-NETS', 'O8JUN', '11168691600']",546.8,Credit,58514.79,False,False
+850,10/06,"['CR Retail-NETS', 'O9JUN', '11168691500']",2308.35,Credit,60823.14,False,False
+851,10/06,"['CR Retail-NETS', 'OQJUN', '11168691600']",68.6,Credit,60891.74,False,False
+852,10/06,"['CR Retail-NETS', 'O9JUN', '11168627900']",41.1,Credit,60932.84,False,False
+853,10/06,"['CR Retail-NETS', 'O9JUN', '11168691500']",3713.85,Credit,64646.69,False,False
+854,10/06,"['CR Retail-NETS', 'OQJUN', '11168691600']",440.1,Credit,65086.79,False,False
+855,10/06,"['CR Retail-NETS', 'OQJUN', '11169178900']",2328.9,Credit,67415.69,False,False
+856,10/06,"['CR Retail-NETS', '10JUN', '11168691500']",1174.0,Credit,68589.69,False,False
+857,10/06,"['CR Retail-NETS', '1OJUN', '11168691600']",139.6,Credit,68729.29,False,False
+858,10/06,"['Cheque Withdrawal', '0771255']",913.78,Debit,67618.05,False,True
+859,10/06,"['Cheque Withdrawal', '0771257']",6794.95,Debit,60823.1,False,False
+860,11/06,"['CR Retail-NETS', '10JUN', '11168691500']",798.55,Credit,61621.65,False,False
+861,11/06,"['CR Retail-NETS', '10JUN', '11168691600']",125.4,Credit,61747.05,False,False
+862,,"['CR Retail-NETS', '1OJUN', '11169178900']",1431.1,Credit,63178.15,False,False
+863,11/06,"['CR Retail-NETS', '11JUN', '11168691500']",1255.6,Credit,64433.75,False,False
+864,11/06,"['CR Retail-NETS', '11JUN', '11168691600']",38.2,Credit,64471.95,False,False
+865,11/06,"['Inward CR - GIRO', 'OTHR Other', 'THE ACCOUNTANT GENER', '5003277577']",100.0,Credit,64571.95,False,False
+866,12/06,"['CR Retail-NETS', '11JUN', '11168627900']",69.0,Credit,64640.95,False,False
+867,12/06,"['CR Retail-NETS', '11JUN', '11168691500']",1573.75,Credit,66214.7,False,False
+868,12/06,"['CR Retail-NETS', '11JUN', '11168691600']",177.0,Credit,66391.7,False,False
+869,12/06,"['CR Retail-NETS', '11JUN', '11169178900']",653.4,Credit,67045.1,False,False
+870,12/06,"['CR Retail-NETS', '12JUN', '11168691500']",539.55,Credit,67584.65,False,False
+871,12/06,"['CR Retail-NETS', '12JUN', '11168691600']",153.0,Credit,67737.65,False,False
+872,12/06,"['Cheque Withdrawal', '0771262']",3810.7,Debit,63926.95,False,False
+873,13/06,"['CR Retail-NETS', '12JUN', '11168627900']",31.2,Credit,63958.15,False,False
+874,13/06,"['CR Retail-NETS', '12JUN', '11168691500']",886.1,Credit,64844.25,False,False
+875,13/06,"['CR Retail-NETS', '12JUN', '11168691600']",183.2,Credit,65027.45,False,False
+876,13/06,"['CR Retail-NETS', '12JUN', '11169178900']",878.6,Credit,65906.05,False,False
+877,13/06,"['CR Retail-NETS', '13JUN', '11168691500']",972.0,Credit,66878.05,False,False
+878,13/06,"['CR Retail-NETS', '13JUN', '11168691600']",167.4,Credit,67045.45,False,False
+879,13/06,"['Cheque Withdrawal', '0771246']",36080.0,Debit,30965.45,False,False
+880,13/06,"['Cheque Withdrawal', '0771260']",783.24,Debit,30182.21,False,False
+881,13/06,"['Cheque Withdrawal', '0771264']",1000.0,Debit,29182.21,False,False
+882,,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay GFLENGSAGM16 146861957']",14.46,Credit,29196.67,False,False
+883,14/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 146867187']",118.7,Credit,29315.37,False,False
+884,14/06,"['CR Retail-NETS', '13JUN', '11168691500']",2005.0,Credit,31320.37,False,False
+885,14/06,"['CR Retail-NETS', '13JUN', '11168691600']",12.4,Credit,31332.77,False,False
+886,14/06,"['CR Retail-NETS', '13JUN', '11169178900']",732.4,Credit,32065.17,False,False
+887,14/06,['Cash Deposit-CDM'],10000.0,Credit,42065.17,False,False
+888,14/06,['Cash Deposit-CDM'],7000.0,Credit,49065.17,False,False
+889,14/06,['Cash Deposit-CDM'],19080.0,Credit,68145.17,False,False
+890,14/06,"['CR Retail-NETS', '14JUN', '11168627900']",45.4,Credit,68190.57,False,False
+891,14/06,"['CR Retail-NETS', '14JUN', '11168691600']",102.9,Credit,69318.97,False,True
+892,14/06,"['Cheque Withdrawal', '0771248']",932.91,Debit,68386.06,False,False
+893,15/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 147250774']",546.8,Credit,68932.86,False,False
+894,15/06,"['CR Retail-NETS', '14JUN', '11168627900']",43.1,Credit,68975.96,False,False
+895,15/06,"['CR Retail-NETS', '14JUN', '11168691500']",2252.95,Credit,71228.91,False,False
+896,15/06,"['CR Retail-NETS', '14JUN', '11168691600']",381.7,Credit,71610.61,False,False
+897,15/06,"['CR Retail-NETS', '14JUN', '11169178900']",1061.5,Credit,72672.11,False,False
+898,15/06,"['CR Retail-NETS', '15JUN', '11168691500']",1514.0,Credit,74186.11,False,False
+899,15/06,"['CR Retail-NETS', '15JUN', '11168691600']",227.7,Credit,74413.81,False,False
+900,17/06,"['CR Retail-NETS', '15JUN', '11169178900']",2605.2,Credit,77019.01,False,False
+901,17/06,"['CR Retail-NETS', '15JUN', '11168627300']",78.8,Credit,77097.81,False,False
+902,17/06,"['CR Retail-NETS', '15JUN', '11168691500']",3104.1,Credit,80201.91,False,False
+903,17/06,"['CR Retail-NETS', '15JUN', '11168691600']",500.4,Credit,80702.31,False,False
+904,17/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 147727118']",48.6,Credit,80750.91,False,False
+905,17/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 147729222']",430.9,Credit,81181.81,False,False
+906,17/06,"['CR Retail-NETS', '16JUN', '11168691500']",1411.9,Credit,82593.71,False,False
+907,17/06,"['CR Retail-NETS', '16JUN', '11168691600']",271.0,Credit,82864.71,False,False
+908,17/06,"['CR Retail-NETS', '16JUN', '11168691500']",2383.6,Credit,85248.31,False,False
+909,17/06,"['CR RetaiJ-NETS', '16JUN', '11168691600']",539.2,Credit,85787.51,False,False
+910,17/06,"['CR Retail-NETS', '16JUN', '11169178900']",2169.7,Credit,87957.21,False,False
+911,17/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 148124543']",183.3,Credit,88140.51,False,False
+912,17/06,"['CR Retail-NETS', '17JUN', '11168691500']",758.85,Credit,88899.36,False,False
+913,17/06,"['CR Retail-NETS', '17JUN', '11168691600']",85.1,Credit,88984.46,False,False
+914,17/06,"['Inward DR - GIRO', 'COLL 201317184G', 'CPF', 'BFWL']",12277.86,Debit,76706.6,False,False
+915,17/06,"['Cheque Withdrawal', '0771261']",1100.0,Debit,75606.6,False,False
+916,17/06,"['Cheque Withdrawal', '0771266']",6000.0,Debit,69606.6,False,False
+917,18/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 148361972']",74.4,Credit,69681.0,False,False
+918,18/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 148362621']",153.0,Credit,69834.0,False,False
+919,18/06,"['CR Retail-NETS', '17JUN', '11168691500']",1132.4,Credit,70966.4,False,False
+920,18/06,"['CR Retail-NETS', 'T7JUN', '11168691600']",200.4,Credit,71166.8,False,False
+921,18/06,"['CR Retail-NETS', '18JUN', '11168691500']",542.75,Credit,71709.55,False,False
+922,18/06,"['CR Retail-NETS', '18JUN', '11168691600']",29.3,Credit,71738.85,False,False
+923,18/06,"['Cheque Withdrawat', '0771263']",8475.68,Debit,63263.17,False,False
+924,18/06,"['Cheque Withdrawal', '0771265']",747.94,Debit,62515.23,False,False
+925,18/06,"['Cheque Withdrawal', '0771268']",9945.02,Debit,52570.21,False,False
+926,18/06,"['Cheque Withdrawal', '0771269']",3800.0,Debit,48770.21,False,False
+927,18/06,"['Cheque Withdrawal', '0771272']",1622.5,Debit,47147.71,False,False
+928,19/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 148779680']",38.0,Credit,47185.71,False,False
+929,19/06,"['CR Retail-NETS', '18JUN', '11168691500']",1182.7,Credit,48368.41,False,False
+930,19/06,"['CR Retail-NETS', '18JUN', '11168691600']",172.7,Credit,48541.11,False,False
+931,19/06,"['CR Retail-NETS', '18JUN', '11169178900']",774.1,Credit,49315.21,False,False
+932,19/06,"['CR Retail-NETS', '19JUN', '11168691500']",299.0,Credit,49614.21,False,False
+933,19/06,"['CR Retail-NETS', '19JUN', '11168691600']",58.5,Credit,49672.71,False,False
+934,19/06,"['Cheque Withdrawal', '0771267']",1891.76,Debit,47780.95,False,False
+935,20/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745S1A199589 149184332']",421.3,Credit,48202.25,False,False
+936,20/06,"['CR Retail-NETS', '19JUN', '11169178900']",367.4,Credit,48569.65,False,False
+937,20/06,"['CR Retail-NETS', '19JUN', '11168691500']",1087.55,Credit,49657.2,False,False
+938,20/06,"['CR Retail-NETS', '19JUN', '11168691600']",407.6,Credit,50064.8,False,False
+939,20/06,"['CR Retail-NETS', '20JUN', '11168691500']",554.65,Credit,50619.45,False,False
+940,20/06,"['CR Retail-NETS', '20JUN', '11168691600']",32.6,Credit,50652.05,False,False
+941,20/06,"['Inward DR - GIRO', 'OTHR ES8614', 'NETS (S) Pte Ltd', 'F110024839']",605.93,Debit,50046.12,False,False
+942,20/06,"['Inward DR - GIRO', 'OTHR ES8614', 'NETWORK FOR ELECT', 'Es8614']",325.32,Debit,49720.8,False,False
+943,21/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 905SIA161022 149613304']",36.4,Credit,49757.2,False,False
+944,21/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745S!A199589 149615005']",136.4,Credit,49893.6,False,False
+945,21/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay GFLENGSAGM16 149622004']",29.67,Credit,49923.27,False,False
+946,21/06,"['CR Retail-NETS', '20JUN', '11169178900']",192.0,Credit,50115.27,False,False
+947,21/06,"['CR Retail-NETS', '20JUN', '11168691500']",1031.9,Credit,51147.17,False,False
+948,21/06,"['CR Retail-NETS', '20JUN', '11168691600']",678.9,Credit,51826.07,False,False
+949,21/06,"['CR Retail-NETS', '21JUN', '11168691500']",1185.9,Credit,53011.97,False,False
+950,21/06,"['CR Retail-NETS', '21JUN', '11168691600']",190.0,Credit,53201.97,False,False
+951,22/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 150048942']",507.0,Credit,53708.97,False,False
+952,22/06,"['CR Retail-NETS', '21JUN', '11168691500']",1169.2,Credit,54878.17,False,False
+953,22/06,"['CR Retail-NETS', '21JUN', '11168691600']",392.6,Credit,55270.77,False,False
+954,22/06,"['CR Retail-NETS', '22JUN', '11168691500']",1269.75,Credit,56540.52,False,False
+955,22/06,"['CR Retail-NETS', '22JUN', '11168691600']",289.8,Credit,56830.32,False,False
+956,24/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 150484253']",325.0,Credit,57155.32,False,False
+957,24/06,"['inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 905SIA161022 150488617']",26.3,Credit,57181.62,False,False
+958,24/06,"['CR Retail-NETS', '22JUN', '11168627900']",24.2,Credit,57205.82,False,False
+959,24/06,"['CR Retail-NETS', '22JUN', '11168691500']",2458.5,Credit,59664.32,False,False
+960,24/06,"['CR Retail-NETS', '22JUN', '11168691600']",759.5,Credit,60423.82,False,False
+961,24/06,"['CR Retail-NETS', '22JUN', '11169178900']",1473.5,Credit,61897.32,False,False
+962,24/06,"['CR Retail-NETS', '23JUN', '11168691500']",2079.9,Credit,63977.22,False,False
+963,24/06,"['CR Retail-NETS', '23JUN', '11168691600']",29.3,Credit,64006.52,False,False
+964,24/06,"['CR Retail-NETS', '23JUN', '11168691500']",2451.35,Credit,66457.87,False,False
+965,24/06,"['CR Retail-NETS', '23JUN', '11168691600']",842.1,Credit,67299.97,False,False
+966,24/06,"['CR Retail-NETS', '23JUN', '11169178900']",2430.5,Credit,69730.47,False,False
+967,24/06,"['Funds Trf - FAST', 'GEBFT19060051 188906', 'FT19060051 188906', 'GDDS 01']",4354.69,Debit,65375.78,False,False
+968,24/06,"['SVC Chg', 'GEBFT19060051188906', 'FT19060051 188906', '@DDS 01']",0.5,Debit,65375.28,False,False
+969,24/06,"['CR Retail-NETS', '24JUN', '11168691500']",763.45,Credit,66138.73,False,False
+970,24/06,"['CR Retail-NETS', '24JUN', '11168691600']",117.7,Credit,66256.43,False,False
+971,24/06,"['Cheque Withdrawal', '0771271']",2212.71,Debit,64043.72,False,False
+972,24/06,"['Cheque Withdrawal', '0771273']",846.53,Debit,63197.19,False,False
+973,25/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 905SIA161022 151305885']",56.1,Credit,63253.29,False,False
+974,25/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 151309973']",559.5,Credit,63812.79,False,False
+975,25/06,"['CR Retail-NETS', '24JUN', '11168691500']",979.95,Credit,64792.74,False,False
+976,25/06,"['CR Retail-NETS', '24JUN', '11168691600']",68.4,Credit,64861.14,False,False
+977,25/06,"['CR Retail-NETS', '24JUN', '111469178900']",917.2,Credit,65778.34,False,False
+978,25/06,"['CR Retail-NETS', '25JUN', '11168691500']",356.1,Credit,66134.44,False,False
+979,25/06,"['CR Retail-NETS', '25JUN', '11168691600']",105.6,Credit,66240.04,False,False
+980,26/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 151759108']",165.7,Credit,66405.74,False,False
+981,26/06,"['CR Retail-NETS', '25JUN', '11168627900']",57.9,Credit,66463.64,False,False
+982,26/06,"['CR Retail-NETS', '25JUN', '11168691500']",1403.2,Credit,67866.84,False,False
+983,26/06,"['CR Retail-NETS', '25JUN', '11168691600']",163.3,Credit,68030.14,False,False
+984,26/06,"['CR Retail-NETS', '25JUN', '11169178900']",985.3,Credit,69015.44,False,False
+985,26/06,['Cash Deposit-CDM'],18000.0,Credit,87015.44,False,False
+986,26/06,['Cash Deposit-CDM'],7000.0,Credit,94015.44,False,False
+987,26/06,"['CR Retail-NETS', '26JUN', '11168691500']",697.35,Credit,94712.79,False,False
+988,26/06,"['Misc Debit', '4018279465-00000', 'Trt. Wd. Loans']",1945.0,Debit,92767.79,False,False
+989,26/06,"['Cheque Withdrawal', '0771274']",2500.0,Debit,90267.79,False,False
+990,27/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 152205446']",158.8,Credit,90426.59,False,False
+991,27/06,"['CR Retail-NETS', '26JUN', '11168691500']",1560.55,Credit,91987.14,False,False
+992,27/06,"['CR Retail-NETS', '26JUN', '11168691600']",282.2,Credit,92269.34,False,False
+993,27/06,"['CR Retail-NETS', '26JUN', '11169178900']",767.6,Credit,93036.94,False,False
+994,27/06,"['CR Retail-NETS', '27JUN', '11168691500']",1145.95,Credit,94182.89,False,False
+995,28/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 152652662']",271.7,Credit,94454.59,False,False
+996,28/06,"['CR Retail-NETS', '27JUN', '11169178900']",1086.3,Credit,95540.89,False,False
+997,28/06,"['CR Retail-NETS', '27JUN', '11168627900']",95.6,Credit,95636.49,False,False
+998,28/06,"['CR Retail-NETS', '27JUN', '11168691500']",3024.35,Credit,98707.94,False,True
+999,28/06,"['CR Retail-NETS', '27JUN', '11168691600']",314.9,Credit,99022.84,False,False
+1000,28/06,"['CR Retail-NETS', '28JUN', '11168691500']",1066.45,Credit,100089.29,False,False
+1001,28/06,"['Cheque Withdrawal', '0771281']",50000.0,Debit,50089.29,False,False
+1002,28/06,"['Cheque Withdrawal', '0771282']",3002.7,Debit,47086.59,False,False
+1003,29/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 905SIA161022 153089191']",41.9,Credit,47128.49,False,False
+1004,29/06,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay 745SIA199589 153102396']",303.3,Credit,47431.79,False,False
+1005,29/06,"['CR Retail-NETS', '28JUN', '11168691500']",3028.7,Credit,50460.49,False,False
+1006,29/06,"['CR Retail-NETS', '28JUN', '11168691600']",942.4,Credit,51402.89,False,False
+1007,29/06,"['CR Retail-NETS', '28JUN', '11169178900']",2358.9,Credit,53761.79,False,False
+1008,29/06,"['CR Retail-NETS', '29JUN', '11168691500']",1462.1,Credit,55223.89,False,False
+1009,29/06,"['CR Retail-NETS', '29JUN', '11168691600']",47.3,Credit,55271.19,False,False
+1010,,['Total Withdrawals'],,,232405.63,False,False
+1011,,['Total Deposits'],,,256443.32,False,False
+1012,,['Total'],,,55271.19,False,False
+1013,,['BALANCE B/F'],,,30262.31,False,False
+1014,02/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 131295455']",98.6,Credit,30360.91,False,False
+1015,02/05,"['CR Retail-NETS', '30APR', '11168691500']",2027.95,Credit,32388.86,False,False
+1016,02/05,"['CR Retail-NETS', '30APR', '11168691600']",542.9,Credit,32931.76,False,False
+1017,02/05,"['CR Retail-NETS', '30APR', '11169178900']",644.0,Credit,33575.76,False,False
+1018,02/05,"['CR Retail-NETS', '30APR', '11168627900']",40.9,Credit,33616.66,False,False
+1019,02/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 131650569']",53.2,Credit,33669.86,False,False
+1020,02/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 131654462']",571.6,Credit,34241.46,False,False
+1021,02/05,"['CR Retail-NETS', 'O1MAY', '11168627900']",159.3,Credit,34400.76,False,False
+1022,02/05,"['CR Retail-NETS', 'O1MAY', '11168691500']",5098.8,Credit,39499.56,False,False
+1023,02/05,"['CR Retail-NETS', 'OIMAY', '11168691600']",834.6,Credit,40334.16,False,False
+1024,02/05,"['CR Retail-NETS', 'O1MAY', '11169178900']",2682.9,Credit,43017.06,False,False
+1025,02/05,"['Bulk - GIRO', 'ROS53487', 'PAYROLL']",18200.0,Debit,24817.06,False,False
+1026,02/05,"['SVC Chg', 'ROS53487', 'PAYROLL']",0.6,Debit,24816.46,False,False
+1027,02/05,"['Cheque Withdrawal', '0771213']",3600.0,Debit,21216.46,False,False
+1028,03/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 132005038']",29.8,Credit,21246.26,False,False
+1029,03/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 132008327']",45.3,Credit,21291.56,False,False
+1030,03/05,"['CR Retail-NETS', 'O2MAY', '11168691500']",1147.95,Credit,22439.51,False,False
+1031,03/05,"['CR Retail-NETS', 'O2MAY', '11168691600']",200.2,Credit,22639.71,False,False
+1032,03/05,"['CR Retail-NETS', 'O2MAY', '11169178900']",646.7,Credit,23286.41,False,False
+1033,03/05,"['Cheque Withdrawal', '0771205']",1351.92,Debit,21934.49,False,False
+1034,03/05,"['Cheque Withdrawal', '0771212']",450.0,Debit,21484.49,False,False
+1035,04/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 132411853']",253.9,Credit,21738.39,False,False
+1036,04/05,"['CR Retail-NETS', 'O3MAY', '11168691500']",1238.45,Credit,22976.84,False,False
+1037,04/05,"['CR Retail-NETS', 'O3MAY', '11168691600']",341.9,Credit,23318.74,False,False
+1038,04/05,"['CR Retail-NETS', 'O3MAY', '11168691500']",495.5,Credit,23814.24,False,False
+1039,04/05,"['CR Retail-NETS', 'O3MAY', '11168691600']",137.8,Credit,23952.04,False,False
+1040,04/05,"['CR Retail-NETS', 'O3MAY', '11169178900']",763.4,Credit,24715.44,False,False
+1041,04/05,"['CR Retail-NETS', 'O4MAY', '11168691500']",1952.4,Credit,26667.84,False,False
+1042,06/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 132748995']",188.8,Credit,26856.64,False,False
+1043,06/05,"['CR Retail-NETS', 'O4MAY', '11168691500']",2900.5,Credit,29757.14,False,False
+1044,06/05,"['CR Retail-NETS', 'O4MAY', '11168691600']",429.6,Credit,30186.74,False,False
+1045,06/05,"['CR Retail-NETS', 'OSMAY', '11168691500']",1116.15,Credit,33822.89,False,True
+1046,06/05,"['CR Retail-NETS', 'OSMAY', '11168691600']",117.2,Credit,33940.09,False,False
+1047,06/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 133067688']",263.6,Credit,34203.69,False,False
+1048,06/05,"['Funds Trf - FAST', 'GEBFT19050048360128', 'FT19050048360128', '@DDs 01']",4991.98,Debit,29211.71,False,False
+1049,06/05,"['SVC Chg', 'GEBFT19050048360128', 'FT19050048360128', 'GDDS 01']",0.5,Debit,29211.21,False,False
+1050,06/05,"['CR Retail-NETS', 'O5MAY', '11168691500']",2249.15,Credit,31460.36,False,False
+1051,06/05,"['CR Retail-NETS', 'OSMAY', '11168691600']",309.1,Credit,31769.46,False,False
+1052,06/05,"['CR Retail-NETS', 'O5MAY', '11169178900']",2310.3,Credit,34079.76,False,False
+1053,06/05,"['CR Retail-NETS', 'O6MAY', '11168627900']",30.7,Credit,34110.46,False,False
+1054,06/05,"['CR Retail-NETS', 'O6MAY', '11168691500']",870.95,Credit,34981.41,False,False
+1055,06/05,"['CR Retail-NETS', 'O6MAY', '11168691600']",49.2,Credit,35030.61,False,False
+1056,06/05,"['Inward DR - GIRO', 'COLL 2000022830', 'TUASPOWERSUPPLY', '006000691756']",738.43,Debit,34292.18,False,False
+1057,06/05,"['Inward DR - GIRO', 'COLL 2000022831', 'TUASPOWERSUPPLY', '006000691757']",240.89,Debit,34051.29,False,False
+1058,06/05,"['Cheque Withdrawal', '0771214']",1058.87,Debit,32992.42,False,False
+1059,06/05,"['Cheque Withdrawal', '0771215']",1632.8,Debit,31359.62,False,False
+1060,06/05,"['Cheque Withdrawal', '0771216']",6819.3,Debit,24540.32,False,False
+1061,06/05,"['Cheque Withdrawal', '0771218']",1600.0,Debit,22940.32,False,False
+1062,07/05,"['inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mockat 133433128']",109.7,Credit,23050.02,False,False
+1063,07/05,"['CR Retail-NETS', 'O6MAY', '11168627900']",69.8,Credit,23119.82,False,False
+1064,07/05,"['CR Retail-NETS', 'O6MAY', '141168691500']",1209.75,Credit,24329.57,False,False
+1065,07/05,"['CR Retail-NETS', 'O6MAY', '11168691600']",86.9,Credit,24416.47,False,False
+1066,07/05,"['CR Retail-NETS', 'OG6MAY', '11169178900']",991.8,Credit,25408.27,False,False
+1067,07/05,"['CR Retail-NETS', 'O7MAY', '11168691500']",792.3,Credit,26200.57,False,False
+1068,07/05,"['CR Retail-NETS', 'O7MAY', '11168691600']",134.1,Credit,26334.67,False,False
+1069,07/05,"['Misc Debit', 'PMRGEBSC/0419', 'PMRSG30042019009239', 'BIBPlus Subscription Charge']",20.0,Debit,26314.67,False,False
+1070,07/05,"['Cheque Withdrawal', '0771217']",4500.0,Debit,21814.67,False,False
+1071,08/05,"['CR Retail-NETS', 'O7MAY', '11168627900']",81.4,Credit,21896.07,False,False
+1072,08/05,"['CR Retail-NETS', 'O7MAY', '11168691500']",1304.25,Credit,23200.32,False,False
+1073,08/05,"['CR Retail-NETS', 'O7MAY', '11168691600']",24.4,Credit,23224.72,False,False
+1074,08/05,"['CR Retail-NETS', 'O7MAY', '41169178900']",767.3,Credit,23992.02,False,False
+1075,08/05,"['CR Retail-NETS', 'O8MAY', '11168691500']",466.45,Credit,24458.47,False,False
+1076,08/05,"['CR Retail-NETS', 'O8MAY', '11168691600']",38.0,Credit,24496.47,False,False
+1077,08/05,"['Cheque Withdrawal', '0771222']",3073.0,Debit,21423.47,False,False
+1078,09/05,"['CR Retail-NETS', 'O8MAY', '11168691500']",1536.65,Credit,22960.12,False,False
+1079,09/05,"['CR Retail-NETS', 'O8MAY', '11169178900']",573.5,Credit,23533.62,False,False
+1080,09/05,"['CR Retail-NETS', 'OOMAY', '11168691500']",765.7,Credit,24299.32,False,False
+1081,09/05,"['CR Retail-NETS', 'O9MAY', '11168691600']",13.0,Credit,24312.32,False,False
+1082,09/05,"['Inward DR - GIRO', 'COLL 2000035737', 'TUASPOWERSUPPLY', '00600069294 1']",178.7,Debit,24133.62,False,False
+1083,09/05,"['Cheque Withdrawal', '0771219']",9095.0,Debit,15038.62,False,False
+1084,10/05,"['CR Retail-NETS', 'OgMAY', '11168691500']",2798.45,Credit,17837.07,False,False
+1085,10/05,"['CR Retail-NETS', 'O9MAY', '11169178900']",829.3,Credit,18666.37,False,False
+1086,10/05,"['CR Retail-NETS', '1O0MAY', '11168691500']",936.1,Credit,19602.47,False,False
+1087,10/05,"['CR Retail-NETS', '1OMAY', '11168691600']",33.8,Credit,19636.27,False,False
+1088,10/05,"['Cheque Withdrawal', '0771220']",13969.92,Debit,5666.35,False,False
+1089,10/05,"['Cheque Withdrawal', '0771223']",600.27,Debit,5066.08,False,False
+1090,10/05,"['Cheque Withdrawal', '0771224']",1164.16,Debit,3901.92,False,False
+1091,11/05,"['CR Retail-NETS', '1OMAY', '11168627900']",27.2,Credit,3929.12,False,False
+1092,11/05,"['CR Retail-NETS', '1OMAY', '11168691500']",2488.0,Credit,6417.12,False,False
+1093,11/05,"['CR Retail-NETS', '1O0MAY', '11168691600']",69.5,Credit,6486.62,False,False
+1094,11/05,"['CR Retail-NETS', '1OMAY', '11169178900']",984.5,Credit,7471.12,False,False
+1095,11/05,"['CR Retail-NETS', '11MAY', '11168691500']",1884.5,Credit,9355.62,False,False
+1096,11/05,"['CR Retail-NETS', '11MAY', '11168691600']",92.8,Credit,9448.42,False,False
+1097,13/05,"['CR Retail-NETS', '11MAY', '11169178900']",2404.5,Credit,11852.92,False,False
+1098,13/05,"['CR Retail-NETS', '11MAY', '11168627900']",54.1,Credit,11907.02,False,False
+1099,13/05,"['CR Retail-NETS', '11MAY', '11168691500']",2721.0,Credit,14628.02,False,False
+1100,13/05,"['CR Retail-NETS', 'T1IMAY', '11168691600']",628.9,Credit,15256.92,False,False
+1101,13/05,"['CR Retail-NETS', '12MAY', '11168691500']",1443.75,Credit,16700.67,False,False
+1102,13/05,"['CR Retail-NETS', '12MAY', '11168691600']",124.9,Credit,16825.57,False,False
+1103,13/05,['Cash Deposit-CDM'],10000.0,Credit,26825.57,False,False
+1104,13/05,['Cash Deposit-CDM'],10000.0,Credit,36825.57,False,False
+1105,13/05,['Cash Deposit-CDM'],10000.0,Credit,46825.57,False,False
+1106,13/05,['Cash Deposit-CDM'],10000.0,Credit,56825.57,False,False
+1107,13/05,['Cash Deposit-CDM'],10000.0,Credit,66825.57,False,False
+1108,13/05,['Cash Deposit-CDM'],10000.0,Credit,76825.57,False,False
+1109,13/05,"['CR Retail-NETS', '12MAY', '11168627900']",43.0,Credit,76868.57,False,False
+1110,13/05,"['CR Retail-NETS', '12MAY', '11168691500']",1933.8,Credit,78802.37,False,False
+1111,13/05,"['CR Retail-NETS', '12MAY', '11168691600']",551.8,Credit,79354.17,False,False
+1112,13/05,"['CR Retail-NETS', '12MAY', '11169178900']",2255.5,Credit,81609.67,False,False
+1113,13/05,"['CR Retail-NETS', '13MAY', '11168627900']",0.01,Credit,81609.68,False,False
+1114,13/05,"['CR Retail-NETS', '13MAY', '11168691500']",601.75,Credit,82211.43,False,False
+1115,13/05,"['CR Retail-NETS', '13MAY', '11168691600']",230.5,Credit,82441.93,False,False
+1116,13/05,"['Bulk - GIRO', 'GEB19050048729608', 'BK19020043459158', 'PAYROLL']",7100.0,Debit,75341.93,False,False
+1117,13/05,"['SVC Chg', 'GEB19050048729608', 'BK19020043459158', 'PAYROLL']",0.2,Debit,75341.73,False,False
+1118,13/05,"['Cheque Withdrawal', '0771221']",2065.0,Debit,73276.73,False,False
+1119,13/05,"['Cheque Withdrawal', '0771225']",2352.0,Debit,70924.73,False,False
+1120,14/05,"['CR Retait-NETS', '13MAY', '11168691500']",548.5,Credit,71473.23,False,False
+1121,14/05,"['CR Retail-NETS', '13MAY', '11168691600']",91.0,Credit,71564.23,False,False
+1122,14/05,"['CR Retail-NETS', '13MAY', '11169178900']",847.3,Credit,72411.53,False,False
+1123,14/05,"['CR Retail-NETS', '14MAY', '11168691500']",616.45,Credit,73027.98,False,False
+1124,14/05,"['CR Retail-NETS', '14MAY', '11168691600']",34.8,Credit,73062.78,False,False
+1125,14/05,"['Cheque Withdrawal', '0771234']",13540.0,Debit,59522.78,False,False
+1126,15/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 136407336']",87.6,Credit,59610.38,False,False
+1127,15/05,"['CR Retail-NETS', '14MAY', '11168691500']",33.2,Credit,59876.08,False,True
+1128,15/05,"['CR Retail-NETS', '14MAY', '11168691600']",57.2,Debit,59733.28,False,True
+1129,15/05,"['CR Retail-NETS', '14MAY', '11169178900']",240.2,Credit,59973.48,False,False
+1130,15/05,"['CR Retail-NETS', '15MAY', '11168691500']",323.6,Credit,60297.08,False,False
+1131,15/05,"['Inward DR - GIRO', 'GSTX 201317184G', 'IRAS', 'GST']",45986.23,Debit,14310.85,False,False
+1132,15/05,"['Cheque Withdrawal', '0771233']",695.5,Debit,13615.35,False,False
+1133,15/05,"['Cheque Withdrawal', '0771235']",1134.2,Debit,12481.15,False,False
+1134,16/05,"['CR Retail-NETS', '15MAY', '11168691500']",443.41,Credit,12924.56,False,False
+1135,16/05,"['CR Retail-NETS', '15MAY', '11168691600']",31.71,Credit,12956.27,False,False
+1136,16/05,"['CR Retail-NETS', '15MAY', '561400686915']",0.01,Credit,12956.28,False,False
+1137,16/05,"['CR Retail-NETS', '15MAY', '561400686916']",0.01,Credit,12956.29,False,False
+1138,16/05,"['CR Retail-NETS', '15MAY', '11169178900']",672.4,Credit,13628.69,False,False
+1139,16/05,"['Funds Transfer', 'iBK-Ger']",7100.0,Credit,20728.69,False,False
+1140,16/05,"['CR Retail-NETS', '16MAY', '11168691500']",248.7,Credit,20977.39,False,False
+1141,16/05,"['Cheque Withdrawal', '0771227']",1786.9,Debit,19190.49,False,False
+1142,17/05,"['CR Retail-NETS', '16MAY', '11168691500']",480.5,Credit,19670.99,False,False
+1143,17/05,"['CR Retail-NETS', '16MAY', '11168691600']",309.4,Credit,19980.39,False,False
+1144,17/05,"['CR Retail-NETS', '16MAY', '11169178900']",835.7,Credit,20816.09,False,False
+1145,17/05,"['CR Retail-NETS', '17MAY', '11168691500']",319.4,Credit,21135.49,False,False
+1146,17/05,"['CR Retail-NETS', '17MAY', '11168691600']",46.0,Credit,21181.49,False,False
+1147,17/05,"['Inward DR - GIRO', 'COLL 201317184G', 'CPF', 'BFWL']",11831.12,Debit,9350.37,False,False
+1148,17/05,"['Cheque Withdrawal', '0771229']",1000.0,Debit,8350.37,False,False
+1149,18/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 137634693']",48.2,Credit,8398.57,False,False
+1150,18/05,"['CR Retail-NETS', '17MAY', '11168627900']",27.4,Credit,8425.97,False,False
+1151,18/05,"['CR Retail-NETS', '17MAY', '11168691500']",2313.65,Credit,10739.62,False,False
+1152,18/05,"['CR Retail-NETS', '17MAY', '11168691600']",543.3,Credit,11282.92,False,False
+1153,18/05,"['CR Retail-NETS', '17MAY', '11169178900']",1353.6,Credit,12636.52,False,False
+1154,18/05,"['CR Retail-NETS', '18MAY', '11168691500']",863.65,Credit,13500.17,False,False
+1155,18/05,"['CR Retail-NETS', '18MAY', '11168691600']",175.4,Credit,13675.57,False,False
+1156,21/05,"['CR Retail-NETS', '18MAY', '11169178900']",1791.6,Credit,15467.17,False,False
+1157,21/05,"['CR Retail-NETS', '18MAY', '11168627900']",55.2,Credit,15522.37,False,False
+1158,21/05,"['CR Retail-NETS', '18MAY', '11168691500']",3269.15,Credit,18791.52,False,False
+1159,21/05,"['CR Retail-NETS', '19MAY', '11168691500']",1760.95,Credit,20912.37,False,True
+1160,21/05,"['CR Retail-NETS', '19MAY', '11168691600']",261.5,Credit,21173.87,False,False
+1161,21/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 138414729']",45.7,Credit,21219.57,False,False
+1162,21/05,"['CR Retail-NETS', '19MAY', '11168627900']",46.3,Credit,21265.87,False,False
+1163,21/05,"['CR Retail-NETS', '19MAY', '11168691500']",3111.95,Credit,24377.82,False,False
+1164,21/05,"['CR Retail-NETS', '19MAY', '11168691600']",556.6,Credit,24934.42,False,False
+1165,21/05,"['CR Retail-NETS', '19MAY', '11169178900']",2391.1,Credit,27325.52,False,False
+1166,21/05,"['Funds Trf - FAST', 'GEBFT19050049095973', 'FT19050049095973', 'GDDS 01']",4288.46,Debit,23037.06,False,False
+1167,21/05,"['SVC Chg', 'GEBFT19050049095973', 'FT19050049095973', 'GDDs 01']",0.5,Debit,23036.56,False,False
+1168,21/05,"['CR Retail-NETS', '20MAY', '11168627900']",23.4,Credit,23059.96,False,False
+1169,21/05,"['CR Retail-NETS', '20MAY', '11168691500']",1993.0,Credit,25052.96,False,False
+1170,21/05,"['CR Retail-NETS', '20MAY', '11168691600']",215.9,Credit,25268.86,False,False
+1171,21/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 138794139']",30.0,Credit,25298.86,False,False
+1172,21/05,"['CR Retail-NETS', '20MAY', '11168627900']",47.0,Credit,25345.88,False,True
+1173,21/05,"['CR Retail-NETS', '20MAY', '11168691500']",3266.25,Credit,28612.11,False,True
+1174,21/05,"['CR Retail-NETS', '20MAY', '11168691600']",254.7,Credit,28866.81,False,False
+1175,21/05,"['CR Retail-NETS', '20MAY', '11169178900']",2003.1,Credit,30869.91,False,False
+1176,21/05,"['CR Retail-NETS', '21MAY', '11168691500']",685.8,Credit,31555.71,False,False
+1177,21/05,"['Cheque Withdrawal', '0771226']",900.0,Debit,30655.71,False,False
+1178,21/05,"['Cheque Withdrawal', '0771228']",1100.0,Debit,29555.71,False,False
+1179,21/05,"['Cheque Withdrawal', '0771230']",3800.0,Debit,25755.71,False,False
+1180,21/05,"['Cheque Withdrawal', '0771231']",2650.0,Debit,23105.71,False,False
+1181,21/05,"['Cheque Withdrawal', '0771236']",4210.0,Debit,18895.71,False,False
+1182,22/05,"['CR Retail-NETS', '21MAY', '11169178900']",936.6,Credit,19832.31,False,False
+1183,22/05,"['CR Retail-NETS', '21MAY', '11168691500']",963.05,Credit,20795.36,False,False
+1184,22/05,"['CR Retail-NETS', '21MAY', '11168691600']",288.4,Credit,21083.76,False,False
+1185,22/05,"['CR Retail-NETS', '22MAY', '11168627900']",49.2,Credit,21132.96,False,False
+1186,22/05,"['CR Retail-NETS', '22MAY', '11168691500']",782.75,Credit,21915.71,False,False
+1187,22/05,"['CR Retail-NETS', '22MAY', '11168691600']",5.4,Credit,21921.11,False,False
+1188,22/05,"['Cheque Withdrawal', '0771238']",945.88,Debit,20975.23,False,False
+1189,22/05,"['Cheque Withdrawal', '0771239']",885.96,Debit,20089.27,False,False
+1190,22/05,"['Cheque Withdrawal', '0771241']",6019.4,Debit,14069.87,False,False
+1191,23/05,"['CR Retail-NETS', '22MAY', '11168627900']",66.3,Credit,14136.17,False,False
+1192,23/05,"['CR Retail-NETS', '22MAY', '11168691500']",747.65,Credit,14883.82,False,False
+1193,23/05,"['CR Retail-NETS', '22MAY', '11168691600']",241.7,Credit,15125.52,False,False
+1194,23/05,"['CR Retail-NETS', '22MAY', '11169178900']",1005.7,Credit,16131.22,False,False
+1195,23/05,"['CR Retail-NETS', '23MAY', '11168691500']",451.9,Credit,16583.12,False,False
+1196,24/05,"['CR Retail-NETS', '23MAY', '11168627900']",23.4,Credit,16606.52,False,False
+1197,24/05,"['CR Retail-NETS', '23MAY', '11168691500']",1056.6,Credit,17663.12,False,False
+1198,24/05,"['CR Retail-NETS', '23MAY', '11168691600']",179.2,Credit,17842.32,False,False
+1199,24/05,"['CR Retail-NETS', '23MAY', '11169178900']",542.2,Credit,18384.52,False,False
+1200,24/05,"['CR Retail-NETS', '24MAY', '11168691500']",744.65,Credit,19129.17,False,False
+1201,24/05,"['CR Retail-NETS', '24MAY', '11168691600']",176.6,Credit,19305.77,False,False
+1202,25/05,"['CR Retail-NETS', '24MAY', '11168627900']",80.8,Credit,19386.57,False,False
+1203,25/05,"['CR Retail-NETS', '24MAY', '11168691500']",1915.4,Credit,21301.97,False,False
+1204,25/05,"['CR Retail-NETS', '24MAY', '11168691600']",203.7,Credit,21505.67,False,False
+1205,25/05,"['CR Retail-NETS', '24MAY', '11169178900']",975.9,Credit,22481.57,False,False
+1206,25/05,"['CR Retail-NETS', '25MAY', '11168691500']",1400.25,Credit,23881.82,False,False
+1207,25/05,"['CR Retail-NETS', '25MAY', '11168691600']",59.9,Credit,23941.72,False,False
+1208,27/05,['Cash Deposit-CDM'],10000.0,Credit,33941.72,False,False
+1209,27/05,['Cash Deposit-CDM'],10000.0,Credit,43941.72,False,False
+1210,27/05,['Cash Deposit-CDM'],10000.0,Credit,53941.72,False,False
+1211,27/05,['Cash Deposit-CDM'],10000.0,Credit,63941.72,False,False
+1212,27/05,['Cash Deposit-CDM'],10000.0,Credit,73941.72,False,False
+1213,27/05,"['CR Retail-NETS', '25MAY', '11169178900']",3122.3,Credit,77064.02,False,False
+1214,27/05,"['CR Retail-NETS', '25MAY', '11168627900']",27.4,Credit,77091.42,False,False
+1215,27/05,"['CR Retail-NETS', '25MAY', '11168691500']",2399.8,Credit,79491.22,False,False
+1216,27/05,"['CR Retail-NETS', '25MAY', '11168691600']",681.0,Credit,80172.22,False,False
+1217,27/05,"['CR Retail-NETS', '26MAY', '11168691500']",2305.55,Credit,82477.77,False,False
+1218,27/05,"['CR Retail-NETS.', '26MAY', '11168691600']",25.9,Credit,82503.67,False,False
+1219,27/05,"['CR Retail-NETS', '26MAY', '11168691500']",3251.85,Credit,85755.52,False,False
+1220,27/05,"['CR Retail-NETS', '26MAY', '11168691600']",287.4,Credit,86042.92,False,False
+1221,27/05,"['CR Retail-NETS', '26MAY', '11169178900']",1795.8,Credit,87838.72,False,False
+1222,27/05,['Cash Deposit-CDM'],20000.0,Credit,107838.72,False,False
+1223,27/05,['Cash Deposit-CDM'],5000.0,Credit,112838.72,False,False
+1224,27/05,"['CR Retail-NETS', '27MAY', '11168691500']",876.5,Credit,113715.22,False,False
+1225,27/05,"['CR Retail-NETS', '27MAY', '11168691600']",298.8,Credit,114014.02,False,False
+1226,27/05,"['Inward CR - GIRO', 'SUPP SupplierPymt', 'NETS (8) Pte Ltd', 'F110000084', 'ES8614']",1630.82,Debit,113699.84,False,True
+1227,27/05,"['Cheque Withdrawal', '0771237']",8822.92,Debit,104876.92,False,False
+1228,27/05,"['Cheque Withdrawal', '0771242']",2193.78,Debit,102683.14,False,False
+1229,27/05,"['Cheque Withdrawal', '0771243']",53076.26,Debit,49606.88,False,False
+1230,27/05,"['Cheque Withdrawal', '0771245']",25000.0,Debit,24606.88,False,False
+1231,28/05,"['CR Retail-NETS', '27MAY', '11168691500']",1384.0,Credit,25990.88,False,False
+1232,28/05,"['CR Retail-NETS', '27MAY', '11168691600']",59.4,Credit,26050.28,False,False
+1233,28/05,"['CR Retail-NETS', '27MAY', '11169178900']",1159.8,Credit,27210.08,False,False
+1234,28/05,"['CR Retail-NETS', '28MAY', '11168691500']",818.1,Credit,28028.18,False,False
+1235,28/05,"['CR Retail-NETS', '28MAY', '11168691600']",35.9,Credit,28064.08,False,False
+1236,28/05,"['Cheque Withdrawal', '0771247']",348.03,Debit,27716.05,False,False
+1237,29/05,"['CR Retail-NETS', '28MAY', '11168627900']",68.0,Credit,27784.05,False,False
+1238,29/05,"['CR Retail-NETS', '28MAY', '11168691500']",843.6,Credit,28627.65,False,False
+1239,29/05,"['CR Retail-NETS', '28MAY', '11168691600']",203.9,Credit,28831.55,False,False
+1240,29/05,"['CR Retail-NETS', '28MAY', '11169178900']",928.1,Credit,29759.65,False,False
+1241,29/05,"['CR Retail-NETS', '29MAY', '11168691500']",573.1,Credit,30332.75,False,False
+1242,29/05,"['CR Retail-NETS.', '29MAY', '11168691600']",134.8,Credit,30467.55,False,False
+1243,30/05,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 142349115']",27.2,Credit,30494.75,False,False
+1244,30/05,"['CR Retail-NETS', '29MAY', '11168627900']",28.3,Credit,30523.05,False,False
+1245,30/05,"['CR Retail-NETS', '29MAY', '11168691500']",1134.35,Credit,31657.4,False,False
+1246,30/05,"['CR Retail-NETS', '29MAY', '11168691600']",160.2,Credit,31817.6,False,False
+1247,30/05,"['CR Retail-NETS', '29MAY', '11169178900']",994.8,Credit,32812.4,False,False
+1248,30/05,"['CR Retail-NETS', '3OMAY', '11168691500']",578.45,Credit,33390.85,False,False
+1249,30/05,"['Misc Debit', '6018866940-00000', 'Trf. Wd. Loans']",1532.9,Debit,31857.95,False,False
+1250,30/05,"['Cheque Withdrawal', '0771240']",2375.4,Debit,29482.55,False,False
+1251,30/05,"['Cheque Withdrawal', '0771244']",937.6,Debit,28544.95,False,False
+1252,31/05,"['CR Retail-NETS', '30MAY', '11168627900']",70.9,Credit,28615.85,False,False
+1253,31/05,"['CR Retail-NETS', '30MAY', '11168691500']",1189.55,Credit,29805.4,False,False
+1254,31/05,"['CR Retail-NETS', 'S3OMAY', '11168178900']",761.2,Credit,30566.6,False,False
+1255,31/05,"['CR Retail-NETS', '31MAY', '11168691500']",670.65,Credit,31237.25,False,False
+1256,31/05,"['Cheque Charges', 'SSeS']",3.75,Debit,31233.5,False,False
+1257,,['Total Withdrawals'],,,281813.33,False,False
+1258,,['Total Deposits'],,,282784.52,False,False
+1259,,['Total'],,,31233.5,False,False
+1260,,['BALANCE B/F'],,,44966.94,False,False
+1261,01/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 120936123']",639.6,Credit,45606.54,False,False
+1262,01/04,"['CR Retail-NETS', '30MAR', '11168691500']",4515.8,Credit,50122.34,False,False
+1263,01/04,"['CR Retail-NETS', '30MAR', '11168691600']",65.9,Credit,50188.24,False,False
+1264,01/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 121206398']",146.4,Credit,50334.64,False,False
+1265,01/04,"['CR Retail-NETS', '30MAR', '561400686915']",101.8,Credit,50436.44,False,False
+1266,01/04,"['CR Retail-NETS', '31MAR', '11168691500']",5779.4,Credit,56215.84,False,False
+1267,01/04,"['CR Retail-NETS', '31MAR', '11168691600']",349.5,Credit,56565.34,False,False
+1268,01/04,"['Bulk - GIRO', 'ROS35874', 'PAYROLL']",18200.0,Debit,38365.34,False,False
+1269,01/04,"['SVC Chg', 'ROS35874', 'PAYROLL']",0.6,Debit,38364.74,False,False
+1270,01/04,"['Misc Debit', '6018866940-00000', 'Trf. Wd. Loans']",1405.76,Debit,36958.98,False,False
+1271,01/04,"['Inward DR - GIRO', 'COLL 2000022830', 'TUASPOWERSUPPLY', '006000679411']",636.87,Debit,36322.11,False,False
+1272,01/04,"['Inward DR - GIRO', 'COLL 2000022831', 'TUASPOWERSUPPLY', '006000679412']",182.55,Debit,36139.56,False,False
+1273,02/04,"['CR Retail-NETS', '01APR', '11168691500']",2375.05,Credit,38514.61,False,False
+1274,02/04,"['CR Retail-NETS', 'O1APR', '11168691600']",181.2,Credit,38695.81,False,False
+1275,03/04,"['CR Retail-NETS', 'O2APR', '11168628000']",0.01,Credit,38695.85,False,True
+1276,03/04,"['CR Retail-NETS', '02APR', '11168691500']",1594.65,Credit,40290.5,False,False
+1277,03/04,"['CR Retail-NETS', '02APR', '11168691600']",461.5,Credit,40752.0,False,False
+1278,03/04,"['Funds Trf - FAST', 'GEBFT19040046537554', 'FT19040046537554', 'GDDS 01']",4235.69,Debit,36516.31,False,False
+1279,03/04,"['SVC Chg', 'GEBFT19040046537554', 'FT19040046537554', 'GDDS 01']",0.5,Debit,36515.81,False,False
+1280,03/04,"['Inward CR - GIRO', 'REFU Refund', 'WINSOME GREEN PTE. L', 'Winsome DNi27']",200.0,Credit,36715.81,False,False
+1281,03/04,"['Cheque Withdrawal', '0771178']",3600.0,Debit,33115.81,False,False
+1282,03/04,"['Cheque Withdrawal', '0771179']",1535.7,Debit,31580.11,False,False
+1283,03/04,"['Cheque Withdrawal', '0771180']",4500.0,Debit,27080.11,False,False
+1284,03/04,"['Cheque Withdrawal', '0771181']",1600.0,Debit,25480.11,False,False
+1285,03/04,"['Cheque Withdrawal', '0771183']",9326.46,Debit,16153.65,False,False
+1286,04/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 122168718']",341.9,Credit,16495.55,False,False
+1287,04/04,"['CR Retail-NETS', 'O3APR', '11168691500']",1705.25,Credit,18200.8,False,False
+1288,04/04,"['CR Retail-NETS', 'O3APR', '11168691600']",257.9,Credit,18458.7,False,False
+1289,05/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 122486712']",24.6,Credit,18483.3,False,False
+1290,05/04,"['CR Retail-NETS', 'O4APR', '11168691500']",1438.65,Credit,19921.95,False,False
+1291,05/04,"['CR Retail-NETS', 'O4APR', '11168691600']",152.9,Credit,20074.85,False,False
+1292,05/04,"['Misc Debit', 'PMRGEBSC/0319', 'PMRSG31032019009110', 'BIBPlus Subscription Charge']",20.0,Debit,20054.85,False,False
+1293,06/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 122832350']",43.8,Credit,20098.65,False,False
+1294,06/04,"['CR Retail-NETS', 'O5APR', '11168691500']",2968.35,Credit,23067.0,False,False
+1295,06/04,"['CR Retail-NETS', 'O5APR', '11168691600']",400.4,Credit,23467.4,False,False
+1296,08/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 123140659']",118.0,Credit,23585.4,False,False
+1297,08/04,"['CR Retail-NETS', 'O6APR', '11168691500']",4594.65,Credit,28180.05,False,False
+1298,08/04,"['CR Retail-NETS', 'O6APR', '11168691600']",877.6,Credit,29057.65,False,False
+1299,08/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 123402968']",215.2,Credit,29272.85,False,False
+1300,08/04,"['CR Retail-NETS', 'O7APR', '11168691500']",4462.8,Credit,33735.65,False,False
+1301,08/04,"['CR Retail-NETS', 'O7APR', '11168691600']",251.0,Credit,33986.65,False,False
+1302,08/04,"['Inward DR - GIRO', 'COLL 2000035737', 'TUASPOWERSUPPLY', '006000681776']",158.92,Debit,33827.73,False,False
+1303,08/04,"['Cheque Withdrawal', '0771184']",4066.0,Debit,29761.73,False,False
+1304,08/04,"['Cheque Withdrawal', '0771187']",2750.0,Debit,27011.73,False,False
+1305,09/04,"['tnward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 123778267', 'O8APR', '11168691500']",137.7,Credit,27149.43,False,False
+1306,09/04,"['CR Retail-NETS', 'O8APR', '11168691600']",445.4,Credit,29166.23,False,True
+1307,09/04,['Cash Deposit-CDM'],10000.0,Credit,39166.23,False,False
+1308,09/04,['Cash Deposit-CDM'],10000.0,Credit,49166.23,False,False
+1309,09/04,['Cash Deposit-CDM'],10000.0,Credit,59166.23,False,False
+1310,09/04,['Cash'],20000.0,Credit,79166.23,False,False
+1311,09/04,"['Cheque Withdrawal', '0771185']",57420.0,Debit,21746.23,False,False
+1312,09/04,"['Cheque Withdrawal', '0771189']",800.0,Debit,20946.23,False,False
+1313,09/04,"['Cheque Withdrawal', '0771190']",3182.6,Debit,17763.63,False,False
+1314,10/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 124122730']",88.6,Credit,17852.23,False,False
+1315,10/04,"['CR Retail-NETS', 'O9APR', '11168691500']",1813.35,Credit,19665.58,False,False
+1316,10/04,"['CR Retail-NETS', 'O9APR', '11168691600']",186.2,Credit,19851.78,False,False
+1317,10/04,"['Bulk - GIRO', 'GEB19040046896386', 'BK19020043459158', 'PAYROLL']",7100.0,Debit,12751.78,False,False
+1318,10/04,"['SVC Chg', 'GEB19040046896386', 'BK19020043459158', 'PAYROLL']",0.2,Debit,12751.58,False,False
+1319,10/04,"['Cheque Withdrawal', '0771163']",464.38,Debit,12287.2,False,False
+1320,10/04,"['Cheque Withdrawal', '0771188']",6801.8,Debit,5485.4,False,False
+1321,11/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 124502912']",67.0,Credit,5552.4,False,False
+1322,11/04,"['CR Retail-NETS', '1OAPR', '11168627900']",31.0,Credit,5583.4,False,False
+1323,11/04,"['CR Retail-NETS', '10APR', '11168691500']",1435.0,Credit,7018.4,False,False
+1324,11/04,"['CR Retail-NETS', '10APR', '11168691600']",505.5,Credit,7523.9,False,False
+1325,11/04,"['Cheque Withdrawal', '0771182']",1825.53,Debit,5698.37,False,False
+1326,11/04,"['Cheque Withdrawal', '0771186']",1327.87,Debit,4370.5,False,False
+1327,12/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 124859654']",129.3,Credit,4499.8,False,False
+1328,12/04,"['CR Retail-NETS', '11APR', '11168691500']",2406.5,Credit,6906.3,False,False
+1329,12/04,"['CR Retail-NETS', '11APR', '11168691600']",295.9,Credit,7202.2,False,False
+1330,12/04,"['Returned Cheque', '0771186']",1327.87,Credit,8530.07,False,False
+1331,12/04,['Cash Deposit-CDM'],8350.0,Credit,16880.07,False,False
+1332,12/04,['Cash Deposit-CDM'],20000.0,Credit,36880.07,False,False
+1333,12/04,"['Inward CR - GIRO', 'OTHR Other', 'Paynow Pte Ltd', 'INV1900150SPG']",130.9,Credit,37010.97,False,False
+1334,12/04,"['Cheque Withdrawal', '0771192']",1000.0,Debit,36010.97,False,False
+1335,13/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 125220186']",139.6,Credit,36150.57,False,False
+1336,13/04,"['CR Retail-NETS', '12APR', '11168691500']",3197.6,Credit,39348.17,False,False
+1337,13/04,"['CR Retail-NETS', '12APR', '11168691600']",278.2,Credit,39626.37,False,False
+1338,15/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 125524380']",302.3,Credit,39928.67,False,False
+1339,15/04,"['CR Retail-NETS', '13APR', '11168691600']",243.1,Credit,44728.72,False,True
+1340,15/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 125811300']",257.7,Credit,44986.42,False,False
+1341,15/04,"['CR Retail-NETS', '14APR', '11168691500']",2860.25,Credit,47846.67,False,False
+1342,15/04,"['CR Retail-NETS', '14APR', '11168691600']",121.0,Credit,47967.67,False,False
+1343,16/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 126138754']",74.0,Credit,48041.67,False,False
+1344,16/04,"['CR Retail-NETS', '15APR', '11168691500']",1850.6,Credit,49892.27,False,False
+1345,17/04,"['CR Retail-NETS', '16APR', '11168691500']",2218.2,Credit,52110.47,False,False
+1346,17/04,"['CR Retail-NETS', '16APR', '11168691600']",319.5,Credit,52429.97,False,False
+1347,17/04,"['Cash 0771200', 'COLL 201317184G', 'CPF', 'BFWL']",900.0,Debit,51529.97,False,False
+1348,17/04,"['Cheque Withdrawal', '0771191']",753.74,Debit,39395.2,False,True
+1349,17/04,"['Cheque Withdrawal', '0771194']",3800.0,Debit,35595.2,False,False
+1350,17/04,"['Cheque Withdrawal', '0771195']",2675.0,Debit,32920.2,False,False
+1351,17/04,"['Cheque Withdrawal', '0771197']",885.96,Debit,32034.24,False,False
+1352,17/04,"['Cheque Withdrawal', '0771198']",945.88,Debit,31088.36,False,False
+1353,17/04,"['Cheque Withdrawal', '0771202']",1500.0,Debit,29588.36,False,False
+1354,18/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 126755482']",115.2,Credit,29703.56,False,False
+1355,18/04,"['CR Retail-NETS', '17APR', '11168691500']",1524.1,Credit,31227.66,False,False
+1356,18/04,"['CR Retail-NETS', '17APR', '11168691600']",200.4,Credit,31428.06,False,False
+1357,20/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 127075830']",121.3,Credit,31549.36,False,False
+1358,20/04,"['CR Retail-NETS', '18APR', '11168691500']",4515.1,Credit,36064.46,False,False
+1359,20/04,"['CR Retail-NETS', '18APR', '11168691600']",331.7,Credit,36396.16,False,False
+1360,20/04,"['Funds Trf - FAST', 'GEBFT19040047372564', 'FT19040047372564', '@DDs 01']",4708.22,Debit,31687.94,False,False
+1361,20/04,"['SVC Chg', 'GEBFT19040047372564', 'FT19040047372564', 'GDDs 01']",0.5,Debit,31687.44,False,False
+1362,20/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 127378554']",496.5,Credit,32183.94,False,False
+1363,20/04,"['CR Retail-NETS', '19APR', '11168691500']",4275.1,Credit,36459.04,False,False
+1364,20/04,"['CR Retail-NETS', '19APR', '11168691600']",270.3,Credit,36729.34,False,False
+1365,22/04,"['CR Retail-NETS', '20APR', '11168691500']",3584.3,Credit,40313.64,False,False
+1366,22/04,"['CR Retail-NETS', '20APR', '11168691600']",403.4,Credit,40717.04,False,False
+1367,22/04,"['CR Retail-NETS', '21APR', '11168691500']",3909.2,Credit,44626.24,False,False
+1368,22/04,"['CR Retail-NETS', '21APR', '11168691600']",402.4,Credit,45028.64,False,False
+1369,22/04,"['Inward DR - GIRO', 'OTHR ES8614', 'NETS (S) Pte Ltd', 'F110024498']",311.55,Debit,44717.09,False,False
+1370,22/04,"['Cheque Withdrawal', '0771199']",1100.0,Debit,43617.09,False,False
+1371,22/04,"['Cheque Withdrawal', '0771201']",1327.98,Debit,42289.11,False,False
+1372,22/04,"['Cheque Withdrawal', '0771203']",2000.0,Debit,40289.11,False,False
+1373,22/04,"['Cheque Withdrawal', '0771206']",2000.0,Debit,38289.11,False,False
+1374,22/04,"['Cheque Withdrawal', '0771207']",2055.0,Debit,36234.11,False,False
+1375,22/04,"['Cheque Withdrawal', '0771208']",8000.0,Debit,28234.11,False,False
+1376,23/04,['Cash Deposit-CDM'],10000.0,Credit,38234.11,False,False
+1377,23/04,['Cash Deposit-CDM'],10000.0,Credit,48234.11,False,False
+1378,23/04,['Cash Deposit-CDM'],10000.0,Credit,58234.11,False,False
+1379,23/04,['Cash Deposit-CDM'],10000.0,Credit,68234.11,False,False
+1380,23/04,['Cash Deposit-CDM'],10000.0,Credit,78234.11,False,False
+1381,23/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 128354367']",237.9,Credit,78472.01,False,False
+1382,23/04,"['CR Retail-NETS', '22APR', '11168627900']",30.2,Credit,78502.21,False,False
+1383,23/04,"['CR Retail-NETS', '22APR', '11168691500']",1139.25,Credit,79641.46,False,False
+1384,23/04,"['CR Retail-NETS', '22APR', '11168691600']",155.9,Credit,79797.36,False,False
+1385,23/04,"['Cheque Withdrawal', '0771196']",8882.37,Debit,70914.99,False,False
+1386,24/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 128726242']",37.7,Credit,70952.69,False,False
+1387,24/04,"['CR Retail-NETS', '23APR', '11168691500']",1748.2,Credit,72700.89,False,False
+1388,24/04,"['Cheque Withdrawal', '0771204']",415.86,Debit,72445.33,False,True
+1389,24/04,"['Cheque Withdrawal', '0771210']",1175.83,Debit,71269.5,False,False
+1390,24/04,"['Cheque Withdrawal', '0771211']",5690.0,Debit,65579.5,False,False
+1391,25/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 129094903']",148.3,Credit,65727.8,False,False
+1392,25/04,"['CR Retail-NETS', '24APR', '11168691500']",1479.6,Credit,67207.4,False,False
+1393,25/04,"['CR Retail-NETS', '24APR', '11168691600']",76.0,Credit,67283.4,False,False
+1394,25/04,"['CR Retail-NETS', '24APR', '11169178900']",468.0,Credit,67751.4,False,False
+1395,25/04,"['Cheque Withdrawal', '0771209']",49858.33,Debit,17893.07,False,False
+1396,26/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 129471338']",55.3,Credit,17948.37,False,False
+1397,26/04,"['CR Retail-NETS', '25APR', '11168691500']",1293.15,Credit,19241.52,False,False
+1398,26/04,"['CR Retail-NETS', '25APR', '11168691600']",88.3,Credit,19329.82,False,False
+1399,26/04,"['CR Retail-NETS', '25APR', '14169178900']",361.9,Credit,19691.72,False,False
+1400,26/04,"['Misc Debit', '4018279465-00000', 'Trf. Wd. Loans']",1945.0,Debit,17746.72,False,False
+1401,27/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 129852411']",211.8,Credit,17958.52,False,False
+1402,27/04,"['CR Retail-NETS', '26APR', '11168691500']",2142.05,Credit,20100.57,False,False
+1403,27/04,"['CR Retail-NETS', '26APR', '11169178900']",1243.9,Credit,21582.27,False,True
+1404,29/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 130198338']",340.9,Credit,21923.17,False,False
+1405,29/04,"['CR Retail-NETS', '27APR', '11168691500']",3619.25,Credit,25542.42,False,False
+1406,29/04,"['CR Retail-NETS', '27APR', '11168691600']",79.0,Credit,25621.42,False,False
+1407,29/04,"['CR Retail-NETS', '27APR', '11169178900']",1630.7,Credit,27252.12,False,False
+1408,29/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 130511099']",297.1,Credit,27549.22,False,False
+1409,29/04,"['CR Retail-NETS', '28APR', '11168691500']",4499.4,Credit,32048.62,False,False
+1410,29/04,"['CR Retail-NETS', '28APR', '11168691600']",353.2,Credit,32401.82,False,False
+1411,29/04,"['CR Retail-NETS', '28APR', '11169178900']",1482.9,Credit,33884.72,False,False
+1412,29/04,"['Inward Credit-FAST', 'OTHR Other', 'BEECONOMIG SINGAPORE', 'FAVE-AAOCB6FDE8']",93.19,Credit,33977.91,False,False
+1413,29/04,"['Cheque Withdrawal', '0771193']",1050.0,Debit,32927.91,False,False
+1414,30/04,"['Inward Credit-FAST', 'CSDB Cash Disb', 'Grab', 'GrabPay Siam SQ Mookat 130896056']",381.2,Credit,33309.11,False,False
+1415,30/04,"['CR Retail-NETS', '29APR', '11168627900']",142.5,Credit,33451.61,False,False
+1416,30/04,"['CR Retail-NETS', '29APR', '11168691500']",1607.15,Credit,35058.76,False,False
+1417,,"['CR Retail-NETS', '29APR', '11168691600']",215.2,Credit,35273.96,False,False
+1418,30/04,"['CR Retail-NETS', '29APR', '11169178900']",723.9,Credit,35997.86,False,False
+1419,30/04,"['Misc Debit', '6018866940-00000', 'Trf. Wd. Loans']",1532.9,Debit,34464.96,False,False
+1420,30/04,"['Bulk - GIRO', 'GEB19040047967977', 'BK18060030848958', 'PAYROLL']",2800.0,Debit,31664.96,False,False
+1421,30/04,"['Bulk - GIRO', 'GEB19040047968100', 'BK18060030848958', 'PAYROLL']",1400.0,Debit,30264.96,False,False
+1422,30/04,"['SVC Chg', 'GEB19040047967977', 'BK18060030848958', 'PAYROLL']",0.2,Debit,30264.76,False,False
+1423,30/04,"['SVC Chg', 'GEB19040047968100', 'BK18060030848958', 'PAYROLL']",0.2,Debit,30264.56,False,False
+1424,30/04,['Cheque Charges'],2.25,Debit,30262.31,False,False
+1425,,['Total Withdrawals'],,,251239.23,False,False
+1426,,['Total Deposits'],,,236534.6,False,False
+1427,,['Total'],,,30262.31,False,False

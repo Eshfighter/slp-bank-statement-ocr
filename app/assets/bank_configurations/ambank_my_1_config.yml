@@ -1,0 +1,58 @@
+
+init-config:
+  country-name: malaysia
+  bank-name : AmBank
+  format-id: ambank_my_1
+  format-key-word: 'ACCOUNT'
+
+# parsing variables
+summary-config:
+  summary-page-index: 0
+  keys: ['account-number', 'account-type', 'bank-name', 'document-type', 'number-of-pages', 'statement-date']
+  bank-name-find: ['AmBank']
+  account-list: ['Basic Current Account-i']
+  separate-summary-lines: True
+  requires-space-separation: True
+  account-name-start: ' - '
+  account-name-line-start-index: 1
+  account-name-line-end-index: 1
+  account-address-line-start-index: 2
+  account-address-stop: ['CURRENCY']
+  state-dt-keyword: 'STATEMENT DATE'
+  no-of-date-words: 1
+  page-keyword: PAGE
+  account-no-regex: '\d\d\d\d\d\d\d\d\d\d\d\d\d'
+
+transaction-config:
+  txn-key-word: ['Balance b/f']
+  txn-remove-date: ['Balance b/f']
+  start-of-month-keyword: ['Balance b/f']
+  end-of-month-keyword: []
+  stop-at: ['PRIVACY NOTICE', 'AmBank Islamic Berhad', 'IMPORTANT NOTICE', '1200_0603']
+  date-regex-list: ['\d\d[a-zA-Z][a-zA-Z][a-zA-Z]']
+  columns-in-between-date-descriptions: 0
+  statement-date-format: 'DD/MM/YYYY'
+  transaction-date-format: 'DDMMM'
+  number-regex-list: ['([0-9sS$oO§]{1,3}(,[0-9sS$oO§]{3})*(\.|\,)[0-9sS$oO§]{2})']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: ['OPENING BALANCE', 'TOTAL DEBITS', 'TOTAL CREDITS', 'CLOSING BALANCE']
+  balance-in-separate-table: True
+  balance-fields: {
+    'key': ['OPENING BALANCE', 'TOTAL DEBITS', 'TOTAL CREDITS', 'CLOSING BALANCE', 'CHEQUES NOT CLEARED'],
+    'actual-key': ['OPENING BALANCE', 'TOTAL DEBITS', 'TOTAL CREDITS', 'CLOSING BALANCE'],
+    'row-after-key': 0,
+  }
+  transaction-summary-key-info: [{
+    keyword: ['TOTAL CREDITS'],
+    key: 'total-credit'
+  }, {
+    keyword: ['TOTAL DEBITS'],
+    key: 'total-debit'
+  }, {
+    keyword: ['OPENING BALANCE'],
+    key: 'start-balance'
+  }, {
+    keyword: ['CLOSING BALANCE'],
+    key: 'close-balance'
+  }]

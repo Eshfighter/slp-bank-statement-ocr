@@ -1,0 +1,131 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Balance from previous statement'],,,107164.42,False,False
+1,01/02,['Cheque Processing Fee'],0.5,Debit,107163.92,False,False
+2,03/02,"['006345', 'House Cheque Debit (RPC) at NLI']",36040.0,Debit,71123.92,False,False
+3,03/02,"['007369', 'Inclearing-Cheque']",581.75,Debit,70542.17,False,False
+4,03/02,"['007385', 'Inclearing-Cheque']",394.38,Debit,70147.79,False,False
+5,03/02,"['007405', 'Inclearing-Cheque']",4339.4,Debit,65808.39,False,False
+6,03/02,"['007408', 'Inclearing-Cheque']",629.78,Debit,65178.61,False,False
+7,03/02,"['007410', 'Inclearing-Cheque']",98.0,Debit,65080.61,False,False
+8,03/02,"['ATM Interbank Funds Trf to CA', 'IV-20-00252', 'INSTANT TRANSFER', 'LOW LAI AN', 'INSTANT TRANSFER']",180.0,Credit,65260.61,False,False
+9,03/02,"['032652', 'Local Cheque (RPC) at SLY']",5806.75,Credit,71067.36,False,False
+10,04/02,['Cheque Processing Fee'],3.0,Debit,71064.36,False,False
+11,04/02,"['007374', 'Inclearing-Cheque']",360.0,Debit,70704.36,False,False
+12,04/02,"['007380', 'Inclearing-Cheque']",100.0,Debit,70604.36,False,False
+13,04/02,"['Cr Adv-Interbank GIRO at KLM', 'PLOY PYMT FOR DEC19', 'PLOY SDN. BHD.']",4692.8,Credit,75297.16,False,False
+14,04/02,"['Cr Adv-Interbank GIRO at KLM', '067 158 237', 'BEBK020427405436', 'MIZUYA (M) SDN BHD']",3102.95,Credit,78400.11,False,False
+15,05/02,['Cheque Processing Fee'],1.0,Debit,78399.11,False,False
+16,05/02,"['007411', 'House Cheque Debit (RPC) at SLY']",1246.0,Debit,77153.11,False,False
+17,05/02,"['Instant Transfer at KLM', 'VECTORY INNOVATION', 'VECTORY INNOVATION SDN BH', '20200205MBBEMYKL010ORB08887998']",1320.0,Credit,78473.11,False,False
+18,06/02,['Cheque Processing Fee'],0.5,Debit,78472.61,False,False
+19,06/02,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY', 'HSH', 'HSH FROZEN FOODS SDN', '20200206HLBBMYKL010OCB75119483']",1224.0,Debit,77248.61,False,False
+20,06/02,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY SDN BHD', 'MS001478', 'UP TREE MKTG SDN BHD', '20200206HLBBMYKL010OCB75119513']",13000.0,Debit,64248.61,False,False
+21,06/02,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY', 'WEI CHU SEAFOOD SUPPLY', 'WEI CHU SEAFOOD S.TRD.SB', '20200206HLBBMYKL010OCB75119558']",22643.5,Debit,41605.11,False,False
+22,06/02,"['Cr Adv-Interbank GIRO at KLM', 'ALL STOCK', 'PRIVATE TRANSACTION', 'MENYA UMAMI RESTAURANT']",3647.0,Credit,45252.11,False,False
+23,06/02,"['Cr Adv-Interbank GIRO at KLM', 'M2020020608280226940', 'AXIATA DIGITAL ECODE SDN. BHD.']",20.8,Credit,45272.91,False,False
+24,07/02,"['CIB Instant Transfer at DIO', 'GOLDEN REEF', 'INV 7790 9067', 'OCEAN FISHERY ENTERP', '20200207HLBBMYKL010OCB75769938']",8986.0,Debit,36286.91,False,False
+25,07/02,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY', 'MIX RICE CO3', 'KEDAI MAKANAN SEDAP GOH', '20200207HLBBMYKL010OCB75769973']",875.0,Debit,35411.91,False,False
+26,07/02,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY', 'INV 0120', 'DIFFERENT C MART', '20200207HLBBMYKL010OCB75770018']",1820.0,Debit,33591.91,False,False
+27,07/02,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY', 'INV 0202', 'TAY SHENG GHEE', '20200207HLBBMYKL010OCB75770055']",364.0,Debit,33227.91,False,False
+28,07/02,"['Fund Transfer at DIO', 'KOH HUI SHAN', 'HOMESTAY', 'GOH POH TIONG']",1000.0,Debit,32227.91,False,False
+29,10/02,"['007415', 'House Cheque Debit (RPC) at SLY']",1140.0,Debit,31087.91,False,False
+30,10/02,"['007416', 'House Cheque Debit (RPC)']",3496.69,Debit,27591.22,False,False
+31,10/02,"['Cr Adv-Interbank GIRO at KLM', 'Fudo Inv1902619Dec', 'BEBK020812728116', 'KHOO PEH CHING']",4743.0,Credit,32334.22,False,False
+32,10/02,"['Cr Adv-Interbank GIRO at KLM', '017 159 183 238', 'BKT TG', 'MIZUYA (M) SDN BHD']",3748.14,Credit,36082.36,False,False
+33,10/02,"['057174', 'Local Cheque (RPC)']",2040.0,Credit,38122.36,False,False
+34,11/02,['Cheque Processing Fee'],1.0,Debit,38121.36,False,False
+35,11/02,"['007409', 'Inclearing-Cheque']",1000.0,Debit,37121.36,False,False
+36,11/02,"['Cr Adv-Interbank GIRO at KLM', ""JAN'2020"", 'PRIVATE TRANSACTION', 'ABC FROZEN TRADING SDN.BH']",23591.15,Credit,60712.51,False,False
+37,12/02,['Cheque Processing Fee'],0.5,Debit,60712.01,False,False
+38,12/02,"['007419', 'Inclearing-Cheque']",853.99,Debit,59858.02,False,False
+39,12/02,"['Instant Transfer at KLM', 'PAYMENT OF JAN20', 'Y SEN FOOD VENTURE SDN BHD', '20200212PBBEMYKL010OCB11145065']",7462.6,Credit,67320.62,False,False
+40,12/02,"['002187', 'Local Cheque (RPC)']",1050.0,Credit,68370.62,False,False
+41,12/02,"['002220', 'Local Cheque (RPC)']",1837.5,Credit,70208.12,False,False
+42,12/02,"['647560', 'Local Cheque (RPC)']",11704.78,Credit,81912.9,False,False
+43,13/02,['Cheque Processing Fee'],0.5,Debit,81912.4,False,False
+44,13/02,"['007420', 'Inclearing-Cheque']",3600.0,Debit,78312.4,False,False
+45,13/02,"['Cr Adv-Interbank GIRO at KLM', 'PBB-PBCS AC 3']",73.59,Credit,78385.99,False,False
+46,14/02,['Cheque Processing Fee'],0.5,Debit,78385.49,False,False
+47,14/02,"['007421', 'Inclearing-Cheque']",9911.9,Debit,68473.59,False,False
+48,14/02,"['007424', 'Inclearing-Cheque']",7217.96,Debit,61255.63,False,False
+49,14/02,"['007431', 'Inclearing-Cheque']",1259.5,Debit,59996.13,False,False
+50,14/02,"['101745', 'Local Cheque (RPC)']",596.7,Credit,60592.83,False,False
+51,14/02,"['106601', 'Local Cheque (RPC)']",32094.37,Credit,92687.2,False,False
+52,14/02,"['107086', 'Local Cheque (RPC)']",1712.6,Credit,94399.8,False,False
+53,15/02,['Cheque Processing Fee'],1.5,Debit,94398.3,False,False
+54,15/02,"['FPX B2B1', '0220200021684651C111693558', 'KUMPULAN WANG SIMPANAN PEKERJA']",4818.0,Debit,89580.3,False,False
+55,15/02,"['FPX B2B1', '20200215155714_6241420', 'PERTUBUHAN KESELAMATAN SOSIAL']",280.3,Debit,89300.0,False,False
+56,15/02,"['FPX B2B1', '1220190021684651C111694160', 'KUMPULAN WANG SIMPANAN PEKERJA']",4818.0,Debit,84482.0,False,False
+57,15/02,"['FPX B2B1', '20200215155914_24656652', 'PERTUBUHAN KESELAMATAN SOSIAL']",48.8,Debit,84433.2,False,False
+58,16/02,"['CIB Instant Transfer at DIO', 'Salary Feb 2020', 'Salary Feb 2020', 'KOH HUI SHAN', '20200216HLBBMYKL010OCB80041136']",13322.35,Debit,71110.85,False,False
+59,17/02,"['007426', 'House Cheque Debit (RPC) at RWG']",27738.19,Debit,43372.66,False,False
+60,17/02,"['Cr Adv-Interbank GIRO at KLM', 'IV2000336', 'GREENING LIFE GLOBAL', 'GREENING LIFE GLOBAL SDN. BHD.']",2079.0,Credit,45451.66,False,False
+61,17/02,"['Instant Transfer at KLM', '20-00358 IPC', 'CHOY CHEAN YEN', '20200217PBBEMYKL010ORB10032274']",987.84,Credit,46439.5,False,False
+62,17/02,"['Instant Transfer at KLM', 'IV-20-00022', 'FULLY FISHERY (M) SDN. BHD.', '20200217PBBEMYKL010OCB17342174']",7421.0,Credit,53860.5,False,False
+63,17/02,"['Instant Transfer at KLM', 'Teien Rest', 'TEIEN RESTAURANT SDN BHD', '20200217PBBEMYKL010OCB17504595']",8711.17,Credit,62571.67,False,False
+64,17/02,"['Cr Adv-Interbank GIRO at KLM', 'PBB-PBCS AC 3']",132.73,Credit,62704.4,False,False
+65,17/02,"['Cr Adv-Interbank GIRO at KLM', 'M2020021710052049288', 'AXIATA DIGITAL ECODE SDN. BHD.']",4.5,Credit,62708.9,False,False
+66,17/02,"['000434', 'Local Cheque (RPC) at SLY']",623.55,Credit,63332.45,False,False
+67,18/02,['Cheque Processing Fee'],0.5,Debit,63331.95,False,False
+68,18/02,"['007359', 'Inclearing-Cheque']",1766.35,Debit,61565.6,False,False
+69,18/02,"['007413', 'Inclearing-Cheque']",1166.95,Debit,60398.65,False,False
+70,18/02,"['007417', 'Inclearing-Cheque']",33.6,Debit,60365.05,False,False
+71,18/02,"['007440', 'Inclearing-Cheque']",2240.0,Debit,58125.05,False,False
+72,18/02,"['007441', 'House Cheque Debit (RPC)']",240.0,Debit,57885.05,False,False
+73,18/02,"['Cr Adv-Interbank GIRO at KLM', 'Interbank GIRO', 'IV-19-01516', 'WAN WAN PRODUCE SUPP']",1858.48,Credit,59743.53,False,False
+74,18/02,"['Instant Transfer at KLM', 'TOP DELIGHT SDN BHD', 'IV2000371', 'LIM SWEE KENG', '20200218MBBEMYKL010ORB03052168']",1170.0,Credit,60913.53,False,False
+75,18/02,"['Cr Adv-Interbank GIRO at KLM', 'PBB-PBCS AC 3']",14.7,Credit,60928.23,False,False
+76,19/02,['Cheque Processing Fee'],2.5,Debit,60925.73,False,False
+77,19/02,['CA Chq Book Stamp Duty/Postage'],7.5,Debit,60918.23,False,False
+78,19/02,['CA Chq Book Stamp Duty/Postage'],30.0,Debit,60888.23,False,False
+79,19/02,"['Cr Adv-Interbank GIRO at KLM', 'squid', 'NNC RESTAURANTS DAMANSARA SDN. BHD.']",64.48,Credit,60952.71,False,False
+80,19/02,"['Cr Adv-Interbank GIRO at KLM', 'PBB-PBCS AC 3']",194.83,Credit,61147.54,False,False
+81,19/02,"['Cr Adv-Interbank GIRO at KLM', 'M2020021909322164538', 'AXIATA DIGITAL ECODE SDN. BHD.']",21.8,Credit,61169.34,False,False
+82,19/02,"['678615', 'Local Cheque (RPC) at TDD']",5047.0,Credit,66216.34,False,False
+83,20/02,"['007371', 'Inclearing-Cheque']",1210.45,Debit,65005.89,False,False
+84,20/02,"['007425', 'Inclearing-Cheque']",282.0,Debit,64723.89,False,False
+85,20/02,"['007433', 'House Cheque Debit (RPC)']",3552.54,Debit,61171.35,False,False
+86,20/02,"['007434', 'Inclearing-Cheque']",2945.4,Debit,58225.95,False,False
+87,20/02,"['007442', 'Inclearing-Cheque']",250.0,Debit,57975.95,False,False
+88,20/02,"['Instant Transfer at KLM', 'VECTORY INNOVATION', 'VECTORY INNOVATION SDN BH', '20200220MBBEMYKL010ORB05003180']",620.0,Credit,58595.95,False,False
+89,20/02,"['Cr Adv-Interbank GIRO at KLM', 'PBB-PBCS AC 3']",4.98,Credit,58600.93,False,False
+90,21/02,['Cheque Processing Fee'],2.5,Debit,58598.43,False,False
+91,21/02,"['007391', 'Inclearing-Cheque']",2200.0,Debit,56398.43,False,False
+92,21/02,"['007412', 'House Cheque Debit (RPC)']",2600.0,Debit,53798.43,False,False
+93,21/02,"['007443', 'Inclearing-Cheque']",150.0,Debit,53648.43,False,False
+94,21/02,"['007444', 'Inclearing-Cheque']",1243.9,Debit,52404.53,False,False
+95,21/02,"['007447', 'Inclearing-Cheque']",3960.78,Debit,48443.75,False,False
+96,21/02,"['Cr Adv-Interbank GIRO at KLM', 'PBB-PBCS AC 3']",58.41,Credit,48502.16,False,False
+97,21/02,"['Cr Adv-Interbank GIRO at KLM', 'M2020022109532166456', 'AXIATA DIGITAL ECODE SDN. BHD.']",5.9,Credit,48508.06,False,False
+98,21/02,"['009770', 'Local Cheque (RPC)']",2206.35,Credit,50714.41,False,False
+99,21/02,"['334908', 'House Cheque (RPC)']",396.18,Credit,51110.59,False,False
+100,22/02,['Cheque Processing Fee'],2.5,Debit,51108.09,False,False
+101,22/02,"['Instant Transfer at KLM', 'seafood item', 'LAI PEE YEE', '20200222PBBEMYKL010ORM19044039']",1276.0,Credit,52384.09,False,False
+102,24/02,['INCLEARING CA S/C at KLM'],10.0,Debit,52374.09,False,False
+103,24/02,"['Cr Adv-Interbank GIRO at KLM', 'PBB-PBCS AC 3']",25.65,Credit,52399.74,False,False
+104,24/02,"['007447', 'INCLEARING RET CHQ at KLM']",3960.78,Credit,56360.52,False,False
+105,25/02,"['007427', 'Inclearing-Cheque']",857.57,Debit,55502.95,False,False
+106,25/02,"['007438', 'Inclearing-Cheque']",700.0,Debit,54802.95,False,False
+107,25/02,"['007439', 'Inclearing-Cheque']",700.0,Debit,54102.95,False,False
+108,25/02,"['007448', 'Inclearing-Cheque']",775.08,Debit,53327.87,False,False
+109,25/02,"['Cr Adv-Interbank GIRO at KLM', 'M2020022509460188151', 'AXIATA DIGITAL ECODE SDN. BHD.']",19.8,Credit,53347.67,False,False
+110,25/02,"['Cr Adv-Interbank GIRO at KLM', 'PLOY PYMT FOR JAN20', 'PLOY SDN. BHD.']",2164.3,Credit,55511.97,False,False
+111,25/02,"['Cr Adv-Interbank GIRO at KLM', 'SUPPLIER', 'SUPPLIER', 'GANTETSU INTERNATIONAL SDN BHD']",2100.0,Credit,57611.97,False,False
+112,26/02,['Cheque Processing Fee'],2.0,Debit,57609.97,False,False
+113,26/02,"['Cr Adv-Interbank GIRO at KLM', 'M2020022608162791606', 'AXIATA DIGITAL ECODE SDN. BHD.']",21.9,Credit,57631.87,False,False
+114,26/02,"['Cr Adv-Interbank GIRO at KLM', 'PBB-PBCS AC 3']",71.24,Credit,57703.11,False,False
+115,27/02,"['007388', 'Inclearing-Cheque']",37901.8,Debit,19801.31,False,False
+116,27/02,"['007414', 'Inclearing-Cheque']",3039.2,Debit,16762.11,False,False
+117,27/02,"['Instant Transfer at KLM', 'TeienRest', 'TEIEN RESTAURANT SDN BHD', '20200227PBBEMYKL010OCB15167666']",9493.68,Credit,26255.79,False,False
+118,27/02,"['Instant Transfer at KLM', 'LeisureSq', 'LEISURE SQUARE SDN BHD', '20200227PBBEMYKL010OCB15189770']",1664.99,Credit,27920.78,False,False
+119,27/02,"['Cr Adv-Interbank GIRO at KLM', 'M2020022709360542622', 'AXIATA DIGITAL ECODE SDN. BHD.']",14.9,Credit,27935.68,False,False
+120,28/02,['Cheque Processing Fee'],1.0,Debit,27934.68,False,False
+121,28/02,"['007450', 'Inclearing-Cheque']",1383.5,Debit,26551.18,False,False
+122,28/02,"['007452', 'Inclearing-Cheque']",398.0,Debit,26153.18,False,False
+123,28/02,"['Cr Adv-Interbank GIRO at KLM', 'M2020022809362379753', 'AXIATA DIGITAL ECODE SDN. BHD.']",8.9,Credit,26162.08,False,False
+124,28/02,"['Instant Transfer at KLM', 'SUPPLIER', 'JAN 20 INVOICES', 'DELI STATION SDN BHD', '20200228PBBEMYKL010ORB23021222']",1345.0,Credit,27507.08,False,False
+125,28/02,"['028060', 'Local Cheque (RPC) at STL']",17461.75,Credit,44968.83,False,False
+126,29/02,['Cheque Processing Fee'],1.0,Debit,44967.83,False,False
+127,,['Total Withdrawals'],,,242873.11,False,False
+128,,['Total Deposits'],,,180676.52,False,False
+129,,['Closing Balance'],,,44967.83,False,False

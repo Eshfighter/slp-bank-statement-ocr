@@ -1,0 +1,51 @@
+
+init-config:
+  country-name: malaysia
+  bank-name : AmBank
+  format-id: ambank_my_2
+  format-key-word: 'A/C NO'
+
+# parsing variables
+summary-config:
+  summary-page-index: 0
+  keys: ['account-number', 'account-type', 'bank-name', 'document-type', 'number-of-pages', 'statement-date']
+  bank-name-find: ['AmBank']
+  account-list: ['Current Account']
+  separate-summary-lines: True
+  account-name-start: 'CUSTOMER NAME:'
+  account-name-line-start-index: 0
+  account-name-line-end-index: 0
+  account-name-end: 'ACTIVITY PERIOD:'
+  state-dt-keyword: 'ACTIVITY PERIOD:'
+  state-dt-separator: '-'
+  no-of-date-words: 1
+  page-keyword: PAGE
+  account-no-regex: '\d\d\d\d\d\d\d\d\d\d\d\d\d'
+  balance-postprocessing-closing-balance: True
+  balance-postprocessing-credit-debit: True
+
+transaction-config:
+  txn-key-word: ['Opening Ledger Balance']
+  txn-description-ignore-regex: ['\d\d:\d\d:\d\d']
+  txn-remove-date: ['Opening Ledger Balance']
+  start-of-month-keyword: ['Opening Ledger Balance']
+  end-of-month-keyword: []
+  stop-at: ['Total No of Records']
+  date-regex-list: ['\d\d/\d\d/\d\d\d\d']
+  columns-in-between-date-descriptions: 0
+  statement-date-format: 'DD/MM/YYYY'
+  transaction-date-format: 'DD/MM/YYYY'
+  number-regex-list: ['(\d+(\.\d{2})?)']
+  txn-type-in-money-value: False
+  date-joined-with-transaction: True
+  balance-outside-table-key-word: []
+  balance-in-separate-table: False
+  balance-fields: {
+    'key': ['Opening Ledger Balance'],
+    'actual-key': ['Opening Ledger Balance'],
+    'row-after-key': 0,
+  }
+  transaction-summary-key-info: [{
+    keyword: ['Opening Ledger Balance'],
+    key: 'start-balance'
+  }]

@@ -1,0 +1,119 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Opening Balance'],,,6644.19,False,False
+1,29/04,"['INSTANT TRANSFER', 'Fund transfer', 'GOOI CHIA YEE']",51.8,Credit,13883.49,False,False
+2,29/04,"['INSTANT TRANSFER', 'huikie_2206', 'CHANG HUI KIE']",29.9,Credit,13831.69,False,False
+3,29/04,"['IBG CREDIT', 'FUND TRANSFER', '956', 'FUND TRANSFER', 'LEE SAY WAN']",149.5,Credit,13801.79,False,False
+4,29/04,"['INSTANT TRANSFER', 'choyshan', 'YAP CHOY SHAN']",42.0,Credit,13652.29,False,False
+5,29/04,"['INSTANT TRANSFER', 'meiixinn18', 'LIM MEI XIN']",29.9,Credit,13610.29,False,False
+6,29/04,"['INSTANT TRANSFER', 'hoiyan1225', 'POH HOI YAN']",79.9,Credit,13580.39,False,False
+7,29/04,"['INSTANT TRANSFER', 'Savings', 'KAO SU QI']",119.6,Credit,13500.49,False,False
+8,29/04,"['INSTANT TRANSFER', 'CHEAH JIA CHIE']",64.9,Credit,13380.89,False,False
+9,29/04,"['IBG CREDIT', 'PURP/13110/GOODS AND', '960', 'PURP/13110/GOODS AND', 'LEE JIA YEE']",281.5,Credit,13315.99,False,False
+10,29/04,"['INSTANT TRANSFER', 'carmanspy', 'SOON PEI YOKE']",44.0,Credit,13034.49,False,False
+11,29/04,"['INSTANT TRANSFER', 'aileeeelia', 'SEE AI LEE']",59.8,Credit,12990.49,False,False
+12,29/04,"['INSTANT TRANSFER', 'tay 508', 'TAY MI XIAO']",29.9,Credit,12930.69,False,False
+13,28/04,"['INSTANT TRANSFER', 'ah_theng99', 'CHUA YEE THENG']",35.0,Credit,12900.79,False,False
+14,28/04,"['I-FUNDS TR FROM SA', 'Insta: yhiiiiiiee', 'WONG YUAN HUEY']",35.0,Credit,12865.79,False,False
+15,28/04,"['INSTANT TRANSFER', 'Sorry', 'CHOO JIA WEI']",29.9,Credit,12830.79,False,False
+16,28/04,"['INSTANT TRANSFER', 'Bill Payment', 'CHONG JING TOONG']",59.8,Credit,12800.89,False,False
+17,28/04,"['INSTANT TRANSFER', 'Jocelynthyyy', 'JOCELYN TAN HUI YING']",61.9,Credit,12741.09,False,False
+18,28/04,"['INSTANT TRANSFER', 'Lim Xin Ru', 'LIM CHING YUEN']",29.9,Credit,12679.19,False,False
+19,28/04,"['I-FUNDS TR FROM SA', 'joey chu', 'CHU WAI YEE']",29.9,Credit,12649.29,False,False
+20,27/04,"['INSTANT TRANSFER', 'huixin', 'SAM HUI XIN']",94.8,Credit,12619.39,False,False
+21,27/04,"['INSTANT TRANSFER', 'Fund transfer', 'ONG KIAN BOON']",89.7,Credit,12524.59,False,False
+22,27/04,"['INSTANT TRANSFER', 'cloth', 'CHONG MING KIEN']",32.0,Credit,12434.89,False,False
+23,27/04,"['INSTANT TRANSFER', 'Clothes', 'FAM KAH HUEI']",139.6,Credit,12402.89,False,False
+24,27/04,"['INSTANT TRANSFER', 'Lim Xin Ru', 'LIM CHING YUEN']",59.8,Credit,12263.29,False,False
+25,27/04,"['INSTANT TRANSFER', 'Sjuan93', 'LIM SAU KIAN']",21.9,Credit,12203.49,False,False
+26,26/04,"['INSTANT TRANSFER', 'Vintage top', 'TAN TZE HUI']",40.0,Credit,12181.59,False,False
+27,26/04,"['INSTANT TRANSFER', 'Fund transfer', 'NICOLE YOONG HUAI LI']",140.9,Credit,12141.59,False,False
+28,26/04,"['INSTANT TRANSFER', 'Elai_ne_', 'TAN PEI YI']",8.0,Credit,12000.69,False,False
+29,26/04,"['INSTANT TRANSFER', 'reyna.yin833', 'TEH TSAI YIN']",179.4,Credit,11992.69,False,False
+30,26/04,"['INSTANT TRANSFER', 'elai_ne_', 'TAN PEI YI']",32.0,Credit,11813.29,False,False
+31,26/04,"['INSTANT TRANSFER', 'qianniinii', 'LOOI QIAN NI']",59.8,Credit,11781.29,False,False
+32,26/04,"['INSTANT TRANSFER', 'aileeeelia', 'SEE AI LEE']",32.0,Credit,11721.49,False,False
+33,26/04,"['I-FUNDS TR FROM SA', 'ig-victoriamxy', 'MAK XIN YII']",29.9,Credit,11689.49,False,False
+34,26/04,"['INSTANT TRANSFER', 'Ng Sy Hui', 'MICHELLE LING KING H']",36.0,Credit,11659.59,False,False
+35,26/04,"['INSTANT TRANSFER', 'Fund transfer', 'YONG SHIN YEE']",58.0,Credit,11623.59,False,False
+36,25/04,"['I-FUNDS TR FROM SA', 'Jesslynyonggg -insta', 'JESSLYN YONG ZHI CHY']",144.8,Credit,11565.59,False,False
+37,25/04,"['INSTANT TRANSFER', 'Fund transfer', 'HUI KA MEI']",59.8,Credit,11420.79,False,False
+38,25/04,"['I-FUNDS TR FROM SA', 'Insta:gwenxx_24', 'GWENDOLYN LIM ZHI HU']",62.0,Credit,11360.99,False,False
+39,25/04,"['INSTANT TRANSFER', 'Michelle Ling', 'MICHELLE LING KING H']",136.8,Credit,11298.99,False,False
+40,25/04,"['INSTANT TRANSFER', 'Bill Payment', 'WONG KHER YIOW']",44.0,Credit,11162.19,False,False
+41,25/04,"['INSTANT TRANSFER', 'Fund transfer', 'SIOW SU-IANNE']",88.0,Credit,11118.19,False,False
+42,25/04,"['INSTANT TRANSFER', 'Shuqing_loh', 'LOH SHU QING']",52.0,Credit,11030.19,False,False
+43,25/04,"['INSTANT TRANSFER', 'elai_ne_', 'TAN PEI YI']",70.0,Credit,10978.19,False,False
+44,25/04,"['INSTANT TRANSFER', 'simyee.tan', 'TAN KAI TEAN']",59.8,Credit,10908.19,False,False
+45,25/04,"['INSTANT TRANSFER', 'Fund transfer', 'LEONG KAH MUN']",26.0,Credit,10848.39,False,False
+46,25/04,"['INSTANT TRANSFER', 'ruoqilee', 'LEE RUO QI']",59.8,Credit,10822.39,False,False
+47,25/04,"['I-FUNDS TR FROM SA', 'ig:0526.26.01', 'LIEU XIN TONG']",8.0,Credit,10762.59,False,False
+48,25/04,"['I-FUNDS TR FROM SA', 'ig:0526.26.01', 'LIEU XIN TONG']",26.0,Credit,10754.59,False,False
+49,25/04,"['INSTANT TRANSFER', 'CLOTH', 'CHONG MING KIEN']",44.0,Credit,10728.59,False,False
+50,25/04,"['I-FUNDS TR FROM SA', 'yingying', 'NG YING YING']",174.7,Credit,10684.59,False,False
+51,25/04,"['I-FUNDS TR FROM SA', 'joey chu', 'CHU WAI YEE']",44.0,Credit,10509.89,False,False
+52,25/04,"['INSTANT TRANSFER', 'Jocelynthyyy', 'JOCELYN TAN HUI YING']",111.8,Credit,10465.89,False,False
+53,24/04,"['INSTANT TRANSFER', 'Fund transfer', 'CHONG SI WEI']",55.9,Credit,10354.09,False,False
+54,24/04,"['INSTANT TRANSFER', 'choyshan', 'YAP CHOY SHAN']",52.0,Credit,10298.19,False,False
+55,24/04,"['INSTANT TRANSFER', 'dezumondo', 'SONG PEI XIN']",44.0,Credit,10246.19,False,False
+56,24/04,"['INSTANT TRANSFER', 'ariellebabyy_', 'LEE KAH HUI']",88.0,Credit,10202.19,False,False
+57,24/04,"['INSTANT TRANSFER', 'Devin', 'CHOO HOU YIN']",59.8,Credit,10114.19,False,False
+58,24/04,"['INSTANT TRANSFER', 'reyna.yin833', 'TEH TSAI YIN']",176.0,Credit,10054.39,False,False
+59,24/04,"['I-FUNDS TR FROM SA', 'ig:victoriamxy', 'MAK XIN YII']",55.9,Credit,9878.39,False,False
+60,24/04,"['INSTANT TRANSFER', 'ig jinny_57', 'TAN TUAN KIM']",26.0,Credit,9822.49,False,False
+61,24/04,"['INSTANT TRANSFER', 'aileeeelia', 'SEE AI LEE']",73.9,Credit,9796.49,False,False
+62,24/04,"['INSTANT TRANSFER', 'WONG JING YI', 'WONG JING YI']",26.0,Credit,9722.59,False,False
+63,24/04,"['INSTANT TRANSFER', 'yukiiiic___', 'YUKI CHONG']",26.0,Credit,9696.59,False,False
+64,24/04,"['INSTANT TRANSFER', 'meiixinn18', 'LIM MEI XIN']",19.9,Credit,9670.59,False,False
+65,24/04,"['INSTANT TRANSFER', 'Ng Sy Hui', 'MICHELLE LING KING H']",59.8,Credit,9650.69,False,False
+66,24/04,"['INSTANT TRANSFER', 'Fund transfer', 'CHIEW PEI THENG']",32.0,Credit,9590.89,False,False
+67,23/04,"['INSTANT TRANSFER', 'Fund transfer', 'WONG CHING WEI']",121.7,Credit,9558.89,False,False
+68,23/04,"['I-FUNDS TR FROM SA', 'jeffernie', 'CHUA YIP MAY']",32.0,Credit,9437.19,False,False
+69,23/04,"['INSTANT TRANSFER', 'CLOTHS', 'CHONG MING KIEN']",104.7,Credit,9405.19,False,False
+70,22/04,"['I-FUNDS TR FROM SA', 'susan_foo99', 'FOO SIANG SIANG']",88.0,Credit,9300.49,False,False
+71,22/04,"['INSTANT TRANSFER', 'Ng Sy Hui', 'MICHELLE LING KING H']",74.8,Credit,9212.49,False,False
+72,22/04,"['INSTANT TRANSFER', 'Fund transfer', 'JOLYN CHOO PEI YEE']",61.9,Credit,9137.69,False,False
+73,22/04,"['INSTANT TRANSFER', 'dezumondo', 'SONG PEI XIN']",61.9,Credit,9075.79,False,False
+74,22/04,"['INSTANT TRANSFER', 'insta cuttieninja', 'VERONICA HIU']",61.9,Credit,9013.89,False,False
+75,22/04,"['I-FUNDS TR FROM SA', 'xiao_bear_', 'CASEY FAM CHIA YI']",24.0,Credit,8951.99,False,False
+76,22/04,"['I-FUNDS TR FROM SA', 'joey chu', 'CHU WAI YEE']",29.9,Credit,8927.99,False,False
+77,22/04,"['INSTANT TRANSFER', 'ariellebabyy_', 'LEE KAH HUI']",64.0,Credit,8898.09,False,False
+78,22/04,"['INSTANT TRANSFER', 'VINKY CHAN 2 pants', 'CHAN WIA YEI']",88.0,Credit,8834.09,False,False
+79,22/04,"['INSTANT TRANSFER', '_xw29', 'JOLIN WONG SIEW WEI']",119.6,Credit,8746.09,False,False
+80,22/04,"['INSTANT TRANSFER', 'SHERALYN SHU HWA', 'DUE SHU HWA SHERALYN']",59.8,Credit,8626.49,False,False
+81,22/04,"['INSTANT TRANSFER', 'hueyyi19', 'CHONG HUEY YI']",59.8,Credit,8566.69,False,False
+82,22/04,"['I-FUNDS TR FROM SA', 'FB: Ecye Chan', 'EUNICE CHAN YI EN']",26.0,Credit,8506.89,False,False
+83,21/04,"['INSTANT TRANSFER', 'ig jinny_57', 'TAN TUAN KIM']",26.0,Credit,8480.89,False,False
+84,21/04,"['INSTANT TRANSFER', 'Insta odelia_31', 'WONG DEK WEI']",55.9,Credit,8454.89,False,False
+85,21/04,"['INSTANT TRANSFER', 'Sjuan93', 'LIM SAU KIAN']",34.0,Credit,8398.99,False,False
+86,21/04,"['I-FUNDS TR FROM SA', 'Ziningodd', 'CHONG CHEE NING']",29.9,Credit,8364.99,False,False
+87,21/04,"['I-FUNDS TR FROM SA', 'Insta: yhiiiiiiee', 'WONG YUAN HUEY']",52.0,Credit,8335.09,False,False
+88,21/04,"['I-FUNDS TR FROM SA', 'insta:gwenxx_24', 'GWENDOLYN LIM ZHI HU']",76.0,Credit,8283.09,False,False
+89,21/04,"['I-FUNDS TR FROM SA', 'shirt', 'PANG YU LIN']",18.0,Credit,8207.09,False,False
+90,21/04,"['INSTANT TRANSFER', 'Floral top', 'CHOO JIA WEI']",18.0,Credit,8189.09,False,False
+91,21/04,"['I-FUNDS TR FROM SA', 'kl.hooi', 'HOOI KEEN LENG']",44.0,Credit,8171.09,False,False
+92,21/04,"['I-FUNDS TR FROM SA', 'nychu', 'CHU NIAM YOKE']",59.8,Credit,8127.09,False,False
+93,20/04,"['INSTANT TRANSFER', 'Insta erine_chan', 'ERINE CHAN YI LING']",42.0,Credit,8067.29,False,False
+94,20/04,"['INSTANT TRANSFER', 'Ohaan sq', 'NGO KAI MING']",37.9,Credit,8025.29,False,False
+95,20/04,"['INSTANT TRANSFER', 'carmanspy', 'SOON PEI YOKE']",89.7,Credit,7987.39,False,False
+96,20/04,"['INSTANT TRANSFER', 'ah_theng99', 'CHUA YEE THENG']",76.0,Credit,7897.69,False,False
+97,20/04,"['INSTANT TRANSFER', 'Xinyeecheong', 'CHOONG XIN YEE']",52.0,Credit,7821.69,False,False
+98,20/04,"['I-FUNDS TR FROM SA', 'Joey chu', 'CHU WAI YEE']",59.8,Credit,7769.69,False,False
+99,20/04,"['INSTANT TRANSFER', 'Bill Payment', 'WONG KHER YIOW']",102.0,Credit,7709.89,False,False
+100,20/04,"['I-FUNDS TR FROM SA', 'xiao_bear_', 'CASEY FAM CHIA YI']",37.9,Credit,7607.89,False,False
+101,20/04,"['INSTANT TRANSFER', 'yukiiiic___', 'YUKI CHONG']",41.0,Credit,7569.99,False,False
+102,20/04,"['I-FUNDS TR FROM SA', 'aileeeelia', 'SEE AI LEE']",29.9,Credit,7528.99,False,False
+103,20/04,"['INSTANT TRANSFER', 'Fund transfer', 'CHEAH BEE HONG']",73.9,Credit,7499.09,False,False
+104,20/04,"['INSTANT TRANSFER', 'shirt', 'POH HOI YAN']",114.9,Credit,7425.19,False,False
+105,19/04,"['INSTANT TRANSFER', ""Simpson's tee"", 'CHOO JIA WEI']",37.9,Credit,7310.29,False,False
+106,19/04,"['INSTANT TRANSFER', 'Bill payment', 'CHEAH JIA CHIE']",79.9,Credit,7272.39,False,False
+107,19/04,"['INSTANT TRANSFER', 'huikie_2206', 'CHANG HUI KIE']",29.9,Credit,7192.49,False,False
+108,19/04,"['INSTANT TRANSFER', 'TAN CHI YIN']",21.9,Credit,7162.59,False,False
+109,19/04,"['INSTANT TRANSFER', 'Fund transfer', 'LEONG KAH MUN']",29.9,Credit,7140.69,False,False
+110,18/04,"['INSTANT TRANSFER', 'WONG JING YI', 'WONG JING YI']",64.9,Credit,7110.79,False,False
+111,18/04,"['INSTANT TRANSFER', 'yukiiiic___', 'YUKI CHONG']",109.8,Credit,7045.89,False,False
+112,16/04,"['INSTANT TRANSFER', 'Fund transfer', 'LEE MING SHAN']",68.2,Credit,6936.09,False,False
+113,14/04,"['INSTANT TRANSFER', 'meiixinn18', 'LIM MEI XIN']",79.9,Credit,6867.89,False,False
+114,13/04,"['INSTANT TRANSFER', 'JE016 Laural Jeans x 2 light blue', 'LEONG MEI CHEAN']",143.8,Credit,6787.99,False,False
+115,,['CLOSING BALANCE'],,,13883.49,False,False
+116,,['Total Withdrawal'],,,0.0,False,False
+117,,['Total Deposits'],,,7239.3,False,False

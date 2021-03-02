@@ -1,0 +1,356 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['BALANCE B/F'],,,29852.9,False,False
+1,05/08,"['Cheque Deposit', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALA S PASS']",428.0,Credit,30280.9,False,False
+2,05/08,"['SVC Chg', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALA S PASS']",1.0,Credit,46993.4,False,True
+3,05/08,"['Cheque Withdrawal', '0984866']",243.14,Debit,46750.26,False,False
+4,05/08,"['Cheque Withdrawal', '0984882']",438.7,Debit,46311.56,False,False
+5,06/08,"['Cheque Withdrawal', '0984867']",760.8,Debit,45550.76,False,False
+6,06/08,"['Cheque Withdrawal', '0984881']",90.0,Debit,45460.76,False,False
+7,06/08,"['Cheque Withdrawal', '0984883']",686.91,Debit,44773.85,False,False
+8,06/08,"['Cheque Withdrawal', '0984884']",791.22,Debit,43982.63,False,False
+9,06/08,"['Cheque Withdrawal', '0984887']",3198.5,Debit,40784.13,False,False
+10,06/08,"['Cheque Withdrawal', '0984888']",1120.0,Debit,39664.13,False,False
+11,07/08,"['Cheque Withdrawal', '0984877']",538.96,Debit,39125.17,False,False
+12,07/08,"['Cheque Withdrawal', '0984880']",786.45,Debit,38338.72,False,False
+13,08/08,"['Cheque Deposit', '4018471358-00000', 'Trf. Wd. Loans']",,,60161.32,False,True
+14,13/08,"['inward DR - GIRO', 'COLL 8933440102', 'SP SERVICES LTD', 'GIRO Collection 8933440102']",349.92,Debit,59811.4,False,False
+15,14/08,"['Inward CR - GIRO', 'OTHR Other', 'CHINA JINGYE CONSTRU', '$GIG190808125617']",35538.68,Credit,95350.08,False,False
+16,15/08,['Cheque Deposit'],428.0,Credit,95778.08,False,False
+17,15/08,['Cheque Deposit'],3584.5,Credit,99362.58,False,False
+18,15/08,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BIZ']",3560.0,Debit,95802.58,False,False
+19,16/08,"['Cheque Withdrawal', '0984889']",53917.3,Debit,41885.28,False,False
+20,17/08,['Cash 0984890'],5250.0,Debit,36635.28,False,False
+21,19/08,['Cheque Deposit'],2321.9,Credit,38957.18,False,False
+22,19/08,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BFWL']",1739.46,Debit,37217.72,False,False
+23,19/08,"['Cheque Withdrawal', '0984891']",16718.29,Debit,20499.43,False,False
+24,20/08,"['Cheque Withdrawal', '0984876']",1766.2,Debit,18733.23,False,False
+25,20/08,"['Cheque Withdrawal', '0984878']",5045.05,Debit,13688.18,False,False
+26,21/08,['Cheque Deposit'],1605.0,Credit,15293.18,False,False
+27,21/08,['Cheque Deposit'],224.7,Credit,15517.88,False,False
+28,21/08,['Cheque Deposit'],2889.0,Credit,18406.88,False,False
+29,21/08,['Cheque Deposit'],16966.19,Credit,35373.07,False,False
+30,21/08,['Cheque Deposit'],1219.8,Credit,36592.87,False,False
+31,21/08,['Cheque Deposit'],1797.6,Credit,38390.47,False,False
+32,21/08,"['Inward DR - GIRO', 'COLL H050018594', 'SINGAPURA FINANCE', 'REPAYMENT']",36230.47,Debit,36230.47,False,True
+33,21/08,"['Inward DR - GIRO', 'COLL H050018415', 'SINGAPURA FINANCE', 'REPAYMENT']",,,33684.13,False,True
+34,22/08,['Cheque Deposit'],47592.53,Credit,81276.66,False,False
+35,23/08,"['Cheque Withdrawal', '0984892']",970.0,Debit,80306.66,False,False
+36,23/08,"['Cheque Withdrawal', '0984893']",3076.25,Debit,77230.41,False,False
+37,26/08,['Cheque Deposit'],2846.2,Credit,80076.61,False,False
+38,26/08,['Cheque Deposit'],74.9,Credit,80151.51,False,False
+39,26/08,['Cheque Deposit'],32100.0,Credit,112251.51,False,False
+40,26/08,"['Inward DR - GIRO', 'COLL ND004704', 'URBAN REDEVELOPMENT', 'SP FEE XD6993P']",127.4,Debit,112124.11,False,False
+41,26/08,"['Cheque Withdrawal', '0985001']",3200.0,Debit,108924.11,False,False
+42,27/08,"['Cheque Withdrawal', '0985005']",9940.0,Debit,98984.11,False,False
+43,28/08,"['Inward DR - GIRO', 'COLL 016720116928', 'JURONG-CLEMENTI TOWN', '016720116928']",151.41,Debit,98832.7,False,False
+44,28/08,"['Inward DR - GIRO', 'COLL 16720116928', 'HDB', 'HDB-Instal/Rent 167201 16928']",2675.0,Debit,96157.7,False,False
+45,28/08,"['Cheque Withdrawal', '0985008']",1617.0,Debit,94540.7,False,False
+46,28/08,"['Cheque Withdrawal', '0985010']",10700.0,Debit,83840.7,False,False
+47,29/08,"['Cheque Withdrawal', '0985004']",7859.15,Debit,75981.55,False,False
+48,29/08,"['Cheque Withdrawal', '0985006']",32100.0,Debit,43881.55,False,False
+49,29/08,"['Cheque Withdrawal', '0985009']",6585.29,Debit,37296.26,False,False
+50,30/08,"['Cheque Withdrawal', '0984894']",1567.8,Debit,35728.46,False,False
+51,30/08,"['Cheque Withdrawal', '0984895']",421.04,Debit,35307.42,False,False
+52,30/08,"['Cheque Withdrawal', '0985002', 'eee']",259.46,Debit,35047.96,False,False
+53,,['Total Withdrawals'],,,198963.88,False,False
+54,,['Total Deposits'],,,191807.1,False,False
+55,,['Total'],,,35047.96,False,False
+56,,['BALANCE B/F'],,,54250.58,False,False
+57,01/07,['Cheque Deposit'],17334.0,Credit,71584.58,False,False
+58,01/07,['Cheque Deposit'],9062.14,Credit,80646.72,False,False
+59,01/07,"['Cheque Withdrawal', '0984852']",8054.0,Debit,72592.72,False,False
+60,01/07,"['Cheque Withdrawal', '0984950']",353.1,Debit,72239.62,False,False
+61,02/07,['Cheque Deposit'],4365.6,Credit,76605.22,False,False
+62,02/07,['Cheque Deposit'],18489.6,Credit,95094.82,False,False
+63,02/07,['Cheque Deposit'],4879.2,Credit,99974.02,False,False
+64,03/07,"['Cheque Withdrawal', '0984853']",611.19,Debit,99362.83,False,False
+65,04/07,['Cheque Deposit'],1797.6,Credit,101160.43,False,False
+66,04/07,['Cheque Deposit'],513.6,Credit,101674.03,False,False
+67,05/07,['Cheque Deposit'],1540.8,Credit,103214.83,False,False
+68,05/07,"['Funds Trf - GIRO', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALAS PASS']",2600.0,Debit,100614.83,False,False
+69,05/07,"['SVC Chg', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALAS PASS']",1.0,Debit,100613.83,False,False
+70,05/07,"['Cheque Withdrawal', '0984856']",1120.0,Debit,99493.83,False,False
+71,05/07,"['Cheque Withdrawal', '0984857']",3198.5,Debit,96295.33,False,False
+72,08/07,['Cash 0984855'],3300.0,Debit,92995.33,False,False
+73,08/07,['Cash 0984858'],3300.0,Debit,89695.33,False,False
+74,08/07,"['Cheque Withdrawal', '0984854']",970.0,Debit,88725.33,False,False
+75,09/07,['Cheque Deposit'],45196.8,Credit,133922.13,False,False
+76,09/07,['Cheque Deposit'],2182.8,Credit,136104.93,False,False
+77,09/07,['Cheque Deposit'],716.9,Credit,136821.83,False,False
+78,09/07,['Cheque Deposit'],9041.5,Credit,146762.13,False,True
+79,09/07,"['Cheque Withdrawal', '0984924']",299.6,Debit,146462.53,False,False
+80,11/07,['Cheque Deposit'],599.2,Credit,147061.73,False,False
+81,,['Cheque Deposit'],2321.9,Credit,149383.63,False,False
+82,,"['Cheque Withdrawal', '0984860']",1086.5,Debit,148297.13,False,False
+83,11/07,"['Cheque Withdrawal', '0984861']",500.76,Debit,147796.37,False,False
+84,14/07,"['Cheque Withdrawal', '0984862']",449.4,Debit,147346.97,False,False
+85,,"['Cheque Withdrawal', '0984863']",160.5,Debit,147186.47,False,False
+86,11/07,"['Cheque Withdrawal', '0984865']",118989.35,Debit,28197.12,False,False
+87,12/07,['Cheque Deposit'],13482.0,Credit,41679.12,False,False
+88,15/07,['Cheque Deposit'],17473.1,Credit,59152.22,False,False
+89,15/07,['Cheque Deposit'],107000.0,Credit,166152.22,False,False
+90,15/07,"['Inward DR - GIRO', 'GOLL 8933440102', 'SP SERVICES LTD', 'GIRO Collection 8933440102']",407.39,Debit,165744.83,False,False
+91,16/07,['Cheque Deposit'],7594.86,Credit,173339.69,False,False
+92,16/07,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BIZ']",3565.0,Debit,169774.69,False,False
+93,16/07,"['Cheque Withdrawal', '0984859']",50.0,Debit,169724.69,False,False
+94,17/07,"['Inward DR - GIRO', 'COLL 3261514', 'GPF', 'BFWL']",1644.6,Debit,168080.09,False,False
+95,17/07,"['Cheque Withdrawal', '0984872']",9868.61,Debit,158211.48,False,False
+96,18/07,"['Cheque Withdrawal', '0984871']",107000.0,Debit,51211.48,False,False
+97,19/07,"['Inward DR - GIRO', 'COLL H050018415', 'SINGAPURA FINANCE', 'REPAYMENT']",2546.34,Debit,48665.14,False,False
+98,19/07,"['Inward DR - GIRO', 'COLL HO50018594', 'SINGAPURA FINANCE', 'REPAYMENT']",2160.0,Debit,46505.14,False,False
+99,20/07,['Cash 0984868'],3300.0,Debit,43205.14,False,False
+100,20/07,['Cash 0984874'],5250.0,Debit,37955.14,False,False
+101,20/07,['Cash 0984869'],5500.0,Debit,32455.14,False,False
+102,22/07,['Cheque Deposit'],2396.8,Credit,34851.94,False,False
+103,24/07,"['Inward DR - GIRO', 'COLL ND004704', 'URBAN REDEVELOPMENT', 'SP FEE XD6993P']",127.4,Debit,34724.54,False,False
+104,25/07,"['Cheque Withdrawal', '0984864']",1200.0,Debit,33524.54,False,False
+105,26/07,['Cheque Deposit'],7911.31,Credit,41435.85,False,False
+106,26/07,"['Cheque Withdrawal', '0984873']",20.0,Debit,41415.85,False,False
+107,29/07,"['Inward DR - GIRO', 'COLL 16720116928', 'JURONG-CLEMENTI TOWN', '16720116928']",151.41,Debit,41264.44,False,False
+108,29/07,"['Inward DR - GIRO', 'COLL 16720116928', 'HDB', 'HDB-Instal/Rent 16720116928']",2675.0,Debit,38589.44,False,False
+109,29/07,"['Cheque Withdrawal', '0984875']",642.0,Debit,37947.44,False,False
+110,29/07,"['Cheque Withdrawal', '0984885']",1617.0,Debit,36330.44,False,False
+111,30/07,['Cheque Deposit'],5874.3,Credit,42204.74,False,False
+112,,['Total Withdrawals'],,,292718.65,False,False
+113,,['Total Deposits'],,,280672.81,False,False
+114,,['Total'],,,42204.74,False,False
+115,,['BALANCE B/F'],,,38538.36,False,False
+116,04/06,['Cheque Deposit'],15022.8,Credit,53561.16,False,False
+117,04/06,['Cheque Deposit'],1027.2,Credit,54588.36,False,False
+118,06/06,['Cheque Deposit'],353.1,Credit,54941.46,False,False
+119,06/06,['Cheque Deposit'],980.98,Credit,55922.44,False,False
+120,06/06,"['Funds Trf - GIRO', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALA S PASS']",2600.0,Debit,53322.44,False,False
+121,06/06,"['SVC Chg', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALAS PASS']",1.0,Debit,53321.44,False,False
+122,06/06,"['Cheque Withdrawal', '0984931']",3198.5,Debit,50122.94,False,False
+123,06/06,"['Cheque Withdrawal', '0984932']",1120.0,Debit,49002.94,False,False
+124,07/06,"['Cheque Withdrawal', '0984929']",5350.0,Debit,43652.94,False,False
+125,10/06,['Cheque Deposit'],26429.0,Credit,70081.94,False,False
+126,10/06,['Cheque Deposit'],58914.2,Credit,128996.14,False,False
+127,10/06,['Cheque Deposit'],5906.4,Credit,134902.54,False,False
+128,10/06,"['Cheque Withdrawal', '0984933']",577.8,Debit,134324.74,False,False
+129,10/06,"['Cheque Withdrawal', '0984935']",970.0,Debit,133354.74,False,False
+130,11/06,"['Cheque Withdrawal', '0984934']",1827.97,Debit,131526.77,False,False
+131,12/06,"['Inward DR - GIRO', 'COLL 8933440102', 'SP SERVICES LTD', 'GIRO Collection 8933440102']",346.88,Debit,131179.89,False,False
+132,13/06,['Cheque Deposit'],3081.6,Credit,134261.49,False,False
+133,13/06,"['Cheque Withdrawal', '0984936']",54265.05,Debit,79996.44,False,False
+134,14/06,"['Cheque Withdrawal', '0984930']",555.0,Debit,79441.44,False,False
+135,17/06,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BFWL']",3094.56,Debit,76346.88,False,False
+136,21/06,"['Inward DR - GIRO', 'COLL H050018415', 'SINGAPURA FINANCE', 'REPAYMENT']",2546.34,Debit,70210.54,False,True
+137,21/06,"['Inward DR - GIRO', 'COLL HO50018594', 'SINGAPURA FINANCE', 'REPAYMENT']",2160.0,Debit,68050.54,False,False
+138,21/06,"['Cheque Withdrawal', '0984945']",7318.8,Debit,60731.74,False,False
+139,21/06,"['Cheque Withdrawal', '0984946']",5000.0,Debit,55731.74,False,False
+140,24/06,"['Cheque Deposit', 'COLL ND004704', 'URBAN REDEVELOPMENT', 'SP FEE XD6993P']",3081.6,Credit,58813.34,False,False
+141,24/06,"['Cheque Withdrawal', '0984937']",1423.1,Debit,57262.84,False,True
+142,24/06,"['Cheque Withdrawal', '0984938']",278.2,Debit,56984.64,False,False
+143,24/06,"['Cheque Withdrawal', '0984940']",239.03,Debit,56745.61,False,False
+144,24/06,"['Cheque Withdrawal', '0984947']",26012.74,Debit,30732.87,False,False
+145,25/06,"['Cheque Withdrawal', '0984939']",353.12,Debit,30379.75,False,False
+146,25/06,"['Cheque Withdrawa!', '0984941']",546.81,Debit,29832.94,False,False
+147,25/06,"['Cheque Withdrawal', '0984942']",342.4,Debit,29490.54,False,False
+148,25/06,"['Cheque Withdrawal', '0984944']",776.82,Debit,28713.72,False,False
+149,26/06,"['Cheque Deposit', '0984943']",513.6,Credit,29227.32,False,False
+150,26/06,"['Cheque Withdrawal', '0984948']",1000.0,Credit,34873.09,False,True
+151,26/06,"['Cheque Withdrawal', '0984949']",1617.0,Debit,33256.09,False,False
+152,27/06,"['Returned Cheque', 'UOB 263351']",513.6,Debit,32742.49,False,False
+153,27/06,"['Inward CR - GIRO', 'OTHR Other', 'CHINA JINGYE CONSTRU', 'SGIG190621646589']",21894.9,Credit,54637.39,False,False
+154,28/06,['Cheque Deposit'],2439.6,Credit,57076.99,False,False
+155,28/06,"['Inward DR - GIRO', 'COLL 16720116928', 'JURONG-GLEMENTI TOWN', '16720116928']",151.41,Debit,56925.58,False,False
+156,28/06,"['Inward DR - GIRO', 'COLL 16720116928', 'HDB', 'HDB-Instal/Rent 16720116928', 'ooo', '585 5 8']",2675.0,Debit,54250.58,False,False
+157,,['Total Withdrawals'],,,131417.41,False,False
+158,,['Total Deposits'],,,147129.63,False,False
+159,,['Total'],,,54250.58,False,False
+160,,['BALANCE B/F'],,,33760.79,False,False
+161,02/05,['Cheque Deposit'],16050.0,Credit,49810.79,False,False
+162,02/05,['Cheque Deposit'],1155.6,Credit,50966.39,False,False
+163,02/05,"['Cheque Withdrawal', '0984846']",9537.67,Debit,41428.72,False,False
+164,03/05,['Cheque Deposit'],3595.2,Credit,45023.92,False,False
+165,06/05,['Cheque Deposit'],642.0,Credit,45665.92,False,False
+166,06/05,['Cheque Deposit'],60873.5,Credit,106539.42,False,False
+167,06/05,"['Funds Trf - GIRO', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALAS PASS']",2600.0,Debit,103939.42,False,False
+168,06/05,"['SVC Chg', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALA S PASS']",1.0,Debit,103938.42,False,False
+169,06/05,"['Cheque Withdrawal', '0984850']",3198.5,Debit,100739.92,False,False
+170,06/05,"['Cheque Withdrawal', '0984901', '0984902']",1120.0,Debit,99619.92,False,False
+171,07/05,['Cheque Deposit'],1572.9,Debit,97194.82,False,True
+172,07/05,"['inward DR - GIRO', 'OTHR 200409222R', 'LTA', 'LTAXD6993P']",284.0,Debit,96910.82,False,False
+173,07/05,"['Cheque Withdrawal', '0984848']",5350.0,Debit,91560.82,False,False
+174,08/05,['Cheque Deposit'],13845.8,Credit,105406.62,False,False
+175,09/05,"['Cheque Withdrawal', '0984904']",1758.0,Debit,103648.62,False,False
+176,09/05,"['Cheque Withdrawal', '0984907']",239.18,Debit,103409.44,False,False
+177,09/05,"['Cheque Withdrawal', '0984910']",858.14,Debit,102551.3,False,False
+178,09/05,"['Cheque Withdrawal', '0984911', '0984912']",618.25,Debit,101933.05,False,False
+179,09/05,"['Cheque Withdrawal', '0984914']",13970.32,Debit,82353.25,False,True
+180,10/05,"['Cheque Withdrawal', '0984905']",4119.5,Debit,81636.35,False,True
+181,10/05,"['Cheque Withdrawal', '0984908']",637.72,Debit,80998.63,False,False
+182,10/05,"['Cheque Withdrawal', '0984909']",100.75,Debit,80897.88,False,False
+183,13/05,"['Cheque Withdrawal', '0984913']",1418.39,Debit,79479.49,False,False
+184,14/05,"['Cheque Withdrawal', '0984922']",6650.0,Debit,72829.49,False,False
+185,15/05,"['Cheque Withdrawal', '0984906']",363.8,Debit,72465.69,False,False
+186,15/05,"['Cheque Withdrawal', '0984919']",970.0,Debit,71495.69,False,False
+187,15/05,"['Cheque Withdrawal', '0984920']",12876.42,Debit,58619.27,False,False
+188,16/05,"['Inward DR - GIRO', 'COLL 3261514', 'OPF', 'BIZ']",3571.0,Debit,55048.27,False,False
+189,16/05,"['Cheque Withdrawal', '0984916']",260.49,Debit,54787.78,False,False
+190,17/05,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BFWL']",3150.0,Debit,51637.78,False,False
+191,17/05,"['Cheque Withdrawal', '0984849']",120.0,Debit,51517.78,False,False
+192,21/05,"['Cash 0984923', 'COLL 8933440102', 'SP SERVICES LTD', 'GIRO Collection 8933440102']",10000.0,Debit,41517.78,False,False
+193,21/05,"['Inward DR - GIRO', 'COLL HO50018415', 'SINGAPURA FINANCE', 'REPAYMENT']",2546.34,Debit,38593.94,False,True
+194,21/05,"['Inward DR - GIRO', 'COLL HO50018594', 'SINGAPURA FINANCE', 'REPAYMENT']",2160.0,Debit,36433.94,False,False
+195,21/05,"['Cheque Withdrawal', '0984918']",909.5,Debit,35524.44,False,False
+196,22/05,['Cheque Deposit'],353.1,Credit,35877.54,False,False
+197,23/05,['Cheque Deposit'],1205.89,Credit,37083.43,False,False
+198,23/05,"['Cheque Withdrawal', '0984915']",567.24,Debit,36516.19,False,False
+199,23/05,"['Cheque Withdrawal', '0984925']",385.2,Debit,36130.99,False,False
+200,24/05,['Cheque Deposit'],1444.5,Credit,37575.49,False,False
+201,24/05,"['Inward DR - GIRO', 'COLL ND004704', 'URBAN REDEVELOPMENT', 'SP FEE XD6993P']",127.4,Debit,37448.09,False,False
+202,24/05,"['Cheque Withdrawal', '0984926']",1617.0,Debit,35831.09,False,False
+203,27/05,['Cash 0984927'],3998.0,Debit,31833.09,False,False
+204,27/05,"['Inward CR - GIRO', 'OTHR Other', 'CHINA JINGYE ENGINEE', '$GIG190523477848']",16586.04,Credit,48419.13,False,False
+205,28/05,"['Inward DR - GIRO', 'COLL C16720116928', 'JURONG-CLEMENT! TOWN', '16720116928']",151.41,Debit,48267.72,False,False
+206,28/05,"['tnward DR - GIRO', 'COLL 16720116928', 'HDB', 'HDB-Instal/Rent 16720116928']",2675.0,Debit,45592.72,False,False
+207,29/05,"['Cheque Withdrawal', '0984917']",3454.36,Debit,42138.36,False,False
+208,30/05,"['Cheque Withdrawal', '0984928', 'TT']",3600.0,Debit,38538.36,False,False
+209,,['Total Withdrawals'],,,116784.16,False,False
+210,,['Total Deposits'],,,121561.73,False,False
+211,,['Total'],,,368538.36,False,False
+212,,['BALANCE B/F'],,,6997.92,False,False
+213,01/04,['Cheque Deposit'],6933.6,Credit,13931.52,False,False
+214,01/04,['Cheque Deposit'],10143.6,Credit,24075.12,False,False
+215,01/04,['Cheque Deposit'],80.25,Credit,24155.37,False,False
+216,01/04,['Cheque Deposit'],10015.2,Credit,34170.57,False,False
+217,01/04,['Cheque Deposit'],171.2,Credit,34341.77,False,False
+218,01/04,['Cheque Deposit'],6291.6,Credit,40633.37,False,False
+219,02/04,['Cheque Deposit'],25936.8,Credit,66570.17,False,False
+220,02/04,['Cash 0984812'],28280.0,Debit,38290.17,False,False
+221,02/04,"['Cheque Withdrawal', '0984811']",1634.0,Debit,36656.17,False,False
+222,03/04,['Cheque Deposit'],14124.0,Credit,50780.17,False,False
+223,03/04,"['Cheque Withdrawal', '0984809']",2200.0,Debit,48580.17,False,False
+224,04/04,"['Cheque Withdrawal', '0984813']",5350.0,Debit,43230.17,False,False
+225,05/04,['Cheque Deposit'],5050.4,Credit,48280.57,False,False
+226,05/04,"['Funds Trf - GIRO', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALA S PASS']",2600.0,Debit,45680.57,False,False
+227,05/04,"['SVC Chg', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALAS PASS']",1.0,Debit,45679.57,False,False
+228,08/04,['Cheque Deposit'],21560.5,Credit,67240.07,False,False
+229,08/04,['Cheque Deposit'],2182.8,Credit,69422.87,False,False
+230,08/04,['Cheque Deposit'],1605.0,Credit,71027.87,False,False
+231,08/04,['Cheque Deposit'],192.6,Credit,71220.47,False,False
+232,08/04,['Cheque Deposit'],69019.24,Credit,140239.71,False,False
+233,08/04,"['Cheque Withdrawal', '0984815']",3198.5,Debit,137041.21,False,False
+234,08/04,"['Cheque Withdrawal', '0984817']",1120.0,Debit,135921.21,False,False
+235,09/04,['Cash 0984833'],28000.0,Debit,107921.21,False,False
+236,09/04,"['Cheque Withdrawal', '0984816']",970.0,Debit,106951.21,False,False
+237,10/04,['Cheque Deposit'],16948.8,Credit,123900.01,False,False
+238,10/04,"['Cheque Withdrawal', '0984814']",1412.4,Debit,122487.61,False,False
+239,10/04,"['Cheque Withdrawal', '0984829']",19800.0,Debit,102687.61,False,False
+240,11/04,['Cheque Deposit'],62215.15,Credit,164902.76,False,False
+241,11/04,"['Inward DR - GIRO', 'COLL NDO04704', 'URBAN REDEVELOPMENT', 'VPC FEE XD6993P']",6.0,Debit,164896.76,False,False
+242,,"['Cheque Withdrawal', '0984821']",1119.22,Debit,163777.54,False,False
+243,11/04,"['Cheque Withdrawal', '0984822']",299.6,Debit,163477.94,False,False
+244,11/04,"['Cheque Withdrawal', '0984832']",5350.0,Debit,158127.94,False,False
+245,11/04,"['Cheque Withdrawal', '0984835']",350.0,Debit,157777.94,False,False
+246,12/04,['Cheque Deposit'],2354.31,Credit,160132.25,False,False
+247,12/04,['Cash 0984836'],7000.0,Debit,153132.25,False,False
+248,12/04,['Cheque Deposit'],3595.2,Credit,156727.45,False,False
+249,12/04,"['Cheque Withdrawal', '0984818']",1077.81,Debit,155649.64,False,False
+250,12/04,"['Cheque Withdrawal', '0984819']",6589.11,Debit,149060.53,False,False
+251,12/04,"['Cheque Withdrawal', '0984824']",3270.13,Debit,145790.4,False,False
+252,12/04,"['Cheque Withdrawal', '0984826']",671.69,Debit,145118.71,False,False
+253,12/04,"['Cheque Withdrawal', '0984827']",67.41,Debit,145051.3,False,False
+254,12/04,"['Cheque Withdrawal', '0984830']",5871.63,Debit,139179.67,False,False
+255,15/04,['Cash 0984838'],35420.0,Debit,103759.67,False,False
+256,15/04,"['Misc Debit', '1368207506-00000', 'Trf. Wd. Loans']",2354.31,Debit,101405.36,False,False
+257,15/04,"['Cheque Withdrawal', '0984823']",518.95,Debit,100886.41,False,False
+258,15/04,"['Cheque Withdrawal', '0984828']",564.96,Debit,100321.45,False,False
+259,16/04,['Cheque Deposit'],14766.0,Credit,115087.45,False,False
+260,16/04,"['Inward CR - GIRO', 'OTHR Other', 'CHINA JINGYE CONSTRU', '$GIG190411027427']",256.8,Credit,115344.25,False,False
+261,16/04,"['tnward DR - GIRO', 'GOLL 8933440102', 'SP SERVICES LTD', '2501722313 8933440102']",342.8,Debit,115001.45,False,False
+262,16/04,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BIZ']",3569.0,Debit,111432.45,False,False
+263,16/04,"['Cheque Withdrawal', '0984837']",889.96,Debit,110542.49,False,False
+264,17/04,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BFWL']",3150.0,Debit,107392.49,False,False
+265,18/04,['Cash 0984843'],18340.0,Debit,89052.49,False,False
+266,18/04,['Cheque Deposit'],107.0,Credit,89159.49,False,False
+267,18/04,['Cheque Deposit'],10143.6,Credit,99303.09,False,False
+268,18/04,"['Inward DR - GIRO', 'COLL H050018415', 'SINGAPURA FINANCE', 'REPAYMENT']",2546.34,Debit,96756.75,False,False
+269,18/04,"['Inward DR - GIRO', 'COLL H050018594', 'SINGAPURA FINANCE', 'REPAYMENT']",2160.0,Debit,94596.75,False,False
+270,18/04,"['Cheque Withdrawal', '0984840']",4633.1,Debit,89963.65,False,False
+271,22/04,"['Cheque Withdrawal', '0984839']",10111.5,Debit,79852.15,False,False
+272,23/04,['Cheque Deposit'],3466.8,Credit,83318.95,False,False
+273,23/04,['Cheque Deposit'],1976.83,Credit,85295.78,False,False
+274,24/04,['Cheque Deposit'],13738.8,Credit,99034.58,False,False
+275,24/04,['Cheque Deposit'],8217.6,Credit,107252.18,False,False
+276,24/04,['Cheque Deposit'],374.5,Credit,107626.68,False,False
+277,24/04,['Cheque Deposit'],2439.6,Credit,110066.28,False,False
+278,24/04,"['inward DR - GIRO', 'COLL ND004704', 'URBAN REDEVELOPMENT', 'SP FEE XD6993P']",127.4,Debit,109938.88,False,False
+279,24/04,"['Cheque Withdrawal', '0984842']",375.0,Debit,109563.88,False,False
+280,25/04,['Cheque Deposit'],1540.8,Credit,111104.68,False,False
+281,25/04,"['Cheque Withdrawal', '0984831']",5510.5,Debit,105594.18,False,False
+282,26/04,['Cheque Deposit'],11684.4,Credit,117278.58,False,False
+283,26/04,['Cheque Deposit'],3595.2,Credit,120873.78,False,False
+284,26/04,['Cheque Deposit'],8217.6,Credit,129091.38,False,False
+285,29/04,['Cheque Deposit'],1027.2,Credit,130118.58,False,False
+286,29/04,"['Inward DR - GIRO', 'GOLL 616720116928', 'JURONG-CLEMENTI TOWN', '616720116928']",151.41,Debit,129967.17,False,False
+287,29/04,"['Inward DR - GIRO', 'COLL 16720116928', 'HDB', 'HDB-Instal/Rent 16720116928']",2675.0,Debit,127292.17,False,False
+288,29/04,"['Cheque Withdrawal', '0984845']",1617.0,Debit,125675.17,False,False
+289,29/04,"['Cheque Withdrawal', '0984847']",91912.88,Debit,33762.29,False,False
+290,30/04,['Cheque Charges'],1.5,Debit,33760.79,False,False
+291,,['Total Withdrawals'],,,313210.11,False,False
+292,,['Total Deposits'],,,339972.98,False,False
+293,,['Total'],,,33760.79,False,False
+294,,['BALANCE B/F'],,,85090.19,False,False
+295,01/03,['Cheque Deposit'],2325.7,Credit,87415.89,False,False
+296,01/03,"['Cheque Withdrawal', '0984771']",888.1,Debit,86527.79,False,False
+297,05/03,['Cheque Deposit'],243.43,Credit,86771.22,False,False
+298,05/03,['Cheque Deposit'],1872.5,Credit,88643.72,False,False
+299,05/03,['Cheque Deposit'],1540.8,Credit,90184.52,False,False
+300,05/03,['Cash 0984785'],21000.0,Debit,69184.52,False,False
+301,05/03,"['Funds Trf - GIRO', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALA S PASS']",2600.0,Debit,66584.52,False,False
+302,05/03,"['sVC Chg', 'PM18080700322239', 'MR SUBBIAH NAVANEET', 'SALA S PASS']",1.0,Debit,66583.52,False,False
+303,05/03,"['Cheque Withdrawal', '0984782']",1120.0,Debit,65463.52,False,False
+304,05/03,"['Cheque Withdrawal', '0984783']",3198.5,Debit,62265.02,False,False
+305,06/03,"['Inward CR - GIRO', 'OTHR Other', 'MOM', 'SEC 200409222R-PTE-01 19021']",990.0,Credit,63255.02,False,False
+306,06/03,"['Cheque Withdrawal', '0984784']",299.6,Debit,62955.42,False,False
+307,08/03,['Cash 0984788'],14000.0,Debit,48955.42,False,False
+308,08/03,"['Cheque Withdrawal', '0984773']",627.41,Debit,48328.01,False,False
+309,08/03,"['Cheque Withdrawal', '0984787']",5350.0,Debit,42978.01,False,False
+310,11/03,"['Cheque Withdrawal', '0984786']",524.3,Debit,42453.71,False,False
+311,12/03,"['Cheque Withdrawal', '0984789']",1540.8,Debit,40912.91,False,False
+312,12/03,"['Cheque Withdrawal', '0984790']",970.0,Debit,39942.91,False,False
+313,14/03,['Cash Deposit-CDM'],10000.0,Credit,49942.91,False,False
+314,14/03,['Cash Deposit-CDM'],10000.0,Credit,59942.91,False,False
+315,14/03,['Cash Deposit-CDM'],3000.0,Credit,62942.91,False,False
+316,14/03,['Cash 0984793'],28000.0,Debit,34942.91,False,False
+317,14/03,['Cheque Deposit'],374.5,Credit,35317.41,False,False
+318,14/03,['Cheque Deposit'],10914.0,Credit,46231.41,False,False
+319,14/03,"['Misc Debit', '1368207506-00000', 'Trf. Wd. Loans']",2325.7,Debit,43905.71,False,False
+320,15/03,['Cash'],18000.0,Credit,61905.71,False,False
+321,15/03,"['Cheque Withdrawal', '0984791']",10700.0,Debit,51205.71,False,False
+322,15/03,"['Cheque Withdrawal', '0984795']",2190.0,Debit,49015.71,False,False
+323,18/03,['Cheque Deposit'],1123.5,Credit,50139.21,False,False
+324,18/03,['Cheque Deposit'],7704.0,Credit,57843.21,False,False
+325,18/03,"['Inward DR - GIRO', 'COLL 8933440102', 'SP SERVICES LTD', '2401716622 8933440102']",365.6,Debit,57477.61,False,False
+326,18/03,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BFWL']",3150.0,Debit,54327.61,False,False
+327,18/03,"['Inward DR - GIRO', 'COLL 3261514', 'CPF', 'BIZ']",3562.0,Debit,50765.61,False,False
+328,18/03,"['Cheque Withdrawal', '0984796']",2225.6,Debit,48540.01,False,False
+329,20/03,"['Inward CR - GIRO', 'SUPP SupplierPymt', ""PRINCE'S LANDSCAPE &"", '00001']",3370.5,Credit,51910.51,False,False
+330,20/03,"['Cheque Withdrawal', '0984797']",588.5,Debit,51322.01,False,False
+331,20/03,"['Cheque Withdrawal', '0984789']",5927.98,Debit,45394.03,False,False
+332,20/03,"['Cheque Withdrawal', '0984800']",235.51,Debit,45158.52,False,False
+333,20/03,"['Cheque Withdrawal', '0984804']",270.0,Debit,44888.52,False,False
+334,21/03,['Cash 0984805'],21350.0,Debit,23538.52,False,False
+335,21/03,"['Inward DR - GIRO', 'COLL H050018415', 'SINGAPURA FINANCE', 'REPAYMENT']",2546.34,Debit,20992.18,False,False
+336,21/03,"['Inward DR - GIRO', 'GOLL HO050018594', 'SINGAPURA FINANCE', 'REPAYMENT']",2160.0,Debit,18832.18,False,False
+337,21/03,"['Cheque Withdrawal', '0984801']",762.03,Debit,18070.15,False,False
+338,21/03,"['Cheque Withdrawal', '0984802']",99.3,Debit,17970.85,False,False
+339,21/03,"['Cheque Withdrawal', '0984803']",635.67,Debit,17335.18,False,False
+340,22/03,['Cheque Deposit'],4140.9,Credit,21476.08,False,False
+341,22/03,"['Cheque Withdrawal', '0984806']",10700.0,Debit,10776.08,False,False
+342,25/03,"['Inward DR - GIRO', 'COLL ND004704', 'URBAN REDEVELOPMENT', 'SP FEE XD6993P']",127.4,Debit,10648.68,False,False
+343,26/03,['Cheque Deposit'],12840.0,Credit,23488.68,False,False
+344,26/03,['Cash Deposit-CDM'],5000.0,Credit,28488.68,False,False
+345,27/03,['Cash Deposit-CDM'],4500.0,Credit,32988.68,False,False
+346,27/03,['Cash 0984810'],15990.0,Debit,16998.68,False,False
+347,27/03,['Cheque Deposit'],3819.9,Credit,20818.58,False,False
+348,27/03,"['Cheque Withdrawal', '0984798']",294.25,Debit,20524.33,False,False
+349,27/03,"['Cheque Withdrawal', '0984808']",10700.0,Debit,9824.33,False,False
+350,28/03,"['Inward DR - GIRO', 'COLL C16720116928', 'JURONG-CLEMENTI TOWN', '16720116928']",151.41,Debit,9672.92,False,False
+351,28/03,"['Inward DR - GIRO', 'COLL 16720116928', 'HDB', 'HDB-instal/Rent 16720116928', 'eee']",2675.0,Debit,6997.92,False,False
+352,,['Total Withdrawals'],,,179852.0,False,False
+353,,['Total Deposits'],,,101759.73,False,False
+354,,['Total'],,,6997.92,False,False

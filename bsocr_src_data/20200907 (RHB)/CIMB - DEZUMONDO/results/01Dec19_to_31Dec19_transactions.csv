@@ -1,0 +1,69 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Opening Balance'],,,7314.99,False,False
+1,31/12,"['I-FUNDS TR FROM SA', 'adeline', 'YEONG SIOK YIN']",123.8,Credit,9258.01,False,False
+2,31/12,"['I-FUNDS TR FROM SA', 'yanfei610', 'CHAN YAN FEI']",79.9,Credit,9134.21,False,False
+3,30/12,"['INSTANT TRANSFER', 'ig XueYingggggggg', 'WONG SHEK YEN']",50.9,Credit,9054.31,False,False
+4,30/12,"['I-FUNDS TR FROM SA', 'SUNIE A/P AH CHAI']",97.8,Credit,9003.41,False,False
+5,30/12,"['I-FUNDS TR FROM SA', 'Susan_foo99', 'FOO SIANG SIANG']",59.8,Credit,8905.61,False,False
+6,30/12,"['INSTANT TRANSFER', 'Wenyi', 'CHRISTIE TAN MUN YEE']",123.8,Credit,8845.81,False,False
+7,30/12,"['IBG CREDIT', 'BIGU BRA BLACK N RED', '988', 'BIGU BRA BLACK N RED', 'GEOW SIN NGOH']",40.0,Credit,8722.01,False,False
+8,29/12,"['INSTANT TRANSFER', 'Qianru Chow FB', 'CHOW CHINQ RU']",107.8,Credit,8682.01,False,False
+9,29/12,"['INSTANT TRANSFER', '00.nonamelol or michelle yap in fb', 'YAP CHE ENG']",139.7,Credit,8574.21,False,False
+10,29/12,"['I-FUNDS TR FROM SA', 'eugenia chung', 'EUGENIA CHUNG SUAN C']",119.8,Credit,8434.51,False,False
+11,29/12,"['INSTANT TRANSFER', 'Insta - 04_11111', 'LIN XIEN YE']",67.9,Credit,8314.71,False,False
+12,28/12,"['INSTANT TRANSFER', 'baobaokor ins', 'KOR POH CHET']",29.9,Credit,8246.81,False,False
+13,28/12,"['INSTANT TRANSFER', 'Myaeatlipstick', 'JOHN LEE KWOK TSEN']",158.6,Credit,8216.91,False,False
+14,26/12,"['INSTANT TRANSFER', 'insta name Tenshi', 'LEE YAH HUAY']",47.9,Credit,8058.31,False,False
+15,25/12,"['I-FUNDS TR FROM SA', 'Dezumondo Fashion s/', 'VOON AI HUI']",67.8,Credit,8010.41,False,False
+16,25/12,"['INSTANT TRANSFER', 'VivianQuek', 'VIVIAN QUEK QIU YI']",79.8,Credit,7942.61,False,False
+17,24/12,"['I-FUNDS TR FROM SA', 'ynnteoh', 'TEOH PEI YIN']",31.0,Credit,7862.81,False,False
+18,24/12,"['INSTANT TRANSFER', 'DezuMondo', 'CHUA CHAO EN']",103.8,Credit,7831.81,False,False
+19,23/12,"['INSTANT TRANSFER', 'Fund transfer', 'LAY CHAI CHING']",3720.0,Credit,7728.01,False,False
+20,23/12,"['INSTANT TRANSFER', 'jingyiii', 'WONG JING YI']",47.9,Credit,4008.01,False,False
+21,21/12,"['INSTANT TRANSFER', 'JESSICA CXY', 'JESSICA CHUA XUE YI']",51.9,Credit,3960.11,False,False
+22,19/12,"['INSTANT TRANSFER', 'GRACE TAN', 'TAN CHUNG RANG']",89.7,Credit,3908.21,False,False
+23,19/12,"['INSTANT TRANSFER', 'Fund transfer', 'TAN KAI WEN']",43.9,Credit,3818.51,False,False
+24,19/12,"['I-FUNDS TR FROM SA', 'eugenia chung', 'EUGENIA CHUNG SUAN C']",107.7,Credit,3774.61,False,False
+25,19/12,"['I-FUNDS TR FROM SA', 'anrou', 'ANGELINE GOH']",83.8,Credit,3666.91,False,False
+26,16/12,['CDM CASH DEPOSIT'],50.0,Credit,3583.11,False,False
+27,15/12,"['I-FUNDS TR FROM SA', 'yy_yennn', 'CHAN TENG YEN']",177.7,Credit,3533.11,False,False
+28,15/12,"['INSTANT TRANSFER', 'Gracemin_0107', 'TEI HUEY MIN']",105.8,Credit,3355.41,False,False
+29,15/12,"['INSTANT TRANSFER', 'Karmen', 'KARMEN LIM JIA WEN']",38.0,Credit,3249.61,False,False
+30,15/12,"['INSTANT TRANSFER', '3nicbarbara', 'LIM CHIEW LING']",97.8,Credit,3211.61,False,False
+31,14/12,"['INSTANT TRANSFER', 'JESSICA CXY', 'JESSICA CHUA XUE YI']",79.9,Credit,3113.81,False,False
+32,14/12,"['I-FUNDS TR FROM SA', 'shiyun', 'LIM SHI YUN']",37.9,Credit,3033.91,False,False
+33,14/12,"['I-FUNDS TR FROM SA', 'anrou', 'ANGELINE GOH']",43.9,Credit,2996.01,False,False
+34,14/12,"['INSTANT TRANSFER', 'aileeeelia', 'SEE AI LEE']",29.9,Credit,2952.11,False,False
+35,13/12,"['INSTANT TRANSFER', 'Tpl611', 'TAN POAY LING']",67.9,Credit,2922.21,False,False
+36,13/12,"['INSTANT TRANSFER', 'aileeeelia', 'SEE AI LEE']",69.9,Credit,2854.31,False,False
+37,12/12,"['IBG CREDIT', 'ZHOUXIANTEE', '487', 'ZHOUXIANTEE', 'TEE ZHOU XIAN']",87.9,Credit,2784.41,False,False
+38,12/12,"['INSTANT TRANSFER', 'aileeeelia', 'SEE AI LEE']",89.8,Credit,2696.51,False,False
+39,12/12,"['INSTANT TRANSFER', 'Gracemin_0107', 'TEI HUEY MIN']",43.9,Credit,2606.71,False,False
+40,12/12,"['INSTANT TRANSFER', 'shiying_grace', 'LOO SHI YING']",87.8,Credit,2562.81,False,False
+41,11/12,"['INSTANT TRANSFER', 'aileeeelia', 'SEE AI LEE']",89.8,Credit,2475.01,False,False
+42,11/12,"['I-FUNDS TR FROM SA', 'Jesslynyonggg shirt', 'JESSLYN YONG ZHI CHY']",97.8,Credit,2385.21,False,False
+43,09/12,['CHQ PROCESSING FEE'],0.5,Debit,2287.41,False,False
+44,09/12,['CLRG CHQ DR'],2044.48,Debit,2287.91,False,False
+45,09/12,"['INSTANT TRANSFER', 'NOV ONLINE SALES', 'SIM YI LEEN']",2239.95,Credit,4332.39,False,False
+46,09/12,"['ATM MEPS IBFT FROM OFI', '5 dec online', 'SIM YI LEEN']",415.7,Credit,2092.44,False,False
+47,09/12,"['ATM MEPS IBFT FROM OFI', '8 nov online', 'SIM YI LEEN']",528.7,Credit,1676.74,False,False
+48,08/12,"['I-FUNDS TR FROM SA', 'shopping', 'OOI CHEN QI']",48.0,Credit,1148.04,False,False
+49,06/12,"['INSTANT TRANSFER', 'JESSICA CXY', 'JESSICA CHUA XUE YI']",99.7,Credit,1100.04,False,False
+50,06/12,"['INSTANT TRANSFER', 'pymt for clothing', 'THEN PEI NYUK']",54.9,Credit,1000.34,False,False
+51,06/12,"['INSTANT TRANSFER', 'Insta Cynthia', 'KEOK LEE FEN']",67.8,Credit,945.44,False,False
+52,06/12,"['INSTANT TRANSFER', 'Huetin', 'TAN TECK FATT/WONG H']",77.8,Credit,877.64,False,False
+53,05/12,"['INSTANT TRANSFER', 'aileeeelia', 'SEE AI LEE']",209.6,Credit,799.84,False,False
+54,05/12,"['I-FUNDS TR FROM SA', 'yapjane1026', 'YAP SIEW YONG']",87.9,Credit,590.24,False,False
+55,05/12,"['INSTANT TRANSFER', 'Fund transfer', 'CHEOK YONG LIN']",157.7,Credit,502.34,False,False
+56,05/12,"['INSTANT TRANSFER', 'Hue tin', 'TAN TECK FATT/WONG H']",49.9,Credit,344.64,False,False
+57,05/12,"['I-FUNDS TR FROM SA', 'joeyy_loh (IG)', 'LOH JOEY']",57.9,Credit,294.74,False,False
+58,03/12,"['I-FUNDS TR FROM SA', 'top', 'TAN SZU KIE']",48.0,Credit,236.84,False,False
+59,02/12,['CHQ PROCESSING FEE'],0.5,Debit,188.84,False,False
+60,02/12,['CLRG CHQ DR'],12000.0,Debit,189.34,False,False
+61,02/12,"['ATM MEPS IBFT FROM OFI', 'to company Cimb acc', 'DEZUMONDO FASHION SD']",3500.0,Credit,12189.34,False,False
+62,02/12,"['ATM MEPS IBFT FROM OFI', '30 online', 'SIM YI LEEN']",600.0,Credit,8689.34,False,False
+63,02/12,"['ATM MEPS IBFT FROM OFI', '29 online', 'SIM YI LEEN']",650.65,Credit,8089.34,False,False
+64,01/12,"['ATM MEPS IBFT FROM OFI', 'shiying_grace', 'LOO SHI YING']",123.7,Credit,7438.69,False,False
+65,,['CLOSING BALANCE'],,,9258.01,False,False
+66,,['Total Withdrawal'],,,14045.48,False,False
+67,,['Total Deposits'],,,15988.5,False,False

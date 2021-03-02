@@ -1,0 +1,100 @@
+,transactionDate,transactionDescriptions,transactionAmount,transactionType,transactionBalance,inDebt,transactionError
+0,,['Balance from previous statement'],,,18363.26,False,False
+1,01/05,['Cheque Processing Fee'],3.0,Debit,18360.26,False,False
+2,01/05,"['Instant Transfer at KLM', 'shuwukong', 'LEE KAR YENG', '20200501PBBEMYKL010ORB21444299']",307.7,Credit,18667.96,False,False
+3,03/05,"['Instant Transfer at KLM', 'WILSON', 'KENT NANYANG EXPERTI', 'TAN KIAN HIN', '20200503MBBEMYKL010ORB04087099']",360.0,Credit,19027.96,False,False
+4,04/05,['Serv Charge-IBG/TT/Rentas/Misc at KLM'],0.1,Debit,19027.86,False,False
+5,04/05,"['CIB IBG CA Debit Advice at KLM', 'INV5789', 'SENDO ICHI INV5789', 'SENDO ICHI', 'IBGCMPPBBB2005040000743']",202.5,Debit,18825.36,False,False
+6,04/05,"['Fund Transfer at DIO', 'G DAILY SUPPLY S/B', 'GOOD DAILY MAR & APR', 'GOOD DAILY FOOD SDN BHD']",6600.0,Debit,12225.36,False,False
+7,04/05,"['008625', 'Inclearing-Cheque']",1045.0,Debit,11180.36,False,False
+8,04/05,"['Fund Trf fr CA to CA-Internet', 'Fund transfer', 'ANDY LEE', 'LEE KANG LING']",306.3,Credit,11486.66,False,False
+9,05/05,['Cheque Processing Fee'],0.5,Debit,11486.16,False,False
+10,05/05,"['Instant Transfer at KLM', 'SEAFOOD', 'BIGPOST ONLINE SDN. BHD.', '20200505MBBEMYKL010ORB07290798']",155.0,Credit,11641.16,False,False
+11,06/05,"['007483', 'Inclearing-Cheque']",700.0,Debit,10941.16,False,False
+12,07/05,['Cheque Processing Fee'],0.5,Debit,10940.66,False,False
+13,07/05,"['Fund Transfer at DIO', 'inv2000615 609', 'SAMONYU SDN BHD']",57213.33,Credit,68153.99,False,False
+14,10/05,"['CIB Instant Transfer at DIO', 'SALARY APR KOH HUI SHAN', 'SALARY APR', 'KOH HUI SHAN', '20200510HLBBMYKL010OCB24827170']",13322.35,Debit,54831.64,False,False
+15,12/05,"['008627', 'House Cheque Debit (RPC) at SEL']",486.0,Debit,54345.64,False,False
+16,12/05,"['008628', 'House Cheque Debit (RPC) at SEL']",405.0,Debit,53940.64,False,False
+17,12/05,"['008629', 'Inclearing-Cheque']",400.0,Debit,53540.64,False,False
+18,12/05,"['Cr Adv-Interbank GIRO at KLM', 'BEBK050840656227', 'CHOW YIN MEI']",191.0,Credit,53731.64,False,False
+19,12/05,"['Cr Adv-Interbank GIRO at KLM', 'IV-20-00543', 'WONDERFUL AQUATIC', 'WONDERFUL AQUATIC SD']",2422.5,Credit,56154.14,False,False
+20,12/05,"['225739', 'Local Cheque (RPC) at TSG']",2643.82,Credit,58797.96,False,False
+21,13/05,['Cheque Processing Fee'],1.5,Debit,58796.46,False,False
+22,13/05,"['008606', 'Inclearing-Cheque']",490.0,Debit,58306.46,False,False
+23,13/05,"['008630', 'House Cheque Debit (RPC)']",7079.85,Debit,51226.61,False,False
+24,13/05,"['678673', 'Local Cheque (RPC) at JKL']",4657.09,Credit,55883.7,False,False
+25,14/05,['Cheque Processing Fee'],1.0,Debit,55882.7,False,False
+26,14/05,"['CIB Instant Transfer at DIO', 'HS', 'ALEX CHONG', 'CHONG DAN FUNG', '20200514HLBBMYKL010OCB27214972']",30000.0,Debit,25882.7,False,False
+27,14/05,"['007485', 'Inclearing-Cheque']",438.31,Debit,25444.39,False,False
+28,14/05,"['Fund Trf fr CA to CA-Internet', 'Fund transfer', 'HOOI WEAN YEE']",240.0,Credit,25684.39,False,False
+29,14/05,"['Instant Transfer at KLM', 'ALEX CHONG TQ1', 'CHONG DAN FUNG', '20200514MBBEMYKL010ORB03483828']",10000.0,Credit,35684.39,False,False
+30,14/05,"['Instant Transfer at KLM', 'ALEX CHONG TQ2', 'CHONG DAN FUNG', '20200514MBBEMYKL010ORB03496371']",20000.0,Credit,55684.39,False,False
+31,14/05,"['647615', 'Local Cheque (RPC)']",9076.31,Credit,64760.7,False,False
+32,15/05,['Cheque Processing Fee'],0.5,Debit,64760.2,False,False
+33,15/05,"['CIB Instant Transfer at DIO', '1001-05-2020', 'ASIA MOMENTUM MEDIA', 'SNIMAC MEDIA (M) SDN. BH', '20200515HLBBMYKL010OCB28362599']",29772.0,Debit,34988.2,False,False
+34,15/05,"['007480', 'Inclearing-Cheque']",9590.0,Debit,25398.2,False,False
+35,15/05,"['008626', 'Inclearing-Cheque']",4200.0,Debit,21198.2,False,False
+36,15/05,"['008631', 'Inclearing-Cheque']",8096.3,Debit,13101.9,False,False
+37,15/05,"['008634', 'Inclearing-Cheque']",820.0,Debit,12281.9,False,False
+38,15/05,"['Instant Transfer at KLM', 'BIGPOST ONLINE SDN. BHD.', '20200515MBBEMYKL010ORB04932635']",306.0,Credit,12587.9,False,False
+39,15/05,"['Cr Adv-Interbank GIRO at KLM', 'DO-20-00680', 'GREENING LIFE GLOBAL SDN. BHD.']",700.0,Credit,13287.9,False,False
+40,15/05,"['Cr Adv-Interbank GIRO at KLM', 'IV-20-00469', 'PRIVATE TRANSACTION', 'ABC FROZEN TRADING SDN.BH']",7845.0,Credit,21132.9,False,False
+41,15/05,"['771433', 'Local Cheque (RPC) at PNT']",539.84,Credit,21672.74,False,False
+42,16/05,['Cheque Processing Fee'],2.0,Debit,21670.74,False,False
+43,18/05,"['008635', 'Inclearing-Cheque']",1170.0,Debit,20500.74,False,False
+44,18/05,"['008636', 'Inclearing-Cheque']",18443.23,Debit,2057.51,False,False
+45,18/05,"['Cr Adv-Interbank GIRO at KLM', 'PLOY PYMT FOR FEB 20', 'PLOY SDN. BHD.']",1042.23,Credit,3099.74,False,False
+46,19/05,['Cheque Processing Fee'],1.0,Debit,3098.74,False,False
+47,19/05,"['008638', 'House Cheque Debit (RPC) at KEP']",980.0,Debit,2118.74,False,False
+48,19/05,"['008639', 'Inclearing-Cheque']",441.0,Debit,1677.74,False,False
+49,19/05,"['008640', 'Inclearing-Cheque']",6197.52,Debit,4519.78,True,False
+50,19/05,"['Cr Adv-Interbank GIRO at KLM', 'SMOKE DUCK', 'SDUCK 10CTN', 'YAP FUI PING']",300.0,Credit,4219.78,True,False
+51,19/05,"['Fund Transfer at DIO', 'IV20000616/631/632', 'SAMONYU SDN BHD']",50516.57,Credit,46296.79,False,False
+52,20/05,['Cheque Processing Fee'],1.5,Debit,46295.29,False,False
+53,20/05,"['007465', 'Inclearing-Cheque']",456.0,Debit,45839.29,False,False
+54,20/05,"['008633', 'Inclearing-Cheque']",996.0,Debit,44843.29,False,False
+55,20/05,"['008637', 'House Cheque Debit (RPC)']",480.0,Debit,44363.29,False,False
+56,20/05,"['Instant Transfer at KLM', 'Partial Payment', 'TIMELESS KITCHENETTE SDN', '20200520PBBEMYKL010ORB02112473']",6000.0,Credit,50363.29,False,False
+57,21/05,['Cheque Processing Fee'],1.5,Debit,50361.79,False,False
+58,21/05,"['CIB Instant Transfer at DIO', 'INV1002-05-2020', 'AMM', 'SNIMAC MEDIA (M) SDN. BH', '20200521HLBBMYKL010OCB31948536']",12708.0,Debit,37653.79,False,False
+59,21/05,"['007491', 'Inclearing-Cheque']",28080.0,Debit,9573.79,False,False
+60,21/05,"['Instant Transfer at KLM', 'inv 1901226', 'salmon GA SB', 'PAUL JOSEPH JAMES', '20200521MFBBMYKL010ORB26571388']",25.76,Credit,9599.55,False,False
+61,21/05,"['Instant Transfer at KLM', 'inv 1901226', 'Gorgeous Ambition', 'PAUL JOSEPH JAMES', '20200521MFBBMYKL010ORB26572383']",253.76,Credit,9853.31,False,False
+62,21/05,"['Instant Transfer at KLM', 'IV 0507 0517 0545', 'Gorgeous Ambition', 'PAUL JOSEPH JAMES', '20200521MFBBMYKL010ORB26573237']",1209.3,Credit,11062.61,False,False
+63,21/05,"['Instant Transfer at KLM', 'SANZARU F&B SDN BHD', '20200521PBBEMYKL010OCB15497745']",870.0,Credit,11932.61,False,False
+64,21/05,"['Cr Adv-Interbank GIRO at KLM', 'M2020052109313449888', 'AXIATA DIGITAL ECODE SDN. BHD.']",480.1,Credit,12412.71,False,False
+65,22/05,['Cheque Processing Fee'],0.5,Debit,12412.21,False,False
+66,22/05,"['Cr Adv-Interbank GIRO at KLM', 'M2020052209482268963', 'AXIATA DIGITAL ECODE SDN. BHD.']",404.0,Credit,12816.21,False,False
+67,22/05,"['030483', 'Local Cheque (RPC) at MVL']",34550.42,Credit,47366.63,False,False
+68,23/05,"['Fund Trf fr CA to CA-Internet', 'Fund transfer', 'PEI CHEN UNAGI', 'YIO GEE WEI']",690.9,Credit,48057.53,False,False
+69,23/05,"['Fund Trf fr CA to CA-Internet', 'Fund transfer', 'HOOI WEAN YEE']",240.0,Credit,48297.53,False,False
+70,23/05,"['Fund Trf fr CA to CA-Internet', 'Fund transfer', 'ANDY LEE', 'LEE KANG LING']",248.0,Credit,48545.53,False,False
+71,26/05,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY SDN BHD', 'PBB CREDIT CARD MERCHANT', 'PBB-PBCS AC 4', '20200526HLBBMYKL010OCB34952938']",1100.0,Debit,47445.53,False,False
+72,26/05,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY', 'INV 5168', 'STAR EXCELLENT TRADING', '20200526HLBBMYKL010OCB34952970']",100.0,Debit,47345.53,False,False
+73,26/05,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY', 'CHEF RAYMOND', 'MR CHUNG CHEE KHUEN / & MISS YAEKO SASAKI (EXT JP)', '20200526HLBBMYKL010OCB34953004']",317.0,Debit,47028.53,False,False
+74,27/05,"['008641', 'House Cheque Debit (RPC)']",5186.13,Debit,41842.4,False,False
+75,27/05,"['Cr Adv-Interbank GIRO at KLM', 'M2020052710222092664', 'AXIATA DIGITAL ECODE SDN. BHD.']",260.1,Credit,42102.5,False,False
+76,27/05,"['Cr Adv-Interbank GIRO at KLM', 'M2020052710210718752', 'AXIATA DIGITAL ECODE SDN. BHD.']",154.3,Credit,42256.8,False,False
+77,27/05,"['Cr Adv-Interbank GIRO at KLM', 'M2020052710093114142', 'AXIATA DIGITAL ECODE SDN. BHD.']",190.2,Credit,42447.0,False,False
+78,27/05,"['Cr Adv-Interbank GIRO at KLM', 'M2020052710194060762', 'AXIATA DIGITAL ECODE SDN. BHD.']",313.9,Credit,42760.9,False,False
+79,28/05,['Cheque Processing Fee'],0.5,Debit,42760.4,False,False
+80,28/05,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY', 'TANG WAI SENG', 'TANG WAI SENG', '20200528HLBBMYKL010OCB35980457']",15000.0,Debit,27760.4,False,False
+81,28/05,"['CIB Instant Transfer at DIO', 'MBR 2020', 'MALAYSIA BOOK OF RECORDS SDN BHD', '20200528HLBBMYKL010OCB35980484']",9600.0,Debit,18160.4,False,False
+82,28/05,['CDM Deposit at STT'],2500.0,Credit,20660.4,False,False
+83,28/05,"['Fund Trf fr SA to CA-Internet', 'Fund transfer', 'TAN TOH YEN']",1250.0,Credit,21910.4,False,False
+84,28/05,"['Cr Adv-Interbank GIRO at KLM', 'M2020052809492507234', 'AXIATA DIGITAL ECODE SDN. BHD.']",311.6,Credit,22222.0,False,False
+85,29/05,"['CIB Instant Transfer at DIO', 'SALARY MAY 2019', 'TAN JIA YIN SALARY MAY 2019', 'TAN JIA YIN', '20200529HLBBMYKL010OCB36677519']",2800.0,Debit,19422.0,False,False
+86,29/05,"['008644', 'Inclearing-Cheque']",475.0,Debit,18947.0,False,False
+87,29/05,"['008645', 'Inclearing-Cheque']",1300.0,Debit,17647.0,False,False
+88,29/05,"['Instant Transfer at KLM', 'SUPPLIER', ""MAY'20 INVOICE"", 'DELI STATION SDN BHD', '20200529PBBEMYKL010ORB14169470']",980.0,Credit,18627.0,False,False
+89,29/05,"['Cr Adv-Interbank GIRO at KLM', 'IG200527584005', 'Outward ACH from FIS', 'FISH & CO. RESTAURANTS (M) SDN BHD']",14385.0,Credit,33012.0,False,False
+90,29/05,"['Cr Adv-Interbank GIRO at KLM', 'M2020052907424451003', 'AXIATA DIGITAL ECODE SDN. BHD.']",311.3,Credit,33323.3,False,False
+91,30/05,['Cheque Processing Fee'],1.0,Debit,33322.3,False,False
+92,31/05,"['Loan Payment', 'TBT 8898', 'TBT8898', 'LEE SEN KIAT ENTERPRISE']",4536.0,Debit,28786.3,False,False
+93,31/05,"['CIB Instant Transfer at DIO', 'G DAILY SUPPLY SDN BHD', 'CHATNBLAST AGENCY', 'CHATNBLAST AGENCY', '20200531HLBBMYKL010OCB38435873']",600.0,Debit,28186.3,False,False
+94,31/05,"['Instant Transfer at KLM', 'fuji sushi', 'payment', 'GOH KEE YANG', '20200531MBBEMYKL010ORM02172443']",2850.0,Credit,31036.3,False,False
+95,31/05,"['Instant Transfer at KLM', 'Cash', 'TAN KAI YEE', '20200531MFBBMYKL010ORM27473974']",300.0,Credit,31336.3,False,False
+96,,['Total Withdrawals'],,,224628.29,False,False
+97,,['Total Deposits'],,,237601.33,False,False
+98,,['Closing Balance'],,,31336.3,False,False
